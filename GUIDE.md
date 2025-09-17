@@ -1,35 +1,26 @@
-# RBQ Exams – GitHub Desktop Guide (Realistic Practice)
+# RBQ Exams — Bilingual (EN/FR) Guide
 
 **Updated:** 2025-09-17
 
-This package includes **10 exams × 50 questions** with Québec‑specific administration context (RBQ, CCQ, CNESST, AMP, BSDQ, taxes, bonds, holdbacks, etc.).
-It’s a static site (HTML/CSS/JS/JSON).
+This bundle includes **English and French** interfaces and **10 exams × 50 questions** for each language.
 
-## Deploy with GitHub Desktop
+## Language Toggle
+- On the home page, click **EN** or **FR** (top right), or add `?lang=en` or `?lang=fr` to the URL.
+- Exam pages carry `lang` in the query string, e.g. `exam.html?exam=3&lang=fr`.
 
-1. Install GitHub Desktop → https://desktop.github.com/
-2. Create a public repo `rbq-exams` on GitHub.
-3. Clone it in GitHub Desktop.
-4. Copy these files into the local repo (make sure `index.html` is at the root and `questions/` folder stays intact).
-5. Commit → Push.
-6. On GitHub: **Settings → Pages** → Deploy from a branch → Branch: `main`, Folder: `/ (root)` → Save.
-7. Open `https://YOUR-USERNAME.github.io/rbq-exams/`
+## Files
+- English exams: `questions/exam1.json` … `questions/exam10.json`
+- French exams: `questions_fr/exam1.json` … `questions_fr/exam10.json`
+- UI: `index.html`, `exam.html`, `style.css`, `script.js`
 
-## Edit Questions
-
-- Files: `questions/exam1.json` … `exam10.json`
-- Format:
-```json
-{
-  "question": "Text",
-  "choices": ["A","B","C","D"],
-  "answer": 0
-}
-```
-- Duration is set to **120 minutes** in `script.js`. Change it if needed.
+## Deploy (GitHub Desktop)
+1. Create/clone your repo (e.g., `rbq-exams`).
+2. Copy ALL files/folders from this zip into the repo.
+3. Commit + Push.
+4. Enable **Pages** (Settings → Pages → Deploy from branch → `main` → `/(root)`).
+5. Home page: `https://YOUR-USERNAME.github.io/rbq-exams/?lang=en` or `?lang=fr`.
 
 ## Notes
-
-- These are **practice** items, not official RBQ questions.
-- Keyboard: ← previous, → next.
-- Auto‑save every 5s and on page unload. Review mode after submit.
+- Timer defaults to **120 minutes** per exam.
+- Autosave per language/exam (`localStorage` keys include the language).
+- These are **practice** items, not official RBQ content.

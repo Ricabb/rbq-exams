@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Quelle méthode d’approvisionnement privilégie les qualifications plutôt que le prix ? (conformité)",
+    "choices": [
+      "Sélection fondée sur les qualifications (QBS)",
+      "Plus bas soumissionnaire conforme",
+      "Pile ou face",
+      "Enchère inversée"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Quel document crée légalement une société par actions au Québec ? (conformité)",
+    "choices": [
+      "Un mandat bancaire",
+      "Un contrat de travail",
+      "Une résolution d’actionnaires",
+      "Les statuts de constitution"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Quel registre suit la propriété des actions ? (conformité)",
+    "choices": [
+      "Registre des accidents",
+      "Registre des valeurs mobilières (actions)",
+      "Registre des RFI",
+      "Registre des immobilisations"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Une marge de manœuvre (float) dans un échéancier : (conformité)",
+    "choices": [
+      "Vaut toujours zéro",
+      "Fournit un tampon pour les incertitudes",
+      "Remplace la référence de base",
+      "Est illégale"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Quel est le rôle principal de la RBQ (Régie du bâtiment du Québec) ? (conformité)",
+    "choices": [
+      "Fixer les taux d’impôt sur le revenu",
+      "Réglementer la construction, la sécurité des bâtiments et certaines qualifications professionnelles",
+      "Gérer les contrats d’autoroutes",
+      "Délivrer les permis municipaux"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Un mode opératoire / procédure de travail sert à : (conformité)",
+    "choices": [
+      "Percevoir des taxes",
+      "Fixer les prix de soumission",
+      "Remplacer la protection contre les chutes",
+      "Définir l’exécution pas à pas et les contrôles qualité/sécurité"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? La responsabilité civile des entreprises (RCE / CGL) couvre : (conformité)",
+    "choices": [
+      "Les dommages corporels ou matériels subis par des tiers",
+      "Uniquement le vol d’outils",
+      "Uniquement les erreurs de conception",
+      "Uniquement les salaires"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Un ordre de changement est : (conformité)",
+    "choices": [
+      "Une modification formelle du scope, du prix et/ou du délai acceptée par les parties",
+      "Un avis d’infraction de sécurité",
+      "Une directive informelle sans impact coût/échéancier",
+      "Un addenda"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quelle méthode d’approvisionnement privilégie les qualifications plutôt que le prix ?",
+    "choices": [
+      "Plus bas soumissionnaire conforme",
+      "Sélection fondée sur les qualifications (QBS)",
+      "Enchère inversée",
+      "Pile ou face"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Une RFI (demande d’information) sert à :",
+    "choices": [
+      "Remplacer les dessins d’atelier",
+      "Éclaircir des écarts ou demander de l’information manquante au concepteur/maître",
+      "Approuver automatiquement les demandes de paiement",
+      "Modifier directement le prix du contrat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : L’hypothèque légale de la construction protège surtout : (conformité)",
+    "choices": [
+      "Le droit d’auteur des concepteurs",
+      "Les personnes ayant fourni des travaux ou matériaux et qui ne sont pas payées",
+      "Seulement les propriétaires",
+      "Seulement les banques"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Quel registre suit la propriété des actions ? (conformité)",
+    "choices": [
+      "Registre des immobilisations",
+      "Registre des accidents",
+      "Registre des valeurs mobilières (actions)",
+      "Registre des RFI"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Une RFI (demande d’information) sert à : (conformité)",
+    "choices": [
+      "Remplacer les dessins d’atelier",
+      "Approuver automatiquement les demandes de paiement",
+      "Éclaircir des écarts ou demander de l’information manquante au concepteur/maître",
+      "Modifier directement le prix du contrat"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Les petits outils consommables devraient être codés :",
+    "choices": [
+      "En matériaux directs",
+      "En frais généraux/indirects",
+      "En revenus",
+      "En comptes clients"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En approvisionnement public, un addenda :",
+    "choices": [
+      "Est une note interne de l’entrepreneur",
+      "Modifie les documents d’appel d’offres et est contraignant s’il est émis avant la clôture",
+      "Est un ordre de changement après l’adjudication",
+      "Annule automatiquement l’appel d’offres"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Lors d’un accident grave, la priorité attendue par la CNESST est : (conformité)",
+    "choices": [
+      "Publier sur les réseaux sociaux",
+      "Détruire les documents",
+      "Continuer le travail pour respecter l’échéancier",
+      "Sécuriser les lieux, porter assistance et aviser les services d’urgence"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Un cautionnement d’exécution protège surtout : (conformité)",
+    "choices": [
+      "Le profit de l’entrepreneur",
+      "La banque contre les taux d’intérêt",
+      "Le donneur d’ouvrage contre un défaut d’exécution de l’entrepreneur",
+      "L’inventaire du fournisseur"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? La TPS et la TVQ sur une facture de construction au Québec sont respectivement : (conformité)",
+    "choices": [
+      "15 % TVH combinée",
+      "Aucune taxe",
+      "10 % et 5 %",
+      "5 % et 9,975 %"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : La responsabilité civile des entreprises (RCE / CGL) couvre : (conformité)",
+    "choices": [
+      "Uniquement les erreurs de conception",
+      "Uniquement le vol d’outils",
+      "Uniquement les salaires",
+      "Les dommages corporels ou matériels subis par des tiers"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : L’objectif principal d’un plan d’assurance qualité est de : (conformité)",
+    "choices": [
+      "Remplacer le contrat",
+      "Augmenter les taxes",
+      "Décrire les contrôles pour satisfaire les exigences",
+      "Réduire la documentation à néant"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Un cautionnement de paiement de la main‑d’œuvre et des matériaux protège : (conformité)",
+    "choices": [
+      "Le gouvernement contre la perte fiscale",
+      "L’équipement de l’entrepreneur",
+      "Le donneur d’ouvrage contre les erreurs de conception",
+      "Les sous‑traitants et fournisseurs pour les montants impayés"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? La CCQ s’occupe principalement de : (conformité)",
+    "choices": [
+      "L’inspection sanitaire des restaurants",
+      "La délivrance des permis de bâtir",
+      "La perception des taxes municipales",
+      "L’administration des conventions collectives et des relations de travail en construction"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : La résistance en compression du béton est vérifiée par : (conformité)",
+    "choices": [
+      "Une inspection visuelle",
+      "Une clé dynamométrique",
+      "La rupture d’éprouvettes en laboratoire aux âges prescrits",
+      "Seulement l’essai d’affaissement (slump)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Une RFI (demande d’information) sert à : (conformité)",
+    "choices": [
+      "Remplacer les dessins d’atelier",
+      "Éclaircir des écarts ou demander de l’information manquante au concepteur/maître",
+      "Modifier directement le prix du contrat",
+      "Approuver automatiquement les demandes de paiement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Sur une licence RBQ, le « garant » est responsable de : (conformité)",
+    "choices": [
+      "Réaliser les audits financiers de la province",
+      "Démontrer les compétences requises de l’entreprise et veiller à la conformité",
+      "Inspecter les édifices publics",
+      "Donner des contraventions de sécurité aux travailleurs"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Lors d’un accident grave, la priorité attendue par la CNESST est : (conformité)",
+    "choices": [
+      "Sécuriser les lieux, porter assistance et aviser les services d’urgence",
+      "Continuer le travail pour respecter l’échéancier",
+      "Détruire les documents",
+      "Publier sur les réseaux sociaux"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Une instruction de chantier (SI) : (conformité)",
+    "choices": [
+      "Donne une directive mineure; les impacts coûts/délais exigent un ordre de changement si applicable",
+      "Remplace le contrat",
+      "Constitue un billet de sécurité",
+      "Modifie automatiquement le prix du contrat"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? La CCQ s’occupe principalement de : (conformité)",
+    "choices": [
+      "L’inspection sanitaire des restaurants",
+      "L’administration des conventions collectives et des relations de travail en construction",
+      "La délivrance des permis de bâtir",
+      "La perception des taxes municipales"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Les mises à jour de l’échéancier de référence (baseline) devraient se faire : (conformité)",
+    "choices": [
+      "Quotidiennement sans suivi",
+      "Seulement à la fin du projet",
+      "Uniquement via le contrôle formel des changements",
+      "Jamais"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Un exemple clair de conflit d’intérêts est : (conformité)",
+    "choices": [
+      "Tenir des ouvertures publiques de soumissions",
+      "Octroyer un sous‑contrat à un proche sans divulgation",
+      "Divulguer ses liens et se retirer des décisions",
+      "Suivre des critères écrits d’évaluation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Un CTI (crédit de taxe sur les intrants) permet de : (conformité)",
+    "choices": [
+      "Récupérer la TPS/TVQ admissible payée sur les intrants d’affaires",
+      "Rembourser les impôts personnels des employés",
+      "Augmenter les taxes perçues",
+      "Éviter l’impôt des sociétés"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Le BSDQ sert à : (conformité)",
+    "choices": [
+      "Gérer les réclamations CSST",
+      "Normaliser le dépôt de certaines soumissions de métiers aux entrepreneurs généraux",
+      "Délivrer les licences RBQ",
+      "Fixer les taxes municipales"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Un livre de minutes contient principalement : (conformité)",
+    "choices": [
+      "Des journaux de chantier quotidiens",
+      "Des résolutions, des registres d’administrateurs/actionnaires et les règlements",
+      "Des fiches de données de sécurité",
+      "Uniquement des factures"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "L’hypothèque légale de la construction protège surtout :",
+    "choices": [
+      "Le droit d’auteur des concepteurs",
+      "Les personnes ayant fourni des travaux ou matériaux et qui ne sont pas payées",
+      "Seulement les banques",
+      "Seulement les propriétaires"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? L’Autorité des marchés publics (AMP) au Québec : (conformité)",
+    "choices": [
+      "Fixe les taux hypothécaires",
+      "Émet les cartes de compétence RBQ",
+      "Surveille les contrats publics pour assurer l’intégrité et la conformité",
+      "Gère l’arbitrage privé"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : L’hypothèque légale de la construction protège surtout : (conformité)",
+    "choices": [
+      "Les personnes ayant fourni des travaux ou matériaux et qui ne sont pas payées",
+      "Seulement les propriétaires",
+      "Seulement les banques",
+      "Le droit d’auteur des concepteurs"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Un cautionnement de paiement de la main‑d’œuvre et des matériaux protège :",
+    "choices": [
+      "Le donneur d’ouvrage contre les erreurs de conception",
+      "Les sous‑traitants et fournisseurs pour les montants impayés",
+      "Le gouvernement contre la perte fiscale",
+      "L’équipement de l’entrepreneur"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Quel registre suit la propriété des actions ? (conformité)",
+    "choices": [
+      "Registre des RFI",
+      "Registre des immobilisations",
+      "Registre des valeurs mobilières (actions)",
+      "Registre des accidents"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? La TPS et la TVQ sur une facture de construction au Québec sont respectivement : (conformité)",
+    "choices": [
+      "Aucune taxe",
+      "5 % et 9,975 %",
+      "15 % TVH combinée",
+      "10 % et 5 %"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : La CCQ s’occupe principalement de : (conformité)",
+    "choices": [
+      "La perception des taxes municipales",
+      "L’inspection sanitaire des restaurants",
+      "L’administration des conventions collectives et des relations de travail en construction",
+      "La délivrance des permis de bâtir"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Les procédures de cadenassage servent à : (conformité)",
+    "choices": [
+      "Décorer les machines",
+      "Remplacer les EPI",
+      "Empêcher le démarrage des équipements pendant l’entretien",
+      "Accélérer la production"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Un cautionnement d’exécution protège surtout : (conformité)",
+    "choices": [
+      "Le profit de l’entrepreneur",
+      "Le donneur d’ouvrage contre un défaut d’exécution de l’entrepreneur",
+      "L’inventaire du fournisseur",
+      "La banque contre les taux d’intérêt"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Un cautionnement de paiement de la main‑d’œuvre et des matériaux protège : (conformité)",
+    "choices": [
+      "Le donneur d’ouvrage contre les erreurs de conception",
+      "Le gouvernement contre la perte fiscale",
+      "Les sous‑traitants et fournisseurs pour les montants impayés",
+      "L’équipement de l’entrepreneur"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Un exemple clair de conflit d’intérêts est : (conformité)",
+    "choices": [
+      "Suivre des critères écrits d’évaluation",
+      "Octroyer un sous‑contrat à un proche sans divulgation",
+      "Tenir des ouvertures publiques de soumissions",
+      "Divulguer ses liens et se retirer des décisions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quand les plans et devis sont en conflit (et aucune priorité n’est indiquée), on consulte généralement :",
+    "choices": [
+      "Les dessins d’atelier",
+      "Les devis qui priment habituellement",
+      "Des instructions verbales",
+      "Des factures"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Un CTI (crédit de taxe sur les intrants) permet de : (conformité)",
+    "choices": [
+      "Rembourser les impôts personnels des employés",
+      "Récupérer la TPS/TVQ admissible payée sur les intrants d’affaires",
+      "Éviter l’impôt des sociétés",
+      "Augmenter les taxes perçues"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Si le garant quitte l’entreprise, l’entrepreneur doit : (conformité)",
+    "choices": [
+      "Ne rien faire",
+      "Rendre la licence définitivement",
+      "Avertir uniquement la municipalité",
+      "Remplacer le garant dans le délai prescrit par la RBQ pour maintenir la licence"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Le BSDQ sert à : (conformité)",
+    "choices": [
+      "Normaliser le dépôt de certaines soumissions de métiers aux entrepreneurs généraux",
+      "Délivrer les licences RBQ",
+      "Fixer les taxes municipales",
+      "Gérer les réclamations CSST"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? La valeur acquise compare : (conformité)",
+    "choices": [
+      "Uniquement les factures aux paiements",
+      "La valeur planifiée, la valeur acquise et le coût réel pour évaluer la performance",
+      "Les DP aux dessins d’atelier",
+      "La conception aux RFI"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : La résistance en compression du béton est vérifiée par : (conformité)",
+    "choices": [
+      "La rupture d’éprouvettes en laboratoire aux âges prescrits",
+      "Seulement l’essai d’affaissement (slump)",
+      "Une inspection visuelle",
+      "Une clé dynamométrique"
+    ],
+    "answer": 0
+  }
+]

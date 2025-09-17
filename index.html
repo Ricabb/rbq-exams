@@ -7,17 +7,34 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>RBQ Administration Module</h1>
-  <h2>Select an Exam</h2>
+  <div class="topbar">
+    <div class="lang-toggle">
+      <a href="?lang=en" id="langEN">EN</a>
+      <a href="?lang=fr" id="langFR">FR</a>
+    </div>
+  </div>
+  <h1 id="title">RBQ Administration Module</h1>
+  <h2 id="subtitle">Select an Exam</h2>
   <div class="exam-list" id="examList"></div>
   <script>
-    const list = document.getElementById('examList');
-    for (let i=1;i<=10;i++){
+    const params=new URLSearchParams(location.search);
+    const lang=params.get('lang')||'en';
+    document.documentElement.lang=lang;
+    const t={
+      en:{title:'RBQ Administration Module',subtitle:'Select an Exam',label:'Exam',back:'← All Exams'},
+      fr:{title:'Module Administration RBQ',subtitle:'Choisissez un examen',label:'Examen',back:'← Tous les examens'}
+    }[lang];
+    document.getElementById('title').textContent=t.title;
+    document.getElementById('subtitle').textContent=t.subtitle;
+    const list=document.getElementById('examList');
+    for(let i=1;i<=10;i++){
       const a=document.createElement('a');
-      a.href = `exam.html?exam=${i}`;
-      a.textContent = `Exam ${i}`;
+      a.href=`exam.html?exam=${i}&lang=${lang}`;
+      a.textContent=`${t.label} ${i}`;
       list.appendChild(a);
     }
+    document.getElementById('langEN').classList.toggle('active',lang==='en');
+    document.getElementById('langFR').classList.toggle('active',lang==='fr');
   </script>
 </body>
 </html>

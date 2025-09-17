@@ -1,502 +1,502 @@
 [
   {
-    "question": "What is the BEST description? An input tax credit (ITC) allows a registrant to: (public contract)",
+    "question": "A method statement / work procedure helps by:",
     "choices": [
-      "Refund employees’ personal taxes",
-      "Avoid corporate taxes",
-      "Increase sales tax collected",
-      "Recover eligible GST/QST paid on business inputs"
+      "Defining step-by-step execution and controls for quality and safety",
+      "Replacing fall protection",
+      "Setting bid prices",
+      "Collecting taxes"
     ],
-    "answer": 3
+    "answer": 0
   },
   {
-    "question": "Which statement is MOST accurate? A site instruction (SI) typically: (admin context)",
+    "question": "Select the TRUE statement: A clear conflict of interest example is: (compliance)",
     "choices": [
-      "Is a safety ticket",
-      "Modifies contract price automatically",
-      "Replaces the contract",
-      "Gives minor direction; cost/time impacts require change order if applicable"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Select the TRUE statement: Concrete compressive strength is verified by: (compliance)",
-    "choices": [
-      "Slump test only",
-      "Torque wrench",
-      "Laboratory cylinder break tests at specified ages",
-      "Visual inspection"
+      "Following written evaluation criteria",
+      "Disclosing ties and recusing from decisions",
+      "Awarding a subcontract to a relative without disclosure",
+      "Holding public bid openings"
     ],
     "answer": 2
   },
   {
-    "question": "Corporate directors in Québec have a duty to:",
+    "question": "In public contracting, which is correct? Builder’s Risk (course of construction) insurance mainly covers: (compliance)",
     "choices": [
-      "Ignore financial statements",
-      "Act with diligence and oversee the corporation’s affairs",
-      "Report only to employees",
-      "Set municipal bylaws"
+      "Damage to the work under construction",
+      "Professional liability",
+      "Vehicle collisions",
+      "Worker injuries"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which statement is MOST accurate? In Québec construction, the statutory holdback (retenue) is typically: (compliance)",
+    "choices": [
+      "10% of the value of the work until lien period expiry",
+      "15% for materials only",
+      "No holdback exists",
+      "1% until final payment"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which option applies in Québec practice? Which procurement method focuses more on qualifications than price? (compliance)",
+    "choices": [
+      "Qualifications‑Based Selection (QBS)",
+      "Lowest compliant bid",
+      "Reverse auction",
+      "Coin toss"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In typical administration, choose the best answer: If the guarantor leaves the company, the contractor must: (compliance)",
+    "choices": [
+      "Do nothing",
+      "Notify the municipality only",
+      "Replace the guarantor within RBQ’s prescribed delay to maintain the licence",
+      "Return the licence permanently"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In public contracting, which is correct? Shop drawings are primarily: (compliance)",
+    "choices": [
+      "Contract documents",
+      "Legal filings with AMP",
+      "Contractor/submittal documents showing how work will be fabricated/installed",
+      "Owner’s financing documents"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In public contracting, which is correct? The critical path in a schedule is: (compliance)",
+    "choices": [
+      "A budget contingency",
+      "The shortest path",
+      "The longest path of dependent tasks determining project duration",
+      "A path with no float because it is ignored"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In typical administration, choose the best answer: A minute book primarily contains: (compliance)",
+    "choices": [
+      "Invoices only",
+      "Safety Data Sheets",
+      "Daily site diaries",
+      "Corporate resolutions, director/shareholder records, and by-laws"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which option applies in Québec practice? Baseline schedule updates should occur: (compliance)",
+    "choices": [
+      "Never",
+      "Daily without record",
+      "Only through formal change control",
+      "Only at project end"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which statement is MOST accurate? The CNESST’s first expectation when a serious accident occurs is to: (compliance)",
+    "choices": [
+      "Secure the site, assist the injured, and notify emergency services",
+      "Post on social media",
+      "Destroy documents",
+      "Continue work to meet schedule"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In public contracting, which is correct? Submitting a bid after the stated deadline is generally: (compliance)",
+    "choices": [
+      "Compliant if emailed",
+      "Non-compliant and rejected",
+      "Accepted with penalty",
+      "Converted to a change directive"
     ],
     "answer": 1
   },
   {
-    "question": "What is the BEST description? To preserve lien rights, a subcontractor should generally: (private contract)",
+    "question": "In typical administration, choose the best answer: Professional liability (errors & omissions) insurance is most relevant to: (compliance)",
     "choices": [
+      "Fuel surcharges",
+      "Design services that could cause economic loss",
+      "Union dues",
+      "PPE purchases"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In public contracting, which is correct? An RFI (request for information) serves to: (compliance)",
+    "choices": [
+      "Approve progress claims automatically",
+      "Clarify discrepancies or request missing information from the designer/owner",
+      "Replace shop drawings",
+      "Modify contract price directly"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Select the TRUE statement: Which procurement method focuses more on qualifications than price? (compliance)",
+    "choices": [
+      "Reverse auction",
+      "Coin toss",
+      "Lowest compliant bid",
+      "Qualifications‑Based Selection (QBS)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In typical administration, choose the best answer: In Québec construction, the statutory holdback (retenue) is typically: (compliance)",
+    "choices": [
+      "15% for materials only",
+      "1% until final payment",
+      "10% of the value of the work until lien period expiry",
+      "No holdback exists"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which statement is MOST accurate? An RFI (request for information) serves to: (compliance)",
+    "choices": [
+      "Clarify discrepancies or request missing information from the designer/owner",
+      "Replace shop drawings",
+      "Approve progress claims automatically",
+      "Modify contract price directly"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In public contracting, which is correct? O&M manuals are typically delivered: (compliance)",
+    "choices": [
+      "At substantial completion or project closeout",
+      "After warranty expiry",
+      "With the bid bond",
+      "At tender closing"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which statement is MOST accurate? A bid bond is intended to: (compliance)",
+    "choices": [
+      "Pay subcontractors directly",
+      "Replace the performance bond",
+      "Guarantee the contractor will sign the contract if awarded",
+      "Guarantee the quality of materials"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In typical administration, choose the best answer: To preserve lien rights, a subcontractor should generally: (compliance)",
+    "choices": [
+      "Ignore deadlines",
       "Ask the RBQ to pay",
       "Send an invoice only",
-      "Ignore deadlines",
       "Comply with prescribed notices and delays in the Civil Code of Québec"
     ],
     "answer": 3
   },
   {
-    "question": "In typical Quebec construction administration, which is correct? Who can refuse dangerous work in Québec? (compliance)",
+    "question": "Select the TRUE statement: To preserve lien rights, a subcontractor should generally: (compliance)",
     "choices": [
-      "Only supervisors",
-      "Only union members",
-      "Any worker with reasonable grounds to believe danger exists",
-      "No one"
+      "Ask the RBQ to pay",
+      "Ignore deadlines",
+      "Send an invoice only",
+      "Comply with prescribed notices and delays in the Civil Code of Québec"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In public contracting, which is correct? In Québec construction, the statutory holdback (retenue) is typically: (compliance)",
+    "choices": [
+      "15% for materials only",
+      "1% until final payment",
+      "10% of the value of the work until lien period expiry",
+      "No holdback exists"
     ],
     "answer": 2
   },
   {
-    "question": "Select the TRUE statement: An environmental aspect (ISO 14001) is: (public contract)",
+    "question": "Which option applies in Québec practice? Which document legally creates a corporation in Québec? (compliance)",
     "choices": [
-      "A lawsuit",
-      "An element of activities that can interact with the environment",
-      "A shop drawing",
-      "A payroll record"
+      "Shareholder resolution",
+      "Articles of incorporation",
+      "Bank mandate",
+      "Employment contract"
     ],
     "answer": 1
   },
   {
-    "question": "In typical Quebec construction administration, which is correct? A performance bond mainly protects: (admin context)",
+    "question": "In public contracting, which is correct? In public procurement, an addendum: (compliance)",
     "choices": [
-      "The owner against contractor default during contract performance",
-      "The bank against interest rate changes",
-      "The contractor’s profit",
-      "The supplier’s inventory"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What is the BEST description? An environmental aspect (ISO 14001) is: (private contract)",
-    "choices": [
-      "A lawsuit",
-      "A shop drawing",
-      "An element of activities that can interact with the environment",
-      "A payroll record"
+      "Is a contractor’s internal memo",
+      "Is a change order after contract award",
+      "Modifies the tender documents and is binding if issued before closing",
+      "Cancels the tender automatically"
     ],
     "answer": 2
   },
   {
-    "question": "Which option applies in Québec practice? Shop drawings are primarily: (admin context)",
+    "question": "Select the TRUE statement: Commercial General Liability (CGL) insurance covers: (compliance)",
     "choices": [
-      "Contract documents",
-      "Contractor/submittal documents showing how work will be fabricated/installed",
-      "Owner’s financing documents",
-      "Legal filings with AMP"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Select the TRUE statement: An input tax credit (ITC) allows a registrant to: (private contract)",
-    "choices": [
-      "Recover eligible GST/QST paid on business inputs",
-      "Refund employees’ personal taxes",
-      "Increase sales tax collected",
-      "Avoid corporate taxes"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which option applies in Québec practice? Submitting a bid after the stated deadline is generally: (private contract)",
-    "choices": [
-      "Non-compliant and rejected",
-      "Compliant if emailed",
-      "Converted to a change directive",
-      "Accepted with penalty"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which statement is MOST accurate? An environmental aspect (ISO 14001) is: (admin context)",
-    "choices": [
-      "A lawsuit",
-      "A shop drawing",
-      "An element of activities that can interact with the environment",
-      "A payroll record"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What is the BEST description? Commercial General Liability (CGL) insurance covers: (admin context)",
-    "choices": [
-      "Only employee wages",
       "Third-party bodily injury and property damage claims",
-      "Only design errors",
-      "Only tool theft"
+      "Only tool theft",
+      "Only employee wages",
+      "Only design errors"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
-    "question": "Select the TRUE statement: Who can refuse dangerous work in Québec? (public contract)",
+    "question": "Select the TRUE statement: The current ratio mainly measures: (compliance)",
     "choices": [
-      "No one",
-      "Any worker with reasonable grounds to believe danger exists",
-      "Only union members",
-      "Only supervisors"
+      "Warranty claim frequency",
+      "Worker productivity",
+      "Long-term profitability",
+      "Ability to meet short-term obligations"
     ],
-    "answer": 1
+    "answer": 3
   },
   {
-    "question": "Which statement is MOST accurate? A clear conflict of interest example is: (private contract)",
+    "question": "In public contracting, which is correct? The 'guarantor' on an RBQ licence is responsible for: (compliance)",
     "choices": [
-      "Holding public bid openings",
-      "Following written evaluation criteria",
-      "Awarding a subcontract to a relative without disclosure",
-      "Disclosing ties and recusing from decisions"
+      "Financial audits of the province",
+      "Issuing safety tickets to workers",
+      "Inspecting public buildings",
+      "Demonstrating the company’s required competencies and ensuring compliance"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The critical path in a schedule is:",
+    "choices": [
+      "The longest path of dependent tasks determining project duration",
+      "The shortest path",
+      "A path with no float because it is ignored",
+      "A budget contingency"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which option applies in Québec practice? Lockout/Tagout (cadenassage) procedures are used to: (compliance)",
+    "choices": [
+      "Prevent startup of machinery during maintenance",
+      "Decorate equipment",
+      "Replace PPE",
+      "Speed up production"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In public contracting, which is correct? A method statement / work procedure helps by: (compliance)",
+    "choices": [
+      "Setting bid prices",
+      "Replacing fall protection",
+      "Defining step-by-step execution and controls for quality and safety",
+      "Collecting taxes"
     ],
     "answer": 2
   },
   {
-    "question": "Select the TRUE statement: Who can refuse dangerous work in Québec? (public contract)",
+    "question": "In typical administration, choose the best answer: The 'guarantor' on an RBQ licence is responsible for: (compliance)",
     "choices": [
-      "Only union members",
-      "Any worker with reasonable grounds to believe danger exists",
-      "Only supervisors",
-      "No one"
+      "Financial audits of the province",
+      "Inspecting public buildings",
+      "Issuing safety tickets to workers",
+      "Demonstrating the company’s required competencies and ensuring compliance"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which option applies in Québec practice? Which document legally creates a corporation in Québec? (compliance)",
+    "choices": [
+      "Bank mandate",
+      "Shareholder resolution",
+      "Employment contract",
+      "Articles of incorporation"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which statement is MOST accurate? A bid bond is intended to: (compliance)",
+    "choices": [
+      "Guarantee the quality of materials",
+      "Guarantee the contractor will sign the contract if awarded",
+      "Replace the performance bond",
+      "Pay subcontractors directly"
     ],
     "answer": 1
   },
   {
-    "question": "The CCQ (Commission de la construction du Québec) primarily:",
-    "choices": [
-      "Administers collective agreements and labour relations in the construction industry",
-      "Issues building permits",
-      "Collects municipal taxes",
-      "Manages health inspections in restaurants"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What is the BEST description? A change directive (directive de changement) differs from a change order because: (private contract)",
-    "choices": [
-      "It cannot adjust schedule",
-      "It is unilateral to proceed before price agreement, subject to later valuation",
-      "It applies only to design-build contracts",
-      "It always reduces scope"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Small consumable tools are best coded to:",
-    "choices": [
-      "Direct materials",
-      "Overhead/indirect costs",
-      "Revenue",
-      "Accounts receivable"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "In typical Quebec construction administration, which is correct? Closeout documents often include: (compliance)",
-    "choices": [
-      "Only RFIs",
-      "Timesheets only",
-      "As-builts, O&M manuals, warranties, training records",
-      "Change orders only"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What is the BEST description? A site instruction (SI) typically: (private contract)",
-    "choices": [
-      "Gives minor direction; cost/time impacts require change order if applicable",
-      "Modifies contract price automatically",
-      "Replaces the contract",
-      "Is a safety ticket"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What is the BEST description? A performance bond mainly protects: (public contract)",
-    "choices": [
-      "The owner against contractor default during contract performance",
-      "The bank against interest rate changes",
-      "The supplier’s inventory",
-      "The contractor’s profit"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What is the BEST description? The CNESST’s first expectation when a serious accident occurs is to: (compliance)",
+    "question": "The CNESST’s first expectation when a serious accident occurs is to:",
     "choices": [
       "Continue work to meet schedule",
       "Secure the site, assist the injured, and notify emergency services",
-      "Destroy documents",
-      "Post on social media"
+      "Post on social media",
+      "Destroy documents"
     ],
     "answer": 1
   },
   {
-    "question": "Select the TRUE statement: GST and QST on construction invoices in Québec are respectively: (public contract)",
+    "question": "Which option applies in Québec practice? A minute book primarily contains: (compliance)",
     "choices": [
-      "No taxes apply",
-      "15% combined HST",
-      "5% and 9.975%",
-      "10% and 5%"
+      "Safety Data Sheets",
+      "Invoices only",
+      "Corporate resolutions, director/shareholder records, and by-laws",
+      "Daily site diaries"
     ],
     "answer": 2
   },
   {
-    "question": "What is the BEST description? The BSDQ (Bureau des soumissions déposées du Québec) is used to: (admin context)",
+    "question": "In typical administration, choose the best answer: Who can refuse dangerous work in Québec? (compliance)",
     "choices": [
-      "Issue RBQ licences",
-      "Standardize submission of certain trade bids to general contractors",
-      "Set municipal tax rates",
-      "Manage worker compensation claims"
+      "Only union members",
+      "Any worker with reasonable grounds to believe danger exists",
+      "Only supervisors",
+      "No one"
     ],
     "answer": 1
   },
   {
-    "question": "What is the BEST description? If the guarantor leaves the company, the contractor must: (admin context)",
+    "question": "In public contracting, which is correct? To preserve lien rights, a subcontractor should generally: (compliance)",
     "choices": [
-      "Notify the municipality only",
-      "Replace the guarantor within RBQ’s prescribed delay to maintain the licence",
-      "Do nothing",
-      "Return the licence permanently"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which statement is MOST accurate? In public procurement, an addendum: (admin context)",
-    "choices": [
-      "Is a contractor’s internal memo",
-      "Cancels the tender automatically",
-      "Is a change order after contract award",
-      "Modifies the tender documents and is binding if issued before closing"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Which option applies in Québec practice? Working at heights in Québec usually requires: (admin context)",
-    "choices": [
-      "Confined space ticket only",
-      "No training",
-      "Fall protection training and appropriate equipment",
-      "Forklift training only"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "In typical Quebec construction administration, which is correct? A quality assurance plan’s main purpose is to: (admin context)",
-    "choices": [
-      "Replace the contract",
-      "Cut documentation",
-      "Describe controls to ensure requirements are met",
-      "Increase taxes"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Which statement is MOST accurate? The BSDQ (Bureau des soumissions déposées du Québec) is used to: (compliance)",
-    "choices": [
-      "Manage worker compensation claims",
-      "Issue RBQ licences",
-      "Standardize submission of certain trade bids to general contractors",
-      "Set municipal tax rates"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "In typical Quebec construction administration, which is correct? Which procurement method focuses more on qualifications than price? (admin context)",
-    "choices": [
-      "Qualifications‑Based Selection (QBS)",
-      "Coin toss",
-      "Reverse auction",
-      "Lowest compliant bid"
+      "Comply with prescribed notices and delays in the Civil Code of Québec",
+      "Ignore deadlines",
+      "Send an invoice only",
+      "Ask the RBQ to pay"
     ],
     "answer": 0
   },
   {
-    "question": "Select the TRUE statement: Shop drawings are primarily: (public contract)",
+    "question": "Which option applies in Québec practice? An RFI (request for information) serves to: (compliance)",
     "choices": [
-      "Contractor/submittal documents showing how work will be fabricated/installed",
-      "Legal filings with AMP",
-      "Contract documents",
-      "Owner’s financing documents"
+      "Clarify discrepancies or request missing information from the designer/owner",
+      "Approve progress claims automatically",
+      "Modify contract price directly",
+      "Replace shop drawings"
     ],
     "answer": 0
   },
   {
-    "question": "In typical Quebec construction administration, which is correct? Operating in a licence subclass the contractor does not hold may lead to: (admin context)",
+    "question": "In typical administration, choose the best answer: Baseline schedule updates should occur: (compliance)",
     "choices": [
-      "Nothing specific",
-      "Possible fines, stop-work orders, or licence suspension",
-      "Tax credits",
-      "Awards and recognition"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is the BEST description? Builder’s Risk (course of construction) insurance mainly covers: (private contract)",
-    "choices": [
-      "Damage to the work under construction",
-      "Vehicle collisions",
-      "Worker injuries",
-      "Professional liability"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which option applies in Québec practice? A change directive (directive de changement) differs from a change order because: (admin context)",
-    "choices": [
-      "It cannot adjust schedule",
-      "It applies only to design-build contracts",
-      "It always reduces scope",
-      "It is unilateral to proceed before price agreement, subject to later valuation"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "In typical Quebec construction administration, which is correct? Progress billing should be supported by: (private contract)",
-    "choices": [
-      "Signed progress certificates or measured quantities per contract",
-      "Packing slips",
-      "Internal emails only",
-      "Tax returns"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which statement is MOST accurate? The BSDQ (Bureau des soumissions déposées du Québec) is used to: (public contract)",
-    "choices": [
-      "Issue RBQ licences",
-      "Set municipal tax rates",
-      "Manage worker compensation claims",
-      "Standardize submission of certain trade bids to general contractors"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What is the BEST description? Baseline schedule updates should occur: (admin context)",
-    "choices": [
-      "Only at project end",
       "Never",
       "Only through formal change control",
-      "Daily without record"
+      "Daily without record",
+      "Only at project end"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which option applies in Québec practice? O&M manuals are typically delivered: (compliance)",
+    "choices": [
+      "After warranty expiry",
+      "With the bid bond",
+      "At substantial completion or project closeout",
+      "At tender closing"
     ],
     "answer": 2
   },
   {
-    "question": "In typical Quebec construction administration, which is correct? An environmental aspect (ISO 14001) is: (compliance)",
+    "question": "Which option applies in Québec practice? Who can refuse dangerous work in Québec? (compliance)",
     "choices": [
-      "A lawsuit",
+      "Only supervisors",
+      "No one",
+      "Only union members",
+      "Any worker with reasonable grounds to believe danger exists"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In public contracting, which is correct? In public contracts, the principle that must guide procurement is: (compliance)",
+    "choices": [
+      "Secrecy",
+      "Fairness and transparency",
+      "Bid shopping as needed",
+      "Favouritism to local friends"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In typical administration, choose the best answer: An input tax credit (ITC) allows a registrant to: (compliance)",
+    "choices": [
+      "Avoid corporate taxes",
+      "Recover eligible GST/QST paid on business inputs",
+      "Increase sales tax collected",
+      "Refund employees’ personal taxes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which statement is MOST accurate? An environmental aspect (ISO 14001) is: (compliance)",
+    "choices": [
+      "An element of activities that can interact with the environment",
       "A payroll record",
       "A shop drawing",
-      "An element of activities that can interact with the environment"
+      "A lawsuit"
     ],
-    "answer": 3
+    "answer": 0
   },
   {
-    "question": "What is the BEST description? Which register tracks ownership of shares? (admin context)",
+    "question": "In public contracting, which is correct? In Québec construction, the statutory holdback (retenue) is typically: (compliance)",
     "choices": [
-      "Securities (share) register",
+      "10% of the value of the work until lien period expiry",
+      "15% for materials only",
+      "No holdback exists",
+      "1% until final payment"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which option applies in Québec practice? When drawings and specifications conflict (and no priority is stated), what is commonly consulted first? (compliance)",
+    "choices": [
+      "Specifications typically take precedence",
+      "Verbal instructions",
+      "Shop drawings",
+      "Invoices"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Select the TRUE statement: Which register tracks ownership of shares? (compliance)",
+    "choices": [
       "Accident register",
-      "RFI log",
-      "Asset register"
+      "Asset register",
+      "Securities (share) register",
+      "RFI log"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Select the TRUE statement: Baseline schedule updates should occur: (compliance)",
+    "choices": [
+      "Never",
+      "Only through formal change control",
+      "Daily without record",
+      "Only at project end"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In public contracting, which is correct? A clear conflict of interest example is: (compliance)",
+    "choices": [
+      "Awarding a subcontract to a relative without disclosure",
+      "Disclosing ties and recusing from decisions",
+      "Following written evaluation criteria",
+      "Holding public bid openings"
     ],
     "answer": 0
   },
   {
-    "question": "In typical Quebec construction administration, which is correct? Submitting a bid after the stated deadline is generally: (public contract)",
+    "question": "In public contracting, which is correct? A method statement / work procedure helps by: (compliance)",
     "choices": [
-      "Accepted with penalty",
-      "Converted to a change directive",
-      "Compliant if emailed",
-      "Non-compliant and rejected"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Which statement is MOST accurate? A contractor changes legal address. Who must notify the RBQ and within what typical delay? (private contract)",
-    "choices": [
-      "No need to notify",
-      "The RBQ within 90 days",
-      "The contractor must notify the RBQ promptly (typically within 30 days)",
-      "Only the municipality must notify"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Select the TRUE statement: In public contracts, the principle that must guide procurement is: (public contract)",
-    "choices": [
-      "Fairness and transparency",
-      "Favouritism to local friends",
-      "Secrecy",
-      "Bid shopping as needed"
+      "Defining step-by-step execution and controls for quality and safety",
+      "Collecting taxes",
+      "Setting bid prices",
+      "Replacing fall protection"
     ],
     "answer": 0
-  },
-  {
-    "question": "Which statement is MOST accurate? The legal construction hypothec (lien) primarily protects: (public contract)",
-    "choices": [
-      "Only banks",
-      "Only owners",
-      "Those who supplied work or materials and remain unpaid",
-      "Designers’ copyright"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Which option applies in Québec practice? If the guarantor leaves the company, the contractor must: (admin context)",
-    "choices": [
-      "Do nothing",
-      "Replace the guarantor within RBQ’s prescribed delay to maintain the licence",
-      "Notify the municipality only",
-      "Return the licence permanently"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is the BEST description? A quality assurance plan’s main purpose is to: (private contract)",
-    "choices": [
-      "Increase taxes",
-      "Cut documentation",
-      "Describe controls to ensure requirements are met",
-      "Replace the contract"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Which option applies in Québec practice? A labour and material payment bond protects: (compliance)",
-    "choices": [
-      "The contractor’s equipment",
-      "The government from tax loss",
-      "The owner from design errors",
-      "Subcontractors and suppliers for unpaid amounts"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Which statement is MOST accurate? Working at heights in Québec usually requires: (admin context)",
-    "choices": [
-      "Confined space ticket only",
-      "Fall protection training and appropriate equipment",
-      "Forklift training only",
-      "No training"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which statement is MOST accurate? GST and QST on construction invoices in Québec are respectively: (compliance)",
-    "choices": [
-      "10% and 5%",
-      "5% and 9.975%",
-      "No taxes apply",
-      "15% combined HST"
-    ],
-    "answer": 1
   }
 ]

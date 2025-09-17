@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Si le garant quitte l’entreprise, l’entrepreneur doit : (conformité)",
+    "choices": [
+      "Avertir uniquement la municipalité",
+      "Remplacer le garant dans le délai prescrit par la RBQ pour maintenir la licence",
+      "Rendre la licence définitivement",
+      "Ne rien faire"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? L’assurance Tous Risques Chantier couvre surtout : (conformité)",
+    "choices": [
+      "Les dommages à l’ouvrage en construction",
+      "La responsabilité professionnelle",
+      "Les blessures des travailleurs",
+      "Les collisions de véhicules"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? La résistance en compression du béton est vérifiée par : (conformité)",
+    "choices": [
+      "La rupture d’éprouvettes en laboratoire aux âges prescrits",
+      "Seulement l’essai d’affaissement (slump)",
+      "Une inspection visuelle",
+      "Une clé dynamométrique"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? L’objectif principal d’un plan d’assurance qualité est de : (conformité)",
+    "choices": [
+      "Réduire la documentation à néant",
+      "Augmenter les taxes",
+      "Décrire les contrôles pour satisfaire les exigences",
+      "Remplacer le contrat"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Le SIMDUT (SGH 2015) concerne : (conformité)",
+    "choices": [
+      "La gouvernance d’entreprise",
+      "Les déclarations de revenus",
+      "Les plans de signalisation routière",
+      "La classification des produits dangereux, l’étiquetage et les FDS"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Un livre de minutes contient principalement : (conformité)",
+    "choices": [
+      "Uniquement des factures",
+      "Des journaux de chantier quotidiens",
+      "Des fiches de données de sécurité",
+      "Des résolutions, des registres d’administrateurs/actionnaires et les règlements"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Le travail en hauteur au Québec exige habituellement : (conformité)",
+    "choices": [
+      "Uniquement un ticket espace clos",
+      "Une formation de protection contre les chutes et l’équipement adéquat",
+      "Uniquement une formation chariot élévateur",
+      "Aucune formation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? L’assurance Tous Risques Chantier couvre surtout : (conformité)",
+    "choices": [
+      "La responsabilité professionnelle",
+      "Les dommages à l’ouvrage en construction",
+      "Les blessures des travailleurs",
+      "Les collisions de véhicules"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Sur une licence RBQ, le « garant » est responsable de : (conformité)",
+    "choices": [
+      "Réaliser les audits financiers de la province",
+      "Inspecter les édifices publics",
+      "Démontrer les compétences requises de l’entreprise et veiller à la conformité",
+      "Donner des contraventions de sécurité aux travailleurs"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : La facturation progressive doit être appuyée par : (conformité)",
+    "choices": [
+      "Des déclarations fiscales",
+      "Des certificats d’avancement signés ou des quantités mesurées selon le contrat",
+      "Des bons de livraison",
+      "Uniquement des courriels internes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Qui peut refuser un travail dangereux au Québec ? (conformité)",
+    "choices": [
+      "Seulement les superviseurs",
+      "Tout travailleur ayant des motifs raisonnables de croire à un danger",
+      "Seulement les syndiqués",
+      "Personne"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Les procédures de cadenassage servent à : (conformité)",
+    "choices": [
+      "Remplacer les EPI",
+      "Empêcher le démarrage des équipements pendant l’entretien",
+      "Accélérer la production",
+      "Décorer les machines"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Un exemple clair de conflit d’intérêts est :",
+    "choices": [
+      "Divulguer ses liens et se retirer des décisions",
+      "Octroyer un sous‑contrat à un proche sans divulgation",
+      "Tenir des ouvertures publiques de soumissions",
+      "Suivre des critères écrits d’évaluation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Un CTI (crédit de taxe sur les intrants) permet de :",
+    "choices": [
+      "Récupérer la TPS/TVQ admissible payée sur les intrants d’affaires",
+      "Éviter l’impôt des sociétés",
+      "Augmenter les taxes perçues",
+      "Rembourser les impôts personnels des employés"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Lors d’un accident grave, la priorité attendue par la CNESST est : (conformité)",
+    "choices": [
+      "Publier sur les réseaux sociaux",
+      "Continuer le travail pour respecter l’échéancier",
+      "Sécuriser les lieux, porter assistance et aviser les services d’urgence",
+      "Détruire les documents"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? L’objectif principal d’un plan d’assurance qualité est de : (conformité)",
+    "choices": [
+      "Remplacer le contrat",
+      "Augmenter les taxes",
+      "Décrire les contrôles pour satisfaire les exigences",
+      "Réduire la documentation à néant"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Les manuels O&M sont remis : (conformité)",
+    "choices": [
+      "Après la fin de garantie",
+      "À la clôture d’appel d’offres",
+      "À l’achèvement substantiel ou à la fermeture du projet",
+      "Avec le cautionnement de soumission"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : En contrats publics, le principe directeur de l’approvisionnement est : (conformité)",
+    "choices": [
+      "Le magasinage d’offres",
+      "L’équité et la transparence",
+      "Le favoritisme local",
+      "Le secret"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : En approvisionnement public, un addenda : (conformité)",
+    "choices": [
+      "Est un ordre de changement après l’adjudication",
+      "Annule automatiquement l’appel d’offres",
+      "Modifie les documents d’appel d’offres et est contraignant s’il est émis avant la clôture",
+      "Est une note interne de l’entrepreneur"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Les mises à jour de l’échéancier de référence (baseline) devraient se faire :",
+    "choices": [
+      "Uniquement via le contrôle formel des changements",
+      "Quotidiennement sans suivi",
+      "Seulement à la fin du projet",
+      "Jamais"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Quel document crée légalement une société par actions au Québec ? (conformité)",
+    "choices": [
+      "Les statuts de constitution",
+      "Un mandat bancaire",
+      "Une résolution d’actionnaires",
+      "Un contrat de travail"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Le BSDQ sert à : (conformité)",
+    "choices": [
+      "Normaliser le dépôt de certaines soumissions de métiers aux entrepreneurs généraux",
+      "Délivrer les licences RBQ",
+      "Fixer les taxes municipales",
+      "Gérer les réclamations CSST"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Le ratio de liquidité générale (current ratio) mesure surtout : (conformité)",
+    "choices": [
+      "La rentabilité à long terme",
+      "La productivité des travailleurs",
+      "La capacité de faire face aux obligations à court terme",
+      "La fréquence des réclamations de garantie"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Un CTI (crédit de taxe sur les intrants) permet de : (conformité)",
+    "choices": [
+      "Récupérer la TPS/TVQ admissible payée sur les intrants d’affaires",
+      "Augmenter les taxes perçues",
+      "Éviter l’impôt des sociétés",
+      "Rembourser les impôts personnels des employés"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Pour conserver ses droits d’hypothèque légale, un sous‑traitant doit : (conformité)",
+    "choices": [
+      "Demander à la RBQ de payer",
+      "Envoyer seulement une facture",
+      "Ignorer les délais",
+      "Respecter les avis et délais prescrits par le Code civil du Québec"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : L’hypothèque légale de la construction protège surtout : (conformité)",
+    "choices": [
+      "Seulement les propriétaires",
+      "Seulement les banques",
+      "Les personnes ayant fourni des travaux ou matériaux et qui ne sont pas payées",
+      "Le droit d’auteur des concepteurs"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Un cautionnement de paiement de la main‑d’œuvre et des matériaux protège : (conformité)",
+    "choices": [
+      "Les sous‑traitants et fournisseurs pour les montants impayés",
+      "Le gouvernement contre la perte fiscale",
+      "L’équipement de l’entrepreneur",
+      "Le donneur d’ouvrage contre les erreurs de conception"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Quand les plans et devis sont en conflit (et aucune priorité n’est indiquée), on consulte généralement : (conformité)",
+    "choices": [
+      "Des instructions verbales",
+      "Des factures",
+      "Les dessins d’atelier",
+      "Les devis qui priment habituellement"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Qui peut refuser un travail dangereux au Québec ? (conformité)",
+    "choices": [
+      "Personne",
+      "Tout travailleur ayant des motifs raisonnables de croire à un danger",
+      "Seulement les syndiqués",
+      "Seulement les superviseurs"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Une marge de manœuvre (float) dans un échéancier : (conformité)",
+    "choices": [
+      "Remplace la référence de base",
+      "Vaut toujours zéro",
+      "Est illégale",
+      "Fournit un tampon pour les incertitudes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Un livre de minutes contient principalement : (conformité)",
+    "choices": [
+      "Des journaux de chantier quotidiens",
+      "Des résolutions, des registres d’administrateurs/actionnaires et les règlements",
+      "Uniquement des factures",
+      "Des fiches de données de sécurité"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Quel document crée légalement une société par actions au Québec ? (conformité)",
+    "choices": [
+      "Une résolution d’actionnaires",
+      "Un contrat de travail",
+      "Un mandat bancaire",
+      "Les statuts de constitution"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? L’assurance responsabilité professionnelle s’applique surtout à : (conformité)",
+    "choices": [
+      "Les suppléments de carburant",
+      "Les achats d’EPI",
+      "Les cotisations syndicales",
+      "Des services de conception pouvant causer une perte économique"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Si le garant quitte l’entreprise, l’entrepreneur doit : (conformité)",
+    "choices": [
+      "Remplacer le garant dans le délai prescrit par la RBQ pour maintenir la licence",
+      "Avertir uniquement la municipalité",
+      "Rendre la licence définitivement",
+      "Ne rien faire"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? L’assurance Tous Risques Chantier couvre surtout : (conformité)",
+    "choices": [
+      "Les collisions de véhicules",
+      "La responsabilité professionnelle",
+      "Les blessures des travailleurs",
+      "Les dommages à l’ouvrage en construction"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Un CTI (crédit de taxe sur les intrants) permet de : (conformité)",
+    "choices": [
+      "Éviter l’impôt des sociétés",
+      "Augmenter les taxes perçues",
+      "Récupérer la TPS/TVQ admissible payée sur les intrants d’affaires",
+      "Rembourser les impôts personnels des employés"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Exécuter des travaux dans une sous‑catégorie de licence non détenue peut entraîner :",
+    "choices": [
+      "Des prix et honneurs",
+      "Des amendes, des ordres d’arrêt de travail ou une suspension de licence",
+      "Des crédits d’impôt",
+      "Rien de particulier"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Les documents de fermeture incluent souvent : (conformité)",
+    "choices": [
+      "Uniquement des feuilles de temps",
+      "Uniquement des ordres de changement",
+      "Seulement des RFI",
+      "Plans tels que construits, manuels O&M, garanties, formations"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Le SIMDUT (SGH 2015) concerne : (conformité)",
+    "choices": [
+      "Les déclarations de revenus",
+      "La classification des produits dangereux, l’étiquetage et les FDS",
+      "Les plans de signalisation routière",
+      "La gouvernance d’entreprise"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Un aspect environnemental (ISO 14001) est : (conformité)",
+    "choices": [
+      "Une fiche de paie",
+      "Un dessin d’atelier",
+      "Un élément des activités susceptible d’interagir avec l’environnement",
+      "Un procès"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? La résistance en compression du béton est vérifiée par : (conformité)",
+    "choices": [
+      "Une clé dynamométrique",
+      "Seulement l’essai d’affaissement (slump)",
+      "La rupture d’éprouvettes en laboratoire aux âges prescrits",
+      "Une inspection visuelle"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Les procédures de cadenassage servent à : (conformité)",
+    "choices": [
+      "Empêcher le démarrage des équipements pendant l’entretien",
+      "Remplacer les EPI",
+      "Décorer les machines",
+      "Accélérer la production"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Une contingence de coûts dans une estimation sert à : (conformité)",
+    "choices": [
+      "Couvrir les risques/incertitudes identifiés dans la portée",
+      "Augmenter le profit arbitrairement",
+      "Acheter des outils aux employés",
+      "Payer des taxes"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Un exemple clair de conflit d’intérêts est : (conformité)",
+    "choices": [
+      "Suivre des critères écrits d’évaluation",
+      "Divulguer ses liens et se retirer des décisions",
+      "Tenir des ouvertures publiques de soumissions",
+      "Octroyer un sous‑contrat à un proche sans divulgation"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "La facturation progressive doit être appuyée par :",
+    "choices": [
+      "Des bons de livraison",
+      "Des certificats d’avancement signés ou des quantités mesurées selon le contrat",
+      "Uniquement des courriels internes",
+      "Des déclarations fiscales"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "L’assurance Tous Risques Chantier couvre surtout :",
+    "choices": [
+      "Les dommages à l’ouvrage en construction",
+      "Les blessures des travailleurs",
+      "La responsabilité professionnelle",
+      "Les collisions de véhicules"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Le travail en hauteur au Québec exige habituellement : (conformité)",
+    "choices": [
+      "Uniquement un ticket espace clos",
+      "Aucune formation",
+      "Une formation de protection contre les chutes et l’équipement adéquat",
+      "Uniquement une formation chariot élévateur"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Pour conserver ses droits d’hypothèque légale, un sous‑traitant doit : (conformité)",
+    "choices": [
+      "Envoyer seulement une facture",
+      "Respecter les avis et délais prescrits par le Code civil du Québec",
+      "Ignorer les délais",
+      "Demander à la RBQ de payer"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Exécuter des travaux dans une sous‑catégorie de licence non détenue peut entraîner : (conformité)",
+    "choices": [
+      "Rien de particulier",
+      "Des amendes, des ordres d’arrêt de travail ou une suspension de licence",
+      "Des prix et honneurs",
+      "Des crédits d’impôt"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Un cautionnement de soumission sert à : (conformité)",
+    "choices": [
+      "Garantir que l’entrepreneur signera le contrat s’il est adjudicataire",
+      "Payer directement les sous‑traitants",
+      "Remplacer le cautionnement d’exécution",
+      "Garantir la qualité des matériaux"
+    ],
+    "answer": 0
+  }
+]

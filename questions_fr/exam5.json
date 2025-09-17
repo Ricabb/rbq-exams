@@ -1,0 +1,502 @@
+[
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Le SIMDUT (SGH 2015) concerne : (conformité)",
+    "choices": [
+      "Les déclarations de revenus",
+      "La gouvernance d’entreprise",
+      "La classification des produits dangereux, l’étiquetage et les FDS",
+      "Les plans de signalisation routière"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? La valeur acquise compare : (conformité)",
+    "choices": [
+      "Les DP aux dessins d’atelier",
+      "Uniquement les factures aux paiements",
+      "La conception aux RFI",
+      "La valeur planifiée, la valeur acquise et le coût réel pour évaluer la performance"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Pour conserver ses droits d’hypothèque légale, un sous‑traitant doit : (conformité)",
+    "choices": [
+      "Envoyer seulement une facture",
+      "Respecter les avis et délais prescrits par le Code civil du Québec",
+      "Demander à la RBQ de payer",
+      "Ignorer les délais"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : L’Autorité des marchés publics (AMP) au Québec : (conformité)",
+    "choices": [
+      "Fixe les taux hypothécaires",
+      "Gère l’arbitrage privé",
+      "Émet les cartes de compétence RBQ",
+      "Surveille les contrats publics pour assurer l’intégrité et la conformité"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : La valeur acquise compare : (conformité)",
+    "choices": [
+      "La conception aux RFI",
+      "Uniquement les factures aux paiements",
+      "Les DP aux dessins d’atelier",
+      "La valeur planifiée, la valeur acquise et le coût réel pour évaluer la performance"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Une instruction de chantier (SI) : (conformité)",
+    "choices": [
+      "Donne une directive mineure; les impacts coûts/délais exigent un ordre de changement si applicable",
+      "Constitue un billet de sécurité",
+      "Remplace le contrat",
+      "Modifie automatiquement le prix du contrat"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Le SIMDUT (SGH 2015) concerne :",
+    "choices": [
+      "La classification des produits dangereux, l’étiquetage et les FDS",
+      "Les déclarations de revenus",
+      "Les plans de signalisation routière",
+      "La gouvernance d’entreprise"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? La CCQ s’occupe principalement de : (conformité)",
+    "choices": [
+      "L’administration des conventions collectives et des relations de travail en construction",
+      "La délivrance des permis de bâtir",
+      "L’inspection sanitaire des restaurants",
+      "La perception des taxes municipales"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Le chemin critique d’un échéancier est : (conformité)",
+    "choices": [
+      "La plus longue chaîne de tâches déterminant la durée du projet",
+      "La plus courte chaîne",
+      "Un chemin sans marge car ignoré",
+      "Une contingence budgétaire"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Le BSDQ sert à : (conformité)",
+    "choices": [
+      "Gérer les réclamations CSST",
+      "Délivrer les licences RBQ",
+      "Fixer les taxes municipales",
+      "Normaliser le dépôt de certaines soumissions de métiers aux entrepreneurs généraux"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Déposer une soumission après l’heure limite est généralement : (conformité)",
+    "choices": [
+      "Non conforme et rejetée",
+      "Acceptée avec pénalité",
+      "Conforme si envoyée par courriel",
+      "Transformée en directive de changement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Déposer une soumission après l’heure limite est généralement : (conformité)",
+    "choices": [
+      "Conforme si envoyée par courriel",
+      "Non conforme et rejetée",
+      "Transformée en directive de changement",
+      "Acceptée avec pénalité"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Une directive de changement diffère d’un ordre de changement parce que : (conformité)",
+    "choices": [
+      "Elle ne peut pas ajuster le calendrier",
+      "Elle réduit toujours l’étendue",
+      "Elle est unilatérale pour exécuter avant l’entente de prix, avec évaluation ultérieure",
+      "Elle s’applique seulement en conception‑construction"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Un aspect environnemental (ISO 14001) est : (conformité)",
+    "choices": [
+      "Un dessin d’atelier",
+      "Un élément des activités susceptible d’interagir avec l’environnement",
+      "Une fiche de paie",
+      "Un procès"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Les documents de fermeture incluent souvent : (conformité)",
+    "choices": [
+      "Uniquement des feuilles de temps",
+      "Plans tels que construits, manuels O&M, garanties, formations",
+      "Seulement des RFI",
+      "Uniquement des ordres de changement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Un aspect environnemental (ISO 14001) est : (conformité)",
+    "choices": [
+      "Une fiche de paie",
+      "Un dessin d’atelier",
+      "Un procès",
+      "Un élément des activités susceptible d’interagir avec l’environnement"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Les dessins d’atelier sont surtout : (conformité)",
+    "choices": [
+      "Des dépôts juridiques à l’AMP",
+      "Des documents de financement du maître d’ouvrage",
+      "Des documents contractuels",
+      "Des documents de l’entrepreneur/sous‑traitant montrant la fabrication/installation"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Un ordre de changement est : (conformité)",
+    "choices": [
+      "Une directive informelle sans impact coût/échéancier",
+      "Une modification formelle du scope, du prix et/ou du délai acceptée par les parties",
+      "Un avis d’infraction de sécurité",
+      "Un addenda"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Le ratio de liquidité générale (current ratio) mesure surtout : (conformité)",
+    "choices": [
+      "La rentabilité à long terme",
+      "La productivité des travailleurs",
+      "La capacité de faire face aux obligations à court terme",
+      "La fréquence des réclamations de garantie"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Les manuels O&M sont remis : (conformité)",
+    "choices": [
+      "Avec le cautionnement de soumission",
+      "Après la fin de garantie",
+      "À la clôture d’appel d’offres",
+      "À l’achèvement substantiel ou à la fermeture du projet"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "L’assurance responsabilité professionnelle s’applique surtout à :",
+    "choices": [
+      "Des services de conception pouvant causer une perte économique",
+      "Les suppléments de carburant",
+      "Les cotisations syndicales",
+      "Les achats d’EPI"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : La TPS et la TVQ sur une facture de construction au Québec sont respectivement : (conformité)",
+    "choices": [
+      "15 % TVH combinée",
+      "10 % et 5 %",
+      "Aucune taxe",
+      "5 % et 9,975 %"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : La CCQ s’occupe principalement de : (conformité)",
+    "choices": [
+      "L’inspection sanitaire des restaurants",
+      "L’administration des conventions collectives et des relations de travail en construction",
+      "La délivrance des permis de bâtir",
+      "La perception des taxes municipales"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Pour conserver ses droits d’hypothèque légale, un sous‑traitant doit : (conformité)",
+    "choices": [
+      "Ignorer les délais",
+      "Envoyer seulement une facture",
+      "Respecter les avis et délais prescrits par le Code civil du Québec",
+      "Demander à la RBQ de payer"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Quand les plans et devis sont en conflit (et aucune priorité n’est indiquée), on consulte généralement : (conformité)",
+    "choices": [
+      "Les devis qui priment habituellement",
+      "Des instructions verbales",
+      "Des factures",
+      "Les dessins d’atelier"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? L’Autorité des marchés publics (AMP) au Québec : (conformité)",
+    "choices": [
+      "Fixe les taux hypothécaires",
+      "Surveille les contrats publics pour assurer l’intégrité et la conformité",
+      "Gère l’arbitrage privé",
+      "Émet les cartes de compétence RBQ"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Le SIMDUT (SGH 2015) concerne : (conformité)",
+    "choices": [
+      "La classification des produits dangereux, l’étiquetage et les FDS",
+      "La gouvernance d’entreprise",
+      "Les déclarations de revenus",
+      "Les plans de signalisation routière"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Les administrateurs d’une société au Québec ont le devoir de :",
+    "choices": [
+      "Ignorer les états financiers",
+      "Agir avec diligence et superviser les affaires de la société",
+      "Rapporter uniquement aux employés",
+      "Adopter des règlements municipaux"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : L’hypothèque légale de la construction protège surtout : (conformité)",
+    "choices": [
+      "Les personnes ayant fourni des travaux ou matériaux et qui ne sont pas payées",
+      "Le droit d’auteur des concepteurs",
+      "Seulement les propriétaires",
+      "Seulement les banques"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "La CCQ s’occupe principalement de :",
+    "choices": [
+      "L’administration des conventions collectives et des relations de travail en construction",
+      "La délivrance des permis de bâtir",
+      "La perception des taxes municipales",
+      "L’inspection sanitaire des restaurants"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Les petits outils consommables devraient être codés : (conformité)",
+    "choices": [
+      "En matériaux directs",
+      "En comptes clients",
+      "En frais généraux/indirects",
+      "En revenus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Un mode opératoire / procédure de travail sert à : (conformité)",
+    "choices": [
+      "Percevoir des taxes",
+      "Remplacer la protection contre les chutes",
+      "Fixer les prix de soumission",
+      "Définir l’exécution pas à pas et les contrôles qualité/sécurité"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Le travail en hauteur au Québec exige habituellement : (conformité)",
+    "choices": [
+      "Uniquement un ticket espace clos",
+      "Uniquement une formation chariot élévateur",
+      "Aucune formation",
+      "Une formation de protection contre les chutes et l’équipement adéquat"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Lors d’un accident grave, la priorité attendue par la CNESST est : (conformité)",
+    "choices": [
+      "Sécuriser les lieux, porter assistance et aviser les services d’urgence",
+      "Publier sur les réseaux sociaux",
+      "Détruire les documents",
+      "Continuer le travail pour respecter l’échéancier"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Quel registre suit la propriété des actions ? (conformité)",
+    "choices": [
+      "Registre des RFI",
+      "Registre des valeurs mobilières (actions)",
+      "Registre des accidents",
+      "Registre des immobilisations"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Un CTI (crédit de taxe sur les intrants) permet de : (conformité)",
+    "choices": [
+      "Augmenter les taxes perçues",
+      "Récupérer la TPS/TVQ admissible payée sur les intrants d’affaires",
+      "Rembourser les impôts personnels des employés",
+      "Éviter l’impôt des sociétés"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Qui peut refuser un travail dangereux au Québec ? (conformité)",
+    "choices": [
+      "Seulement les superviseurs",
+      "Seulement les syndiqués",
+      "Personne",
+      "Tout travailleur ayant des motifs raisonnables de croire à un danger"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Quel est le rôle principal de la RBQ (Régie du bâtiment du Québec) ? (conformité)",
+    "choices": [
+      "Réglementer la construction, la sécurité des bâtiments et certaines qualifications professionnelles",
+      "Fixer les taux d’impôt sur le revenu",
+      "Délivrer les permis municipaux",
+      "Gérer les contrats d’autoroutes"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Quel registre suit la propriété des actions ? (conformité)",
+    "choices": [
+      "Registre des valeurs mobilières (actions)",
+      "Registre des accidents",
+      "Registre des immobilisations",
+      "Registre des RFI"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Un CTI (crédit de taxe sur les intrants) permet de : (conformité)",
+    "choices": [
+      "Augmenter les taxes perçues",
+      "Rembourser les impôts personnels des employés",
+      "Récupérer la TPS/TVQ admissible payée sur les intrants d’affaires",
+      "Éviter l’impôt des sociétés"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : L’Autorité des marchés publics (AMP) au Québec : (conformité)",
+    "choices": [
+      "Émet les cartes de compétence RBQ",
+      "Fixe les taux hypothécaires",
+      "Surveille les contrats publics pour assurer l’intégrité et la conformité",
+      "Gère l’arbitrage privé"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : La responsabilité civile des entreprises (RCE / CGL) couvre : (conformité)",
+    "choices": [
+      "Uniquement les salaires",
+      "Uniquement les erreurs de conception",
+      "Les dommages corporels ou matériels subis par des tiers",
+      "Uniquement le vol d’outils"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? La TPS et la TVQ sur une facture de construction au Québec sont respectivement : (conformité)",
+    "choices": [
+      "15 % TVH combinée",
+      "10 % et 5 %",
+      "Aucune taxe",
+      "5 % et 9,975 %"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : L’assurance responsabilité professionnelle s’applique surtout à : (conformité)",
+    "choices": [
+      "Les achats d’EPI",
+      "Des services de conception pouvant causer une perte économique",
+      "Les suppléments de carburant",
+      "Les cotisations syndicales"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Un cautionnement de paiement de la main‑d’œuvre et des matériaux protège : (conformité)",
+    "choices": [
+      "Les sous‑traitants et fournisseurs pour les montants impayés",
+      "Le gouvernement contre la perte fiscale",
+      "Le donneur d’ouvrage contre les erreurs de conception",
+      "L’équipement de l’entrepreneur"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : La facturation progressive doit être appuyée par : (conformité)",
+    "choices": [
+      "Des déclarations fiscales",
+      "Des certificats d’avancement signés ou des quantités mesurées selon le contrat",
+      "Uniquement des courriels internes",
+      "Des bons de livraison"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Un mode opératoire / procédure de travail sert à : (conformité)",
+    "choices": [
+      "Fixer les prix de soumission",
+      "Percevoir des taxes",
+      "Remplacer la protection contre les chutes",
+      "Définir l’exécution pas à pas et les contrôles qualité/sécurité"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Un aspect environnemental (ISO 14001) est : (conformité)",
+    "choices": [
+      "Un élément des activités susceptible d’interagir avec l’environnement",
+      "Un procès",
+      "Un dessin d’atelier",
+      "Une fiche de paie"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Le travail en hauteur au Québec exige habituellement :",
+    "choices": [
+      "Uniquement une formation chariot élévateur",
+      "Une formation de protection contre les chutes et l’équipement adéquat",
+      "Aucune formation",
+      "Uniquement un ticket espace clos"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Quelle méthode d’approvisionnement privilégie les qualifications plutôt que le prix ? (conformité)",
+    "choices": [
+      "Sélection fondée sur les qualifications (QBS)",
+      "Pile ou face",
+      "Plus bas soumissionnaire conforme",
+      "Enchère inversée"
+    ],
+    "answer": 0
+  }
+]

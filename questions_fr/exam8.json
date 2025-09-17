@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Lors d’un accident grave, la priorité attendue par la CNESST est : (conformité)",
+    "choices": [
+      "Publier sur les réseaux sociaux",
+      "Sécuriser les lieux, porter assistance et aviser les services d’urgence",
+      "Continuer le travail pour respecter l’échéancier",
+      "Détruire les documents"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Le BSDQ sert à : (conformité)",
+    "choices": [
+      "Délivrer les licences RBQ",
+      "Gérer les réclamations CSST",
+      "Normaliser le dépôt de certaines soumissions de métiers aux entrepreneurs généraux",
+      "Fixer les taxes municipales"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Un cautionnement de soumission sert à : (conformité)",
+    "choices": [
+      "Remplacer le cautionnement d’exécution",
+      "Garantir la qualité des matériaux",
+      "Garantir que l’entrepreneur signera le contrat s’il est adjudicataire",
+      "Payer directement les sous‑traitants"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Les administrateurs d’une société au Québec ont le devoir de : (conformité)",
+    "choices": [
+      "Agir avec diligence et superviser les affaires de la société",
+      "Rapporter uniquement aux employés",
+      "Ignorer les états financiers",
+      "Adopter des règlements municipaux"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Un mode opératoire / procédure de travail sert à : (conformité)",
+    "choices": [
+      "Remplacer la protection contre les chutes",
+      "Percevoir des taxes",
+      "Définir l’exécution pas à pas et les contrôles qualité/sécurité",
+      "Fixer les prix de soumission"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : L’assurance Tous Risques Chantier couvre surtout : (conformité)",
+    "choices": [
+      "La responsabilité professionnelle",
+      "Les dommages à l’ouvrage en construction",
+      "Les blessures des travailleurs",
+      "Les collisions de véhicules"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : L’assurance responsabilité professionnelle s’applique surtout à : (conformité)",
+    "choices": [
+      "Les achats d’EPI",
+      "Des services de conception pouvant causer une perte économique",
+      "Les suppléments de carburant",
+      "Les cotisations syndicales"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Si le garant quitte l’entreprise, l’entrepreneur doit : (conformité)",
+    "choices": [
+      "Avertir uniquement la municipalité",
+      "Ne rien faire",
+      "Remplacer le garant dans le délai prescrit par la RBQ pour maintenir la licence",
+      "Rendre la licence définitivement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : En contrats publics, le principe directeur de l’approvisionnement est : (conformité)",
+    "choices": [
+      "L’équité et la transparence",
+      "Le magasinage d’offres",
+      "Le secret",
+      "Le favoritisme local"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : La facturation progressive doit être appuyée par : (conformité)",
+    "choices": [
+      "Des déclarations fiscales",
+      "Des bons de livraison",
+      "Uniquement des courriels internes",
+      "Des certificats d’avancement signés ou des quantités mesurées selon le contrat"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Les administrateurs d’une société au Québec ont le devoir de : (conformité)",
+    "choices": [
+      "Ignorer les états financiers",
+      "Agir avec diligence et superviser les affaires de la société",
+      "Adopter des règlements municipaux",
+      "Rapporter uniquement aux employés"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Le SIMDUT (SGH 2015) concerne : (conformité)",
+    "choices": [
+      "La classification des produits dangereux, l’étiquetage et les FDS",
+      "Les plans de signalisation routière",
+      "Les déclarations de revenus",
+      "La gouvernance d’entreprise"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Une contingence de coûts dans une estimation sert à : (conformité)",
+    "choices": [
+      "Augmenter le profit arbitrairement",
+      "Acheter des outils aux employés",
+      "Couvrir les risques/incertitudes identifiés dans la portée",
+      "Payer des taxes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Quelle méthode d’approvisionnement privilégie les qualifications plutôt que le prix ? (conformité)",
+    "choices": [
+      "Enchère inversée",
+      "Sélection fondée sur les qualifications (QBS)",
+      "Pile ou face",
+      "Plus bas soumissionnaire conforme"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Une directive de changement diffère d’un ordre de changement parce que : (conformité)",
+    "choices": [
+      "Elle réduit toujours l’étendue",
+      "Elle est unilatérale pour exécuter avant l’entente de prix, avec évaluation ultérieure",
+      "Elle s’applique seulement en conception‑construction",
+      "Elle ne peut pas ajuster le calendrier"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? En approvisionnement public, un addenda : (conformité)",
+    "choices": [
+      "Annule automatiquement l’appel d’offres",
+      "Modifie les documents d’appel d’offres et est contraignant s’il est émis avant la clôture",
+      "Est un ordre de changement après l’adjudication",
+      "Est une note interne de l’entrepreneur"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? La facturation progressive doit être appuyée par : (conformité)",
+    "choices": [
+      "Des déclarations fiscales",
+      "Des certificats d’avancement signés ou des quantités mesurées selon le contrat",
+      "Uniquement des courriels internes",
+      "Des bons de livraison"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Une RFI (demande d’information) sert à : (conformité)",
+    "choices": [
+      "Modifier directement le prix du contrat",
+      "Remplacer les dessins d’atelier",
+      "Éclaircir des écarts ou demander de l’information manquante au concepteur/maître",
+      "Approuver automatiquement les demandes de paiement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Le ratio de liquidité générale (current ratio) mesure surtout :",
+    "choices": [
+      "La rentabilité à long terme",
+      "La capacité de faire face aux obligations à court terme",
+      "La productivité des travailleurs",
+      "La fréquence des réclamations de garantie"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Le ratio de liquidité générale (current ratio) mesure surtout : (conformité)",
+    "choices": [
+      "La rentabilité à long terme",
+      "La capacité de faire face aux obligations à court terme",
+      "La productivité des travailleurs",
+      "La fréquence des réclamations de garantie"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Quel est le rôle principal de la RBQ (Régie du bâtiment du Québec) ? (conformité)",
+    "choices": [
+      "Délivrer les permis municipaux",
+      "Fixer les taux d’impôt sur le revenu",
+      "Réglementer la construction, la sécurité des bâtiments et certaines qualifications professionnelles",
+      "Gérer les contrats d’autoroutes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Qui peut refuser un travail dangereux au Québec ? (conformité)",
+    "choices": [
+      "Seulement les syndiqués",
+      "Personne",
+      "Seulement les superviseurs",
+      "Tout travailleur ayant des motifs raisonnables de croire à un danger"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? La résistance en compression du béton est vérifiée par : (conformité)",
+    "choices": [
+      "La rupture d’éprouvettes en laboratoire aux âges prescrits",
+      "Seulement l’essai d’affaissement (slump)",
+      "Une clé dynamométrique",
+      "Une inspection visuelle"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Les administrateurs d’une société au Québec ont le devoir de : (conformité)",
+    "choices": [
+      "Agir avec diligence et superviser les affaires de la société",
+      "Rapporter uniquement aux employés",
+      "Ignorer les états financiers",
+      "Adopter des règlements municipaux"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Quel document crée légalement une société par actions au Québec ? (conformité)",
+    "choices": [
+      "Les statuts de constitution",
+      "Une résolution d’actionnaires",
+      "Un mandat bancaire",
+      "Un contrat de travail"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Un entrepreneur change d’adresse légale. Qui doit aviser la RBQ et dans quel délai typique ? (conformité)",
+    "choices": [
+      "Seule la municipalité doit aviser",
+      "La RBQ dans 90 jours",
+      "L’entrepreneur doit aviser la RBQ rapidement (généralement dans les 30 jours)",
+      "Aucun avis nécessaire"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sur une licence RBQ, le « garant » est responsable de :",
+    "choices": [
+      "Réaliser les audits financiers de la province",
+      "Démontrer les compétences requises de l’entreprise et veiller à la conformité",
+      "Donner des contraventions de sécurité aux travailleurs",
+      "Inspecter les édifices publics"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Les mises à jour de l’échéancier de référence (baseline) devraient se faire : (conformité)",
+    "choices": [
+      "Seulement à la fin du projet",
+      "Quotidiennement sans suivi",
+      "Jamais",
+      "Uniquement via le contrôle formel des changements"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Un entrepreneur change d’adresse légale. Qui doit aviser la RBQ et dans quel délai typique ? (conformité)",
+    "choices": [
+      "Seule la municipalité doit aviser",
+      "Aucun avis nécessaire",
+      "L’entrepreneur doit aviser la RBQ rapidement (généralement dans les 30 jours)",
+      "La RBQ dans 90 jours"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Les petits outils consommables devraient être codés : (conformité)",
+    "choices": [
+      "En frais généraux/indirects",
+      "En matériaux directs",
+      "En comptes clients",
+      "En revenus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Un ordre de changement est : (conformité)",
+    "choices": [
+      "Une modification formelle du scope, du prix et/ou du délai acceptée par les parties",
+      "Une directive informelle sans impact coût/échéancier",
+      "Un avis d’infraction de sécurité",
+      "Un addenda"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Les dessins d’atelier sont surtout : (conformité)",
+    "choices": [
+      "Des documents de l’entrepreneur/sous‑traitant montrant la fabrication/installation",
+      "Des documents de financement du maître d’ouvrage",
+      "Des documents contractuels",
+      "Des dépôts juridiques à l’AMP"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : L’Autorité des marchés publics (AMP) au Québec : (conformité)",
+    "choices": [
+      "Émet les cartes de compétence RBQ",
+      "Fixe les taux hypothécaires",
+      "Gère l’arbitrage privé",
+      "Surveille les contrats publics pour assurer l’intégrité et la conformité"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : La résistance en compression du béton est vérifiée par : (conformité)",
+    "choices": [
+      "La rupture d’éprouvettes en laboratoire aux âges prescrits",
+      "Une inspection visuelle",
+      "Seulement l’essai d’affaissement (slump)",
+      "Une clé dynamométrique"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Les petits outils consommables devraient être codés : (conformité)",
+    "choices": [
+      "En matériaux directs",
+      "En frais généraux/indirects",
+      "En comptes clients",
+      "En revenus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : La responsabilité civile des entreprises (RCE / CGL) couvre : (conformité)",
+    "choices": [
+      "Uniquement les salaires",
+      "Uniquement le vol d’outils",
+      "Les dommages corporels ou matériels subis par des tiers",
+      "Uniquement les erreurs de conception"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Un mode opératoire / procédure de travail sert à : (conformité)",
+    "choices": [
+      "Définir l’exécution pas à pas et les contrôles qualité/sécurité",
+      "Remplacer la protection contre les chutes",
+      "Fixer les prix de soumission",
+      "Percevoir des taxes"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Le travail en hauteur au Québec exige habituellement : (conformité)",
+    "choices": [
+      "Uniquement un ticket espace clos",
+      "Une formation de protection contre les chutes et l’équipement adéquat",
+      "Uniquement une formation chariot élévateur",
+      "Aucune formation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Exécuter des travaux dans une sous‑catégorie de licence non détenue peut entraîner : (conformité)",
+    "choices": [
+      "Des amendes, des ordres d’arrêt de travail ou une suspension de licence",
+      "Des prix et honneurs",
+      "Rien de particulier",
+      "Des crédits d’impôt"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Quel est le rôle principal de la RBQ (Régie du bâtiment du Québec) ? (conformité)",
+    "choices": [
+      "Réglementer la construction, la sécurité des bâtiments et certaines qualifications professionnelles",
+      "Gérer les contrats d’autoroutes",
+      "Fixer les taux d’impôt sur le revenu",
+      "Délivrer les permis municipaux"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : La facturation progressive doit être appuyée par : (conformité)",
+    "choices": [
+      "Uniquement des courriels internes",
+      "Des bons de livraison",
+      "Des déclarations fiscales",
+      "Des certificats d’avancement signés ou des quantités mesurées selon le contrat"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "La résistance en compression du béton est vérifiée par :",
+    "choices": [
+      "Seulement l’essai d’affaissement (slump)",
+      "La rupture d’éprouvettes en laboratoire aux âges prescrits",
+      "Une inspection visuelle",
+      "Une clé dynamométrique"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Les documents de fermeture incluent souvent : (conformité)",
+    "choices": [
+      "Plans tels que construits, manuels O&M, garanties, formations",
+      "Seulement des RFI",
+      "Uniquement des feuilles de temps",
+      "Uniquement des ordres de changement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Les procédures de cadenassage servent à : (conformité)",
+    "choices": [
+      "Accélérer la production",
+      "Remplacer les EPI",
+      "Décorer les machines",
+      "Empêcher le démarrage des équipements pendant l’entretien"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Une directive de changement diffère d’un ordre de changement parce que : (conformité)",
+    "choices": [
+      "Elle ne peut pas ajuster le calendrier",
+      "Elle est unilatérale pour exécuter avant l’entente de prix, avec évaluation ultérieure",
+      "Elle s’applique seulement en conception‑construction",
+      "Elle réduit toujours l’étendue"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "La TPS et la TVQ sur une facture de construction au Québec sont respectivement :",
+    "choices": [
+      "5 % et 9,975 %",
+      "10 % et 5 %",
+      "15 % TVH combinée",
+      "Aucune taxe"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Un cautionnement d’exécution protège surtout :",
+    "choices": [
+      "Le donneur d’ouvrage contre un défaut d’exécution de l’entrepreneur",
+      "Le profit de l’entrepreneur",
+      "La banque contre les taux d’intérêt",
+      "L’inventaire du fournisseur"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Les manuels O&M sont remis : (conformité)",
+    "choices": [
+      "Après la fin de garantie",
+      "À l’achèvement substantiel ou à la fermeture du projet",
+      "À la clôture d’appel d’offres",
+      "Avec le cautionnement de soumission"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? L’assurance Tous Risques Chantier couvre surtout : (conformité)",
+    "choices": [
+      "Les collisions de véhicules",
+      "Les blessures des travailleurs",
+      "Les dommages à l’ouvrage en construction",
+      "La responsabilité professionnelle"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : En approvisionnement public, un addenda : (conformité)",
+    "choices": [
+      "Est un ordre de changement après l’adjudication",
+      "Annule automatiquement l’appel d’offres",
+      "Modifie les documents d’appel d’offres et est contraignant s’il est émis avant la clôture",
+      "Est une note interne de l’entrepreneur"
+    ],
+    "answer": 2
+  }
+]

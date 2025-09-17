@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Exécuter des travaux dans une sous‑catégorie de licence non détenue peut entraîner : (conformité)",
+    "choices": [
+      "Des amendes, des ordres d’arrêt de travail ou une suspension de licence",
+      "Des crédits d’impôt",
+      "Rien de particulier",
+      "Des prix et honneurs"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Un aspect environnemental (ISO 14001) est : (conformité)",
+    "choices": [
+      "Un élément des activités susceptible d’interagir avec l’environnement",
+      "Une fiche de paie",
+      "Un dessin d’atelier",
+      "Un procès"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Quand les plans et devis sont en conflit (et aucune priorité n’est indiquée), on consulte généralement : (conformité)",
+    "choices": [
+      "Des instructions verbales",
+      "Les dessins d’atelier",
+      "Des factures",
+      "Les devis qui priment habituellement"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Une directive de changement diffère d’un ordre de changement parce que : (conformité)",
+    "choices": [
+      "Elle réduit toujours l’étendue",
+      "Elle s’applique seulement en conception‑construction",
+      "Elle est unilatérale pour exécuter avant l’entente de prix, avec évaluation ultérieure",
+      "Elle ne peut pas ajuster le calendrier"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Pour conserver ses droits d’hypothèque légale, un sous‑traitant doit : (conformité)",
+    "choices": [
+      "Envoyer seulement une facture",
+      "Respecter les avis et délais prescrits par le Code civil du Québec",
+      "Demander à la RBQ de payer",
+      "Ignorer les délais"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Les manuels O&M sont remis : (conformité)",
+    "choices": [
+      "À l’achèvement substantiel ou à la fermeture du projet",
+      "Avec le cautionnement de soumission",
+      "Après la fin de garantie",
+      "À la clôture d’appel d’offres"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Les manuels O&M sont remis : (conformité)",
+    "choices": [
+      "Après la fin de garantie",
+      "À la clôture d’appel d’offres",
+      "Avec le cautionnement de soumission",
+      "À l’achèvement substantiel ou à la fermeture du projet"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Un ordre de changement est : (conformité)",
+    "choices": [
+      "Une modification formelle du scope, du prix et/ou du délai acceptée par les parties",
+      "Une directive informelle sans impact coût/échéancier",
+      "Un avis d’infraction de sécurité",
+      "Un addenda"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Quelle méthode d’approvisionnement privilégie les qualifications plutôt que le prix ? (conformité)",
+    "choices": [
+      "Pile ou face",
+      "Plus bas soumissionnaire conforme",
+      "Sélection fondée sur les qualifications (QBS)",
+      "Enchère inversée"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Quel est le rôle principal de la RBQ (Régie du bâtiment du Québec) ? (conformité)",
+    "choices": [
+      "Délivrer les permis municipaux",
+      "Gérer les contrats d’autoroutes",
+      "Fixer les taux d’impôt sur le revenu",
+      "Réglementer la construction, la sécurité des bâtiments et certaines qualifications professionnelles"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Un ordre de changement est :",
+    "choices": [
+      "Une directive informelle sans impact coût/échéancier",
+      "Une modification formelle du scope, du prix et/ou du délai acceptée par les parties",
+      "Un avis d’infraction de sécurité",
+      "Un addenda"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Qui peut refuser un travail dangereux au Québec ? (conformité)",
+    "choices": [
+      "Personne",
+      "Seulement les syndiqués",
+      "Seulement les superviseurs",
+      "Tout travailleur ayant des motifs raisonnables de croire à un danger"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Quand les plans et devis sont en conflit (et aucune priorité n’est indiquée), on consulte généralement : (conformité)",
+    "choices": [
+      "Des factures",
+      "Les devis qui priment habituellement",
+      "Les dessins d’atelier",
+      "Des instructions verbales"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Un cautionnement de soumission sert à :",
+    "choices": [
+      "Garantir que l’entrepreneur signera le contrat s’il est adjudicataire",
+      "Garantir la qualité des matériaux",
+      "Remplacer le cautionnement d’exécution",
+      "Payer directement les sous‑traitants"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Une RFI (demande d’information) sert à : (conformité)",
+    "choices": [
+      "Approuver automatiquement les demandes de paiement",
+      "Remplacer les dessins d’atelier",
+      "Modifier directement le prix du contrat",
+      "Éclaircir des écarts ou demander de l’information manquante au concepteur/maître"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Le chemin critique d’un échéancier est : (conformité)",
+    "choices": [
+      "Un chemin sans marge car ignoré",
+      "La plus longue chaîne de tâches déterminant la durée du projet",
+      "Une contingence budgétaire",
+      "La plus courte chaîne"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Si le garant quitte l’entreprise, l’entrepreneur doit : (conformité)",
+    "choices": [
+      "Avertir uniquement la municipalité",
+      "Rendre la licence définitivement",
+      "Ne rien faire",
+      "Remplacer le garant dans le délai prescrit par la RBQ pour maintenir la licence"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Le chemin critique d’un échéancier est : (conformité)",
+    "choices": [
+      "Un chemin sans marge car ignoré",
+      "La plus longue chaîne de tâches déterminant la durée du projet",
+      "La plus courte chaîne",
+      "Une contingence budgétaire"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Quel document crée légalement une société par actions au Québec ? (conformité)",
+    "choices": [
+      "Un mandat bancaire",
+      "Une résolution d’actionnaires",
+      "Un contrat de travail",
+      "Les statuts de constitution"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Un livre de minutes contient principalement : (conformité)",
+    "choices": [
+      "Uniquement des factures",
+      "Des fiches de données de sécurité",
+      "Des journaux de chantier quotidiens",
+      "Des résolutions, des registres d’administrateurs/actionnaires et les règlements"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Les administrateurs d’une société au Québec ont le devoir de : (conformité)",
+    "choices": [
+      "Ignorer les états financiers",
+      "Rapporter uniquement aux employés",
+      "Adopter des règlements municipaux",
+      "Agir avec diligence et superviser les affaires de la société"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? En approvisionnement public, un addenda : (conformité)",
+    "choices": [
+      "Modifie les documents d’appel d’offres et est contraignant s’il est émis avant la clôture",
+      "Est une note interne de l’entrepreneur",
+      "Annule automatiquement l’appel d’offres",
+      "Est un ordre de changement après l’adjudication"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Un cautionnement de paiement de la main‑d’œuvre et des matériaux protège : (conformité)",
+    "choices": [
+      "Le donneur d’ouvrage contre les erreurs de conception",
+      "Les sous‑traitants et fournisseurs pour les montants impayés",
+      "Le gouvernement contre la perte fiscale",
+      "L’équipement de l’entrepreneur"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Une instruction de chantier (SI) :",
+    "choices": [
+      "Modifie automatiquement le prix du contrat",
+      "Donne une directive mineure; les impacts coûts/délais exigent un ordre de changement si applicable",
+      "Remplace le contrat",
+      "Constitue un billet de sécurité"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Le travail en hauteur au Québec exige habituellement : (conformité)",
+    "choices": [
+      "Uniquement une formation chariot élévateur",
+      "Une formation de protection contre les chutes et l’équipement adéquat",
+      "Uniquement un ticket espace clos",
+      "Aucune formation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Quel est le rôle principal de la RBQ (Régie du bâtiment du Québec) ? (conformité)",
+    "choices": [
+      "Réglementer la construction, la sécurité des bâtiments et certaines qualifications professionnelles",
+      "Fixer les taux d’impôt sur le revenu",
+      "Délivrer les permis municipaux",
+      "Gérer les contrats d’autoroutes"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "La responsabilité civile des entreprises (RCE / CGL) couvre :",
+    "choices": [
+      "Les dommages corporels ou matériels subis par des tiers",
+      "Uniquement le vol d’outils",
+      "Uniquement les erreurs de conception",
+      "Uniquement les salaires"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Le travail en hauteur au Québec exige habituellement : (conformité)",
+    "choices": [
+      "Uniquement un ticket espace clos",
+      "Aucune formation",
+      "Uniquement une formation chariot élévateur",
+      "Une formation de protection contre les chutes et l’équipement adéquat"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Une RFI (demande d’information) sert à : (conformité)",
+    "choices": [
+      "Modifier directement le prix du contrat",
+      "Éclaircir des écarts ou demander de l’information manquante au concepteur/maître",
+      "Remplacer les dessins d’atelier",
+      "Approuver automatiquement les demandes de paiement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Déposer une soumission après l’heure limite est généralement : (conformité)",
+    "choices": [
+      "Transformée en directive de changement",
+      "Non conforme et rejetée",
+      "Conforme si envoyée par courriel",
+      "Acceptée avec pénalité"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Un cautionnement de soumission sert à : (conformité)",
+    "choices": [
+      "Remplacer le cautionnement d’exécution",
+      "Garantir la qualité des matériaux",
+      "Garantir que l’entrepreneur signera le contrat s’il est adjudicataire",
+      "Payer directement les sous‑traitants"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Les manuels O&M sont remis : (conformité)",
+    "choices": [
+      "Après la fin de garantie",
+      "À la clôture d’appel d’offres",
+      "Avec le cautionnement de soumission",
+      "À l’achèvement substantiel ou à la fermeture du projet"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Une contingence de coûts dans une estimation sert à : (conformité)",
+    "choices": [
+      "Augmenter le profit arbitrairement",
+      "Payer des taxes",
+      "Acheter des outils aux employés",
+      "Couvrir les risques/incertitudes identifiés dans la portée"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Si le garant quitte l’entreprise, l’entrepreneur doit : (conformité)",
+    "choices": [
+      "Rendre la licence définitivement",
+      "Ne rien faire",
+      "Remplacer le garant dans le délai prescrit par la RBQ pour maintenir la licence",
+      "Avertir uniquement la municipalité"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Exécuter des travaux dans une sous‑catégorie de licence non détenue peut entraîner : (conformité)",
+    "choices": [
+      "Des amendes, des ordres d’arrêt de travail ou une suspension de licence",
+      "Rien de particulier",
+      "Des crédits d’impôt",
+      "Des prix et honneurs"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? Une RFI (demande d’information) sert à : (conformité)",
+    "choices": [
+      "Remplacer les dessins d’atelier",
+      "Éclaircir des écarts ou demander de l’information manquante au concepteur/maître",
+      "Approuver automatiquement les demandes de paiement",
+      "Modifier directement le prix du contrat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle option s’applique à la pratique québécoise ? L’assurance responsabilité professionnelle s’applique surtout à : (conformité)",
+    "choices": [
+      "Les achats d’EPI",
+      "Des services de conception pouvant causer une perte économique",
+      "Les suppléments de carburant",
+      "Les cotisations syndicales"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : La CCQ s’occupe principalement de : (conformité)",
+    "choices": [
+      "La délivrance des permis de bâtir",
+      "L’administration des conventions collectives et des relations de travail en construction",
+      "La perception des taxes municipales",
+      "L’inspection sanitaire des restaurants"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Une marge de manœuvre (float) dans un échéancier :",
+    "choices": [
+      "Fournit un tampon pour les incertitudes",
+      "Est illégale",
+      "Vaut toujours zéro",
+      "Remplace la référence de base"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sélectionnez l’énoncé VRAI : Un cautionnement de soumission sert à : (conformité)",
+    "choices": [
+      "Garantir la qualité des matériaux",
+      "Payer directement les sous‑traitants",
+      "Garantir que l’entrepreneur signera le contrat s’il est adjudicataire",
+      "Remplacer le cautionnement d’exécution"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Lors d’un accident grave, la priorité attendue par la CNESST est :",
+    "choices": [
+      "Continuer le travail pour respecter l’échéancier",
+      "Sécuriser les lieux, porter assistance et aviser les services d’urgence",
+      "Publier sur les réseaux sociaux",
+      "Détruire les documents"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? L’objectif principal d’un plan d’assurance qualité est de : (conformité)",
+    "choices": [
+      "Décrire les contrôles pour satisfaire les exigences",
+      "Augmenter les taxes",
+      "Réduire la documentation à néant",
+      "Remplacer le contrat"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Le chemin critique d’un échéancier est :",
+    "choices": [
+      "La plus longue chaîne de tâches déterminant la durée du projet",
+      "La plus courte chaîne",
+      "Un chemin sans marge car ignoré",
+      "Une contingence budgétaire"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Les mises à jour de l’échéancier de référence (baseline) devraient se faire : (conformité)",
+    "choices": [
+      "Jamais",
+      "Quotidiennement sans suivi",
+      "Seulement à la fin du projet",
+      "Uniquement via le contrôle formel des changements"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Quel est le rôle principal de la RBQ (Régie du bâtiment du Québec) ? (conformité)",
+    "choices": [
+      "Fixer les taux d’impôt sur le revenu",
+      "Délivrer les permis municipaux",
+      "Gérer les contrats d’autoroutes",
+      "Réglementer la construction, la sécurité des bâtiments et certaines qualifications professionnelles"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Si le garant quitte l’entreprise, l’entrepreneur doit : (conformité)",
+    "choices": [
+      "Remplacer le garant dans le délai prescrit par la RBQ pour maintenir la licence",
+      "Ne rien faire",
+      "Avertir uniquement la municipalité",
+      "Rendre la licence définitivement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quelle affirmation est LA PLUS exacte ? Les documents de fermeture incluent souvent : (conformité)",
+    "choices": [
+      "Plans tels que construits, manuels O&M, garanties, formations",
+      "Seulement des RFI",
+      "Uniquement des feuilles de temps",
+      "Uniquement des ordres de changement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En administration typique, choisissez la meilleure réponse : Un entrepreneur change d’adresse légale. Qui doit aviser la RBQ et dans quel délai typique ? (conformité)",
+    "choices": [
+      "La RBQ dans 90 jours",
+      "Aucun avis nécessaire",
+      "Seule la municipalité doit aviser",
+      "L’entrepreneur doit aviser la RBQ rapidement (généralement dans les 30 jours)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? Le ratio de liquidité générale (current ratio) mesure surtout : (conformité)",
+    "choices": [
+      "La fréquence des réclamations de garantie",
+      "La rentabilité à long terme",
+      "La productivité des travailleurs",
+      "La capacité de faire face aux obligations à court terme"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "En contrats publics, qu’est‑ce qui est correct ? L’hypothèque légale de la construction protège surtout : (conformité)",
+    "choices": [
+      "Les personnes ayant fourni des travaux ou matériaux et qui ne sont pas payées",
+      "Seulement les banques",
+      "Seulement les propriétaires",
+      "Le droit d’auteur des concepteurs"
+    ],
+    "answer": 0
+  }
+]
