@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Cautionnement de soumission : [admin]",
+    "choices": [
+      "Garantit la signature si adjudicataire",
+      "Remplace le cautionnement d’exécution",
+      "Paie directement les sous-traitants",
+      "Garantit une qualité parfaite"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Cautionnement de paiement : [admin]",
+    "choices": [
+      "Protège sous-traitants et fournisseurs impayés",
+      "Propriétaires seulement",
+      "Professionnels seulement",
+      "Banques seulement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Cautionnement d’exécution : [admin]",
+    "choices": [
+      "Protège le donneur d’ouvrage en cas de défaut",
+      "Protège le profit de l’entrepreneur",
+      "Protège la banque",
+      "Protège le concepteur"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Rôle du garant RBQ ? [admin]",
+    "choices": [
+      "Adopter des règlements",
+      "Gérer des autoroutes",
+      "Assurer compétences & conformité",
+      "Approuver les factures"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Rôle du garant RBQ ? [admin]",
+    "choices": [
+      "Assurer compétences & conformité",
+      "Gérer des autoroutes",
+      "Approuver les factures",
+      "Adopter des règlements"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Conflit plans vs devis : [admin]",
+    "choices": [
+      "Instructions verbales priment",
+      "Factures priment",
+      "Dessins d’atelier priment",
+      "Les devis priment souvent"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Cautionnement de soumission : [admin]",
+    "choices": [
+      "Garantit une qualité parfaite",
+      "Paie directement les sous-traitants",
+      "Garantit la signature si adjudicataire",
+      "Remplace le cautionnement d’exécution"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Cautionnement de soumission : [admin]",
+    "choices": [
+      "Garantit une qualité parfaite",
+      "Garantit la signature si adjudicataire",
+      "Remplace le cautionnement d’exécution",
+      "Paie directement les sous-traitants"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Cautionnement de paiement : [admin]",
+    "choices": [
+      "Propriétaires seulement",
+      "Professionnels seulement",
+      "Protège sous-traitants et fournisseurs impayés",
+      "Banques seulement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Cautionnement d’exécution : [admin]",
+    "choices": [
+      "Protège la banque",
+      "Protège le donneur d’ouvrage en cas de défaut",
+      "Protège le concepteur",
+      "Protège le profit de l’entrepreneur"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Cautionnement de soumission : [admin]",
+    "choices": [
+      "Remplace le cautionnement d’exécution",
+      "Paie directement les sous-traitants",
+      "Garantit la signature si adjudicataire",
+      "Garantit une qualité parfaite"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Rôle du garant RBQ ? [admin]",
+    "choices": [
+      "Approuver les factures",
+      "Assurer compétences & conformité",
+      "Adopter des règlements",
+      "Gérer des autoroutes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Cautionnement d’exécution : [admin]",
+    "choices": [
+      "Protège la banque",
+      "Protège le profit de l’entrepreneur",
+      "Protège le concepteur",
+      "Protège le donneur d’ouvrage en cas de défaut"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Cautionnement d’exécution : [admin]",
+    "choices": [
+      "Protège le concepteur",
+      "Protège la banque",
+      "Protège le donneur d’ouvrage en cas de défaut",
+      "Protège le profit de l’entrepreneur"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Conflit plans vs devis : [admin]",
+    "choices": [
+      "Les devis priment souvent",
+      "Dessins d’atelier priment",
+      "Factures priment",
+      "Instructions verbales priment"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Conflit plans vs devis : [admin]",
+    "choices": [
+      "Dessins d’atelier priment",
+      "Instructions verbales priment",
+      "Factures priment",
+      "Les devis priment souvent"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Cautionnement de soumission : [admin]",
+    "choices": [
+      "Garantit une qualité parfaite",
+      "Paie directement les sous-traitants",
+      "Garantit la signature si adjudicataire",
+      "Remplace le cautionnement d’exécution"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Rôle du garant RBQ ? [admin]",
+    "choices": [
+      "Approuver les factures",
+      "Adopter des règlements",
+      "Assurer compétences & conformité",
+      "Gérer des autoroutes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Conflit plans vs devis : [admin]",
+    "choices": [
+      "Les devis priment souvent",
+      "Factures priment",
+      "Dessins d’atelier priment",
+      "Instructions verbales priment"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Cautionnement d’exécution : [admin]",
+    "choices": [
+      "Protège le donneur d’ouvrage en cas de défaut",
+      "Protège le profit de l’entrepreneur",
+      "Protège la banque",
+      "Protège le concepteur"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Cautionnement de paiement : [admin]",
+    "choices": [
+      "Protège sous-traitants et fournisseurs impayés",
+      "Banques seulement",
+      "Propriétaires seulement",
+      "Professionnels seulement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Cautionnement de paiement : [admin]",
+    "choices": [
+      "Protège sous-traitants et fournisseurs impayés",
+      "Professionnels seulement",
+      "Banques seulement",
+      "Propriétaires seulement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Rôle du garant RBQ ? [admin]",
+    "choices": [
+      "Approuver les factures",
+      "Adopter des règlements",
+      "Gérer des autoroutes",
+      "Assurer compétences & conformité"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Rôle du garant RBQ ? [admin]",
+    "choices": [
+      "Assurer compétences & conformité",
+      "Approuver les factures",
+      "Gérer des autoroutes",
+      "Adopter des règlements"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Cautionnement d’exécution : [admin]",
+    "choices": [
+      "Protège le concepteur",
+      "Protège le donneur d’ouvrage en cas de défaut",
+      "Protège la banque",
+      "Protège le profit de l’entrepreneur"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Cautionnement de soumission : [admin]",
+    "choices": [
+      "Garantit la signature si adjudicataire",
+      "Remplace le cautionnement d’exécution",
+      "Paie directement les sous-traitants",
+      "Garantit une qualité parfaite"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Cautionnement d’exécution : [admin]",
+    "choices": [
+      "Protège la banque",
+      "Protège le concepteur",
+      "Protège le profit de l’entrepreneur",
+      "Protège le donneur d’ouvrage en cas de défaut"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Cautionnement de paiement : [admin]",
+    "choices": [
+      "Protège sous-traitants et fournisseurs impayés",
+      "Propriétaires seulement",
+      "Banques seulement",
+      "Professionnels seulement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Cautionnement de paiement : [admin]",
+    "choices": [
+      "Protège sous-traitants et fournisseurs impayés",
+      "Professionnels seulement",
+      "Banques seulement",
+      "Propriétaires seulement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Cautionnement de paiement : [admin]",
+    "choices": [
+      "Banques seulement",
+      "Propriétaires seulement",
+      "Protège sous-traitants et fournisseurs impayés",
+      "Professionnels seulement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Cautionnement de soumission : [admin]",
+    "choices": [
+      "Garantit une qualité parfaite",
+      "Paie directement les sous-traitants",
+      "Remplace le cautionnement d’exécution",
+      "Garantit la signature si adjudicataire"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Cautionnement de soumission : [admin]",
+    "choices": [
+      "Paie directement les sous-traitants",
+      "Garantit la signature si adjudicataire",
+      "Remplace le cautionnement d’exécution",
+      "Garantit une qualité parfaite"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Cautionnement de paiement : [admin]",
+    "choices": [
+      "Banques seulement",
+      "Professionnels seulement",
+      "Propriétaires seulement",
+      "Protège sous-traitants et fournisseurs impayés"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Rôle du garant RBQ ? [admin]",
+    "choices": [
+      "Approuver les factures",
+      "Assurer compétences & conformité",
+      "Gérer des autoroutes",
+      "Adopter des règlements"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Conflit plans vs devis : [admin]",
+    "choices": [
+      "Dessins d’atelier priment",
+      "Factures priment",
+      "Instructions verbales priment",
+      "Les devis priment souvent"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Cautionnement de paiement : [admin]",
+    "choices": [
+      "Protège sous-traitants et fournisseurs impayés",
+      "Professionnels seulement",
+      "Propriétaires seulement",
+      "Banques seulement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Conflit plans vs devis : [admin]",
+    "choices": [
+      "Factures priment",
+      "Instructions verbales priment",
+      "Dessins d’atelier priment",
+      "Les devis priment souvent"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Rôle du garant RBQ ? [admin]",
+    "choices": [
+      "Adopter des règlements",
+      "Gérer des autoroutes",
+      "Assurer compétences & conformité",
+      "Approuver les factures"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Cautionnement de soumission : [admin]",
+    "choices": [
+      "Garantit la signature si adjudicataire",
+      "Garantit une qualité parfaite",
+      "Paie directement les sous-traitants",
+      "Remplace le cautionnement d’exécution"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Cautionnement d’exécution : [admin]",
+    "choices": [
+      "Protège le donneur d’ouvrage en cas de défaut",
+      "Protège la banque",
+      "Protège le concepteur",
+      "Protège le profit de l’entrepreneur"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Rôle du garant RBQ ? [admin]",
+    "choices": [
+      "Gérer des autoroutes",
+      "Approuver les factures",
+      "Adopter des règlements",
+      "Assurer compétences & conformité"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Conflit plans vs devis : [admin]",
+    "choices": [
+      "Les devis priment souvent",
+      "Instructions verbales priment",
+      "Factures priment",
+      "Dessins d’atelier priment"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Rôle du garant RBQ ? [admin]",
+    "choices": [
+      "Approuver les factures",
+      "Gérer des autoroutes",
+      "Adopter des règlements",
+      "Assurer compétences & conformité"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Cautionnement de paiement : [admin]",
+    "choices": [
+      "Banques seulement",
+      "Propriétaires seulement",
+      "Protège sous-traitants et fournisseurs impayés",
+      "Professionnels seulement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Conflit plans vs devis : [admin]",
+    "choices": [
+      "Instructions verbales priment",
+      "Dessins d’atelier priment",
+      "Les devis priment souvent",
+      "Factures priment"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Cautionnement de paiement : [admin]",
+    "choices": [
+      "Propriétaires seulement",
+      "Banques seulement",
+      "Professionnels seulement",
+      "Protège sous-traitants et fournisseurs impayés"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Cautionnement de soumission : [admin]",
+    "choices": [
+      "Garantit la signature si adjudicataire",
+      "Remplace le cautionnement d’exécution",
+      "Paie directement les sous-traitants",
+      "Garantit une qualité parfaite"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Cautionnement d’exécution : [admin]",
+    "choices": [
+      "Protège la banque",
+      "Protège le donneur d’ouvrage en cas de défaut",
+      "Protège le profit de l’entrepreneur",
+      "Protège le concepteur"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Cautionnement d’exécution : [admin]",
+    "choices": [
+      "Protège le profit de l’entrepreneur",
+      "Protège le donneur d’ouvrage en cas de défaut",
+      "Protège le concepteur",
+      "Protège la banque"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Cautionnement d’exécution : [admin]",
+    "choices": [
+      "Protège le donneur d’ouvrage en cas de défaut",
+      "Protège le profit de l’entrepreneur",
+      "Protège le concepteur",
+      "Protège la banque"
+    ],
+    "answer": 0
+  }
+]

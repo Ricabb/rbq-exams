@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Dimensionnement conducteurs : [execution]",
+    "choices": [
+      "Nombre d’étiquettes",
+      "Couleur du conduit",
+      "Ampacité, température, déclassement, tableaux du code",
+      "Prix de l’étiquette"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Mise en service CVC : [execution]",
+    "choices": [
+      "Audit fiscal",
+      "Peindre les conduits",
+      "Compter les grilles",
+      "Équilibrage air/eau + vérifications"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Remblai en couches : [execution]",
+    "choices": [
+      "Compactage adéquat pour densité requise",
+      "Main-d’œuvre moins chère",
+      "Transport plus rapide",
+      "Moins d’essais"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Dimensionnement conducteurs : [execution]",
+    "choices": [
+      "Couleur du conduit",
+      "Nombre d’étiquettes",
+      "Ampacité, température, déclassement, tableaux du code",
+      "Prix de l’étiquette"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Coupe-feu : [execution]",
+    "choices": [
+      "Insonorisation uniquement",
+      "Meilleure adhérence peinture",
+      "Valeur R plus élevée",
+      "Maintien du degré coupe-feu des traversées"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Résistance du béton vérifiée par : [execution]",
+    "choices": [
+      "Clé dynamométrique",
+      "Rupture d’éprouvettes en labo",
+      "Inspection visuelle",
+      "Affaissement seulement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Coupe-feu : [execution]",
+    "choices": [
+      "Meilleure adhérence peinture",
+      "Maintien du degré coupe-feu des traversées",
+      "Valeur R plus élevée",
+      "Insonorisation uniquement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Mise en service CVC : [execution]",
+    "choices": [
+      "Peindre les conduits",
+      "Équilibrage air/eau + vérifications",
+      "Audit fiscal",
+      "Compter les grilles"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Mise en service CVC : [execution]",
+    "choices": [
+      "Peindre les conduits",
+      "Équilibrage air/eau + vérifications",
+      "Compter les grilles",
+      "Audit fiscal"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Dimensionnement conducteurs : [execution]",
+    "choices": [
+      "Prix de l’étiquette",
+      "Ampacité, température, déclassement, tableaux du code",
+      "Nombre d’étiquettes",
+      "Couleur du conduit"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Remblai en couches : [execution]",
+    "choices": [
+      "Compactage adéquat pour densité requise",
+      "Moins d’essais",
+      "Main-d’œuvre moins chère",
+      "Transport plus rapide"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Coupe-feu : [execution]",
+    "choices": [
+      "Insonorisation uniquement",
+      "Valeur R plus élevée",
+      "Meilleure adhérence peinture",
+      "Maintien du degré coupe-feu des traversées"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Dimensionnement conducteurs : [execution]",
+    "choices": [
+      "Nombre d’étiquettes",
+      "Couleur du conduit",
+      "Prix de l’étiquette",
+      "Ampacité, température, déclassement, tableaux du code"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Remblai en couches : [execution]",
+    "choices": [
+      "Moins d’essais",
+      "Compactage adéquat pour densité requise",
+      "Main-d’œuvre moins chère",
+      "Transport plus rapide"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Dimensionnement conducteurs : [execution]",
+    "choices": [
+      "Prix de l’étiquette",
+      "Ampacité, température, déclassement, tableaux du code",
+      "Couleur du conduit",
+      "Nombre d’étiquettes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Coupe-feu : [execution]",
+    "choices": [
+      "Meilleure adhérence peinture",
+      "Valeur R plus élevée",
+      "Insonorisation uniquement",
+      "Maintien du degré coupe-feu des traversées"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Coupe-feu : [execution]",
+    "choices": [
+      "Meilleure adhérence peinture",
+      "Maintien du degré coupe-feu des traversées",
+      "Valeur R plus élevée",
+      "Insonorisation uniquement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Remblai en couches : [execution]",
+    "choices": [
+      "Transport plus rapide",
+      "Compactage adéquat pour densité requise",
+      "Main-d’œuvre moins chère",
+      "Moins d’essais"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Résistance du béton vérifiée par : [execution]",
+    "choices": [
+      "Clé dynamométrique",
+      "Rupture d’éprouvettes en labo",
+      "Affaissement seulement",
+      "Inspection visuelle"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Mise en service CVC : [execution]",
+    "choices": [
+      "Audit fiscal",
+      "Compter les grilles",
+      "Équilibrage air/eau + vérifications",
+      "Peindre les conduits"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Mise en service CVC : [execution]",
+    "choices": [
+      "Audit fiscal",
+      "Équilibrage air/eau + vérifications",
+      "Compter les grilles",
+      "Peindre les conduits"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Coupe-feu : [execution]",
+    "choices": [
+      "Maintien du degré coupe-feu des traversées",
+      "Meilleure adhérence peinture",
+      "Valeur R plus élevée",
+      "Insonorisation uniquement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Remblai en couches : [execution]",
+    "choices": [
+      "Transport plus rapide",
+      "Main-d’œuvre moins chère",
+      "Moins d’essais",
+      "Compactage adéquat pour densité requise"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Mise en service CVC : [execution]",
+    "choices": [
+      "Peindre les conduits",
+      "Audit fiscal",
+      "Compter les grilles",
+      "Équilibrage air/eau + vérifications"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Mise en service CVC : [execution]",
+    "choices": [
+      "Peindre les conduits",
+      "Compter les grilles",
+      "Équilibrage air/eau + vérifications",
+      "Audit fiscal"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Résistance du béton vérifiée par : [execution]",
+    "choices": [
+      "Rupture d’éprouvettes en labo",
+      "Inspection visuelle",
+      "Clé dynamométrique",
+      "Affaissement seulement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Mise en service CVC : [execution]",
+    "choices": [
+      "Audit fiscal",
+      "Peindre les conduits",
+      "Compter les grilles",
+      "Équilibrage air/eau + vérifications"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Résistance du béton vérifiée par : [execution]",
+    "choices": [
+      "Affaissement seulement",
+      "Clé dynamométrique",
+      "Rupture d’éprouvettes en labo",
+      "Inspection visuelle"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Résistance du béton vérifiée par : [execution]",
+    "choices": [
+      "Affaissement seulement",
+      "Rupture d’éprouvettes en labo",
+      "Inspection visuelle",
+      "Clé dynamométrique"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Dimensionnement conducteurs : [execution]",
+    "choices": [
+      "Ampacité, température, déclassement, tableaux du code",
+      "Prix de l’étiquette",
+      "Couleur du conduit",
+      "Nombre d’étiquettes"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Remblai en couches : [execution]",
+    "choices": [
+      "Compactage adéquat pour densité requise",
+      "Main-d’œuvre moins chère",
+      "Transport plus rapide",
+      "Moins d’essais"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Mise en service CVC : [execution]",
+    "choices": [
+      "Équilibrage air/eau + vérifications",
+      "Peindre les conduits",
+      "Compter les grilles",
+      "Audit fiscal"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Dimensionnement conducteurs : [execution]",
+    "choices": [
+      "Nombre d’étiquettes",
+      "Couleur du conduit",
+      "Ampacité, température, déclassement, tableaux du code",
+      "Prix de l’étiquette"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Mise en service CVC : [execution]",
+    "choices": [
+      "Audit fiscal",
+      "Compter les grilles",
+      "Peindre les conduits",
+      "Équilibrage air/eau + vérifications"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Remblai en couches : [execution]",
+    "choices": [
+      "Transport plus rapide",
+      "Moins d’essais",
+      "Compactage adéquat pour densité requise",
+      "Main-d’œuvre moins chère"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Résistance du béton vérifiée par : [execution]",
+    "choices": [
+      "Affaissement seulement",
+      "Clé dynamométrique",
+      "Inspection visuelle",
+      "Rupture d’éprouvettes en labo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Résistance du béton vérifiée par : [execution]",
+    "choices": [
+      "Rupture d’éprouvettes en labo",
+      "Clé dynamométrique",
+      "Affaissement seulement",
+      "Inspection visuelle"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Dimensionnement conducteurs : [execution]",
+    "choices": [
+      "Nombre d’étiquettes",
+      "Prix de l’étiquette",
+      "Ampacité, température, déclassement, tableaux du code",
+      "Couleur du conduit"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Remblai en couches : [execution]",
+    "choices": [
+      "Moins d’essais",
+      "Compactage adéquat pour densité requise",
+      "Transport plus rapide",
+      "Main-d’œuvre moins chère"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Mise en service CVC : [execution]",
+    "choices": [
+      "Équilibrage air/eau + vérifications",
+      "Audit fiscal",
+      "Compter les grilles",
+      "Peindre les conduits"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Dimensionnement conducteurs : [execution]",
+    "choices": [
+      "Nombre d’étiquettes",
+      "Couleur du conduit",
+      "Prix de l’étiquette",
+      "Ampacité, température, déclassement, tableaux du code"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Remblai en couches : [execution]",
+    "choices": [
+      "Main-d’œuvre moins chère",
+      "Transport plus rapide",
+      "Compactage adéquat pour densité requise",
+      "Moins d’essais"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Coupe-feu : [execution]",
+    "choices": [
+      "Insonorisation uniquement",
+      "Meilleure adhérence peinture",
+      "Valeur R plus élevée",
+      "Maintien du degré coupe-feu des traversées"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Dimensionnement conducteurs : [execution]",
+    "choices": [
+      "Nombre d’étiquettes",
+      "Prix de l’étiquette",
+      "Ampacité, température, déclassement, tableaux du code",
+      "Couleur du conduit"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Remblai en couches : [execution]",
+    "choices": [
+      "Main-d’œuvre moins chère",
+      "Moins d’essais",
+      "Transport plus rapide",
+      "Compactage adéquat pour densité requise"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Remblai en couches : [execution]",
+    "choices": [
+      "Compactage adéquat pour densité requise",
+      "Moins d’essais",
+      "Transport plus rapide",
+      "Main-d’œuvre moins chère"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Dimensionnement conducteurs : [execution]",
+    "choices": [
+      "Nombre d’étiquettes",
+      "Couleur du conduit",
+      "Prix de l’étiquette",
+      "Ampacité, température, déclassement, tableaux du code"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Résistance du béton vérifiée par : [execution]",
+    "choices": [
+      "Rupture d’éprouvettes en labo",
+      "Inspection visuelle",
+      "Affaissement seulement",
+      "Clé dynamométrique"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Dimensionnement conducteurs : [execution]",
+    "choices": [
+      "Prix de l’étiquette",
+      "Nombre d’étiquettes",
+      "Couleur du conduit",
+      "Ampacité, température, déclassement, tableaux du code"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Dimensionnement conducteurs : [execution]",
+    "choices": [
+      "Couleur du conduit",
+      "Nombre d’étiquettes",
+      "Prix de l’étiquette",
+      "Ampacité, température, déclassement, tableaux du code"
+    ],
+    "answer": 3
+  }
+]

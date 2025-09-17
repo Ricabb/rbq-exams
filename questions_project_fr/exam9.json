@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Un addenda : [project]",
+    "choices": [
+      "Ordre de changement",
+      "Modification des documents avant fermeture",
+      "Cautionnement",
+      "Note de chantier"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Dessins d’atelier : [project]",
+    "choices": [
+      "Ordres de changement",
+      "Documents contractuels",
+      "Financement du MO",
+      "Fabrication/installation détaillées"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Un addenda : [project]",
+    "choices": [
+      "Modification des documents avant fermeture",
+      "Note de chantier",
+      "Ordre de changement",
+      "Cautionnement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Soumission conforme : [project]",
+    "choices": [
+      "Uniquement la plus basse",
+      "Dessins d’atelier inclus",
+      "Courriel au chargé de projet",
+      "Exigences obligatoires + heure limite"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Soumission conforme : [project]",
+    "choices": [
+      "Dessins d’atelier inclus",
+      "Exigences obligatoires + heure limite",
+      "Courriel au chargé de projet",
+      "Uniquement la plus basse"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Un addenda : [project]",
+    "choices": [
+      "Note de chantier",
+      "Ordre de changement",
+      "Cautionnement",
+      "Modification des documents avant fermeture"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Chemin critique : [project]",
+    "choices": [
+      "Plus longue chaîne dépendante (durée)",
+      "Chemin ignoré",
+      "Contingence budgétaire",
+      "Chaîne la plus courte"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Soumission conforme : [project]",
+    "choices": [
+      "Courriel au chargé de projet",
+      "Exigences obligatoires + heure limite",
+      "Uniquement la plus basse",
+      "Dessins d’atelier inclus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Soumission conforme : [project]",
+    "choices": [
+      "Uniquement la plus basse",
+      "Exigences obligatoires + heure limite",
+      "Dessins d’atelier inclus",
+      "Courriel au chargé de projet"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Soumission conforme : [project]",
+    "choices": [
+      "Uniquement la plus basse",
+      "Exigences obligatoires + heure limite",
+      "Dessins d’atelier inclus",
+      "Courriel au chargé de projet"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Chemin critique : [project]",
+    "choices": [
+      "Plus longue chaîne dépendante (durée)",
+      "Chemin ignoré",
+      "Contingence budgétaire",
+      "Chaîne la plus courte"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Dessins d’atelier : [project]",
+    "choices": [
+      "Financement du MO",
+      "Ordres de changement",
+      "Fabrication/installation détaillées",
+      "Documents contractuels"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Dessins d’atelier : [project]",
+    "choices": [
+      "Fabrication/installation détaillées",
+      "Financement du MO",
+      "Ordres de changement",
+      "Documents contractuels"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "RFI : [project]",
+    "choices": [
+      "Modifier le prix directement",
+      "Approuver paiements",
+      "Éclaircir écarts/info manquante",
+      "Remplacer devis"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Soumission conforme : [project]",
+    "choices": [
+      "Uniquement la plus basse",
+      "Exigences obligatoires + heure limite",
+      "Courriel au chargé de projet",
+      "Dessins d’atelier inclus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Un addenda : [project]",
+    "choices": [
+      "Note de chantier",
+      "Ordre de changement",
+      "Cautionnement",
+      "Modification des documents avant fermeture"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "RFI : [project]",
+    "choices": [
+      "Approuver paiements",
+      "Remplacer devis",
+      "Éclaircir écarts/info manquante",
+      "Modifier le prix directement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Soumission conforme : [project]",
+    "choices": [
+      "Courriel au chargé de projet",
+      "Dessins d’atelier inclus",
+      "Exigences obligatoires + heure limite",
+      "Uniquement la plus basse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Chemin critique : [project]",
+    "choices": [
+      "Chaîne la plus courte",
+      "Plus longue chaîne dépendante (durée)",
+      "Contingence budgétaire",
+      "Chemin ignoré"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Un addenda : [project]",
+    "choices": [
+      "Modification des documents avant fermeture",
+      "Ordre de changement",
+      "Note de chantier",
+      "Cautionnement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Chemin critique : [project]",
+    "choices": [
+      "Contingence budgétaire",
+      "Chemin ignoré",
+      "Plus longue chaîne dépendante (durée)",
+      "Chaîne la plus courte"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Soumission conforme : [project]",
+    "choices": [
+      "Dessins d’atelier inclus",
+      "Exigences obligatoires + heure limite",
+      "Courriel au chargé de projet",
+      "Uniquement la plus basse"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "RFI : [project]",
+    "choices": [
+      "Éclaircir écarts/info manquante",
+      "Approuver paiements",
+      "Remplacer devis",
+      "Modifier le prix directement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Dessins d’atelier : [project]",
+    "choices": [
+      "Ordres de changement",
+      "Documents contractuels",
+      "Fabrication/installation détaillées",
+      "Financement du MO"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Un addenda : [project]",
+    "choices": [
+      "Note de chantier",
+      "Modification des documents avant fermeture",
+      "Ordre de changement",
+      "Cautionnement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Soumission conforme : [project]",
+    "choices": [
+      "Exigences obligatoires + heure limite",
+      "Dessins d’atelier inclus",
+      "Courriel au chargé de projet",
+      "Uniquement la plus basse"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "RFI : [project]",
+    "choices": [
+      "Éclaircir écarts/info manquante",
+      "Approuver paiements",
+      "Modifier le prix directement",
+      "Remplacer devis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Dessins d’atelier : [project]",
+    "choices": [
+      "Ordres de changement",
+      "Fabrication/installation détaillées",
+      "Financement du MO",
+      "Documents contractuels"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Chemin critique : [project]",
+    "choices": [
+      "Chemin ignoré",
+      "Chaîne la plus courte",
+      "Contingence budgétaire",
+      "Plus longue chaîne dépendante (durée)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "RFI : [project]",
+    "choices": [
+      "Éclaircir écarts/info manquante",
+      "Approuver paiements",
+      "Modifier le prix directement",
+      "Remplacer devis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Dessins d’atelier : [project]",
+    "choices": [
+      "Ordres de changement",
+      "Documents contractuels",
+      "Fabrication/installation détaillées",
+      "Financement du MO"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Un addenda : [project]",
+    "choices": [
+      "Cautionnement",
+      "Note de chantier",
+      "Modification des documents avant fermeture",
+      "Ordre de changement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Dessins d’atelier : [project]",
+    "choices": [
+      "Ordres de changement",
+      "Financement du MO",
+      "Documents contractuels",
+      "Fabrication/installation détaillées"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Dessins d’atelier : [project]",
+    "choices": [
+      "Ordres de changement",
+      "Financement du MO",
+      "Documents contractuels",
+      "Fabrication/installation détaillées"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Chemin critique : [project]",
+    "choices": [
+      "Contingence budgétaire",
+      "Chemin ignoré",
+      "Plus longue chaîne dépendante (durée)",
+      "Chaîne la plus courte"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Dessins d’atelier : [project]",
+    "choices": [
+      "Ordres de changement",
+      "Financement du MO",
+      "Fabrication/installation détaillées",
+      "Documents contractuels"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Un addenda : [project]",
+    "choices": [
+      "Modification des documents avant fermeture",
+      "Note de chantier",
+      "Cautionnement",
+      "Ordre de changement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Soumission conforme : [project]",
+    "choices": [
+      "Uniquement la plus basse",
+      "Courriel au chargé de projet",
+      "Exigences obligatoires + heure limite",
+      "Dessins d’atelier inclus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "RFI : [project]",
+    "choices": [
+      "Remplacer devis",
+      "Approuver paiements",
+      "Éclaircir écarts/info manquante",
+      "Modifier le prix directement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Soumission conforme : [project]",
+    "choices": [
+      "Exigences obligatoires + heure limite",
+      "Dessins d’atelier inclus",
+      "Uniquement la plus basse",
+      "Courriel au chargé de projet"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "RFI : [project]",
+    "choices": [
+      "Éclaircir écarts/info manquante",
+      "Remplacer devis",
+      "Approuver paiements",
+      "Modifier le prix directement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "RFI : [project]",
+    "choices": [
+      "Éclaircir écarts/info manquante",
+      "Approuver paiements",
+      "Remplacer devis",
+      "Modifier le prix directement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Chemin critique : [project]",
+    "choices": [
+      "Chaîne la plus courte",
+      "Contingence budgétaire",
+      "Plus longue chaîne dépendante (durée)",
+      "Chemin ignoré"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Chemin critique : [project]",
+    "choices": [
+      "Chaîne la plus courte",
+      "Plus longue chaîne dépendante (durée)",
+      "Chemin ignoré",
+      "Contingence budgétaire"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Chemin critique : [project]",
+    "choices": [
+      "Chaîne la plus courte",
+      "Contingence budgétaire",
+      "Plus longue chaîne dépendante (durée)",
+      "Chemin ignoré"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Chemin critique : [project]",
+    "choices": [
+      "Chemin ignoré",
+      "Contingence budgétaire",
+      "Plus longue chaîne dépendante (durée)",
+      "Chaîne la plus courte"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Un addenda : [project]",
+    "choices": [
+      "Ordre de changement",
+      "Cautionnement",
+      "Note de chantier",
+      "Modification des documents avant fermeture"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "RFI : [project]",
+    "choices": [
+      "Modifier le prix directement",
+      "Approuver paiements",
+      "Remplacer devis",
+      "Éclaircir écarts/info manquante"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Chemin critique : [project]",
+    "choices": [
+      "Chemin ignoré",
+      "Plus longue chaîne dépendante (durée)",
+      "Chaîne la plus courte",
+      "Contingence budgétaire"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Dessins d’atelier : [project]",
+    "choices": [
+      "Financement du MO",
+      "Fabrication/installation détaillées",
+      "Ordres de changement",
+      "Documents contractuels"
+    ],
+    "answer": 1
+  }
+]

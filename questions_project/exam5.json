@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Shop drawings: [project]",
+    "choices": [
+      "Owner financing docs",
+      "Show fabrication/installation",
+      "Change orders",
+      "Contract documents"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Shop drawings: [project]",
+    "choices": [
+      "Change orders",
+      "Owner financing docs",
+      "Contract documents",
+      "Show fabrication/installation"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "RFI use: [project]",
+    "choices": [
+      "Clarify discrepancies/missing info",
+      "Approve payments",
+      "Modify price directly",
+      "Replace specs"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Shop drawings: [project]",
+    "choices": [
+      "Change orders",
+      "Show fabrication/installation",
+      "Contract documents",
+      "Owner financing docs"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Critical path: [project]",
+    "choices": [
+      "Longest dependent chain sets duration",
+      "Ignored path",
+      "Budget contingency",
+      "Shortest chain"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "RFI use: [project]",
+    "choices": [
+      "Replace specs",
+      "Approve payments",
+      "Clarify discrepancies/missing info",
+      "Modify price directly"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "RFI use: [project]",
+    "choices": [
+      "Clarify discrepancies/missing info",
+      "Replace specs",
+      "Approve payments",
+      "Modify price directly"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Compliant bid: [project]",
+    "choices": [
+      "Include shop drawings",
+      "Lowest price only",
+      "Email to PM",
+      "Meets mandatory reqs & on time"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Addendum is: [project]",
+    "choices": [
+      "Change to tender docs pre-closing",
+      "Change order",
+      "Bid bond",
+      "Site memo"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Shop drawings: [project]",
+    "choices": [
+      "Contract documents",
+      "Change orders",
+      "Owner financing docs",
+      "Show fabrication/installation"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Addendum is: [project]",
+    "choices": [
+      "Bid bond",
+      "Site memo",
+      "Change to tender docs pre-closing",
+      "Change order"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Shop drawings: [project]",
+    "choices": [
+      "Change orders",
+      "Show fabrication/installation",
+      "Contract documents",
+      "Owner financing docs"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "RFI use: [project]",
+    "choices": [
+      "Clarify discrepancies/missing info",
+      "Modify price directly",
+      "Replace specs",
+      "Approve payments"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Compliant bid: [project]",
+    "choices": [
+      "Email to PM",
+      "Meets mandatory reqs & on time",
+      "Lowest price only",
+      "Include shop drawings"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Addendum is: [project]",
+    "choices": [
+      "Change order",
+      "Bid bond",
+      "Change to tender docs pre-closing",
+      "Site memo"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Compliant bid: [project]",
+    "choices": [
+      "Email to PM",
+      "Lowest price only",
+      "Meets mandatory reqs & on time",
+      "Include shop drawings"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Addendum is: [project]",
+    "choices": [
+      "Bid bond",
+      "Change to tender docs pre-closing",
+      "Site memo",
+      "Change order"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "RFI use: [project]",
+    "choices": [
+      "Clarify discrepancies/missing info",
+      "Replace specs",
+      "Approve payments",
+      "Modify price directly"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Compliant bid: [project]",
+    "choices": [
+      "Email to PM",
+      "Meets mandatory reqs & on time",
+      "Include shop drawings",
+      "Lowest price only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Shop drawings: [project]",
+    "choices": [
+      "Show fabrication/installation",
+      "Change orders",
+      "Owner financing docs",
+      "Contract documents"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Addendum is: [project]",
+    "choices": [
+      "Change to tender docs pre-closing",
+      "Bid bond",
+      "Change order",
+      "Site memo"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Compliant bid: [project]",
+    "choices": [
+      "Email to PM",
+      "Include shop drawings",
+      "Lowest price only",
+      "Meets mandatory reqs & on time"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Critical path: [project]",
+    "choices": [
+      "Longest dependent chain sets duration",
+      "Ignored path",
+      "Shortest chain",
+      "Budget contingency"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Critical path: [project]",
+    "choices": [
+      "Shortest chain",
+      "Budget contingency",
+      "Longest dependent chain sets duration",
+      "Ignored path"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "RFI use: [project]",
+    "choices": [
+      "Modify price directly",
+      "Approve payments",
+      "Replace specs",
+      "Clarify discrepancies/missing info"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Compliant bid: [project]",
+    "choices": [
+      "Email to PM",
+      "Lowest price only",
+      "Meets mandatory reqs & on time",
+      "Include shop drawings"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Critical path: [project]",
+    "choices": [
+      "Budget contingency",
+      "Shortest chain",
+      "Ignored path",
+      "Longest dependent chain sets duration"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "RFI use: [project]",
+    "choices": [
+      "Approve payments",
+      "Modify price directly",
+      "Replace specs",
+      "Clarify discrepancies/missing info"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Critical path: [project]",
+    "choices": [
+      "Shortest chain",
+      "Longest dependent chain sets duration",
+      "Ignored path",
+      "Budget contingency"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Compliant bid: [project]",
+    "choices": [
+      "Lowest price only",
+      "Email to PM",
+      "Include shop drawings",
+      "Meets mandatory reqs & on time"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Critical path: [project]",
+    "choices": [
+      "Longest dependent chain sets duration",
+      "Budget contingency",
+      "Ignored path",
+      "Shortest chain"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Addendum is: [project]",
+    "choices": [
+      "Change to tender docs pre-closing",
+      "Site memo",
+      "Change order",
+      "Bid bond"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Critical path: [project]",
+    "choices": [
+      "Shortest chain",
+      "Budget contingency",
+      "Ignored path",
+      "Longest dependent chain sets duration"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Addendum is: [project]",
+    "choices": [
+      "Change to tender docs pre-closing",
+      "Site memo",
+      "Change order",
+      "Bid bond"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "RFI use: [project]",
+    "choices": [
+      "Clarify discrepancies/missing info",
+      "Replace specs",
+      "Modify price directly",
+      "Approve payments"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Shop drawings: [project]",
+    "choices": [
+      "Change orders",
+      "Show fabrication/installation",
+      "Contract documents",
+      "Owner financing docs"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Compliant bid: [project]",
+    "choices": [
+      "Meets mandatory reqs & on time",
+      "Lowest price only",
+      "Email to PM",
+      "Include shop drawings"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Compliant bid: [project]",
+    "choices": [
+      "Meets mandatory reqs & on time",
+      "Include shop drawings",
+      "Email to PM",
+      "Lowest price only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Critical path: [project]",
+    "choices": [
+      "Shortest chain",
+      "Longest dependent chain sets duration",
+      "Budget contingency",
+      "Ignored path"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "RFI use: [project]",
+    "choices": [
+      "Approve payments",
+      "Modify price directly",
+      "Replace specs",
+      "Clarify discrepancies/missing info"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "RFI use: [project]",
+    "choices": [
+      "Clarify discrepancies/missing info",
+      "Replace specs",
+      "Approve payments",
+      "Modify price directly"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Compliant bid: [project]",
+    "choices": [
+      "Lowest price only",
+      "Meets mandatory reqs & on time",
+      "Email to PM",
+      "Include shop drawings"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "RFI use: [project]",
+    "choices": [
+      "Approve payments",
+      "Modify price directly",
+      "Replace specs",
+      "Clarify discrepancies/missing info"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Compliant bid: [project]",
+    "choices": [
+      "Lowest price only",
+      "Include shop drawings",
+      "Email to PM",
+      "Meets mandatory reqs & on time"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "RFI use: [project]",
+    "choices": [
+      "Clarify discrepancies/missing info",
+      "Approve payments",
+      "Modify price directly",
+      "Replace specs"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "RFI use: [project]",
+    "choices": [
+      "Modify price directly",
+      "Clarify discrepancies/missing info",
+      "Approve payments",
+      "Replace specs"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Addendum is: [project]",
+    "choices": [
+      "Change order",
+      "Bid bond",
+      "Site memo",
+      "Change to tender docs pre-closing"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Shop drawings: [project]",
+    "choices": [
+      "Owner financing docs",
+      "Change orders",
+      "Show fabrication/installation",
+      "Contract documents"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Compliant bid: [project]",
+    "choices": [
+      "Meets mandatory reqs & on time",
+      "Email to PM",
+      "Lowest price only",
+      "Include shop drawings"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Critical path: [project]",
+    "choices": [
+      "Budget contingency",
+      "Ignored path",
+      "Longest dependent chain sets duration",
+      "Shortest chain"
+    ],
+    "answer": 2
+  }
+]

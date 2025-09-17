@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Backfill in lifts allows: [execution]",
+    "choices": [
+      "Faster hauling only",
+      "Cheaper labour",
+      "Less testing",
+      "Proper compaction to achieve density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Concrete strength verified by: [execution]",
+    "choices": [
+      "Slump only",
+      "Torque wrench",
+      "Visual only",
+      "Lab cylinder breaks at ages"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Conductor sizing considers: [execution]",
+    "choices": [
+      "Conduit colour",
+      "Labels",
+      "Sticker price",
+      "Ampacity, temp, derating, code tables"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Concrete strength verified by: [execution]",
+    "choices": [
+      "Torque wrench",
+      "Visual only",
+      "Slump only",
+      "Lab cylinder breaks at ages"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Backfill in lifts allows: [execution]",
+    "choices": [
+      "Faster hauling only",
+      "Proper compaction to achieve density",
+      "Less testing",
+      "Cheaper labour"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "HVAC commissioning includes: [execution]",
+    "choices": [
+      "Air/water balancing & controls",
+      "Paint ducts",
+      "Tax audit",
+      "Count registers"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Backfill in lifts allows: [execution]",
+    "choices": [
+      "Cheaper labour",
+      "Less testing",
+      "Faster hauling only",
+      "Proper compaction to achieve density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Backfill in lifts allows: [execution]",
+    "choices": [
+      "Proper compaction to achieve density",
+      "Less testing",
+      "Faster hauling only",
+      "Cheaper labour"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Conductor sizing considers: [execution]",
+    "choices": [
+      "Labels",
+      "Conduit colour",
+      "Ampacity, temp, derating, code tables",
+      "Sticker price"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Conductor sizing considers: [execution]",
+    "choices": [
+      "Ampacity, temp, derating, code tables",
+      "Sticker price",
+      "Labels",
+      "Conduit colour"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Concrete strength verified by: [execution]",
+    "choices": [
+      "Visual only",
+      "Slump only",
+      "Torque wrench",
+      "Lab cylinder breaks at ages"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Concrete strength verified by: [execution]",
+    "choices": [
+      "Torque wrench",
+      "Slump only",
+      "Lab cylinder breaks at ages",
+      "Visual only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "HVAC commissioning includes: [execution]",
+    "choices": [
+      "Air/water balancing & controls",
+      "Count registers",
+      "Paint ducts",
+      "Tax audit"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Firestopping ensures: [execution]",
+    "choices": [
+      "Higher R-value",
+      "Penetrations keep fire rating",
+      "Only soundproofing",
+      "Paint adhesion"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "HVAC commissioning includes: [execution]",
+    "choices": [
+      "Count registers",
+      "Air/water balancing & controls",
+      "Paint ducts",
+      "Tax audit"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "HVAC commissioning includes: [execution]",
+    "choices": [
+      "Count registers",
+      "Air/water balancing & controls",
+      "Tax audit",
+      "Paint ducts"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Concrete strength verified by: [execution]",
+    "choices": [
+      "Slump only",
+      "Torque wrench",
+      "Visual only",
+      "Lab cylinder breaks at ages"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Conductor sizing considers: [execution]",
+    "choices": [
+      "Labels",
+      "Conduit colour",
+      "Sticker price",
+      "Ampacity, temp, derating, code tables"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Backfill in lifts allows: [execution]",
+    "choices": [
+      "Faster hauling only",
+      "Less testing",
+      "Proper compaction to achieve density",
+      "Cheaper labour"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Conductor sizing considers: [execution]",
+    "choices": [
+      "Labels",
+      "Ampacity, temp, derating, code tables",
+      "Sticker price",
+      "Conduit colour"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Conductor sizing considers: [execution]",
+    "choices": [
+      "Sticker price",
+      "Ampacity, temp, derating, code tables",
+      "Labels",
+      "Conduit colour"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Backfill in lifts allows: [execution]",
+    "choices": [
+      "Proper compaction to achieve density",
+      "Less testing",
+      "Faster hauling only",
+      "Cheaper labour"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Firestopping ensures: [execution]",
+    "choices": [
+      "Only soundproofing",
+      "Higher R-value",
+      "Paint adhesion",
+      "Penetrations keep fire rating"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Conductor sizing considers: [execution]",
+    "choices": [
+      "Labels",
+      "Sticker price",
+      "Ampacity, temp, derating, code tables",
+      "Conduit colour"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Backfill in lifts allows: [execution]",
+    "choices": [
+      "Less testing",
+      "Proper compaction to achieve density",
+      "Faster hauling only",
+      "Cheaper labour"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Concrete strength verified by: [execution]",
+    "choices": [
+      "Visual only",
+      "Lab cylinder breaks at ages",
+      "Slump only",
+      "Torque wrench"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Firestopping ensures: [execution]",
+    "choices": [
+      "Penetrations keep fire rating",
+      "Only soundproofing",
+      "Paint adhesion",
+      "Higher R-value"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Conductor sizing considers: [execution]",
+    "choices": [
+      "Labels",
+      "Conduit colour",
+      "Ampacity, temp, derating, code tables",
+      "Sticker price"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Concrete strength verified by: [execution]",
+    "choices": [
+      "Torque wrench",
+      "Lab cylinder breaks at ages",
+      "Slump only",
+      "Visual only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Backfill in lifts allows: [execution]",
+    "choices": [
+      "Faster hauling only",
+      "Cheaper labour",
+      "Less testing",
+      "Proper compaction to achieve density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Conductor sizing considers: [execution]",
+    "choices": [
+      "Sticker price",
+      "Labels",
+      "Ampacity, temp, derating, code tables",
+      "Conduit colour"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "HVAC commissioning includes: [execution]",
+    "choices": [
+      "Tax audit",
+      "Count registers",
+      "Paint ducts",
+      "Air/water balancing & controls"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Conductor sizing considers: [execution]",
+    "choices": [
+      "Conduit colour",
+      "Labels",
+      "Ampacity, temp, derating, code tables",
+      "Sticker price"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Firestopping ensures: [execution]",
+    "choices": [
+      "Paint adhesion",
+      "Only soundproofing",
+      "Higher R-value",
+      "Penetrations keep fire rating"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Firestopping ensures: [execution]",
+    "choices": [
+      "Penetrations keep fire rating",
+      "Higher R-value",
+      "Only soundproofing",
+      "Paint adhesion"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Firestopping ensures: [execution]",
+    "choices": [
+      "Only soundproofing",
+      "Penetrations keep fire rating",
+      "Paint adhesion",
+      "Higher R-value"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "HVAC commissioning includes: [execution]",
+    "choices": [
+      "Paint ducts",
+      "Count registers",
+      "Tax audit",
+      "Air/water balancing & controls"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "HVAC commissioning includes: [execution]",
+    "choices": [
+      "Tax audit",
+      "Air/water balancing & controls",
+      "Count registers",
+      "Paint ducts"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Concrete strength verified by: [execution]",
+    "choices": [
+      "Visual only",
+      "Lab cylinder breaks at ages",
+      "Torque wrench",
+      "Slump only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Firestopping ensures: [execution]",
+    "choices": [
+      "Penetrations keep fire rating",
+      "Paint adhesion",
+      "Higher R-value",
+      "Only soundproofing"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Firestopping ensures: [execution]",
+    "choices": [
+      "Higher R-value",
+      "Paint adhesion",
+      "Penetrations keep fire rating",
+      "Only soundproofing"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Backfill in lifts allows: [execution]",
+    "choices": [
+      "Proper compaction to achieve density",
+      "Faster hauling only",
+      "Cheaper labour",
+      "Less testing"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Conductor sizing considers: [execution]",
+    "choices": [
+      "Ampacity, temp, derating, code tables",
+      "Sticker price",
+      "Conduit colour",
+      "Labels"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Concrete strength verified by: [execution]",
+    "choices": [
+      "Lab cylinder breaks at ages",
+      "Torque wrench",
+      "Visual only",
+      "Slump only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Conductor sizing considers: [execution]",
+    "choices": [
+      "Labels",
+      "Sticker price",
+      "Ampacity, temp, derating, code tables",
+      "Conduit colour"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Concrete strength verified by: [execution]",
+    "choices": [
+      "Slump only",
+      "Lab cylinder breaks at ages",
+      "Torque wrench",
+      "Visual only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Backfill in lifts allows: [execution]",
+    "choices": [
+      "Faster hauling only",
+      "Less testing",
+      "Proper compaction to achieve density",
+      "Cheaper labour"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Firestopping ensures: [execution]",
+    "choices": [
+      "Higher R-value",
+      "Only soundproofing",
+      "Paint adhesion",
+      "Penetrations keep fire rating"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Firestopping ensures: [execution]",
+    "choices": [
+      "Only soundproofing",
+      "Higher R-value",
+      "Penetrations keep fire rating",
+      "Paint adhesion"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Backfill in lifts allows: [execution]",
+    "choices": [
+      "Cheaper labour",
+      "Less testing",
+      "Proper compaction to achieve density",
+      "Faster hauling only"
+    ],
+    "answer": 2
+  }
+]

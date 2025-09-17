@@ -1,137 +1,110 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>RBQ Exams</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <div class="topbar">
-    <div class="lang-toggle">
-      <a href="#" id="langEN">EN</a>
-      <a href="#" id="langFR">FR</a>
-      <button id="savedBtn" class="ghost"></button>
-    </div>
-  </div>
-  <h1 id="title">RBQ Administration Module</h1>
-  <div class="mode-toggle">
-    <span id="modeLabel">Mode:</span>
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RBQ Exams</title><link rel="stylesheet" href="style.css"></head><body>
+<div class="topbar"><div class="lang-toggle">
+  <a href="#" id="langEN">EN</a><a href="#" id="langFR">FR</a>
+  <button id="savedBtn" class="ghost"></button>
+</div></div>
+<h1 id="title">RBQ Qualification Practice</h1>
+<div class="panel"><div class="row">
+  <div class="cell"><label id="modeLabel">Mode:</label>
     <a href="#" id="modeExam" class="pill active">Exam</a>
     <a href="#" id="modeLearn" class="pill">Learn</a>
   </div>
-  <h2 id="subtitle">Select an Exam</h2>
-  <div class="exam-list" id="examList"></div>
-
-  <div id="savedModal" class="modal" hidden>
-    <div class="modal-card">
-      <div class="modal-head">
-        <h3 id="savedTitle">Saved Exams</h3>
-        <button id="closeSaved" class="ghost">✕</button>
-      </div>
-      <div id="savedList" class="saved-list"></div>
-    </div>
+  <div class="cell"><label id="moduleLabel">Module:</label>
+    <select id="moduleSelect">
+      <option value="admin">Administration</option>
+      <option value="safety">Safety</option>
+      <option value="project">Projects & Sites</option>
+      <option value="execution">Execution of Work</option>
+    </select>
   </div>
+</div></div>
+<h2 id="subtitle">Select an Exam</h2>
+<div class="exam-list" id="examList"></div>
 
-  <script>
-    const params = new URLSearchParams(location.search);
-    let lang = params.get('lang') || localStorage.getItem('rbq_lang') || 'en';
-    let mode = params.get('mode') || localStorage.getItem('rbq_mode') || 'exam';
-    document.documentElement.lang = lang;
-    localStorage.setItem('rbq_lang', lang);
-    localStorage.setItem('rbq_mode', mode);
+<div id="savedModal" class="modal" hidden>
+  <div class="modal-card">
+    <div class="modal-head">
+      <h3 id="savedTitle">Saved Exams</h3>
+      <button id="closeSaved" class="ghost">✕</button>
+    </div>
+    <div id="savedList" class="saved-list"></div>
+  </div>
+</div>
 
-    const T = {
-      en:{title:'RBQ Administration Module',subtitle:'Select an Exam',label:'Exam',back:'← All Exams',saved:'Saved Exams',open:'Open',del:'Delete',none:'No saved exams yet.',mode:'Mode:',exam:'Exam',learn:'Learn'},
-      fr:{title:'Module Administration RBQ',subtitle:'Choisissez un examen',label:'Examen',back:'← Tous les examens',saved:'Examens enregistrés',open:'Ouvrir',del:'Supprimer',none:'Aucun examen enregistré.',mode:'Mode :',exam:'Examen',learn:'Apprendre'}
-    }[lang];
+<script>
+const sp=new URLSearchParams(location.search);
+let lang=sp.get('lang')||localStorage.getItem('rbq_lang')||'en';
+let mode=sp.get('mode')||localStorage.getItem('rbq_mode')||'exam';
+let moduleKey=sp.get('module')||localStorage.getItem('rbq_module')||'admin';
+document.documentElement.lang=lang;
+localStorage.setItem('rbq_lang',lang);
+localStorage.setItem('rbq_mode',mode);
+localStorage.setItem('rbq_module',moduleKey);
 
-    function syncLangButtons(){
-      const enURL = new URL(location.href);
-      enURL.searchParams.set('lang','en');
-      enURL.searchParams.set('mode',mode);
-      const frURL = new URL(location.href);
-      frURL.searchParams.set('lang','fr');
-      frURL.searchParams.set('mode',mode);
-      document.getElementById('langEN').href = enURL.toString();
-      document.getElementById('langFR').href = frURL.toString();
-      document.getElementById('langEN').classList.toggle('active', lang==='en');
-      document.getElementById('langFR').classList.toggle('active', lang==='fr');
-    }
+const L={en:{title:'RBQ Qualification Practice',subtitle:'Select an Exam',saved:'Saved Exams',mode:'Mode:',exam:'Exam',learn:'Learn',module:'Module:',modules:{admin:'Administration',safety:'Safety',project:'Projects & Sites',execution:'Execution of Work'},label:'Exam',open:'Open',del:'Delete',none:'No saved exams yet.'},
+fr:{title:'Exercices de qualification RBQ',subtitle:'Choisissez un examen',saved:'Examens enregistrés',mode:'Mode :',exam:'Examen',learn:'Apprendre',module:'Module :',modules:{admin:'Administration',safety:'Sécurité',project:'Gestion de projets et chantiers',execution:'Exécution des travaux'},label:'Examen',open:'Ouvrir',del:'Supprimer',none:'Aucun examen enregistré.'}}[lang];
 
-    function renderExams(){
-      const list = document.getElementById('examList');
-      list.innerHTML = '';
-      for(let i=1;i<=10;i++){
-        const a = document.createElement('a');
-        a.href = `exam.html?exam=${i}&lang=${lang}&mode=${mode}`;
-        a.textContent = `${T.label} ${i}`;
-        list.appendChild(a);
-      }
-    }
+title.textContent=L.title;subtitle.textContent=L.subtitle;modeLabel.textContent=L.mode;moduleLabel.textContent=L.module;
+modeExam.textContent=L.exam;modeLearn.textContent=L.learn;
+moduleSelect.value=moduleKey;for(const opt of moduleSelect.options){opt.textContent=L.modules[opt.value];}
 
-    // Init UI text
-    document.getElementById('title').textContent = T.title;
-    document.getElementById('subtitle').textContent = T.subtitle;
-    document.getElementById('savedBtn').textContent = T.saved;
-    document.getElementById('modeLabel').textContent = T.mode;
-    document.getElementById('modeExam').textContent = T.exam;
-    document.getElementById('modeLearn').textContent = T.learn;
+function syncLangButtons(){
+  const enURL=new URL(location.href);enURL.searchParams.set('lang','en');enURL.searchParams.set('mode',mode);enURL.searchParams.set('module',moduleKey);
+  const frURL=new URL(location.href);frURL.searchParams.set('lang','fr');frURL.searchParams.set('mode',mode);frURL.searchParams.set('module',moduleKey);
+  langEN.href=enURL.toString();langFR.href=frURL.toString();
+  langEN.classList.toggle('active',lang==='en');langFR.classList.toggle('active',lang==='fr');
+}
+function renderExams(){
+  examList.innerHTML='';
+  for(let i=1;i<=10;i++){
+    const a=document.createElement('a');
+    a.href=`exam.html?module=${moduleKey}&exam=${i}&lang=${lang}&mode=${mode}`;
+    a.textContent=`${L.label} ${i}`;
+    examList.appendChild(a);
+  }
+}
+function setMode(m){
+  mode=m;localStorage.setItem('rbq_mode',mode);
+  modeExam.classList.toggle('active',mode==='exam');
+  modeLearn.classList.toggle('active',mode==='learn');
+  renderExams();syncLangButtons();
+  const url=new URL(location.href);url.searchParams.set('lang',lang);url.searchParams.set('mode',mode);url.searchParams.set('module',moduleKey);
+  history.replaceState(null,'',url.toString());
+}
+function setModule(k){
+  moduleKey=k;localStorage.setItem('rbq_module',moduleKey);
+  renderExams();syncLangButtons();
+  const url=new URL(location.href);url.searchParams.set('lang',lang);url.searchParams.set('mode',mode);url.searchParams.set('module',moduleKey);
+  history.replaceState(null,'',url.toString());
+}
+modeExam.onclick=e=>{e.preventDefault();setMode('exam')};
+modeLearn.onclick=e=>{e.preventDefault();setMode('learn')};
+moduleSelect.onchange=e=>{setModule(e.target.value)};
 
-    function setMode(m){
-      mode = m;
-      localStorage.setItem('rbq_mode', mode);
-      document.getElementById('modeExam').classList.toggle('active', mode==='exam');
-      document.getElementById('modeLearn').classList.toggle('active', mode==='learn');
-      renderExams();
-      syncLangButtons();
-      const url = new URL(location.href);
-      url.searchParams.set('lang', lang);
-      url.searchParams.set('mode', mode);
-      history.replaceState(null,'',url.toString());
-    }
+function getSaved(){try{return JSON.parse(localStorage.getItem('rbq_saved_exams_v3')||'[]')}catch(e){return[]}}
+function fmt(d){try{return new Date(d).toLocaleString()}catch(e){return d}}
+function renderSaved(){
+  const box=document.getElementById('savedList');
+  const data=getSaved();
+  box.innerHTML=data.length?data.map(s=>`
+    <div class="saved-row">
+      <div>
+        <div class="saved-name">${s.name}</div>
+        <div class="saved-meta">${s.lang.toUpperCase()} · ${(s.mode||'exam').toUpperCase()} · ${L.modules[s.module]||s.module} · Exam ${s.examNumber} · ${fmt(s.savedAt)}</div>
+      </div>
+      <div class="saved-actions">
+        <a class="btn small" href="exam.html?loadId=${s.id}&lang=${lang}">${L.open}</a>
+        <button class="btn small danger" data-del="${s.id}">${L.del}</button>
+      </div>
+    </div>`).join(''):`<p>${L.none}</p>`;
+  box.querySelectorAll('[data-del]').forEach(b=>b.onclick=()=>{const id=b.getAttribute('data-del');localStorage.setItem('rbq_saved_exams_v3', JSON.stringify(getSaved().filter(x=>x.id!==id)));renderSaved();});
+}
+savedBtn.textContent=L.saved;
+savedBtn.onclick=()=>{savedModal.hidden=false;renderSaved()};
+closeSaved.onclick=()=>{savedModal.hidden=true};
+savedModal.addEventListener('click',e=>{if(e.target===savedModal)savedModal.hidden=true});
 
-    // Wire mode toggles
-    document.getElementById('modeExam').onclick = (e)=>{ e.preventDefault(); setMode('exam'); };
-    document.getElementById('modeLearn').onclick = (e)=>{ e.preventDefault(); setMode('learn'); };
-
-    // Saved modal shared list
-    function getSaved(){ try{return JSON.parse(localStorage.getItem('rbq_saved_exams_v2')||'[]')}catch(e){return[]} }
-    function fmt(d){ try{ return new Date(d).toLocaleString(); }catch(e){ return d; } }
-    function renderSaved(){
-      const box=document.getElementById('savedList');
-      const data=getSaved();
-      if(data.length===0){ box.innerHTML=`<p>${T.none}</p>`; return; }
-      box.innerHTML = data.map(s=>`
-        <div class="saved-row">
-          <div>
-            <div class="saved-name">${s.name}</div>
-            <div class="saved-meta">${s.lang.toUpperCase()} · ${(s.mode||'exam').toUpperCase()} · Exam ${s.examNumber} · ${fmt(s.savedAt)}</div>
-          </div>
-          <div class="saved-actions">
-            <a class="btn small" href="exam.html?loadId=${s.id}&lang=${lang}">${T.open}</a>
-            <button class="btn small danger" data-del="${s.id}">${T.del}</button>
-          </div>
-        </div>
-      `).join('');
-      box.querySelectorAll('[data-del]').forEach(b=>b.addEventListener('click',()=>{
-        const id=b.getAttribute('data-del');
-        const all=getSaved().filter(x=>x.id!==id);
-        localStorage.setItem('rbq_saved_exams_v2', JSON.stringify(all));
-        renderSaved();
-      }));
-    }
-
-    // Saved modal wiring
-    const savedBtn=document.getElementById('savedBtn');
-    const modal=document.getElementById('savedModal');
-    const closeSaved=document.getElementById('closeSaved');
-    savedBtn.onclick=()=>{ modal.hidden=false; renderSaved(); };
-    closeSaved.onclick=()=>{ modal.hidden=true; };
-    modal.addEventListener('click',e=>{ if(e.target===modal) modal.hidden=true; });
-
-    // Initial render
-    setMode(mode); // this calls renderExams + syncLangButtons
-  </script>
-</body>
-</html>
+setMode(mode);setModule(moduleKey);syncLangButtons();
+</script></body></html>

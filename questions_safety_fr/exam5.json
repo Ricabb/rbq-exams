@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Travail en hauteur : [safety]",
+    "choices": [
+      "Aucune formation",
+      "Formation + protection contre les chutes",
+      "Permis chariot seulement",
+      "Permis espace clos seulement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "SIMDUT : [safety]",
+    "choices": [
+      "Impôts",
+      "Classes de danger, étiquettes, FDS",
+      "Gouvernance",
+      "Plans de circulation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Refus d’un travail dangereux : [safety]",
+    "choices": [
+      "Superviseurs seulement",
+      "Syndiqués seulement",
+      "Personne",
+      "Tout travailleur avec motifs raisonnables"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Refus d’un travail dangereux : [safety]",
+    "choices": [
+      "Personne",
+      "Superviseurs seulement",
+      "Syndiqués seulement",
+      "Tout travailleur avec motifs raisonnables"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Refus d’un travail dangereux : [safety]",
+    "choices": [
+      "Syndiqués seulement",
+      "Superviseurs seulement",
+      "Personne",
+      "Tout travailleur avec motifs raisonnables"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Contrôle de la silice : [safety]",
+    "choices": [
+      "Aucun contrôle",
+      "Peindre la poussière",
+      "Coupe à l’eau/aspiration + respirateurs",
+      "Bouchons d’oreilles"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Cadenassage : [safety]",
+    "choices": [
+      "Décore les machines",
+      "Accélère la production",
+      "Empêche le démarrage pendant l’entretien",
+      "Remplace les EPI"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Cadenassage : [safety]",
+    "choices": [
+      "Empêche le démarrage pendant l’entretien",
+      "Décore les machines",
+      "Accélère la production",
+      "Remplace les EPI"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Travail en hauteur : [safety]",
+    "choices": [
+      "Permis chariot seulement",
+      "Permis espace clos seulement",
+      "Aucune formation",
+      "Formation + protection contre les chutes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "SIMDUT : [safety]",
+    "choices": [
+      "Classes de danger, étiquettes, FDS",
+      "Impôts",
+      "Plans de circulation",
+      "Gouvernance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Travail en hauteur : [safety]",
+    "choices": [
+      "Aucune formation",
+      "Permis espace clos seulement",
+      "Formation + protection contre les chutes",
+      "Permis chariot seulement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Cadenassage : [safety]",
+    "choices": [
+      "Accélère la production",
+      "Remplace les EPI",
+      "Empêche le démarrage pendant l’entretien",
+      "Décore les machines"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "SIMDUT : [safety]",
+    "choices": [
+      "Impôts",
+      "Gouvernance",
+      "Plans de circulation",
+      "Classes de danger, étiquettes, FDS"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "SIMDUT : [safety]",
+    "choices": [
+      "Classes de danger, étiquettes, FDS",
+      "Gouvernance",
+      "Plans de circulation",
+      "Impôts"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "SIMDUT : [safety]",
+    "choices": [
+      "Gouvernance",
+      "Plans de circulation",
+      "Impôts",
+      "Classes de danger, étiquettes, FDS"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Refus d’un travail dangereux : [safety]",
+    "choices": [
+      "Superviseurs seulement",
+      "Tout travailleur avec motifs raisonnables",
+      "Personne",
+      "Syndiqués seulement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Cadenassage : [safety]",
+    "choices": [
+      "Décore les machines",
+      "Remplace les EPI",
+      "Accélère la production",
+      "Empêche le démarrage pendant l’entretien"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Contrôle de la silice : [safety]",
+    "choices": [
+      "Peindre la poussière",
+      "Bouchons d’oreilles",
+      "Coupe à l’eau/aspiration + respirateurs",
+      "Aucun contrôle"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Travail en hauteur : [safety]",
+    "choices": [
+      "Permis chariot seulement",
+      "Aucune formation",
+      "Formation + protection contre les chutes",
+      "Permis espace clos seulement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Cadenassage : [safety]",
+    "choices": [
+      "Accélère la production",
+      "Empêche le démarrage pendant l’entretien",
+      "Remplace les EPI",
+      "Décore les machines"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Refus d’un travail dangereux : [safety]",
+    "choices": [
+      "Tout travailleur avec motifs raisonnables",
+      "Personne",
+      "Syndiqués seulement",
+      "Superviseurs seulement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Refus d’un travail dangereux : [safety]",
+    "choices": [
+      "Tout travailleur avec motifs raisonnables",
+      "Superviseurs seulement",
+      "Personne",
+      "Syndiqués seulement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Travail en hauteur : [safety]",
+    "choices": [
+      "Aucune formation",
+      "Permis chariot seulement",
+      "Formation + protection contre les chutes",
+      "Permis espace clos seulement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "SIMDUT : [safety]",
+    "choices": [
+      "Gouvernance",
+      "Classes de danger, étiquettes, FDS",
+      "Plans de circulation",
+      "Impôts"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "SIMDUT : [safety]",
+    "choices": [
+      "Gouvernance",
+      "Classes de danger, étiquettes, FDS",
+      "Impôts",
+      "Plans de circulation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Contrôle de la silice : [safety]",
+    "choices": [
+      "Peindre la poussière",
+      "Bouchons d’oreilles",
+      "Coupe à l’eau/aspiration + respirateurs",
+      "Aucun contrôle"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Refus d’un travail dangereux : [safety]",
+    "choices": [
+      "Personne",
+      "Syndiqués seulement",
+      "Superviseurs seulement",
+      "Tout travailleur avec motifs raisonnables"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "SIMDUT : [safety]",
+    "choices": [
+      "Classes de danger, étiquettes, FDS",
+      "Gouvernance",
+      "Impôts",
+      "Plans de circulation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Cadenassage : [safety]",
+    "choices": [
+      "Accélère la production",
+      "Empêche le démarrage pendant l’entretien",
+      "Remplace les EPI",
+      "Décore les machines"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "SIMDUT : [safety]",
+    "choices": [
+      "Classes de danger, étiquettes, FDS",
+      "Impôts",
+      "Plans de circulation",
+      "Gouvernance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Refus d’un travail dangereux : [safety]",
+    "choices": [
+      "Superviseurs seulement",
+      "Syndiqués seulement",
+      "Personne",
+      "Tout travailleur avec motifs raisonnables"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Travail en hauteur : [safety]",
+    "choices": [
+      "Permis espace clos seulement",
+      "Permis chariot seulement",
+      "Aucune formation",
+      "Formation + protection contre les chutes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Travail en hauteur : [safety]",
+    "choices": [
+      "Permis espace clos seulement",
+      "Formation + protection contre les chutes",
+      "Aucune formation",
+      "Permis chariot seulement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Cadenassage : [safety]",
+    "choices": [
+      "Décore les machines",
+      "Remplace les EPI",
+      "Accélère la production",
+      "Empêche le démarrage pendant l’entretien"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Travail en hauteur : [safety]",
+    "choices": [
+      "Permis espace clos seulement",
+      "Aucune formation",
+      "Permis chariot seulement",
+      "Formation + protection contre les chutes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Refus d’un travail dangereux : [safety]",
+    "choices": [
+      "Personne",
+      "Syndiqués seulement",
+      "Superviseurs seulement",
+      "Tout travailleur avec motifs raisonnables"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "SIMDUT : [safety]",
+    "choices": [
+      "Gouvernance",
+      "Plans de circulation",
+      "Impôts",
+      "Classes de danger, étiquettes, FDS"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Cadenassage : [safety]",
+    "choices": [
+      "Empêche le démarrage pendant l’entretien",
+      "Décore les machines",
+      "Accélère la production",
+      "Remplace les EPI"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Refus d’un travail dangereux : [safety]",
+    "choices": [
+      "Superviseurs seulement",
+      "Personne",
+      "Syndiqués seulement",
+      "Tout travailleur avec motifs raisonnables"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Refus d’un travail dangereux : [safety]",
+    "choices": [
+      "Personne",
+      "Superviseurs seulement",
+      "Syndiqués seulement",
+      "Tout travailleur avec motifs raisonnables"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Cadenassage : [safety]",
+    "choices": [
+      "Accélère la production",
+      "Empêche le démarrage pendant l’entretien",
+      "Décore les machines",
+      "Remplace les EPI"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Contrôle de la silice : [safety]",
+    "choices": [
+      "Aucun contrôle",
+      "Coupe à l’eau/aspiration + respirateurs",
+      "Bouchons d’oreilles",
+      "Peindre la poussière"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "SIMDUT : [safety]",
+    "choices": [
+      "Impôts",
+      "Plans de circulation",
+      "Gouvernance",
+      "Classes de danger, étiquettes, FDS"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Travail en hauteur : [safety]",
+    "choices": [
+      "Permis espace clos seulement",
+      "Aucune formation",
+      "Permis chariot seulement",
+      "Formation + protection contre les chutes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Refus d’un travail dangereux : [safety]",
+    "choices": [
+      "Syndiqués seulement",
+      "Superviseurs seulement",
+      "Personne",
+      "Tout travailleur avec motifs raisonnables"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Refus d’un travail dangereux : [safety]",
+    "choices": [
+      "Superviseurs seulement",
+      "Syndiqués seulement",
+      "Tout travailleur avec motifs raisonnables",
+      "Personne"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Contrôle de la silice : [safety]",
+    "choices": [
+      "Coupe à l’eau/aspiration + respirateurs",
+      "Aucun contrôle",
+      "Bouchons d’oreilles",
+      "Peindre la poussière"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Travail en hauteur : [safety]",
+    "choices": [
+      "Permis chariot seulement",
+      "Permis espace clos seulement",
+      "Aucune formation",
+      "Formation + protection contre les chutes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Contrôle de la silice : [safety]",
+    "choices": [
+      "Peindre la poussière",
+      "Aucun contrôle",
+      "Coupe à l’eau/aspiration + respirateurs",
+      "Bouchons d’oreilles"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Contrôle de la silice : [safety]",
+    "choices": [
+      "Coupe à l’eau/aspiration + respirateurs",
+      "Bouchons d’oreilles",
+      "Aucun contrôle",
+      "Peindre la poussière"
+    ],
+    "answer": 0
+  }
+]

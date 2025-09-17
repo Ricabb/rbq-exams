@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Payment bond protects: [admin]",
+    "choices": [
+      "Designers only",
+      "Owners only",
+      "Subcontractors & suppliers for unpaid amounts",
+      "Banks only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Performance bond protects: [admin]",
+    "choices": [
+      "Owner against contractor default",
+      "Contractor profit",
+      "Architect copyright",
+      "Bank rates"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Performance bond protects: [admin]",
+    "choices": [
+      "Contractor profit",
+      "Architect copyright",
+      "Owner against contractor default",
+      "Bank rates"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Performance bond protects: [admin]",
+    "choices": [
+      "Architect copyright",
+      "Owner against contractor default",
+      "Contractor profit",
+      "Bank rates"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If drawings vs specs conflict (no priority): [admin]",
+    "choices": [
+      "Invoices prevail",
+      "Shop drawings prevail",
+      "Verbal instructions prevail",
+      "Specifications usually prevail"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Payment bond protects: [admin]",
+    "choices": [
+      "Banks only",
+      "Subcontractors & suppliers for unpaid amounts",
+      "Designers only",
+      "Owners only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "RBQ licence guarantor's main role? [admin]",
+    "choices": [
+      "Approve invoices",
+      "Ensure competence & compliance",
+      "Manage highways",
+      "Set bylaws"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Performance bond protects: [admin]",
+    "choices": [
+      "Owner against contractor default",
+      "Architect copyright",
+      "Contractor profit",
+      "Bank rates"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Bid bond: [admin]",
+    "choices": [
+      "Replaces performance bond",
+      "Guarantees perfect quality",
+      "Guarantees bidder signs if awarded",
+      "Pays subs directly"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Payment bond protects: [admin]",
+    "choices": [
+      "Banks only",
+      "Owners only",
+      "Subcontractors & suppliers for unpaid amounts",
+      "Designers only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Payment bond protects: [admin]",
+    "choices": [
+      "Owners only",
+      "Designers only",
+      "Banks only",
+      "Subcontractors & suppliers for unpaid amounts"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Payment bond protects: [admin]",
+    "choices": [
+      "Subcontractors & suppliers for unpaid amounts",
+      "Banks only",
+      "Designers only",
+      "Owners only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Performance bond protects: [admin]",
+    "choices": [
+      "Owner against contractor default",
+      "Bank rates",
+      "Architect copyright",
+      "Contractor profit"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "RBQ licence guarantor's main role? [admin]",
+    "choices": [
+      "Ensure competence & compliance",
+      "Set bylaws",
+      "Approve invoices",
+      "Manage highways"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Performance bond protects: [admin]",
+    "choices": [
+      "Contractor profit",
+      "Architect copyright",
+      "Bank rates",
+      "Owner against contractor default"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "RBQ licence guarantor's main role? [admin]",
+    "choices": [
+      "Approve invoices",
+      "Ensure competence & compliance",
+      "Manage highways",
+      "Set bylaws"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If drawings vs specs conflict (no priority): [admin]",
+    "choices": [
+      "Invoices prevail",
+      "Verbal instructions prevail",
+      "Specifications usually prevail",
+      "Shop drawings prevail"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Performance bond protects: [admin]",
+    "choices": [
+      "Contractor profit",
+      "Owner against contractor default",
+      "Architect copyright",
+      "Bank rates"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Payment bond protects: [admin]",
+    "choices": [
+      "Designers only",
+      "Subcontractors & suppliers for unpaid amounts",
+      "Banks only",
+      "Owners only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Payment bond protects: [admin]",
+    "choices": [
+      "Designers only",
+      "Banks only",
+      "Owners only",
+      "Subcontractors & suppliers for unpaid amounts"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If drawings vs specs conflict (no priority): [admin]",
+    "choices": [
+      "Invoices prevail",
+      "Shop drawings prevail",
+      "Verbal instructions prevail",
+      "Specifications usually prevail"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "RBQ licence guarantor's main role? [admin]",
+    "choices": [
+      "Approve invoices",
+      "Set bylaws",
+      "Ensure competence & compliance",
+      "Manage highways"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "RBQ licence guarantor's main role? [admin]",
+    "choices": [
+      "Set bylaws",
+      "Approve invoices",
+      "Manage highways",
+      "Ensure competence & compliance"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Payment bond protects: [admin]",
+    "choices": [
+      "Banks only",
+      "Owners only",
+      "Subcontractors & suppliers for unpaid amounts",
+      "Designers only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Payment bond protects: [admin]",
+    "choices": [
+      "Owners only",
+      "Subcontractors & suppliers for unpaid amounts",
+      "Banks only",
+      "Designers only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Performance bond protects: [admin]",
+    "choices": [
+      "Owner against contractor default",
+      "Contractor profit",
+      "Bank rates",
+      "Architect copyright"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "RBQ licence guarantor's main role? [admin]",
+    "choices": [
+      "Set bylaws",
+      "Ensure competence & compliance",
+      "Approve invoices",
+      "Manage highways"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Bid bond: [admin]",
+    "choices": [
+      "Guarantees perfect quality",
+      "Replaces performance bond",
+      "Pays subs directly",
+      "Guarantees bidder signs if awarded"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Bid bond: [admin]",
+    "choices": [
+      "Guarantees bidder signs if awarded",
+      "Pays subs directly",
+      "Replaces performance bond",
+      "Guarantees perfect quality"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Performance bond protects: [admin]",
+    "choices": [
+      "Bank rates",
+      "Architect copyright",
+      "Owner against contractor default",
+      "Contractor profit"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If drawings vs specs conflict (no priority): [admin]",
+    "choices": [
+      "Specifications usually prevail",
+      "Shop drawings prevail",
+      "Verbal instructions prevail",
+      "Invoices prevail"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "RBQ licence guarantor's main role? [admin]",
+    "choices": [
+      "Set bylaws",
+      "Approve invoices",
+      "Ensure competence & compliance",
+      "Manage highways"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "RBQ licence guarantor's main role? [admin]",
+    "choices": [
+      "Set bylaws",
+      "Manage highways",
+      "Approve invoices",
+      "Ensure competence & compliance"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If drawings vs specs conflict (no priority): [admin]",
+    "choices": [
+      "Shop drawings prevail",
+      "Verbal instructions prevail",
+      "Specifications usually prevail",
+      "Invoices prevail"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "RBQ licence guarantor's main role? [admin]",
+    "choices": [
+      "Approve invoices",
+      "Manage highways",
+      "Set bylaws",
+      "Ensure competence & compliance"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Performance bond protects: [admin]",
+    "choices": [
+      "Bank rates",
+      "Architect copyright",
+      "Contractor profit",
+      "Owner against contractor default"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Payment bond protects: [admin]",
+    "choices": [
+      "Banks only",
+      "Subcontractors & suppliers for unpaid amounts",
+      "Designers only",
+      "Owners only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Bid bond: [admin]",
+    "choices": [
+      "Guarantees perfect quality",
+      "Replaces performance bond",
+      "Guarantees bidder signs if awarded",
+      "Pays subs directly"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If drawings vs specs conflict (no priority): [admin]",
+    "choices": [
+      "Verbal instructions prevail",
+      "Specifications usually prevail",
+      "Invoices prevail",
+      "Shop drawings prevail"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If drawings vs specs conflict (no priority): [admin]",
+    "choices": [
+      "Specifications usually prevail",
+      "Invoices prevail",
+      "Shop drawings prevail",
+      "Verbal instructions prevail"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If drawings vs specs conflict (no priority): [admin]",
+    "choices": [
+      "Specifications usually prevail",
+      "Shop drawings prevail",
+      "Verbal instructions prevail",
+      "Invoices prevail"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Bid bond: [admin]",
+    "choices": [
+      "Guarantees perfect quality",
+      "Guarantees bidder signs if awarded",
+      "Replaces performance bond",
+      "Pays subs directly"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If drawings vs specs conflict (no priority): [admin]",
+    "choices": [
+      "Invoices prevail",
+      "Verbal instructions prevail",
+      "Shop drawings prevail",
+      "Specifications usually prevail"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Performance bond protects: [admin]",
+    "choices": [
+      "Bank rates",
+      "Owner against contractor default",
+      "Contractor profit",
+      "Architect copyright"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Payment bond protects: [admin]",
+    "choices": [
+      "Owners only",
+      "Designers only",
+      "Banks only",
+      "Subcontractors & suppliers for unpaid amounts"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Bid bond: [admin]",
+    "choices": [
+      "Pays subs directly",
+      "Guarantees bidder signs if awarded",
+      "Replaces performance bond",
+      "Guarantees perfect quality"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Bid bond: [admin]",
+    "choices": [
+      "Guarantees perfect quality",
+      "Pays subs directly",
+      "Replaces performance bond",
+      "Guarantees bidder signs if awarded"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If drawings vs specs conflict (no priority): [admin]",
+    "choices": [
+      "Shop drawings prevail",
+      "Specifications usually prevail",
+      "Invoices prevail",
+      "Verbal instructions prevail"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Bid bond: [admin]",
+    "choices": [
+      "Guarantees perfect quality",
+      "Replaces performance bond",
+      "Pays subs directly",
+      "Guarantees bidder signs if awarded"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Payment bond protects: [admin]",
+    "choices": [
+      "Owners only",
+      "Designers only",
+      "Subcontractors & suppliers for unpaid amounts",
+      "Banks only"
+    ],
+    "answer": 2
+  }
+]

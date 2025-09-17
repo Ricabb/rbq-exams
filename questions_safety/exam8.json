@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Working at heights requires: [safety]",
+    "choices": [
+      "Forklift ticket only",
+      "Training + fall protection",
+      "Confined space ticket only",
+      "No training"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who can refuse dangerous work? [safety]",
+    "choices": [
+      "Only supervisors",
+      "Any worker with reasonable grounds",
+      "No one",
+      "Only union members"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Working at heights requires: [safety]",
+    "choices": [
+      "Training + fall protection",
+      "No training",
+      "Forklift ticket only",
+      "Confined space ticket only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who can refuse dangerous work? [safety]",
+    "choices": [
+      "Only union members",
+      "Only supervisors",
+      "Any worker with reasonable grounds",
+      "No one"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Lockout/Tagout does what? [safety]",
+    "choices": [
+      "Replaces PPE",
+      "Speeds production",
+      "Prevents startup during maintenance",
+      "Decorates equipment"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Lockout/Tagout does what? [safety]",
+    "choices": [
+      "Decorates equipment",
+      "Speeds production",
+      "Replaces PPE",
+      "Prevents startup during maintenance"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Silica control: [safety]",
+    "choices": [
+      "No control",
+      "Wet cutting/local exhaust + respirators",
+      "Earplugs only",
+      "Paint dust"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Lockout/Tagout does what? [safety]",
+    "choices": [
+      "Prevents startup during maintenance",
+      "Speeds production",
+      "Decorates equipment",
+      "Replaces PPE"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who can refuse dangerous work? [safety]",
+    "choices": [
+      "Only union members",
+      "No one",
+      "Any worker with reasonable grounds",
+      "Only supervisors"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Lockout/Tagout does what? [safety]",
+    "choices": [
+      "Prevents startup during maintenance",
+      "Replaces PPE",
+      "Decorates equipment",
+      "Speeds production"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Silica control: [safety]",
+    "choices": [
+      "Paint dust",
+      "Earplugs only",
+      "Wet cutting/local exhaust + respirators",
+      "No control"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Lockout/Tagout does what? [safety]",
+    "choices": [
+      "Decorates equipment",
+      "Speeds production",
+      "Replaces PPE",
+      "Prevents startup during maintenance"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Working at heights requires: [safety]",
+    "choices": [
+      "Confined space ticket only",
+      "Forklift ticket only",
+      "Training + fall protection",
+      "No training"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Working at heights requires: [safety]",
+    "choices": [
+      "Forklift ticket only",
+      "Confined space ticket only",
+      "Training + fall protection",
+      "No training"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "WHMIS focuses on: [safety]",
+    "choices": [
+      "Governance",
+      "Taxes",
+      "Traffic plans",
+      "Hazard classes, labels, SDS"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "WHMIS focuses on: [safety]",
+    "choices": [
+      "Traffic plans",
+      "Hazard classes, labels, SDS",
+      "Governance",
+      "Taxes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "WHMIS focuses on: [safety]",
+    "choices": [
+      "Traffic plans",
+      "Governance",
+      "Taxes",
+      "Hazard classes, labels, SDS"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Silica control: [safety]",
+    "choices": [
+      "Earplugs only",
+      "Paint dust",
+      "No control",
+      "Wet cutting/local exhaust + respirators"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "WHMIS focuses on: [safety]",
+    "choices": [
+      "Traffic plans",
+      "Governance",
+      "Hazard classes, labels, SDS",
+      "Taxes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Working at heights requires: [safety]",
+    "choices": [
+      "Confined space ticket only",
+      "Training + fall protection",
+      "Forklift ticket only",
+      "No training"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Lockout/Tagout does what? [safety]",
+    "choices": [
+      "Prevents startup during maintenance",
+      "Replaces PPE",
+      "Speeds production",
+      "Decorates equipment"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Lockout/Tagout does what? [safety]",
+    "choices": [
+      "Replaces PPE",
+      "Decorates equipment",
+      "Prevents startup during maintenance",
+      "Speeds production"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Working at heights requires: [safety]",
+    "choices": [
+      "Training + fall protection",
+      "Forklift ticket only",
+      "Confined space ticket only",
+      "No training"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Working at heights requires: [safety]",
+    "choices": [
+      "Forklift ticket only",
+      "Confined space ticket only",
+      "Training + fall protection",
+      "No training"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "WHMIS focuses on: [safety]",
+    "choices": [
+      "Governance",
+      "Hazard classes, labels, SDS",
+      "Taxes",
+      "Traffic plans"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "WHMIS focuses on: [safety]",
+    "choices": [
+      "Traffic plans",
+      "Hazard classes, labels, SDS",
+      "Governance",
+      "Taxes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who can refuse dangerous work? [safety]",
+    "choices": [
+      "Only supervisors",
+      "No one",
+      "Any worker with reasonable grounds",
+      "Only union members"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "WHMIS focuses on: [safety]",
+    "choices": [
+      "Taxes",
+      "Governance",
+      "Hazard classes, labels, SDS",
+      "Traffic plans"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Lockout/Tagout does what? [safety]",
+    "choices": [
+      "Prevents startup during maintenance",
+      "Decorates equipment",
+      "Replaces PPE",
+      "Speeds production"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Silica control: [safety]",
+    "choices": [
+      "Earplugs only",
+      "Paint dust",
+      "No control",
+      "Wet cutting/local exhaust + respirators"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who can refuse dangerous work? [safety]",
+    "choices": [
+      "No one",
+      "Only supervisors",
+      "Only union members",
+      "Any worker with reasonable grounds"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Working at heights requires: [safety]",
+    "choices": [
+      "Confined space ticket only",
+      "Forklift ticket only",
+      "Training + fall protection",
+      "No training"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Lockout/Tagout does what? [safety]",
+    "choices": [
+      "Prevents startup during maintenance",
+      "Speeds production",
+      "Replaces PPE",
+      "Decorates equipment"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who can refuse dangerous work? [safety]",
+    "choices": [
+      "Only union members",
+      "No one",
+      "Only supervisors",
+      "Any worker with reasonable grounds"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Silica control: [safety]",
+    "choices": [
+      "Earplugs only",
+      "Wet cutting/local exhaust + respirators",
+      "No control",
+      "Paint dust"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Lockout/Tagout does what? [safety]",
+    "choices": [
+      "Replaces PPE",
+      "Decorates equipment",
+      "Prevents startup during maintenance",
+      "Speeds production"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "WHMIS focuses on: [safety]",
+    "choices": [
+      "Governance",
+      "Taxes",
+      "Hazard classes, labels, SDS",
+      "Traffic plans"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "WHMIS focuses on: [safety]",
+    "choices": [
+      "Taxes",
+      "Hazard classes, labels, SDS",
+      "Traffic plans",
+      "Governance"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Lockout/Tagout does what? [safety]",
+    "choices": [
+      "Replaces PPE",
+      "Decorates equipment",
+      "Speeds production",
+      "Prevents startup during maintenance"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Lockout/Tagout does what? [safety]",
+    "choices": [
+      "Decorates equipment",
+      "Replaces PPE",
+      "Prevents startup during maintenance",
+      "Speeds production"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Working at heights requires: [safety]",
+    "choices": [
+      "No training",
+      "Forklift ticket only",
+      "Confined space ticket only",
+      "Training + fall protection"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Working at heights requires: [safety]",
+    "choices": [
+      "Training + fall protection",
+      "Forklift ticket only",
+      "Confined space ticket only",
+      "No training"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who can refuse dangerous work? [safety]",
+    "choices": [
+      "No one",
+      "Only union members",
+      "Only supervisors",
+      "Any worker with reasonable grounds"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who can refuse dangerous work? [safety]",
+    "choices": [
+      "Only supervisors",
+      "Only union members",
+      "No one",
+      "Any worker with reasonable grounds"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Silica control: [safety]",
+    "choices": [
+      "Paint dust",
+      "Wet cutting/local exhaust + respirators",
+      "No control",
+      "Earplugs only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Working at heights requires: [safety]",
+    "choices": [
+      "Forklift ticket only",
+      "Confined space ticket only",
+      "No training",
+      "Training + fall protection"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who can refuse dangerous work? [safety]",
+    "choices": [
+      "Any worker with reasonable grounds",
+      "Only supervisors",
+      "No one",
+      "Only union members"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Lockout/Tagout does what? [safety]",
+    "choices": [
+      "Replaces PPE",
+      "Speeds production",
+      "Prevents startup during maintenance",
+      "Decorates equipment"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Lockout/Tagout does what? [safety]",
+    "choices": [
+      "Replaces PPE",
+      "Prevents startup during maintenance",
+      "Decorates equipment",
+      "Speeds production"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Working at heights requires: [safety]",
+    "choices": [
+      "Training + fall protection",
+      "Confined space ticket only",
+      "Forklift ticket only",
+      "No training"
+    ],
+    "answer": 0
+  }
+]
