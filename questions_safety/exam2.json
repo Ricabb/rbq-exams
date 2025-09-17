@@ -1,502 +1,1391 @@
 [
   {
-    "question": "Silica control: [safety]",
+    "question": "Lockout/Tagout is used to:",
     "choices": [
-      "No control",
-      "Wet cutting/local exhaust + respirators",
-      "Paint dust",
-      "Earplugs only"
+      "Replace PPE",
+      "Speed production",
+      "Decorate machinery",
+      "Prevent startup of equipment during maintenance by isolating energy"
     ],
-    "answer": 1
+    "answer": 3,
+    "exp": {
+      "why": "Energy isolation prevents injury during servicing.",
+      "keywords": [
+        "Lockout",
+        "Energy isolation"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
   },
   {
-    "question": "Who can refuse dangerous work? [safety]",
+    "question": "Silica dust control on cutting concrete should include:",
+    "choices": [
+      "Painting the dust",
+      "Earplugs only",
+      "Wet cutting or local exhaust and appropriate respirators",
+      "No controls"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Silica is a serious respiratory hazard; controls reduce exposure.",
+      "keywords": [
+        "Silica",
+        "Respirators",
+        "Ventilation"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "Who may refuse dangerous work?",
     "choices": [
       "Only union members",
-      "Only supervisors",
       "Any worker with reasonable grounds",
+      "Only supervisors",
       "No one"
     ],
-    "answer": 2
+    "answer": 1,
+    "exp": {
+      "why": "Workers have the right to refuse dangerous work under Quebec law.",
+      "keywords": [
+        "Right to refuse",
+        "CNESST"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
   },
   {
-    "question": "Who can refuse dangerous work? [safety]",
+    "question": "Scaffold use requires:",
+    "choices": [
+      "No inspection if under 3 m",
+      "Any ladder nearby",
+      "Proper erection/inspection, guardrails or fall arrest, and safe access",
+      "Only toe-boards"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Scaffolds need competent erection/inspection and fall protection.",
+      "keywords": [
+        "Scaffold",
+        "Inspection",
+        "Guardrails"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "WHMIS (SIMDUT) primarily covers:",
+    "choices": [
+      "Hazard classification, labels, and Safety Data Sheets",
+      "Traffic control plans",
+      "Income tax filings",
+      "Corporate governance"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "WHMIS is Canada’s hazardous product communication system.",
+      "keywords": [
+        "WHMIS",
+        "SDS",
+        "Labels"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "Scaffold use requires:",
+    "choices": [
+      "Proper erection/inspection, guardrails or fall arrest, and safe access",
+      "No inspection if under 3 m",
+      "Any ladder nearby",
+      "Only toe-boards"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Scaffolds need competent erection/inspection and fall protection.",
+      "keywords": [
+        "Scaffold",
+        "Inspection",
+        "Guardrails"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "Who may refuse dangerous work?",
     "choices": [
       "Any worker with reasonable grounds",
       "No one",
       "Only union members",
       "Only supervisors"
     ],
-    "answer": 0
+    "answer": 0,
+    "exp": {
+      "why": "Workers have the right to refuse dangerous work under Quebec law.",
+      "keywords": [
+        "Right to refuse",
+        "CNESST"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
   },
   {
-    "question": "Working at heights requires: [safety]",
+    "question": "A trench deeper than about 1.2 m (4 ft) typically requires:",
     "choices": [
-      "Training + fall protection",
-      "Forklift ticket only",
-      "No training",
-      "Confined space ticket only"
+      "Shoring, sloping or a trench box, and safe access/egress",
+      "A bigger excavator",
+      "Only a rope ladder",
+      "No measures"
     ],
-    "answer": 0
+    "answer": 0,
+    "exp": {
+      "why": "Collapse risk demands engineered protection and safe entry.",
+      "keywords": [
+        "Trenching",
+        "Shoring",
+        "Access"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
   },
   {
-    "question": "Silica control: [safety]",
+    "question": "Scaffold use requires:",
     "choices": [
-      "Paint dust",
+      "Proper erection/inspection, guardrails or fall arrest, and safe access",
+      "Any ladder nearby",
+      "No inspection if under 3 m",
+      "Only toe-boards"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Scaffolds need competent erection/inspection and fall protection.",
+      "keywords": [
+        "Scaffold",
+        "Inspection",
+        "Guardrails"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "Scaffold use requires:",
+    "choices": [
+      "No inspection if under 3 m",
+      "Any ladder nearby",
+      "Only toe-boards",
+      "Proper erection/inspection, guardrails or fall arrest, and safe access"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Scaffolds need competent erection/inspection and fall protection.",
+      "keywords": [
+        "Scaffold",
+        "Inspection",
+        "Guardrails"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "Lockout/Tagout is used to:",
+    "choices": [
+      "Decorate machinery",
+      "Prevent startup of equipment during maintenance by isolating energy",
+      "Replace PPE",
+      "Speed production"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Energy isolation prevents injury during servicing.",
+      "keywords": [
+        "Lockout",
+        "Energy isolation"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "Scaffold use requires:",
+    "choices": [
+      "Any ladder nearby",
+      "No inspection if under 3 m",
+      "Only toe-boards",
+      "Proper erection/inspection, guardrails or fall arrest, and safe access"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Scaffolds need competent erection/inspection and fall protection.",
+      "keywords": [
+        "Scaffold",
+        "Inspection",
+        "Guardrails"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "When hot-work is performed (e.g., welding), a best-practice control is to:",
+    "choices": [
+      "Use a hot-work permit and maintain a fire watch",
+      "Disable extinguishers to avoid false alarms",
+      "Rely on the welder’s experience only",
+      "Open windows"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Permits and fire watch control ignition sources and response.",
+      "keywords": [
+        "Hot-work",
+        "Permit",
+        "Fire watch"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "Scaffold use requires:",
+    "choices": [
+      "Proper erection/inspection, guardrails or fall arrest, and safe access",
+      "Any ladder nearby",
+      "No inspection if under 3 m",
+      "Only toe-boards"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Scaffolds need competent erection/inspection and fall protection.",
+      "keywords": [
+        "Scaffold",
+        "Inspection",
+        "Guardrails"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "When hot-work is performed (e.g., welding), a best-practice control is to:",
+    "choices": [
+      "Use a hot-work permit and maintain a fire watch",
+      "Rely on the welder’s experience only",
+      "Disable extinguishers to avoid false alarms",
+      "Open windows"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Permits and fire watch control ignition sources and response.",
+      "keywords": [
+        "Hot-work",
+        "Permit",
+        "Fire watch"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "Lockout/Tagout is used to:",
+    "choices": [
+      "Decorate machinery",
+      "Speed production",
+      "Prevent startup of equipment during maintenance by isolating energy",
+      "Replace PPE"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Energy isolation prevents injury during servicing.",
+      "keywords": [
+        "Lockout",
+        "Energy isolation"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "Lockout/Tagout is used to:",
+    "choices": [
+      "Decorate machinery",
+      "Speed production",
+      "Replace PPE",
+      "Prevent startup of equipment during maintenance by isolating energy"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Energy isolation prevents injury during servicing.",
+      "keywords": [
+        "Lockout",
+        "Energy isolation"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "Who may refuse dangerous work?",
+    "choices": [
+      "Any worker with reasonable grounds",
+      "Only supervisors",
+      "Only union members",
+      "No one"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Workers have the right to refuse dangerous work under Quebec law.",
+      "keywords": [
+        "Right to refuse",
+        "CNESST"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "When hot-work is performed (e.g., welding), a best-practice control is to:",
+    "choices": [
+      "Disable extinguishers to avoid false alarms",
+      "Open windows",
+      "Use a hot-work permit and maintain a fire watch",
+      "Rely on the welder’s experience only"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Permits and fire watch control ignition sources and response.",
+      "keywords": [
+        "Hot-work",
+        "Permit",
+        "Fire watch"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "WHMIS (SIMDUT) primarily covers:",
+    "choices": [
+      "Traffic control plans",
+      "Corporate governance",
+      "Hazard classification, labels, and Safety Data Sheets",
+      "Income tax filings"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "WHMIS is Canada’s hazardous product communication system.",
+      "keywords": [
+        "WHMIS",
+        "SDS",
+        "Labels"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "Scaffold use requires:",
+    "choices": [
+      "Proper erection/inspection, guardrails or fall arrest, and safe access",
+      "No inspection if under 3 m",
+      "Only toe-boards",
+      "Any ladder nearby"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Scaffolds need competent erection/inspection and fall protection.",
+      "keywords": [
+        "Scaffold",
+        "Inspection",
+        "Guardrails"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "WHMIS (SIMDUT) primarily covers:",
+    "choices": [
+      "Hazard classification, labels, and Safety Data Sheets",
+      "Income tax filings",
+      "Corporate governance",
+      "Traffic control plans"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "WHMIS is Canada’s hazardous product communication system.",
+      "keywords": [
+        "WHMIS",
+        "SDS",
+        "Labels"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "A trench deeper than about 1.2 m (4 ft) typically requires:",
+    "choices": [
+      "No measures",
+      "Only a rope ladder",
+      "A bigger excavator",
+      "Shoring, sloping or a trench box, and safe access/egress"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Collapse risk demands engineered protection and safe entry.",
+      "keywords": [
+        "Trenching",
+        "Shoring",
+        "Access"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "WHMIS (SIMDUT) primarily covers:",
+    "choices": [
+      "Hazard classification, labels, and Safety Data Sheets",
+      "Corporate governance",
+      "Traffic control plans",
+      "Income tax filings"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "WHMIS is Canada’s hazardous product communication system.",
+      "keywords": [
+        "WHMIS",
+        "SDS",
+        "Labels"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "Lockout/Tagout is used to:",
+    "choices": [
+      "Decorate machinery",
+      "Replace PPE",
+      "Speed production",
+      "Prevent startup of equipment during maintenance by isolating energy"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Energy isolation prevents injury during servicing.",
+      "keywords": [
+        "Lockout",
+        "Energy isolation"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "Scaffold use requires:",
+    "choices": [
+      "No inspection if under 3 m",
+      "Any ladder nearby",
+      "Proper erection/inspection, guardrails or fall arrest, and safe access",
+      "Only toe-boards"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Scaffolds need competent erection/inspection and fall protection.",
+      "keywords": [
+        "Scaffold",
+        "Inspection",
+        "Guardrails"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "Scaffold use requires:",
+    "choices": [
+      "Any ladder nearby",
+      "Proper erection/inspection, guardrails or fall arrest, and safe access",
+      "No inspection if under 3 m",
+      "Only toe-boards"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Scaffolds need competent erection/inspection and fall protection.",
+      "keywords": [
+        "Scaffold",
+        "Inspection",
+        "Guardrails"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "A trench deeper than about 1.2 m (4 ft) typically requires:",
+    "choices": [
+      "No measures",
+      "Shoring, sloping or a trench box, and safe access/egress",
+      "Only a rope ladder",
+      "A bigger excavator"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Collapse risk demands engineered protection and safe entry.",
+      "keywords": [
+        "Trenching",
+        "Shoring",
+        "Access"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "A trench deeper than about 1.2 m (4 ft) typically requires:",
+    "choices": [
+      "Only a rope ladder",
+      "No measures",
+      "Shoring, sloping or a trench box, and safe access/egress",
+      "A bigger excavator"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Collapse risk demands engineered protection and safe entry.",
+      "keywords": [
+        "Trenching",
+        "Shoring",
+        "Access"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "WHMIS (SIMDUT) primarily covers:",
+    "choices": [
+      "Traffic control plans",
+      "Income tax filings",
+      "Corporate governance",
+      "Hazard classification, labels, and Safety Data Sheets"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "WHMIS is Canada’s hazardous product communication system.",
+      "keywords": [
+        "WHMIS",
+        "SDS",
+        "Labels"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "Silica dust control on cutting concrete should include:",
+    "choices": [
+      "No controls",
+      "Painting the dust",
       "Earplugs only",
-      "Wet cutting/local exhaust + respirators",
-      "No control"
+      "Wet cutting or local exhaust and appropriate respirators"
     ],
-    "answer": 2
+    "answer": 3,
+    "exp": {
+      "why": "Silica is a serious respiratory hazard; controls reduce exposure.",
+      "keywords": [
+        "Silica",
+        "Respirators",
+        "Ventilation"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
   },
   {
-    "question": "Who can refuse dangerous work? [safety]",
+    "question": "WHMIS (SIMDUT) primarily covers:",
+    "choices": [
+      "Corporate governance",
+      "Hazard classification, labels, and Safety Data Sheets",
+      "Traffic control plans",
+      "Income tax filings"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "WHMIS is Canada’s hazardous product communication system.",
+      "keywords": [
+        "WHMIS",
+        "SDS",
+        "Labels"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "WHMIS (SIMDUT) primarily covers:",
+    "choices": [
+      "Income tax filings",
+      "Traffic control plans",
+      "Hazard classification, labels, and Safety Data Sheets",
+      "Corporate governance"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "WHMIS is Canada’s hazardous product communication system.",
+      "keywords": [
+        "WHMIS",
+        "SDS",
+        "Labels"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "A trench deeper than about 1.2 m (4 ft) typically requires:",
+    "choices": [
+      "Only a rope ladder",
+      "A bigger excavator",
+      "No measures",
+      "Shoring, sloping or a trench box, and safe access/egress"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Collapse risk demands engineered protection and safe entry.",
+      "keywords": [
+        "Trenching",
+        "Shoring",
+        "Access"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
+  },
+  {
+    "question": "Who may refuse dangerous work?",
     "choices": [
       "Any worker with reasonable grounds",
-      "Only supervisors",
       "Only union members",
-      "No one"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "WHMIS focuses on: [safety]",
-    "choices": [
-      "Governance",
-      "Taxes",
-      "Traffic plans",
-      "Hazard classes, labels, SDS"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Working at heights requires: [safety]",
-    "choices": [
-      "Forklift ticket only",
-      "Training + fall protection",
-      "Confined space ticket only",
-      "No training"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "WHMIS focuses on: [safety]",
-    "choices": [
-      "Governance",
-      "Taxes",
-      "Traffic plans",
-      "Hazard classes, labels, SDS"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Working at heights requires: [safety]",
-    "choices": [
-      "No training",
-      "Training + fall protection",
-      "Confined space ticket only",
-      "Forklift ticket only"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Who can refuse dangerous work? [safety]",
-    "choices": [
-      "Any worker with reasonable grounds",
-      "No one",
-      "Only union members",
-      "Only supervisors"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Working at heights requires: [safety]",
-    "choices": [
-      "Training + fall protection",
-      "No training",
-      "Forklift ticket only",
-      "Confined space ticket only"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Working at heights requires: [safety]",
-    "choices": [
-      "No training",
-      "Forklift ticket only",
-      "Confined space ticket only",
-      "Training + fall protection"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Lockout/Tagout does what? [safety]",
-    "choices": [
-      "Prevents startup during maintenance",
-      "Speeds production",
-      "Decorates equipment",
-      "Replaces PPE"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Who can refuse dangerous work? [safety]",
-    "choices": [
-      "Only union members",
-      "Only supervisors",
-      "Any worker with reasonable grounds",
-      "No one"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Silica control: [safety]",
-    "choices": [
-      "Earplugs only",
-      "No control",
-      "Wet cutting/local exhaust + respirators",
-      "Paint dust"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Working at heights requires: [safety]",
-    "choices": [
-      "Confined space ticket only",
-      "No training",
-      "Forklift ticket only",
-      "Training + fall protection"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Who can refuse dangerous work? [safety]",
-    "choices": [
-      "Only union members",
-      "Any worker with reasonable grounds",
       "Only supervisors",
       "No one"
     ],
-    "answer": 1
+    "answer": 0,
+    "exp": {
+      "why": "Workers have the right to refuse dangerous work under Quebec law.",
+      "keywords": [
+        "Right to refuse",
+        "CNESST"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
   },
   {
-    "question": "Lockout/Tagout does what? [safety]",
-    "choices": [
-      "Speeds production",
-      "Replaces PPE",
-      "Decorates equipment",
-      "Prevents startup during maintenance"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Silica control: [safety]",
-    "choices": [
-      "Paint dust",
-      "No control",
-      "Wet cutting/local exhaust + respirators",
-      "Earplugs only"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "WHMIS focuses on: [safety]",
-    "choices": [
-      "Traffic plans",
-      "Taxes",
-      "Hazard classes, labels, SDS",
-      "Governance"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Lockout/Tagout does what? [safety]",
-    "choices": [
-      "Prevents startup during maintenance",
-      "Replaces PPE",
-      "Decorates equipment",
-      "Speeds production"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Working at heights requires: [safety]",
+    "question": "Working at heights generally requires:",
     "choices": [
       "Forklift ticket only",
-      "Confined space ticket only",
+      "Confined-space ticket only",
       "No training",
-      "Training + fall protection"
+      "Fall-protection training and appropriate equipment"
     ],
-    "answer": 3
+    "answer": 3,
+    "exp": {
+      "why": "Fall hazards require specific training/equipment.",
+      "keywords": [
+        "Fall protection",
+        "Training",
+        "PPE"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
   },
   {
-    "question": "Working at heights requires: [safety]",
+    "question": "Scaffold use requires:",
     "choices": [
-      "Forklift ticket only",
-      "Training + fall protection",
-      "Confined space ticket only",
-      "No training"
+      "Only toe-boards",
+      "Any ladder nearby",
+      "No inspection if under 3 m",
+      "Proper erection/inspection, guardrails or fall arrest, and safe access"
     ],
-    "answer": 1
+    "answer": 3,
+    "exp": {
+      "why": "Scaffolds need competent erection/inspection and fall protection.",
+      "keywords": [
+        "Scaffold",
+        "Inspection",
+        "Guardrails"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
   },
   {
-    "question": "Lockout/Tagout does what? [safety]",
+    "question": "A trench deeper than about 1.2 m (4 ft) typically requires:",
     "choices": [
-      "Decorates equipment",
-      "Replaces PPE",
-      "Prevents startup during maintenance",
-      "Speeds production"
+      "Only a rope ladder",
+      "A bigger excavator",
+      "No measures",
+      "Shoring, sloping or a trench box, and safe access/egress"
     ],
-    "answer": 2
+    "answer": 3,
+    "exp": {
+      "why": "Collapse risk demands engineered protection and safe entry.",
+      "keywords": [
+        "Trenching",
+        "Shoring",
+        "Access"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
   },
   {
-    "question": "Lockout/Tagout does what? [safety]",
+    "question": "A trench deeper than about 1.2 m (4 ft) typically requires:",
     "choices": [
-      "Speeds production",
-      "Prevents startup during maintenance",
-      "Decorates equipment",
-      "Replaces PPE"
+      "Shoring, sloping or a trench box, and safe access/egress",
+      "Only a rope ladder",
+      "No measures",
+      "A bigger excavator"
     ],
-    "answer": 1
+    "answer": 0,
+    "exp": {
+      "why": "Collapse risk demands engineered protection and safe entry.",
+      "keywords": [
+        "Trenching",
+        "Shoring",
+        "Access"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
   },
   {
-    "question": "WHMIS focuses on: [safety]",
+    "question": "A trench deeper than about 1.2 m (4 ft) typically requires:",
     "choices": [
-      "Traffic plans",
-      "Taxes",
-      "Governance",
-      "Hazard classes, labels, SDS"
+      "No measures",
+      "Only a rope ladder",
+      "A bigger excavator",
+      "Shoring, sloping or a trench box, and safe access/egress"
     ],
-    "answer": 3
+    "answer": 3,
+    "exp": {
+      "why": "Collapse risk demands engineered protection and safe entry.",
+      "keywords": [
+        "Trenching",
+        "Shoring",
+        "Access"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
   },
   {
-    "question": "WHMIS focuses on: [safety]",
+    "question": "WHMIS (SIMDUT) primarily covers:",
     "choices": [
-      "Taxes",
-      "Traffic plans",
-      "Governance",
-      "Hazard classes, labels, SDS"
+      "Traffic control plans",
+      "Income tax filings",
+      "Hazard classification, labels, and Safety Data Sheets",
+      "Corporate governance"
     ],
-    "answer": 3
+    "answer": 2,
+    "exp": {
+      "why": "WHMIS is Canada’s hazardous product communication system.",
+      "keywords": [
+        "WHMIS",
+        "SDS",
+        "Labels"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
   },
   {
-    "question": "Lockout/Tagout does what? [safety]",
+    "question": "Scaffold use requires:",
     "choices": [
-      "Speeds production",
-      "Decorates equipment",
-      "Replaces PPE",
-      "Prevents startup during maintenance"
+      "Only toe-boards",
+      "Proper erection/inspection, guardrails or fall arrest, and safe access",
+      "No inspection if under 3 m",
+      "Any ladder nearby"
     ],
-    "answer": 3
+    "answer": 1,
+    "exp": {
+      "why": "Scaffolds need competent erection/inspection and fall protection.",
+      "keywords": [
+        "Scaffold",
+        "Inspection",
+        "Guardrails"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
   },
   {
-    "question": "Silica control: [safety]",
+    "question": "Scaffold use requires:",
     "choices": [
-      "Paint dust",
-      "Wet cutting/local exhaust + respirators",
-      "No control",
-      "Earplugs only"
+      "Any ladder nearby",
+      "Proper erection/inspection, guardrails or fall arrest, and safe access",
+      "No inspection if under 3 m",
+      "Only toe-boards"
     ],
-    "answer": 1
+    "answer": 1,
+    "exp": {
+      "why": "Scaffolds need competent erection/inspection and fall protection.",
+      "keywords": [
+        "Scaffold",
+        "Inspection",
+        "Guardrails"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
   },
   {
-    "question": "Who can refuse dangerous work? [safety]",
+    "question": "Scaffold use requires:",
     "choices": [
-      "Only union members",
-      "Any worker with reasonable grounds",
-      "No one",
-      "Only supervisors"
+      "No inspection if under 3 m",
+      "Only toe-boards",
+      "Any ladder nearby",
+      "Proper erection/inspection, guardrails or fall arrest, and safe access"
     ],
-    "answer": 1
+    "answer": 3,
+    "exp": {
+      "why": "Scaffolds need competent erection/inspection and fall protection.",
+      "keywords": [
+        "Scaffold",
+        "Inspection",
+        "Guardrails"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
   },
   {
-    "question": "Working at heights requires: [safety]",
+    "question": "Lockout/Tagout is used to:",
     "choices": [
-      "No training",
-      "Training + fall protection",
-      "Forklift ticket only",
-      "Confined space ticket only"
+      "Replace PPE",
+      "Decorate machinery",
+      "Prevent startup of equipment during maintenance by isolating energy",
+      "Speed production"
     ],
-    "answer": 1
+    "answer": 2,
+    "exp": {
+      "why": "Energy isolation prevents injury during servicing.",
+      "keywords": [
+        "Lockout",
+        "Energy isolation"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
   },
   {
-    "question": "WHMIS focuses on: [safety]",
+    "question": "When hot-work is performed (e.g., welding), a best-practice control is to:",
     "choices": [
-      "Traffic plans",
-      "Governance",
-      "Hazard classes, labels, SDS",
-      "Taxes"
+      "Use a hot-work permit and maintain a fire watch",
+      "Disable extinguishers to avoid false alarms",
+      "Rely on the welder’s experience only",
+      "Open windows"
     ],
-    "answer": 2
+    "answer": 0,
+    "exp": {
+      "why": "Permits and fire watch control ignition sources and response.",
+      "keywords": [
+        "Hot-work",
+        "Permit",
+        "Fire watch"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
   },
   {
-    "question": "Working at heights requires: [safety]",
+    "question": "Scaffold use requires:",
     "choices": [
-      "Forklift ticket only",
-      "No training",
-      "Confined space ticket only",
-      "Training + fall protection"
+      "Any ladder nearby",
+      "Only toe-boards",
+      "Proper erection/inspection, guardrails or fall arrest, and safe access",
+      "No inspection if under 3 m"
     ],
-    "answer": 3
+    "answer": 2,
+    "exp": {
+      "why": "Scaffolds need competent erection/inspection and fall protection.",
+      "keywords": [
+        "Scaffold",
+        "Inspection",
+        "Guardrails"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
   },
   {
-    "question": "Silica control: [safety]",
+    "question": "Lockout/Tagout is used to:",
     "choices": [
-      "Earplugs only",
-      "Paint dust",
-      "No control",
-      "Wet cutting/local exhaust + respirators"
+      "Speed production",
+      "Replace PPE",
+      "Prevent startup of equipment during maintenance by isolating energy",
+      "Decorate machinery"
     ],
-    "answer": 3
+    "answer": 2,
+    "exp": {
+      "why": "Energy isolation prevents injury during servicing.",
+      "keywords": [
+        "Lockout",
+        "Energy isolation"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
   },
   {
-    "question": "WHMIS focuses on: [safety]",
+    "question": "WHMIS (SIMDUT) primarily covers:",
     "choices": [
-      "Traffic plans",
-      "Governance",
-      "Hazard classes, labels, SDS",
-      "Taxes"
+      "Hazard classification, labels, and Safety Data Sheets",
+      "Traffic control plans",
+      "Income tax filings",
+      "Corporate governance"
     ],
-    "answer": 2
+    "answer": 0,
+    "exp": {
+      "why": "WHMIS is Canada’s hazardous product communication system.",
+      "keywords": [
+        "WHMIS",
+        "SDS",
+        "Labels"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
   },
   {
-    "question": "Working at heights requires: [safety]",
+    "question": "When hot-work is performed (e.g., welding), a best-practice control is to:",
     "choices": [
-      "Confined space ticket only",
-      "Forklift ticket only",
-      "No training",
-      "Training + fall protection"
+      "Open windows",
+      "Use a hot-work permit and maintain a fire watch",
+      "Disable extinguishers to avoid false alarms",
+      "Rely on the welder’s experience only"
     ],
-    "answer": 3
-  },
-  {
-    "question": "Who can refuse dangerous work? [safety]",
-    "choices": [
-      "Any worker with reasonable grounds",
-      "Only supervisors",
-      "No one",
-      "Only union members"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Who can refuse dangerous work? [safety]",
-    "choices": [
-      "Only union members",
-      "Only supervisors",
-      "Any worker with reasonable grounds",
-      "No one"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Who can refuse dangerous work? [safety]",
-    "choices": [
-      "No one",
-      "Only supervisors",
-      "Only union members",
-      "Any worker with reasonable grounds"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Who can refuse dangerous work? [safety]",
-    "choices": [
-      "Only supervisors",
-      "No one",
-      "Only union members",
-      "Any worker with reasonable grounds"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Working at heights requires: [safety]",
-    "choices": [
-      "Confined space ticket only",
-      "No training",
-      "Training + fall protection",
-      "Forklift ticket only"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "WHMIS focuses on: [safety]",
-    "choices": [
-      "Traffic plans",
-      "Hazard classes, labels, SDS",
-      "Taxes",
-      "Governance"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Working at heights requires: [safety]",
-    "choices": [
-      "Forklift ticket only",
-      "Training + fall protection",
-      "Confined space ticket only",
-      "No training"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "WHMIS focuses on: [safety]",
-    "choices": [
-      "Taxes",
-      "Governance",
-      "Traffic plans",
-      "Hazard classes, labels, SDS"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Who can refuse dangerous work? [safety]",
-    "choices": [
-      "Only supervisors",
-      "Any worker with reasonable grounds",
-      "Only union members",
-      "No one"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Working at heights requires: [safety]",
-    "choices": [
-      "Forklift ticket only",
-      "Training + fall protection",
-      "Confined space ticket only",
-      "No training"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Working at heights requires: [safety]",
-    "choices": [
-      "Confined space ticket only",
-      "No training",
-      "Forklift ticket only",
-      "Training + fall protection"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "WHMIS focuses on: [safety]",
-    "choices": [
-      "Taxes",
-      "Governance",
-      "Hazard classes, labels, SDS",
-      "Traffic plans"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "WHMIS focuses on: [safety]",
-    "choices": [
-      "Governance",
-      "Taxes",
-      "Hazard classes, labels, SDS",
-      "Traffic plans"
-    ],
-    "answer": 2
+    "answer": 1,
+    "exp": {
+      "why": "Permits and fire watch control ignition sources and response.",
+      "keywords": [
+        "Hot-work",
+        "Permit",
+        "Fire watch"
+      ],
+      "example": "Document in the JSA; verify permits, PPE and competent supervision.",
+      "rationales": [
+        "❌ Does not meet typical safety control expectations.",
+        "✅ Correct control hierarchy/practice.",
+        "❌ Does not meet typical safety control expectations.",
+        "❌ Does not meet typical safety control expectations."
+      ],
+      "refs": [
+        "CNESST guidance; CSA/Z standards (general)"
+      ]
+    }
   }
 ]

@@ -58,7 +58,8 @@ function syncLangButtons(){
 }
 function renderExams(){
   examList.innerHTML='';
-  for(let i=1;i<=10;i++){
+  const EXAM_COUNT = 2;
+	for (let i = 1; i <= EXAM_COUNT; i++) {
     const a=document.createElement('a');
     a.href=`exam.html?module=${moduleKey}&exam=${i}&lang=${lang}&mode=${mode}`;
     a.textContent=`${L.label} ${i}`;

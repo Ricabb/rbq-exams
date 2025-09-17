@@ -1,502 +1,1402 @@
 [
   {
-    "question": "Cautionnement de soumission : [admin]",
+    "question": "Vous soumissionnez un projet de $1,708,000 pour Université (remplacement CVC en toiture). Le but principal d’un cautionnement de soumission est de :",
     "choices": [
-      "Remplace le cautionnement d’exécution",
-      "Garantit la signature si adjudicataire",
-      "Paie directement les sous-traitants",
-      "Garantit une qualité parfaite"
+      "Remplacer le cautionnement d’exécution",
+      "Payer directement les sous-traitants en cas de défaut",
+      "Garantir que le soumissionnaire signera le contrat et fournira les cautionnements requis s’il est adjudicataire",
+      "Garantir une qualité parfaite des travaux"
     ],
-    "answer": 1
+    "answer": 2,
+    "exp": {
+      "why": "Le cautionnement de soumission protège le maître d’ouvrage si le plus bas conforme refuse de signer ou de fournir les cautionnements finaux.",
+      "keywords": [
+        "Cautionnement de soumission",
+        "Appel d’offres",
+        "Caution"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (remplacement CVC en toiture).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement d’exécution : [admin]",
+    "question": "Sur un projet de $2,086,000, un cautionnement d’exécution de 50 % est exigé. Il protège d’abord contre :",
     "choices": [
-      "Protège la banque",
-      "Protège le donneur d’ouvrage en cas de défaut",
-      "Protège le concepteur",
-      "Protège le profit de l’entrepreneur"
+      "Les erreurs de conception de l’architecte",
+      "Le défaut de l’entrepreneur pendant l’exécution causant des travaux inachevés ou défectueux",
+      "Les retards de factures fournisseurs",
+      "L’inflation des matériaux seulement"
     ],
-    "answer": 1
+    "answer": 1,
+    "exp": {
+      "why": "Le cautionnement d’exécution protège le donneur d’ouvrage en cas de défaut de l’entrepreneur.",
+      "keywords": [
+        "Cautionnement d’exécution",
+        "Caution",
+        "Protection du donneur d’ouvrage"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (recalorifugeage de façade).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Conflit plans vs devis : [admin]",
+    "question": "Au Québec, la retenue statutaire est typiquement de 10 %. Quand la libérer?",
     "choices": [
-      "Dessins d’atelier priment",
-      "Instructions verbales priment",
-      "Les devis priment souvent",
-      "Factures priment"
+      "Uniquement à la toute fin sans égard aux délais",
+      "Dès qu’un sous-traitant la demande",
+      "Après l’expiration des délais d’hypothèque légale et obtention des certificats requis",
+      "À 50 % d’avancement"
     ],
-    "answer": 2
+    "answer": 2,
+    "exp": {
+      "why": "La retenue est libérée après l’expiration des délais afin de se prémunir contre les hypothèques légales.",
+      "keywords": [
+        "Retenue",
+        "Délais d’hypothèque",
+        "Hypothèque légale"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (réparation d’un stationnement étagé).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement de paiement : [admin]",
+    "question": "Au Québec, le BSDQ sert surtout à :",
     "choices": [
-      "Protège sous-traitants et fournisseurs impayés",
-      "Propriétaires seulement",
-      "Professionnels seulement",
-      "Banques seulement"
+      "Gérer les réclamations des travailleurs",
+      "Délivrer des licences RBQ",
+      "Normaliser le dépôt de certaines soumissions de métiers aux entrepreneurs généraux",
+      "Percevoir la TPS/TVQ"
     ],
-    "answer": 0
+    "answer": 2,
+    "exp": {
+      "why": "Le BSDQ encadre un mécanisme de dépôt standardisé pour certains métiers.",
+      "keywords": [
+        "BSDQ",
+        "Soumissions",
+        "Métiers"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (rénovation de laboratoire).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement d’exécution : [admin]",
+    "question": "Si plans et devis sont en conflit et qu’aucune priorité n’est précisée, lequel prévaut généralement?",
     "choices": [
-      "Protège la banque",
-      "Protège le profit de l’entrepreneur",
-      "Protège le concepteur",
-      "Protège le donneur d’ouvrage en cas de défaut"
+      "Les devis priment habituellement sur les plans",
+      "Les factures priment",
+      "Les instructions verbales priment",
+      "Les dessins d’atelier priment"
     ],
-    "answer": 3
+    "answer": 0,
+    "exp": {
+      "why": "Sauf stipulation contraire, les devis gouvernent.",
+      "keywords": [
+        "Devis",
+        "Documents contractuels",
+        "Priorité"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (réparation d’un stationnement étagé).",
+      "rationales": [
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement d’exécution : [admin]",
+    "question": "Centre hospitalier émet un changement considéré (CCD) pour ajouter des portes coupe-feu, prix à déterminer. Quelle est l’étape conforme pour avancer?",
     "choices": [
-      "Protège le concepteur",
-      "Protège la banque",
-      "Protège le profit de l’entrepreneur",
-      "Protège le donneur d’ouvrage en cas de défaut"
+      "Noyer la portée dans la facturation d’avancement",
+      "Exécuter immédiatement et facturer plus tard sans documentation",
+      "Ignorer et réclamer à la clôture",
+      "Formaliser via un ordre de changement (ou directive autorisée avec mode de tarification) avant l’exécution non urgente"
     ],
-    "answer": 3
+    "answer": 3,
+    "exp": {
+      "why": "La gestion des changements exige une autorisation formelle et une méthode d’ajustement avant l’exécution non urgente.",
+      "keywords": [
+        "Ordre de changement",
+        "Directive",
+        "Gestion des changements"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (remplacement CVC en toiture).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement d’exécution : [admin]",
+    "question": "Si plans et devis sont en conflit et qu’aucune priorité n’est précisée, lequel prévaut généralement?",
     "choices": [
-      "Protège le profit de l’entrepreneur",
-      "Protège le concepteur",
-      "Protège le donneur d’ouvrage en cas de défaut",
-      "Protège la banque"
+      "Les devis priment habituellement sur les plans",
+      "Les instructions verbales priment",
+      "Les factures priment",
+      "Les dessins d’atelier priment"
     ],
-    "answer": 2
+    "answer": 0,
+    "exp": {
+      "why": "Sauf stipulation contraire, les devis gouvernent.",
+      "keywords": [
+        "Devis",
+        "Documents contractuels",
+        "Priorité"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (remplacement CVC en toiture).",
+      "rationales": [
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Rôle du garant RBQ ? [admin]",
+    "question": "Vous soumissionnez un projet de $1,325,000 pour Université (modernisation d’un gymnase). Le but principal d’un cautionnement de soumission est de :",
     "choices": [
-      "Adopter des règlements",
-      "Assurer compétences & conformité",
-      "Gérer des autoroutes",
-      "Approuver les factures"
+      "Remplacer le cautionnement d’exécution",
+      "Payer directement les sous-traitants en cas de défaut",
+      "Garantir une qualité parfaite des travaux",
+      "Garantir que le soumissionnaire signera le contrat et fournira les cautionnements requis s’il est adjudicataire"
     ],
-    "answer": 1
+    "answer": 3,
+    "exp": {
+      "why": "Le cautionnement de soumission protège le maître d’ouvrage si le plus bas conforme refuse de signer ou de fournir les cautionnements finaux.",
+      "keywords": [
+        "Cautionnement de soumission",
+        "Appel d’offres",
+        "Caution"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (modernisation d’un gymnase).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Rôle du garant RBQ ? [admin]",
+    "question": "Au Québec, le BSDQ sert surtout à :",
     "choices": [
-      "Assurer compétences & conformité",
-      "Approuver les factures",
-      "Gérer des autoroutes",
-      "Adopter des règlements"
+      "Gérer les réclamations des travailleurs",
+      "Délivrer des licences RBQ",
+      "Normaliser le dépôt de certaines soumissions de métiers aux entrepreneurs généraux",
+      "Percevoir la TPS/TVQ"
     ],
-    "answer": 0
+    "answer": 2,
+    "exp": {
+      "why": "Le BSDQ encadre un mécanisme de dépôt standardisé pour certains métiers.",
+      "keywords": [
+        "BSDQ",
+        "Soumissions",
+        "Métiers"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (recalorifugeage de façade).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement de soumission : [admin]",
+    "question": "Au Québec, la retenue statutaire est typiquement de 10 %. Quand la libérer?",
     "choices": [
-      "Garantit la signature si adjudicataire",
-      "Garantit une qualité parfaite",
-      "Paie directement les sous-traitants",
-      "Remplace le cautionnement d’exécution"
+      "Après l’expiration des délais d’hypothèque légale et obtention des certificats requis",
+      "Dès qu’un sous-traitant la demande",
+      "Uniquement à la toute fin sans égard aux délais",
+      "À 50 % d’avancement"
     ],
-    "answer": 0
+    "answer": 0,
+    "exp": {
+      "why": "La retenue est libérée après l’expiration des délais afin de se prémunir contre les hypothèques légales.",
+      "keywords": [
+        "Retenue",
+        "Délais d’hypothèque",
+        "Hypothèque légale"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (réparation d’un stationnement étagé).",
+      "rationales": [
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement de paiement : [admin]",
+    "question": "Au Québec, le BSDQ sert surtout à :",
     "choices": [
-      "Propriétaires seulement",
-      "Protège sous-traitants et fournisseurs impayés",
-      "Professionnels seulement",
-      "Banques seulement"
+      "Percevoir la TPS/TVQ",
+      "Gérer les réclamations des travailleurs",
+      "Délivrer des licences RBQ",
+      "Normaliser le dépôt de certaines soumissions de métiers aux entrepreneurs généraux"
     ],
-    "answer": 1
+    "answer": 3,
+    "exp": {
+      "why": "Le BSDQ encadre un mécanisme de dépôt standardisé pour certains métiers.",
+      "keywords": [
+        "BSDQ",
+        "Soumissions",
+        "Métiers"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (modernisation d’un gymnase).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement de soumission : [admin]",
+    "question": "Un cautionnement de paiement (main-d’œuvre et matériaux) protège principalement :",
     "choices": [
-      "Paie directement les sous-traitants",
-      "Remplace le cautionnement d’exécution",
-      "Garantit une qualité parfaite",
-      "Garantit la signature si adjudicataire"
+      "Uniquement le professionnel",
+      "Uniquement le prêteur",
+      "Uniquement le maître d’ouvrage",
+      "Les sous-traitants et les fournisseurs contre le non-paiement"
     ],
-    "answer": 3
+    "answer": 3,
+    "exp": {
+      "why": "Il vise à assurer le paiement des sous-traitants/fournisseurs et à réduire les réclamations.",
+      "keywords": [
+        "Cautionnement de paiement",
+        "Sous-traitants",
+        "Fournisseurs"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (remplacement CVC en toiture).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement d’exécution : [admin]",
+    "question": "Municipalité émet un changement considéré (CCD) pour ajouter des portes coupe-feu, prix à déterminer. Quelle est l’étape conforme pour avancer?",
     "choices": [
-      "Protège la banque",
-      "Protège le concepteur",
-      "Protège le donneur d’ouvrage en cas de défaut",
-      "Protège le profit de l’entrepreneur"
+      "Formaliser via un ordre de changement (ou directive autorisée avec mode de tarification) avant l’exécution non urgente",
+      "Noyer la portée dans la facturation d’avancement",
+      "Exécuter immédiatement et facturer plus tard sans documentation",
+      "Ignorer et réclamer à la clôture"
     ],
-    "answer": 2
+    "answer": 0,
+    "exp": {
+      "why": "La gestion des changements exige une autorisation formelle et une méthode d’ajustement avant l’exécution non urgente.",
+      "keywords": [
+        "Ordre de changement",
+        "Directive",
+        "Gestion des changements"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (modernisation d’un gymnase).",
+      "rationales": [
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Rôle du garant RBQ ? [admin]",
+    "question": "Au Québec, la retenue statutaire est typiquement de 10 %. Quand la libérer?",
     "choices": [
-      "Approuver les factures",
-      "Adopter des règlements",
-      "Assurer compétences & conformité",
-      "Gérer des autoroutes"
+      "À 50 % d’avancement",
+      "Après l’expiration des délais d’hypothèque légale et obtention des certificats requis",
+      "Uniquement à la toute fin sans égard aux délais",
+      "Dès qu’un sous-traitant la demande"
     ],
-    "answer": 2
+    "answer": 1,
+    "exp": {
+      "why": "La retenue est libérée après l’expiration des délais afin de se prémunir contre les hypothèques légales.",
+      "keywords": [
+        "Retenue",
+        "Délais d’hypothèque",
+        "Hypothèque légale"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (réparation d’un stationnement étagé).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement de soumission : [admin]",
+    "question": "Sur un projet de $1,345,000, un cautionnement d’exécution de 50 % est exigé. Il protège d’abord contre :",
     "choices": [
-      "Garantit une qualité parfaite",
-      "Remplace le cautionnement d’exécution",
-      "Garantit la signature si adjudicataire",
-      "Paie directement les sous-traitants"
+      "L’inflation des matériaux seulement",
+      "Les retards de factures fournisseurs",
+      "Les erreurs de conception de l’architecte",
+      "Le défaut de l’entrepreneur pendant l’exécution causant des travaux inachevés ou défectueux"
     ],
-    "answer": 2
+    "answer": 3,
+    "exp": {
+      "why": "Le cautionnement d’exécution protège le donneur d’ouvrage en cas de défaut de l’entrepreneur.",
+      "keywords": [
+        "Cautionnement d’exécution",
+        "Caution",
+        "Protection du donneur d’ouvrage"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (modernisation d’un gymnase).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement de soumission : [admin]",
+    "question": "Au Québec, le BSDQ sert surtout à :",
     "choices": [
-      "Garantit une qualité parfaite",
-      "Paie directement les sous-traitants",
-      "Garantit la signature si adjudicataire",
-      "Remplace le cautionnement d’exécution"
+      "Gérer les réclamations des travailleurs",
+      "Percevoir la TPS/TVQ",
+      "Normaliser le dépôt de certaines soumissions de métiers aux entrepreneurs généraux",
+      "Délivrer des licences RBQ"
     ],
-    "answer": 2
+    "answer": 2,
+    "exp": {
+      "why": "Le BSDQ encadre un mécanisme de dépôt standardisé pour certains métiers.",
+      "keywords": [
+        "BSDQ",
+        "Soumissions",
+        "Métiers"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (rénovation de laboratoire).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Conflit plans vs devis : [admin]",
+    "question": "Si plans et devis sont en conflit et qu’aucune priorité n’est précisée, lequel prévaut généralement?",
     "choices": [
-      "Les devis priment souvent",
-      "Dessins d’atelier priment",
-      "Instructions verbales priment",
-      "Factures priment"
+      "Les devis priment habituellement sur les plans",
+      "Les factures priment",
+      "Les instructions verbales priment",
+      "Les dessins d’atelier priment"
     ],
-    "answer": 0
+    "answer": 0,
+    "exp": {
+      "why": "Sauf stipulation contraire, les devis gouvernent.",
+      "keywords": [
+        "Devis",
+        "Documents contractuels",
+        "Priorité"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (réparation d’un stationnement étagé).",
+      "rationales": [
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Conflit plans vs devis : [admin]",
+    "question": "Un cautionnement de paiement (main-d’œuvre et matériaux) protège principalement :",
     "choices": [
-      "Dessins d’atelier priment",
-      "Les devis priment souvent",
-      "Factures priment",
-      "Instructions verbales priment"
+      "Uniquement le prêteur",
+      "Uniquement le professionnel",
+      "Les sous-traitants et les fournisseurs contre le non-paiement",
+      "Uniquement le maître d’ouvrage"
     ],
-    "answer": 1
+    "answer": 2,
+    "exp": {
+      "why": "Il vise à assurer le paiement des sous-traitants/fournisseurs et à réduire les réclamations.",
+      "keywords": [
+        "Cautionnement de paiement",
+        "Sous-traitants",
+        "Fournisseurs"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (aménagement intérieur).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement d’exécution : [admin]",
+    "question": "Au Québec, le BSDQ sert surtout à :",
     "choices": [
-      "Protège le donneur d’ouvrage en cas de défaut",
-      "Protège le concepteur",
-      "Protège la banque",
-      "Protège le profit de l’entrepreneur"
+      "Délivrer des licences RBQ",
+      "Gérer les réclamations des travailleurs",
+      "Percevoir la TPS/TVQ",
+      "Normaliser le dépôt de certaines soumissions de métiers aux entrepreneurs généraux"
     ],
-    "answer": 0
+    "answer": 3,
+    "exp": {
+      "why": "Le BSDQ encadre un mécanisme de dépôt standardisé pour certains métiers.",
+      "keywords": [
+        "BSDQ",
+        "Soumissions",
+        "Métiers"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (réparation d’un stationnement étagé).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Conflit plans vs devis : [admin]",
+    "question": "Si plans et devis sont en conflit et qu’aucune priorité n’est précisée, lequel prévaut généralement?",
     "choices": [
-      "Factures priment",
-      "Instructions verbales priment",
-      "Les devis priment souvent",
-      "Dessins d’atelier priment"
+      "Les dessins d’atelier priment",
+      "Les instructions verbales priment",
+      "Les factures priment",
+      "Les devis priment habituellement sur les plans"
     ],
-    "answer": 2
+    "answer": 3,
+    "exp": {
+      "why": "Sauf stipulation contraire, les devis gouvernent.",
+      "keywords": [
+        "Devis",
+        "Documents contractuels",
+        "Priorité"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (modernisation d’un gymnase).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement d’exécution : [admin]",
+    "question": "Sur un projet de $2,330,000, un cautionnement d’exécution de 50 % est exigé. Il protège d’abord contre :",
     "choices": [
-      "Protège le donneur d’ouvrage en cas de défaut",
-      "Protège la banque",
-      "Protège le concepteur",
-      "Protège le profit de l’entrepreneur"
+      "Le défaut de l’entrepreneur pendant l’exécution causant des travaux inachevés ou défectueux",
+      "Les erreurs de conception de l’architecte",
+      "Les retards de factures fournisseurs",
+      "L’inflation des matériaux seulement"
     ],
-    "answer": 0
+    "answer": 0,
+    "exp": {
+      "why": "Le cautionnement d’exécution protège le donneur d’ouvrage en cas de défaut de l’entrepreneur.",
+      "keywords": [
+        "Cautionnement d’exécution",
+        "Caution",
+        "Protection du donneur d’ouvrage"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (recalorifugeage de façade).",
+      "rationales": [
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Conflit plans vs devis : [admin]",
+    "question": "Sur un projet de $2,399,000, un cautionnement d’exécution de 50 % est exigé. Il protège d’abord contre :",
     "choices": [
-      "Les devis priment souvent",
-      "Factures priment",
-      "Dessins d’atelier priment",
-      "Instructions verbales priment"
+      "Les erreurs de conception de l’architecte",
+      "Le défaut de l’entrepreneur pendant l’exécution causant des travaux inachevés ou défectueux",
+      "Les retards de factures fournisseurs",
+      "L’inflation des matériaux seulement"
     ],
-    "answer": 0
+    "answer": 1,
+    "exp": {
+      "why": "Le cautionnement d’exécution protège le donneur d’ouvrage en cas de défaut de l’entrepreneur.",
+      "keywords": [
+        "Cautionnement d’exécution",
+        "Caution",
+        "Protection du donneur d’ouvrage"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (remplacement CVC en toiture).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Conflit plans vs devis : [admin]",
+    "question": "Développeur privé émet un changement considéré (CCD) pour ajouter des portes coupe-feu, prix à déterminer. Quelle est l’étape conforme pour avancer?",
     "choices": [
-      "Les devis priment souvent",
-      "Factures priment",
-      "Instructions verbales priment",
-      "Dessins d’atelier priment"
+      "Noyer la portée dans la facturation d’avancement",
+      "Formaliser via un ordre de changement (ou directive autorisée avec mode de tarification) avant l’exécution non urgente",
+      "Exécuter immédiatement et facturer plus tard sans documentation",
+      "Ignorer et réclamer à la clôture"
     ],
-    "answer": 0
+    "answer": 1,
+    "exp": {
+      "why": "La gestion des changements exige une autorisation formelle et une méthode d’ajustement avant l’exécution non urgente.",
+      "keywords": [
+        "Ordre de changement",
+        "Directive",
+        "Gestion des changements"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (remplacement CVC en toiture).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement de soumission : [admin]",
+    "question": "Au Québec, le BSDQ sert surtout à :",
     "choices": [
-      "Remplace le cautionnement d’exécution",
-      "Paie directement les sous-traitants",
-      "Garantit la signature si adjudicataire",
-      "Garantit une qualité parfaite"
+      "Normaliser le dépôt de certaines soumissions de métiers aux entrepreneurs généraux",
+      "Gérer les réclamations des travailleurs",
+      "Percevoir la TPS/TVQ",
+      "Délivrer des licences RBQ"
     ],
-    "answer": 2
+    "answer": 0,
+    "exp": {
+      "why": "Le BSDQ encadre un mécanisme de dépôt standardisé pour certains métiers.",
+      "keywords": [
+        "BSDQ",
+        "Soumissions",
+        "Métiers"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (rénovation de laboratoire).",
+      "rationales": [
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Conflit plans vs devis : [admin]",
+    "question": "Au Québec, la retenue statutaire est typiquement de 10 %. Quand la libérer?",
     "choices": [
-      "Factures priment",
-      "Dessins d’atelier priment",
-      "Instructions verbales priment",
-      "Les devis priment souvent"
+      "Après l’expiration des délais d’hypothèque légale et obtention des certificats requis",
+      "Uniquement à la toute fin sans égard aux délais",
+      "À 50 % d’avancement",
+      "Dès qu’un sous-traitant la demande"
     ],
-    "answer": 3
+    "answer": 0,
+    "exp": {
+      "why": "La retenue est libérée après l’expiration des délais afin de se prémunir contre les hypothèques légales.",
+      "keywords": [
+        "Retenue",
+        "Délais d’hypothèque",
+        "Hypothèque légale"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (réparation d’un stationnement étagé).",
+      "rationales": [
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Conflit plans vs devis : [admin]",
+    "question": "Au Québec, le BSDQ sert surtout à :",
     "choices": [
-      "Factures priment",
-      "Les devis priment souvent",
-      "Dessins d’atelier priment",
-      "Instructions verbales priment"
+      "Gérer les réclamations des travailleurs",
+      "Délivrer des licences RBQ",
+      "Percevoir la TPS/TVQ",
+      "Normaliser le dépôt de certaines soumissions de métiers aux entrepreneurs généraux"
     ],
-    "answer": 1
+    "answer": 3,
+    "exp": {
+      "why": "Le BSDQ encadre un mécanisme de dépôt standardisé pour certains métiers.",
+      "keywords": [
+        "BSDQ",
+        "Soumissions",
+        "Métiers"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (modernisation d’un gymnase).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Conflit plans vs devis : [admin]",
+    "question": "Vous soumissionnez un projet de $822,000 pour Centre hospitalier (recalorifugeage de façade). Le but principal d’un cautionnement de soumission est de :",
     "choices": [
-      "Les devis priment souvent",
-      "Instructions verbales priment",
-      "Factures priment",
-      "Dessins d’atelier priment"
+      "Remplacer le cautionnement d’exécution",
+      "Payer directement les sous-traitants en cas de défaut",
+      "Garantir une qualité parfaite des travaux",
+      "Garantir que le soumissionnaire signera le contrat et fournira les cautionnements requis s’il est adjudicataire"
     ],
-    "answer": 0
+    "answer": 3,
+    "exp": {
+      "why": "Le cautionnement de soumission protège le maître d’ouvrage si le plus bas conforme refuse de signer ou de fournir les cautionnements finaux.",
+      "keywords": [
+        "Cautionnement de soumission",
+        "Appel d’offres",
+        "Caution"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (recalorifugeage de façade).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement de soumission : [admin]",
+    "question": "Université émet un changement considéré (CCD) pour ajouter des portes coupe-feu, prix à déterminer. Quelle est l’étape conforme pour avancer?",
     "choices": [
-      "Remplace le cautionnement d’exécution",
-      "Garantit une qualité parfaite",
-      "Paie directement les sous-traitants",
-      "Garantit la signature si adjudicataire"
+      "Exécuter immédiatement et facturer plus tard sans documentation",
+      "Noyer la portée dans la facturation d’avancement",
+      "Formaliser via un ordre de changement (ou directive autorisée avec mode de tarification) avant l’exécution non urgente",
+      "Ignorer et réclamer à la clôture"
     ],
-    "answer": 3
+    "answer": 2,
+    "exp": {
+      "why": "La gestion des changements exige une autorisation formelle et une méthode d’ajustement avant l’exécution non urgente.",
+      "keywords": [
+        "Ordre de changement",
+        "Directive",
+        "Gestion des changements"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (rénovation de laboratoire).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Conflit plans vs devis : [admin]",
+    "question": "Un cautionnement de paiement (main-d’œuvre et matériaux) protège principalement :",
     "choices": [
-      "Les devis priment souvent",
-      "Dessins d’atelier priment",
-      "Instructions verbales priment",
-      "Factures priment"
+      "Uniquement le professionnel",
+      "Uniquement le maître d’ouvrage",
+      "Uniquement le prêteur",
+      "Les sous-traitants et les fournisseurs contre le non-paiement"
     ],
-    "answer": 0
+    "answer": 3,
+    "exp": {
+      "why": "Il vise à assurer le paiement des sous-traitants/fournisseurs et à réduire les réclamations.",
+      "keywords": [
+        "Cautionnement de paiement",
+        "Sous-traitants",
+        "Fournisseurs"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (remplacement CVC en toiture).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement d’exécution : [admin]",
+    "question": "Sur un projet de $1,647,000, un cautionnement d’exécution de 50 % est exigé. Il protège d’abord contre :",
     "choices": [
-      "Protège le concepteur",
-      "Protège la banque",
-      "Protège le donneur d’ouvrage en cas de défaut",
-      "Protège le profit de l’entrepreneur"
+      "L’inflation des matériaux seulement",
+      "Les retards de factures fournisseurs",
+      "Le défaut de l’entrepreneur pendant l’exécution causant des travaux inachevés ou défectueux",
+      "Les erreurs de conception de l’architecte"
     ],
-    "answer": 2
+    "answer": 2,
+    "exp": {
+      "why": "Le cautionnement d’exécution protège le donneur d’ouvrage en cas de défaut de l’entrepreneur.",
+      "keywords": [
+        "Cautionnement d’exécution",
+        "Caution",
+        "Protection du donneur d’ouvrage"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (modernisation d’un gymnase).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement d’exécution : [admin]",
+    "question": "Si plans et devis sont en conflit et qu’aucune priorité n’est précisée, lequel prévaut généralement?",
     "choices": [
-      "Protège le concepteur",
-      "Protège le donneur d’ouvrage en cas de défaut",
-      "Protège la banque",
-      "Protège le profit de l’entrepreneur"
+      "Les factures priment",
+      "Les instructions verbales priment",
+      "Les devis priment habituellement sur les plans",
+      "Les dessins d’atelier priment"
     ],
-    "answer": 1
+    "answer": 2,
+    "exp": {
+      "why": "Sauf stipulation contraire, les devis gouvernent.",
+      "keywords": [
+        "Devis",
+        "Documents contractuels",
+        "Priorité"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (remplacement CVC en toiture).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement de soumission : [admin]",
+    "question": "Sur un projet de $2,054,000, un cautionnement d’exécution de 50 % est exigé. Il protège d’abord contre :",
     "choices": [
-      "Garantit la signature si adjudicataire",
-      "Remplace le cautionnement d’exécution",
-      "Garantit une qualité parfaite",
-      "Paie directement les sous-traitants"
+      "Les erreurs de conception de l’architecte",
+      "Le défaut de l’entrepreneur pendant l’exécution causant des travaux inachevés ou défectueux",
+      "Les retards de factures fournisseurs",
+      "L’inflation des matériaux seulement"
     ],
-    "answer": 0
+    "answer": 1,
+    "exp": {
+      "why": "Le cautionnement d’exécution protège le donneur d’ouvrage en cas de défaut de l’entrepreneur.",
+      "keywords": [
+        "Cautionnement d’exécution",
+        "Caution",
+        "Protection du donneur d’ouvrage"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (réparation d’un stationnement étagé).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement de paiement : [admin]",
+    "question": "Au Québec, la retenue statutaire est typiquement de 10 %. Quand la libérer?",
     "choices": [
-      "Propriétaires seulement",
-      "Banques seulement",
-      "Protège sous-traitants et fournisseurs impayés",
-      "Professionnels seulement"
+      "Après l’expiration des délais d’hypothèque légale et obtention des certificats requis",
+      "Dès qu’un sous-traitant la demande",
+      "À 50 % d’avancement",
+      "Uniquement à la toute fin sans égard aux délais"
     ],
-    "answer": 2
+    "answer": 0,
+    "exp": {
+      "why": "La retenue est libérée après l’expiration des délais afin de se prémunir contre les hypothèques légales.",
+      "keywords": [
+        "Retenue",
+        "Délais d’hypothèque",
+        "Hypothèque légale"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (aménagement intérieur).",
+      "rationales": [
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement d’exécution : [admin]",
+    "question": "Sur un projet de $2,078,000, un cautionnement d’exécution de 50 % est exigé. Il protège d’abord contre :",
     "choices": [
-      "Protège le concepteur",
-      "Protège la banque",
-      "Protège le donneur d’ouvrage en cas de défaut",
-      "Protège le profit de l’entrepreneur"
+      "Les erreurs de conception de l’architecte",
+      "Le défaut de l’entrepreneur pendant l’exécution causant des travaux inachevés ou défectueux",
+      "L’inflation des matériaux seulement",
+      "Les retards de factures fournisseurs"
     ],
-    "answer": 2
+    "answer": 1,
+    "exp": {
+      "why": "Le cautionnement d’exécution protège le donneur d’ouvrage en cas de défaut de l’entrepreneur.",
+      "keywords": [
+        "Cautionnement d’exécution",
+        "Caution",
+        "Protection du donneur d’ouvrage"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (remplacement CVC en toiture).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement d’exécution : [admin]",
+    "question": "Au Québec, la retenue statutaire est typiquement de 10 %. Quand la libérer?",
     "choices": [
-      "Protège le donneur d’ouvrage en cas de défaut",
-      "Protège le profit de l’entrepreneur",
-      "Protège la banque",
-      "Protège le concepteur"
+      "Uniquement à la toute fin sans égard aux délais",
+      "Après l’expiration des délais d’hypothèque légale et obtention des certificats requis",
+      "Dès qu’un sous-traitant la demande",
+      "À 50 % d’avancement"
     ],
-    "answer": 0
+    "answer": 1,
+    "exp": {
+      "why": "La retenue est libérée après l’expiration des délais afin de se prémunir contre les hypothèques légales.",
+      "keywords": [
+        "Retenue",
+        "Délais d’hypothèque",
+        "Hypothèque légale"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (rénovation de laboratoire).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement d’exécution : [admin]",
+    "question": "Au Québec, le BSDQ sert surtout à :",
     "choices": [
-      "Protège le concepteur",
-      "Protège le donneur d’ouvrage en cas de défaut",
-      "Protège la banque",
-      "Protège le profit de l’entrepreneur"
+      "Normaliser le dépôt de certaines soumissions de métiers aux entrepreneurs généraux",
+      "Gérer les réclamations des travailleurs",
+      "Percevoir la TPS/TVQ",
+      "Délivrer des licences RBQ"
     ],
-    "answer": 1
+    "answer": 0,
+    "exp": {
+      "why": "Le BSDQ encadre un mécanisme de dépôt standardisé pour certains métiers.",
+      "keywords": [
+        "BSDQ",
+        "Soumissions",
+        "Métiers"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (recalorifugeage de façade).",
+      "rationales": [
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Rôle du garant RBQ ? [admin]",
+    "question": "Au Québec, le BSDQ sert surtout à :",
     "choices": [
-      "Gérer des autoroutes",
-      "Approuver les factures",
-      "Adopter des règlements",
-      "Assurer compétences & conformité"
+      "Délivrer des licences RBQ",
+      "Normaliser le dépôt de certaines soumissions de métiers aux entrepreneurs généraux",
+      "Gérer les réclamations des travailleurs",
+      "Percevoir la TPS/TVQ"
     ],
-    "answer": 3
+    "answer": 1,
+    "exp": {
+      "why": "Le BSDQ encadre un mécanisme de dépôt standardisé pour certains métiers.",
+      "keywords": [
+        "BSDQ",
+        "Soumissions",
+        "Métiers"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (remplacement CVC en toiture).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Rôle du garant RBQ ? [admin]",
+    "question": "Sur un projet de $2,044,000, un cautionnement d’exécution de 50 % est exigé. Il protège d’abord contre :",
     "choices": [
-      "Approuver les factures",
-      "Adopter des règlements",
-      "Gérer des autoroutes",
-      "Assurer compétences & conformité"
+      "L’inflation des matériaux seulement",
+      "Les retards de factures fournisseurs",
+      "Le défaut de l’entrepreneur pendant l’exécution causant des travaux inachevés ou défectueux",
+      "Les erreurs de conception de l’architecte"
     ],
-    "answer": 3
+    "answer": 2,
+    "exp": {
+      "why": "Le cautionnement d’exécution protège le donneur d’ouvrage en cas de défaut de l’entrepreneur.",
+      "keywords": [
+        "Cautionnement d’exécution",
+        "Caution",
+        "Protection du donneur d’ouvrage"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (aménagement intérieur).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement de paiement : [admin]",
+    "question": "Au Québec, la retenue statutaire est typiquement de 10 %. Quand la libérer?",
     "choices": [
-      "Professionnels seulement",
-      "Banques seulement",
-      "Protège sous-traitants et fournisseurs impayés",
-      "Propriétaires seulement"
+      "Uniquement à la toute fin sans égard aux délais",
+      "À 50 % d’avancement",
+      "Après l’expiration des délais d’hypothèque légale et obtention des certificats requis",
+      "Dès qu’un sous-traitant la demande"
     ],
-    "answer": 2
+    "answer": 2,
+    "exp": {
+      "why": "La retenue est libérée après l’expiration des délais afin de se prémunir contre les hypothèques légales.",
+      "keywords": [
+        "Retenue",
+        "Délais d’hypothèque",
+        "Hypothèque légale"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (remplacement CVC en toiture).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement de soumission : [admin]",
+    "question": "Au Québec, la retenue statutaire est typiquement de 10 %. Quand la libérer?",
     "choices": [
-      "Remplace le cautionnement d’exécution",
-      "Garantit une qualité parfaite",
-      "Garantit la signature si adjudicataire",
-      "Paie directement les sous-traitants"
+      "Uniquement à la toute fin sans égard aux délais",
+      "Après l’expiration des délais d’hypothèque légale et obtention des certificats requis",
+      "Dès qu’un sous-traitant la demande",
+      "À 50 % d’avancement"
     ],
-    "answer": 2
+    "answer": 1,
+    "exp": {
+      "why": "La retenue est libérée après l’expiration des délais afin de se prémunir contre les hypothèques légales.",
+      "keywords": [
+        "Retenue",
+        "Délais d’hypothèque",
+        "Hypothèque légale"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (réparation d’un stationnement étagé).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Rôle du garant RBQ ? [admin]",
+    "question": "Un cautionnement de paiement (main-d’œuvre et matériaux) protège principalement :",
     "choices": [
-      "Gérer des autoroutes",
-      "Approuver les factures",
-      "Adopter des règlements",
-      "Assurer compétences & conformité"
+      "Les sous-traitants et les fournisseurs contre le non-paiement",
+      "Uniquement le maître d’ouvrage",
+      "Uniquement le prêteur",
+      "Uniquement le professionnel"
     ],
-    "answer": 3
+    "answer": 0,
+    "exp": {
+      "why": "Il vise à assurer le paiement des sous-traitants/fournisseurs et à réduire les réclamations.",
+      "keywords": [
+        "Cautionnement de paiement",
+        "Sous-traitants",
+        "Fournisseurs"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (recalorifugeage de façade).",
+      "rationales": [
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement de paiement : [admin]",
+    "question": "Au Québec, la retenue statutaire est typiquement de 10 %. Quand la libérer?",
     "choices": [
-      "Banques seulement",
-      "Protège sous-traitants et fournisseurs impayés",
-      "Propriétaires seulement",
-      "Professionnels seulement"
+      "À 50 % d’avancement",
+      "Dès qu’un sous-traitant la demande",
+      "Uniquement à la toute fin sans égard aux délais",
+      "Après l’expiration des délais d’hypothèque légale et obtention des certificats requis"
     ],
-    "answer": 1
+    "answer": 3,
+    "exp": {
+      "why": "La retenue est libérée après l’expiration des délais afin de se prémunir contre les hypothèques légales.",
+      "keywords": [
+        "Retenue",
+        "Délais d’hypothèque",
+        "Hypothèque légale"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (remplacement CVC en toiture).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Rôle du garant RBQ ? [admin]",
+    "question": "Au Québec, la retenue statutaire est typiquement de 10 %. Quand la libérer?",
     "choices": [
-      "Approuver les factures",
-      "Gérer des autoroutes",
-      "Assurer compétences & conformité",
-      "Adopter des règlements"
+      "Uniquement à la toute fin sans égard aux délais",
+      "Dès qu’un sous-traitant la demande",
+      "À 50 % d’avancement",
+      "Après l’expiration des délais d’hypothèque légale et obtention des certificats requis"
     ],
-    "answer": 2
+    "answer": 3,
+    "exp": {
+      "why": "La retenue est libérée après l’expiration des délais afin de se prémunir contre les hypothèques légales.",
+      "keywords": [
+        "Retenue",
+        "Délais d’hypothèque",
+        "Hypothèque légale"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (recalorifugeage de façade).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Conflit plans vs devis : [admin]",
+    "question": "Au Québec, le BSDQ sert surtout à :",
     "choices": [
-      "Instructions verbales priment",
-      "Factures priment",
-      "Dessins d’atelier priment",
-      "Les devis priment souvent"
+      "Délivrer des licences RBQ",
+      "Normaliser le dépôt de certaines soumissions de métiers aux entrepreneurs généraux",
+      "Percevoir la TPS/TVQ",
+      "Gérer les réclamations des travailleurs"
     ],
-    "answer": 3
+    "answer": 1,
+    "exp": {
+      "why": "Le BSDQ encadre un mécanisme de dépôt standardisé pour certains métiers.",
+      "keywords": [
+        "BSDQ",
+        "Soumissions",
+        "Métiers"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (réparation d’un stationnement étagé).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement d’exécution : [admin]",
+    "question": "Centre hospitalier émet un changement considéré (CCD) pour ajouter des portes coupe-feu, prix à déterminer. Quelle est l’étape conforme pour avancer?",
     "choices": [
-      "Protège la banque",
-      "Protège le concepteur",
-      "Protège le profit de l’entrepreneur",
-      "Protège le donneur d’ouvrage en cas de défaut"
+      "Noyer la portée dans la facturation d’avancement",
+      "Formaliser via un ordre de changement (ou directive autorisée avec mode de tarification) avant l’exécution non urgente",
+      "Exécuter immédiatement et facturer plus tard sans documentation",
+      "Ignorer et réclamer à la clôture"
     ],
-    "answer": 3
+    "answer": 1,
+    "exp": {
+      "why": "La gestion des changements exige une autorisation formelle et une méthode d’ajustement avant l’exécution non urgente.",
+      "keywords": [
+        "Ordre de changement",
+        "Directive",
+        "Gestion des changements"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (recalorifugeage de façade).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement d’exécution : [admin]",
+    "question": "Sur un projet de $783,000, un cautionnement d’exécution de 50 % est exigé. Il protège d’abord contre :",
     "choices": [
-      "Protège le donneur d’ouvrage en cas de défaut",
-      "Protège la banque",
-      "Protège le concepteur",
-      "Protège le profit de l’entrepreneur"
+      "Le défaut de l’entrepreneur pendant l’exécution causant des travaux inachevés ou défectueux",
+      "Les erreurs de conception de l’architecte",
+      "Les retards de factures fournisseurs",
+      "L’inflation des matériaux seulement"
     ],
-    "answer": 0
+    "answer": 0,
+    "exp": {
+      "why": "Le cautionnement d’exécution protège le donneur d’ouvrage en cas de défaut de l’entrepreneur.",
+      "keywords": [
+        "Cautionnement d’exécution",
+        "Caution",
+        "Protection du donneur d’ouvrage"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (aménagement intérieur).",
+      "rationales": [
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement d’exécution : [admin]",
+    "question": "Au Québec, la retenue statutaire est typiquement de 10 %. Quand la libérer?",
     "choices": [
-      "Protège le profit de l’entrepreneur",
-      "Protège le concepteur",
-      "Protège le donneur d’ouvrage en cas de défaut",
-      "Protège la banque"
+      "Dès qu’un sous-traitant la demande",
+      "À 50 % d’avancement",
+      "Après l’expiration des délais d’hypothèque légale et obtention des certificats requis",
+      "Uniquement à la toute fin sans égard aux délais"
     ],
-    "answer": 2
+    "answer": 2,
+    "exp": {
+      "why": "La retenue est libérée après l’expiration des délais afin de se prémunir contre les hypothèques légales.",
+      "keywords": [
+        "Retenue",
+        "Délais d’hypothèque",
+        "Hypothèque légale"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (réparation d’un stationnement étagé).",
+      "rationales": [
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement de soumission : [admin]",
+    "question": "Université émet un changement considéré (CCD) pour ajouter des portes coupe-feu, prix à déterminer. Quelle est l’étape conforme pour avancer?",
     "choices": [
-      "Paie directement les sous-traitants",
-      "Garantit la signature si adjudicataire",
-      "Garantit une qualité parfaite",
-      "Remplace le cautionnement d’exécution"
+      "Formaliser via un ordre de changement (ou directive autorisée avec mode de tarification) avant l’exécution non urgente",
+      "Noyer la portée dans la facturation d’avancement",
+      "Exécuter immédiatement et facturer plus tard sans documentation",
+      "Ignorer et réclamer à la clôture"
     ],
-    "answer": 1
+    "answer": 0,
+    "exp": {
+      "why": "La gestion des changements exige une autorisation formelle et une méthode d’ajustement avant l’exécution non urgente.",
+      "keywords": [
+        "Ordre de changement",
+        "Directive",
+        "Gestion des changements"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (modernisation d’un gymnase).",
+      "rationales": [
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Rôle du garant RBQ ? [admin]",
+    "question": "Un cautionnement de paiement (main-d’œuvre et matériaux) protège principalement :",
     "choices": [
-      "Assurer compétences & conformité",
-      "Approuver les factures",
-      "Adopter des règlements",
-      "Gérer des autoroutes"
+      "Les sous-traitants et les fournisseurs contre le non-paiement",
+      "Uniquement le prêteur",
+      "Uniquement le professionnel",
+      "Uniquement le maître d’ouvrage"
     ],
-    "answer": 0
+    "answer": 0,
+    "exp": {
+      "why": "Il vise à assurer le paiement des sous-traitants/fournisseurs et à réduire les réclamations.",
+      "keywords": [
+        "Cautionnement de paiement",
+        "Sous-traitants",
+        "Fournisseurs"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (aménagement intérieur).",
+      "rationales": [
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   },
   {
-    "question": "Cautionnement de soumission : [admin]",
+    "question": "Sur un projet de $633,000, un cautionnement d’exécution de 50 % est exigé. Il protège d’abord contre :",
     "choices": [
-      "Remplace le cautionnement d’exécution",
-      "Garantit une qualité parfaite",
-      "Paie directement les sous-traitants",
-      "Garantit la signature si adjudicataire"
+      "Le défaut de l’entrepreneur pendant l’exécution causant des travaux inachevés ou défectueux",
+      "L’inflation des matériaux seulement",
+      "Les erreurs de conception de l’architecte",
+      "Les retards de factures fournisseurs"
     ],
-    "answer": 3
+    "answer": 0,
+    "exp": {
+      "why": "Le cautionnement d’exécution protège le donneur d’ouvrage en cas de défaut de l’entrepreneur.",
+      "keywords": [
+        "Cautionnement d’exécution",
+        "Caution",
+        "Protection du donneur d’ouvrage"
+      ],
+      "example": "Consigner au registre des changements; obtenir les signatures avant diffusion aux sous-traitants (réparation d’un stationnement étagé).",
+      "rationales": [
+        "✅ Exact : usage réel des instruments administratifs.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument.",
+        "❌ Inexact : ne correspond pas à la finalité de l’instrument."
+      ],
+      "refs": [
+        "Pratiques générales au Québec; gestion des changements; cautionnement"
+      ]
+    }
   }
 ]

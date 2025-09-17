@@ -1,502 +1,1399 @@
 [
   {
-    "question": "Dimensionnement conducteurs : [execution]",
+    "question": "La mise en service CVC comprend généralement :",
     "choices": [
-      "Couleur du conduit",
-      "Ampacité, température, déclassement, tableaux du code",
-      "Nombre d’étiquettes",
-      "Prix de l’étiquette"
+      "Un audit fiscal",
+      "La peinture des conduits",
+      "Le comptage des grilles",
+      "L’équilibrage air/eau et la vérification des contrôles"
     ],
-    "answer": 1
+    "answer": 3,
+    "exp": {
+      "why": "La mise en service vérifie la performance et les séquences de contrôle.",
+      "keywords": [
+        "Mise en service",
+        "Équilibrage",
+        "Contrôles"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Mise en service CVC : [execution]",
+    "question": "L’enrobage minimal sert surtout à :",
     "choices": [
-      "Équilibrage air/eau + vérifications",
-      "Peindre les conduits",
-      "Audit fiscal",
-      "Compter les grilles"
+      "Éviter les fissures de tuiles",
+      "Empêcher l’écaillage de la peinture",
+      "Protéger les armatures contre la corrosion et le feu",
+      "Garder le coffrage sec"
     ],
-    "answer": 0
+    "answer": 2,
+    "exp": {
+      "why": "L’enrobage protège les barres de l’environnement et de la chaleur.",
+      "keywords": [
+        "Enrobage",
+        "Durabilité",
+        "Feu"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Mise en service CVC : [execution]",
+    "question": "La mise en service CVC comprend généralement :",
     "choices": [
-      "Audit fiscal",
-      "Équilibrage air/eau + vérifications",
-      "Peindre les conduits",
-      "Compter les grilles"
+      "Le comptage des grilles",
+      "L’équilibrage air/eau et la vérification des contrôles",
+      "Un audit fiscal",
+      "La peinture des conduits"
     ],
-    "answer": 1
+    "answer": 1,
+    "exp": {
+      "why": "La mise en service vérifie la performance et les séquences de contrôle.",
+      "keywords": [
+        "Mise en service",
+        "Équilibrage",
+        "Contrôles"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Résistance du béton vérifiée par : [execution]",
+    "question": "La mise en service CVC comprend généralement :",
     "choices": [
-      "Inspection visuelle",
-      "Rupture d’éprouvettes en labo",
-      "Affaissement seulement",
-      "Clé dynamométrique"
+      "Le comptage des grilles",
+      "L’équilibrage air/eau et la vérification des contrôles",
+      "Un audit fiscal",
+      "La peinture des conduits"
     ],
-    "answer": 1
+    "answer": 1,
+    "exp": {
+      "why": "La mise en service vérifie la performance et les séquences de contrôle.",
+      "keywords": [
+        "Mise en service",
+        "Équilibrage",
+        "Contrôles"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Remblai en couches : [execution]",
+    "question": "La résistance en compression du béton est vérifiée par :",
     "choices": [
-      "Compactage adéquat pour densité requise",
-      "Moins d’essais",
-      "Transport plus rapide",
-      "Main-d’œuvre moins chère"
+      "Une clé dynamométrique",
+      "L’essai d’affaissement seulement",
+      "Une inspection visuelle",
+      "La rupture d’éprouvettes en laboratoire aux âges prescrits"
     ],
-    "answer": 0
+    "answer": 3,
+    "exp": {
+      "why": "La résistance se mesure par essais normalisés.",
+      "keywords": [
+        "Béton",
+        "Essais de compression",
+        "CQ"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Résistance du béton vérifiée par : [execution]",
+    "question": "Le remblai en couches compactées permet :",
     "choices": [
-      "Inspection visuelle",
-      "Affaissement seulement",
-      "Clé dynamométrique",
-      "Rupture d’éprouvettes en labo"
+      "Moins d’essais pour toujours",
+      "Uniquement un transport plus rapide",
+      "Une main-d’œuvre moins chère sans effet",
+      "Un compactage adéquat pour atteindre la densité requise"
     ],
-    "answer": 3
+    "answer": 3,
+    "exp": {
+      "why": "On atteint une densité uniforme et la capacité portante.",
+      "keywords": [
+        "Remblai",
+        "Compactage"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Remblai en couches : [execution]",
+    "question": "La mise en service CVC comprend généralement :",
     "choices": [
-      "Transport plus rapide",
-      "Main-d’œuvre moins chère",
-      "Compactage adéquat pour densité requise",
-      "Moins d’essais"
+      "La peinture des conduits",
+      "Le comptage des grilles",
+      "L’équilibrage air/eau et la vérification des contrôles",
+      "Un audit fiscal"
     ],
-    "answer": 2
+    "answer": 2,
+    "exp": {
+      "why": "La mise en service vérifie la performance et les séquences de contrôle.",
+      "keywords": [
+        "Mise en service",
+        "Équilibrage",
+        "Contrôles"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Résistance du béton vérifiée par : [execution]",
+    "question": "Le dimensionnement des conducteurs électriques considère :",
     "choices": [
-      "Rupture d’éprouvettes en labo",
-      "Inspection visuelle",
-      "Clé dynamométrique",
-      "Affaissement seulement"
+      "La police des étiquettes",
+      "L’ampacité, la température, le déclassement et les tableaux du code",
+      "La couleur du conduit",
+      "Le prix de l’étiquette"
     ],
-    "answer": 0
+    "answer": 1,
+    "exp": {
+      "why": "Le code et les conditions d’installation déterminent la section.",
+      "keywords": [
+        "Électricité",
+        "Ampacité",
+        "Code"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Résistance du béton vérifiée par : [execution]",
+    "question": "Les raccords et pénétrations de toiture exigent :",
     "choices": [
-      "Clé dynamométrique",
-      "Rupture d’éprouvettes en labo",
-      "Inspection visuelle",
-      "Affaissement seulement"
+      "Des membranes compatibles, un solin approprié et une inspection",
+      "N’importe quel scellant",
+      "Aucune inspection par temps sec",
+      "Du ruban sous le ballast"
     ],
-    "answer": 1
+    "answer": 0,
+    "exp": {
+      "why": "L’étanchéité dépend de la compatibilité et des détails.",
+      "keywords": [
+        "Toiture",
+        "Solins",
+        "Étanchéité"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Résistance du béton vérifiée par : [execution]",
+    "question": "Le calfeutrement coupe-feu assure :",
     "choices": [
-      "Clé dynamométrique",
-      "Affaissement seulement",
-      "Rupture d’éprouvettes en labo",
-      "Inspection visuelle"
+      "Une meilleure adhérence de peinture",
+      "Une valeur R toujours plus élevée",
+      "Une insonorisation parfaite",
+      "Le maintien du degré coupe-feu aux traversées"
     ],
-    "answer": 2
+    "answer": 3,
+    "exp": {
+      "why": "Les systèmes homologués maintiennent la compartimentation.",
+      "keywords": [
+        "Coupe-feu",
+        "Homologation",
+        "Traversées"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Dimensionnement conducteurs : [execution]",
+    "question": "Les systèmes d’isolation extérieure doivent assurer :",
     "choices": [
-      "Ampacité, température, déclassement, tableaux du code",
-      "Couleur du conduit",
-      "Nombre d’étiquettes",
-      "Prix de l’étiquette"
+      "La peinture règle tous les problèmes thermiques",
+      "Des vides pour « ventiler la chaleur »",
+      "Une couche thermique continue sans ponts thermiques majeurs",
+      "Des fixations uniquement à travers le pare-air"
     ],
-    "answer": 0
+    "answer": 2,
+    "exp": {
+      "why": "La continuité réduit les ponts thermiques et la condensation.",
+      "keywords": [
+        "Isolation",
+        "Ponts thermiques",
+        "Enveloppe"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Résistance du béton vérifiée par : [execution]",
+    "question": "Les systèmes d’isolation extérieure doivent assurer :",
     "choices": [
-      "Clé dynamométrique",
-      "Rupture d’éprouvettes en labo",
-      "Affaissement seulement",
-      "Inspection visuelle"
+      "Des fixations uniquement à travers le pare-air",
+      "La peinture règle tous les problèmes thermiques",
+      "Des vides pour « ventiler la chaleur »",
+      "Une couche thermique continue sans ponts thermiques majeurs"
     ],
-    "answer": 1
+    "answer": 3,
+    "exp": {
+      "why": "La continuité réduit les ponts thermiques et la condensation.",
+      "keywords": [
+        "Isolation",
+        "Ponts thermiques",
+        "Enveloppe"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Coupe-feu : [execution]",
+    "question": "Le calfeutrement coupe-feu assure :",
     "choices": [
-      "Maintien du degré coupe-feu des traversées",
-      "Insonorisation uniquement",
-      "Meilleure adhérence peinture",
-      "Valeur R plus élevée"
+      "Une insonorisation parfaite",
+      "Une valeur R toujours plus élevée",
+      "Une meilleure adhérence de peinture",
+      "Le maintien du degré coupe-feu aux traversées"
     ],
-    "answer": 0
+    "answer": 3,
+    "exp": {
+      "why": "Les systèmes homologués maintiennent la compartimentation.",
+      "keywords": [
+        "Coupe-feu",
+        "Homologation",
+        "Traversées"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Coupe-feu : [execution]",
+    "question": "Les raccords et pénétrations de toiture exigent :",
     "choices": [
-      "Meilleure adhérence peinture",
-      "Valeur R plus élevée",
-      "Maintien du degré coupe-feu des traversées",
-      "Insonorisation uniquement"
+      "Du ruban sous le ballast",
+      "N’importe quel scellant",
+      "Des membranes compatibles, un solin approprié et une inspection",
+      "Aucune inspection par temps sec"
     ],
-    "answer": 2
+    "answer": 2,
+    "exp": {
+      "why": "L’étanchéité dépend de la compatibilité et des détails.",
+      "keywords": [
+        "Toiture",
+        "Solins",
+        "Étanchéité"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Coupe-feu : [execution]",
+    "question": "Le remblai en couches compactées permet :",
     "choices": [
-      "Meilleure adhérence peinture",
-      "Maintien du degré coupe-feu des traversées",
-      "Valeur R plus élevée",
-      "Insonorisation uniquement"
+      "Une main-d’œuvre moins chère sans effet",
+      "Moins d’essais pour toujours",
+      "Uniquement un transport plus rapide",
+      "Un compactage adéquat pour atteindre la densité requise"
     ],
-    "answer": 1
+    "answer": 3,
+    "exp": {
+      "why": "On atteint une densité uniforme et la capacité portante.",
+      "keywords": [
+        "Remblai",
+        "Compactage"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Dimensionnement conducteurs : [execution]",
+    "question": "La résistance en compression du béton est vérifiée par :",
     "choices": [
-      "Nombre d’étiquettes",
-      "Ampacité, température, déclassement, tableaux du code",
-      "Prix de l’étiquette",
-      "Couleur du conduit"
+      "L’essai d’affaissement seulement",
+      "La rupture d’éprouvettes en laboratoire aux âges prescrits",
+      "Une inspection visuelle",
+      "Une clé dynamométrique"
     ],
-    "answer": 1
+    "answer": 1,
+    "exp": {
+      "why": "La résistance se mesure par essais normalisés.",
+      "keywords": [
+        "Béton",
+        "Essais de compression",
+        "CQ"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Coupe-feu : [execution]",
+    "question": "Le dimensionnement des conducteurs électriques considère :",
     "choices": [
-      "Insonorisation uniquement",
-      "Maintien du degré coupe-feu des traversées",
-      "Meilleure adhérence peinture",
-      "Valeur R plus élevée"
+      "La couleur du conduit",
+      "Le prix de l’étiquette",
+      "La police des étiquettes",
+      "L’ampacité, la température, le déclassement et les tableaux du code"
     ],
-    "answer": 1
+    "answer": 3,
+    "exp": {
+      "why": "Le code et les conditions d’installation déterminent la section.",
+      "keywords": [
+        "Électricité",
+        "Ampacité",
+        "Code"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Résistance du béton vérifiée par : [execution]",
+    "question": "Les systèmes d’isolation extérieure doivent assurer :",
     "choices": [
-      "Inspection visuelle",
-      "Affaissement seulement",
-      "Rupture d’éprouvettes en labo",
-      "Clé dynamométrique"
+      "Des vides pour « ventiler la chaleur »",
+      "Une couche thermique continue sans ponts thermiques majeurs",
+      "Des fixations uniquement à travers le pare-air",
+      "La peinture règle tous les problèmes thermiques"
     ],
-    "answer": 2
+    "answer": 1,
+    "exp": {
+      "why": "La continuité réduit les ponts thermiques et la condensation.",
+      "keywords": [
+        "Isolation",
+        "Ponts thermiques",
+        "Enveloppe"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Remblai en couches : [execution]",
+    "question": "L’enrobage minimal sert surtout à :",
     "choices": [
-      "Main-d’œuvre moins chère",
-      "Compactage adéquat pour densité requise",
-      "Transport plus rapide",
-      "Moins d’essais"
+      "Empêcher l’écaillage de la peinture",
+      "Garder le coffrage sec",
+      "Éviter les fissures de tuiles",
+      "Protéger les armatures contre la corrosion et le feu"
     ],
-    "answer": 1
+    "answer": 3,
+    "exp": {
+      "why": "L’enrobage protège les barres de l’environnement et de la chaleur.",
+      "keywords": [
+        "Enrobage",
+        "Durabilité",
+        "Feu"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Mise en service CVC : [execution]",
+    "question": "Le calfeutrement coupe-feu assure :",
     "choices": [
-      "Audit fiscal",
-      "Peindre les conduits",
-      "Équilibrage air/eau + vérifications",
-      "Compter les grilles"
+      "Le maintien du degré coupe-feu aux traversées",
+      "Une meilleure adhérence de peinture",
+      "Une valeur R toujours plus élevée",
+      "Une insonorisation parfaite"
     ],
-    "answer": 2
+    "answer": 0,
+    "exp": {
+      "why": "Les systèmes homologués maintiennent la compartimentation.",
+      "keywords": [
+        "Coupe-feu",
+        "Homologation",
+        "Traversées"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Dimensionnement conducteurs : [execution]",
+    "question": "La résistance en compression du béton est vérifiée par :",
     "choices": [
-      "Prix de l’étiquette",
-      "Nombre d’étiquettes",
-      "Ampacité, température, déclassement, tableaux du code",
-      "Couleur du conduit"
+      "L’essai d’affaissement seulement",
+      "Une clé dynamométrique",
+      "Une inspection visuelle",
+      "La rupture d’éprouvettes en laboratoire aux âges prescrits"
     ],
-    "answer": 2
+    "answer": 3,
+    "exp": {
+      "why": "La résistance se mesure par essais normalisés.",
+      "keywords": [
+        "Béton",
+        "Essais de compression",
+        "CQ"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Dimensionnement conducteurs : [execution]",
+    "question": "Le dimensionnement des conducteurs électriques considère :",
     "choices": [
-      "Prix de l’étiquette",
-      "Couleur du conduit",
-      "Nombre d’étiquettes",
-      "Ampacité, température, déclassement, tableaux du code"
+      "La police des étiquettes",
+      "Le prix de l’étiquette",
+      "La couleur du conduit",
+      "L’ampacité, la température, le déclassement et les tableaux du code"
     ],
-    "answer": 3
+    "answer": 3,
+    "exp": {
+      "why": "Le code et les conditions d’installation déterminent la section.",
+      "keywords": [
+        "Électricité",
+        "Ampacité",
+        "Code"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Dimensionnement conducteurs : [execution]",
+    "question": "Les raccords et pénétrations de toiture exigent :",
     "choices": [
-      "Prix de l’étiquette",
-      "Nombre d’étiquettes",
-      "Couleur du conduit",
-      "Ampacité, température, déclassement, tableaux du code"
+      "Du ruban sous le ballast",
+      "N’importe quel scellant",
+      "Aucune inspection par temps sec",
+      "Des membranes compatibles, un solin approprié et une inspection"
     ],
-    "answer": 3
+    "answer": 3,
+    "exp": {
+      "why": "L’étanchéité dépend de la compatibilité et des détails.",
+      "keywords": [
+        "Toiture",
+        "Solins",
+        "Étanchéité"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Dimensionnement conducteurs : [execution]",
+    "question": "Le remblai en couches compactées permet :",
     "choices": [
-      "Prix de l’étiquette",
-      "Ampacité, température, déclassement, tableaux du code",
-      "Nombre d’étiquettes",
-      "Couleur du conduit"
+      "Un compactage adéquat pour atteindre la densité requise",
+      "Moins d’essais pour toujours",
+      "Uniquement un transport plus rapide",
+      "Une main-d’œuvre moins chère sans effet"
     ],
-    "answer": 1
+    "answer": 0,
+    "exp": {
+      "why": "On atteint une densité uniforme et la capacité portante.",
+      "keywords": [
+        "Remblai",
+        "Compactage"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Dimensionnement conducteurs : [execution]",
+    "question": "La mise en service CVC comprend généralement :",
     "choices": [
-      "Ampacité, température, déclassement, tableaux du code",
-      "Nombre d’étiquettes",
-      "Couleur du conduit",
-      "Prix de l’étiquette"
+      "La peinture des conduits",
+      "Un audit fiscal",
+      "Le comptage des grilles",
+      "L’équilibrage air/eau et la vérification des contrôles"
     ],
-    "answer": 0
+    "answer": 3,
+    "exp": {
+      "why": "La mise en service vérifie la performance et les séquences de contrôle.",
+      "keywords": [
+        "Mise en service",
+        "Équilibrage",
+        "Contrôles"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Dimensionnement conducteurs : [execution]",
+    "question": "Les systèmes d’isolation extérieure doivent assurer :",
     "choices": [
-      "Prix de l’étiquette",
-      "Nombre d’étiquettes",
-      "Ampacité, température, déclassement, tableaux du code",
-      "Couleur du conduit"
+      "La peinture règle tous les problèmes thermiques",
+      "Une couche thermique continue sans ponts thermiques majeurs",
+      "Des fixations uniquement à travers le pare-air",
+      "Des vides pour « ventiler la chaleur »"
     ],
-    "answer": 2
+    "answer": 1,
+    "exp": {
+      "why": "La continuité réduit les ponts thermiques et la condensation.",
+      "keywords": [
+        "Isolation",
+        "Ponts thermiques",
+        "Enveloppe"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Remblai en couches : [execution]",
+    "question": "Le dimensionnement des conducteurs électriques considère :",
     "choices": [
-      "Main-d’œuvre moins chère",
-      "Compactage adéquat pour densité requise",
-      "Moins d’essais",
-      "Transport plus rapide"
+      "L’ampacité, la température, le déclassement et les tableaux du code",
+      "Le prix de l’étiquette",
+      "La couleur du conduit",
+      "La police des étiquettes"
     ],
-    "answer": 1
+    "answer": 0,
+    "exp": {
+      "why": "Le code et les conditions d’installation déterminent la section.",
+      "keywords": [
+        "Électricité",
+        "Ampacité",
+        "Code"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Mise en service CVC : [execution]",
+    "question": "Le dimensionnement des conducteurs électriques considère :",
     "choices": [
-      "Audit fiscal",
-      "Compter les grilles",
-      "Peindre les conduits",
-      "Équilibrage air/eau + vérifications"
+      "La police des étiquettes",
+      "L’ampacité, la température, le déclassement et les tableaux du code",
+      "La couleur du conduit",
+      "Le prix de l’étiquette"
     ],
-    "answer": 3
+    "answer": 1,
+    "exp": {
+      "why": "Le code et les conditions d’installation déterminent la section.",
+      "keywords": [
+        "Électricité",
+        "Ampacité",
+        "Code"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Dimensionnement conducteurs : [execution]",
+    "question": "La mise en service CVC comprend généralement :",
     "choices": [
-      "Couleur du conduit",
-      "Nombre d’étiquettes",
-      "Prix de l’étiquette",
-      "Ampacité, température, déclassement, tableaux du code"
+      "Le comptage des grilles",
+      "L’équilibrage air/eau et la vérification des contrôles",
+      "La peinture des conduits",
+      "Un audit fiscal"
     ],
-    "answer": 3
+    "answer": 1,
+    "exp": {
+      "why": "La mise en service vérifie la performance et les séquences de contrôle.",
+      "keywords": [
+        "Mise en service",
+        "Équilibrage",
+        "Contrôles"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Résistance du béton vérifiée par : [execution]",
+    "question": "La mise en service CVC comprend généralement :",
     "choices": [
-      "Affaissement seulement",
-      "Clé dynamométrique",
-      "Rupture d’éprouvettes en labo",
-      "Inspection visuelle"
+      "L’équilibrage air/eau et la vérification des contrôles",
+      "Un audit fiscal",
+      "Le comptage des grilles",
+      "La peinture des conduits"
     ],
-    "answer": 2
+    "answer": 0,
+    "exp": {
+      "why": "La mise en service vérifie la performance et les séquences de contrôle.",
+      "keywords": [
+        "Mise en service",
+        "Équilibrage",
+        "Contrôles"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Mise en service CVC : [execution]",
+    "question": "La mise en service CVC comprend généralement :",
     "choices": [
-      "Peindre les conduits",
-      "Audit fiscal",
-      "Équilibrage air/eau + vérifications",
-      "Compter les grilles"
+      "L’équilibrage air/eau et la vérification des contrôles",
+      "La peinture des conduits",
+      "Le comptage des grilles",
+      "Un audit fiscal"
     ],
-    "answer": 2
+    "answer": 0,
+    "exp": {
+      "why": "La mise en service vérifie la performance et les séquences de contrôle.",
+      "keywords": [
+        "Mise en service",
+        "Équilibrage",
+        "Contrôles"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Dimensionnement conducteurs : [execution]",
+    "question": "Les systèmes d’isolation extérieure doivent assurer :",
     "choices": [
-      "Nombre d’étiquettes",
-      "Couleur du conduit",
-      "Ampacité, température, déclassement, tableaux du code",
-      "Prix de l’étiquette"
+      "Des fixations uniquement à travers le pare-air",
+      "Des vides pour « ventiler la chaleur »",
+      "La peinture règle tous les problèmes thermiques",
+      "Une couche thermique continue sans ponts thermiques majeurs"
     ],
-    "answer": 2
+    "answer": 3,
+    "exp": {
+      "why": "La continuité réduit les ponts thermiques et la condensation.",
+      "keywords": [
+        "Isolation",
+        "Ponts thermiques",
+        "Enveloppe"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Résistance du béton vérifiée par : [execution]",
+    "question": "Le calfeutrement coupe-feu assure :",
     "choices": [
-      "Clé dynamométrique",
-      "Inspection visuelle",
-      "Affaissement seulement",
-      "Rupture d’éprouvettes en labo"
+      "Une insonorisation parfaite",
+      "Une valeur R toujours plus élevée",
+      "Le maintien du degré coupe-feu aux traversées",
+      "Une meilleure adhérence de peinture"
     ],
-    "answer": 3
+    "answer": 2,
+    "exp": {
+      "why": "Les systèmes homologués maintiennent la compartimentation.",
+      "keywords": [
+        "Coupe-feu",
+        "Homologation",
+        "Traversées"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Résistance du béton vérifiée par : [execution]",
+    "question": "La résistance en compression du béton est vérifiée par :",
     "choices": [
-      "Clé dynamométrique",
-      "Affaissement seulement",
-      "Rupture d’éprouvettes en labo",
-      "Inspection visuelle"
+      "La rupture d’éprouvettes en laboratoire aux âges prescrits",
+      "L’essai d’affaissement seulement",
+      "Une clé dynamométrique",
+      "Une inspection visuelle"
     ],
-    "answer": 2
+    "answer": 0,
+    "exp": {
+      "why": "La résistance se mesure par essais normalisés.",
+      "keywords": [
+        "Béton",
+        "Essais de compression",
+        "CQ"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Remblai en couches : [execution]",
+    "question": "Les raccords et pénétrations de toiture exigent :",
     "choices": [
-      "Moins d’essais",
-      "Compactage adéquat pour densité requise",
-      "Main-d’œuvre moins chère",
-      "Transport plus rapide"
+      "Aucune inspection par temps sec",
+      "Des membranes compatibles, un solin approprié et une inspection",
+      "N’importe quel scellant",
+      "Du ruban sous le ballast"
     ],
-    "answer": 1
+    "answer": 1,
+    "exp": {
+      "why": "L’étanchéité dépend de la compatibilité et des détails.",
+      "keywords": [
+        "Toiture",
+        "Solins",
+        "Étanchéité"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Remblai en couches : [execution]",
+    "question": "La mise en service CVC comprend généralement :",
     "choices": [
-      "Moins d’essais",
-      "Main-d’œuvre moins chère",
-      "Transport plus rapide",
-      "Compactage adéquat pour densité requise"
+      "Un audit fiscal",
+      "Le comptage des grilles",
+      "L’équilibrage air/eau et la vérification des contrôles",
+      "La peinture des conduits"
     ],
-    "answer": 3
+    "answer": 2,
+    "exp": {
+      "why": "La mise en service vérifie la performance et les séquences de contrôle.",
+      "keywords": [
+        "Mise en service",
+        "Équilibrage",
+        "Contrôles"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Résistance du béton vérifiée par : [execution]",
+    "question": "L’enrobage minimal sert surtout à :",
     "choices": [
-      "Inspection visuelle",
-      "Rupture d’éprouvettes en labo",
-      "Clé dynamométrique",
-      "Affaissement seulement"
+      "Éviter les fissures de tuiles",
+      "Protéger les armatures contre la corrosion et le feu",
+      "Empêcher l’écaillage de la peinture",
+      "Garder le coffrage sec"
     ],
-    "answer": 1
+    "answer": 1,
+    "exp": {
+      "why": "L’enrobage protège les barres de l’environnement et de la chaleur.",
+      "keywords": [
+        "Enrobage",
+        "Durabilité",
+        "Feu"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Mise en service CVC : [execution]",
+    "question": "La résistance en compression du béton est vérifiée par :",
     "choices": [
-      "Compter les grilles",
-      "Peindre les conduits",
-      "Équilibrage air/eau + vérifications",
-      "Audit fiscal"
+      "L’essai d’affaissement seulement",
+      "Une clé dynamométrique",
+      "La rupture d’éprouvettes en laboratoire aux âges prescrits",
+      "Une inspection visuelle"
     ],
-    "answer": 2
+    "answer": 2,
+    "exp": {
+      "why": "La résistance se mesure par essais normalisés.",
+      "keywords": [
+        "Béton",
+        "Essais de compression",
+        "CQ"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Résistance du béton vérifiée par : [execution]",
+    "question": "La résistance en compression du béton est vérifiée par :",
     "choices": [
-      "Clé dynamométrique",
-      "Inspection visuelle",
-      "Rupture d’éprouvettes en labo",
-      "Affaissement seulement"
+      "L’essai d’affaissement seulement",
+      "Une inspection visuelle",
+      "La rupture d’éprouvettes en laboratoire aux âges prescrits",
+      "Une clé dynamométrique"
     ],
-    "answer": 2
+    "answer": 2,
+    "exp": {
+      "why": "La résistance se mesure par essais normalisés.",
+      "keywords": [
+        "Béton",
+        "Essais de compression",
+        "CQ"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Résistance du béton vérifiée par : [execution]",
+    "question": "Les raccords et pénétrations de toiture exigent :",
     "choices": [
-      "Inspection visuelle",
-      "Clé dynamométrique",
-      "Rupture d’éprouvettes en labo",
-      "Affaissement seulement"
+      "Des membranes compatibles, un solin approprié et une inspection",
+      "Du ruban sous le ballast",
+      "N’importe quel scellant",
+      "Aucune inspection par temps sec"
     ],
-    "answer": 2
+    "answer": 0,
+    "exp": {
+      "why": "L’étanchéité dépend de la compatibilité et des détails.",
+      "keywords": [
+        "Toiture",
+        "Solins",
+        "Étanchéité"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Mise en service CVC : [execution]",
+    "question": "Le dimensionnement des conducteurs électriques considère :",
     "choices": [
-      "Compter les grilles",
-      "Audit fiscal",
-      "Équilibrage air/eau + vérifications",
-      "Peindre les conduits"
+      "Le prix de l’étiquette",
+      "L’ampacité, la température, le déclassement et les tableaux du code",
+      "La couleur du conduit",
+      "La police des étiquettes"
     ],
-    "answer": 2
+    "answer": 1,
+    "exp": {
+      "why": "Le code et les conditions d’installation déterminent la section.",
+      "keywords": [
+        "Électricité",
+        "Ampacité",
+        "Code"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Coupe-feu : [execution]",
+    "question": "La résistance en compression du béton est vérifiée par :",
     "choices": [
-      "Insonorisation uniquement",
-      "Valeur R plus élevée",
-      "Maintien du degré coupe-feu des traversées",
-      "Meilleure adhérence peinture"
+      "Une clé dynamométrique",
+      "Une inspection visuelle",
+      "La rupture d’éprouvettes en laboratoire aux âges prescrits",
+      "L’essai d’affaissement seulement"
     ],
-    "answer": 2
+    "answer": 2,
+    "exp": {
+      "why": "La résistance se mesure par essais normalisés.",
+      "keywords": [
+        "Béton",
+        "Essais de compression",
+        "CQ"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Mise en service CVC : [execution]",
+    "question": "Le dimensionnement des conducteurs électriques considère :",
     "choices": [
-      "Audit fiscal",
-      "Peindre les conduits",
-      "Équilibrage air/eau + vérifications",
-      "Compter les grilles"
+      "La police des étiquettes",
+      "L’ampacité, la température, le déclassement et les tableaux du code",
+      "Le prix de l’étiquette",
+      "La couleur du conduit"
     ],
-    "answer": 2
+    "answer": 1,
+    "exp": {
+      "why": "Le code et les conditions d’installation déterminent la section.",
+      "keywords": [
+        "Électricité",
+        "Ampacité",
+        "Code"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Mise en service CVC : [execution]",
+    "question": "La résistance en compression du béton est vérifiée par :",
     "choices": [
-      "Compter les grilles",
-      "Peindre les conduits",
-      "Équilibrage air/eau + vérifications",
-      "Audit fiscal"
+      "La rupture d’éprouvettes en laboratoire aux âges prescrits",
+      "Une inspection visuelle",
+      "Une clé dynamométrique",
+      "L’essai d’affaissement seulement"
     ],
-    "answer": 2
+    "answer": 0,
+    "exp": {
+      "why": "La résistance se mesure par essais normalisés.",
+      "keywords": [
+        "Béton",
+        "Essais de compression",
+        "CQ"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Dimensionnement conducteurs : [execution]",
+    "question": "Le dimensionnement des conducteurs électriques considère :",
     "choices": [
-      "Nombre d’étiquettes",
-      "Ampacité, température, déclassement, tableaux du code",
-      "Prix de l’étiquette",
-      "Couleur du conduit"
+      "La couleur du conduit",
+      "L’ampacité, la température, le déclassement et les tableaux du code",
+      "La police des étiquettes",
+      "Le prix de l’étiquette"
     ],
-    "answer": 1
+    "answer": 1,
+    "exp": {
+      "why": "Le code et les conditions d’installation déterminent la section.",
+      "keywords": [
+        "Électricité",
+        "Ampacité",
+        "Code"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Dimensionnement conducteurs : [execution]",
+    "question": "Le dimensionnement des conducteurs électriques considère :",
     "choices": [
-      "Nombre d’étiquettes",
-      "Couleur du conduit",
-      "Prix de l’étiquette",
-      "Ampacité, température, déclassement, tableaux du code"
+      "La couleur du conduit",
+      "La police des étiquettes",
+      "L’ampacité, la température, le déclassement et les tableaux du code",
+      "Le prix de l’étiquette"
     ],
-    "answer": 3
+    "answer": 2,
+    "exp": {
+      "why": "Le code et les conditions d’installation déterminent la section.",
+      "keywords": [
+        "Électricité",
+        "Ampacité",
+        "Code"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Mise en service CVC : [execution]",
+    "question": "Les systèmes d’isolation extérieure doivent assurer :",
     "choices": [
-      "Audit fiscal",
-      "Équilibrage air/eau + vérifications",
-      "Peindre les conduits",
-      "Compter les grilles"
+      "Des vides pour « ventiler la chaleur »",
+      "La peinture règle tous les problèmes thermiques",
+      "Une couche thermique continue sans ponts thermiques majeurs",
+      "Des fixations uniquement à travers le pare-air"
     ],
-    "answer": 1
+    "answer": 2,
+    "exp": {
+      "why": "La continuité réduit les ponts thermiques et la condensation.",
+      "keywords": [
+        "Isolation",
+        "Ponts thermiques",
+        "Enveloppe"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Remblai en couches : [execution]",
+    "question": "La résistance en compression du béton est vérifiée par :",
     "choices": [
-      "Main-d’œuvre moins chère",
-      "Moins d’essais",
-      "Transport plus rapide",
-      "Compactage adéquat pour densité requise"
+      "Une inspection visuelle",
+      "L’essai d’affaissement seulement",
+      "Une clé dynamométrique",
+      "La rupture d’éprouvettes en laboratoire aux âges prescrits"
     ],
-    "answer": 3
+    "answer": 3,
+    "exp": {
+      "why": "La résistance se mesure par essais normalisés.",
+      "keywords": [
+        "Béton",
+        "Essais de compression",
+        "CQ"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Mise en service CVC : [execution]",
+    "question": "Les systèmes d’isolation extérieure doivent assurer :",
     "choices": [
-      "Compter les grilles",
-      "Peindre les conduits",
-      "Audit fiscal",
-      "Équilibrage air/eau + vérifications"
+      "Des vides pour « ventiler la chaleur »",
+      "La peinture règle tous les problèmes thermiques",
+      "Des fixations uniquement à travers le pare-air",
+      "Une couche thermique continue sans ponts thermiques majeurs"
     ],
-    "answer": 3
+    "answer": 3,
+    "exp": {
+      "why": "La continuité réduit les ponts thermiques et la condensation.",
+      "keywords": [
+        "Isolation",
+        "Ponts thermiques",
+        "Enveloppe"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "✅ Contrôle technique adéquat."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   },
   {
-    "question": "Dimensionnement conducteurs : [execution]",
+    "question": "Les systèmes d’isolation extérieure doivent assurer :",
     "choices": [
-      "Ampacité, température, déclassement, tableaux du code",
-      "Prix de l’étiquette",
-      "Nombre d’étiquettes",
-      "Couleur du conduit"
+      "Une couche thermique continue sans ponts thermiques majeurs",
+      "Des fixations uniquement à travers le pare-air",
+      "La peinture règle tous les problèmes thermiques",
+      "Des vides pour « ventiler la chaleur »"
     ],
-    "answer": 0
+    "answer": 0,
+    "exp": {
+      "why": "La continuité réduit les ponts thermiques et la condensation.",
+      "keywords": [
+        "Isolation",
+        "Ponts thermiques",
+        "Enveloppe"
+      ],
+      "example": "Consigner les points d’inspection; vérifier les détails fabricants.",
+      "rationales": [
+        "✅ Contrôle technique adéquat.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence.",
+        "❌ Définit mal la fonction ou l’exigence."
+      ],
+      "refs": [
+        "Détails fabricants; principes généraux du CNB"
+      ]
+    }
   }
 ]

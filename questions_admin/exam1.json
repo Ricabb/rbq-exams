@@ -1,502 +1,1402 @@
 [
   {
-    "question": "Performance bond protects: [admin]",
+    "question": "Hospital Center issues a contemplated change directive to add rated doors, price TBD. What is the compliant next step to proceed?",
     "choices": [
-      "Architect copyright",
-      "Bank rates",
-      "Owner against contractor default",
-      "Contractor profit"
+      "Hide scope inside progress billing",
+      "Ignore it and claim at project closeout",
+      "Proceed immediately and bill later under force account without documentation",
+      "Formalize with a signed Change Order (or authorized directive with pricing method) before executing non-emergency work"
     ],
-    "answer": 2
+    "answer": 3,
+    "exp": {
+      "why": "Change control requires formal authorization and a method of price/time adjustment before non-urgent work.",
+      "keywords": [
+        "Change order",
+        "Directive",
+        "Change management"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the interior fit-out.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "Payment bond protects: [admin]",
+    "question": "On a $1,916,000 project, the owner requires a 50% performance bond. What does the performance bond primarily protect against?",
     "choices": [
-      "Banks only",
-      "Owners only",
-      "Subcontractors & suppliers for unpaid amounts",
-      "Designers only"
+      "Late supplier invoices",
+      "Contractor default during execution causing incomplete or defective work",
+      "Architect's design errors",
+      "Inflation on materials only"
     ],
-    "answer": 2
+    "answer": 1,
+    "exp": {
+      "why": "Performance bonds protect the owner if the contractor fails to complete according to contract.",
+      "keywords": [
+        "Performance bond",
+        "Surety",
+        "Owner protection"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the interior fit-out.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "Performance bond protects: [admin]",
+    "question": "School Service Centre issues a contemplated change directive to add rated doors, price TBD. What is the compliant next step to proceed?",
     "choices": [
-      "Bank rates",
-      "Owner against contractor default",
-      "Architect copyright",
-      "Contractor profit"
+      "Proceed immediately and bill later under force account without documentation",
+      "Hide scope inside progress billing",
+      "Formalize with a signed Change Order (or authorized directive with pricing method) before executing non-emergency work",
+      "Ignore it and claim at project closeout"
     ],
-    "answer": 1
+    "answer": 2,
+    "exp": {
+      "why": "Change control requires formal authorization and a method of price/time adjustment before non-urgent work.",
+      "keywords": [
+        "Change order",
+        "Directive",
+        "Change management"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the interior fit-out.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "Bid bond: [admin]",
+    "question": "On a $1,914,000 project, the owner requires a 50% performance bond. What does the performance bond primarily protect against?",
     "choices": [
-      "Pays subs directly",
-      "Replaces performance bond",
-      "Guarantees bidder signs if awarded",
-      "Guarantees perfect quality"
+      "Inflation on materials only",
+      "Contractor default during execution causing incomplete or defective work",
+      "Late supplier invoices",
+      "Architect's design errors"
     ],
-    "answer": 2
+    "answer": 1,
+    "exp": {
+      "why": "Performance bonds protect the owner if the contractor fails to complete according to contract.",
+      "keywords": [
+        "Performance bond",
+        "Surety",
+        "Owner protection"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the façade recladding.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "If drawings vs specs conflict (no priority): [admin]",
+    "question": "A labour & material payment bond is mainly intended to protect which parties?",
+    "choices": [
+      "Only the professional",
+      "Subcontractors and suppliers against non-payment",
+      "Only the owner",
+      "Only the lender"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Payment bonds assure that subs/suppliers are paid, reducing lien/claim exposure.",
+      "keywords": [
+        "Payment bond",
+        "Suppliers",
+        "Subcontractors"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the parking deck repair.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
+  },
+  {
+    "question": "School Service Centre issues a contemplated change directive to add rated doors, price TBD. What is the compliant next step to proceed?",
+    "choices": [
+      "Formalize with a signed Change Order (or authorized directive with pricing method) before executing non-emergency work",
+      "Ignore it and claim at project closeout",
+      "Hide scope inside progress billing",
+      "Proceed immediately and bill later under force account without documentation"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Change control requires formal authorization and a method of price/time adjustment before non-urgent work.",
+      "keywords": [
+        "Change order",
+        "Directive",
+        "Change management"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the lab renovation.",
+      "rationales": [
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
+  },
+  {
+    "question": "University issues a contemplated change directive to add rated doors, price TBD. What is the compliant next step to proceed?",
+    "choices": [
+      "Proceed immediately and bill later under force account without documentation",
+      "Formalize with a signed Change Order (or authorized directive with pricing method) before executing non-emergency work",
+      "Ignore it and claim at project closeout",
+      "Hide scope inside progress billing"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Change control requires formal authorization and a method of price/time adjustment before non-urgent work.",
+      "keywords": [
+        "Change order",
+        "Directive",
+        "Change management"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the parking deck repair.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
+  },
+  {
+    "question": "Private Developer issues a contemplated change directive to add rated doors, price TBD. What is the compliant next step to proceed?",
+    "choices": [
+      "Formalize with a signed Change Order (or authorized directive with pricing method) before executing non-emergency work",
+      "Ignore it and claim at project closeout",
+      "Proceed immediately and bill later under force account without documentation",
+      "Hide scope inside progress billing"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Change control requires formal authorization and a method of price/time adjustment before non-urgent work.",
+      "keywords": [
+        "Change order",
+        "Directive",
+        "Change management"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the lab renovation.",
+      "rationales": [
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
+  },
+  {
+    "question": "If drawings and specifications conflict and no order of precedence is stated, which typically prevails?",
     "choices": [
       "Invoices prevail",
+      "Specifications generally prevail over drawings",
+      "Shop drawings prevail",
+      "Verbal instructions prevail"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Specifications usually govern unless a contract sets another priority.",
+      "keywords": [
+        "Specifications",
+        "Contract documents",
+        "Order of precedence"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the gymnasium modernization.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
+  },
+  {
+    "question": "A labour & material payment bond is mainly intended to protect which parties?",
+    "choices": [
+      "Only the professional",
+      "Only the owner",
+      "Subcontractors and suppliers against non-payment",
+      "Only the lender"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Payment bonds assure that subs/suppliers are paid, reducing lien/claim exposure.",
+      "keywords": [
+        "Payment bond",
+        "Suppliers",
+        "Subcontractors"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the interior fit-out.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
+  },
+  {
+    "question": "In Quebec construction, the statutory holdback is typically 10%. When is release appropriate?",
+    "choices": [
+      "Whenever subs request it",
+      "After the legal lien period expires and required certificates are in place",
+      "At 50% progress",
+      "Only at the very end regardless of lien periods"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Holdback is generally released after lien periods expire to protect against legal hypothecs.",
+      "keywords": [
+        "Holdback",
+        "Lien period",
+        "Legal hypothec"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the interior fit-out.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
+  },
+  {
+    "question": "A labour & material payment bond is mainly intended to protect which parties?",
+    "choices": [
+      "Only the lender",
+      "Subcontractors and suppliers against non-payment",
+      "Only the owner",
+      "Only the professional"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Payment bonds assure that subs/suppliers are paid, reducing lien/claim exposure.",
+      "keywords": [
+        "Payment bond",
+        "Suppliers",
+        "Subcontractors"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the façade recladding.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
+  },
+  {
+    "question": "A labour & material payment bond is mainly intended to protect which parties?",
+    "choices": [
+      "Subcontractors and suppliers against non-payment",
+      "Only the owner",
+      "Only the lender",
+      "Only the professional"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Payment bonds assure that subs/suppliers are paid, reducing lien/claim exposure.",
+      "keywords": [
+        "Payment bond",
+        "Suppliers",
+        "Subcontractors"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the gymnasium modernization.",
+      "rationales": [
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
+  },
+  {
+    "question": "School Service Centre issues a contemplated change directive to add rated doors, price TBD. What is the compliant next step to proceed?",
+    "choices": [
+      "Ignore it and claim at project closeout",
+      "Hide scope inside progress billing",
+      "Proceed immediately and bill later under force account without documentation",
+      "Formalize with a signed Change Order (or authorized directive with pricing method) before executing non-emergency work"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Change control requires formal authorization and a method of price/time adjustment before non-urgent work.",
+      "keywords": [
+        "Change order",
+        "Directive",
+        "Change management"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the gymnasium modernization.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
+  },
+  {
+    "question": "In Quebec, the BSDQ is used primarily to:",
+    "choices": [
+      "Standardize the deposit of certain trade bids to general contractors",
+      "Collect GST/QST",
+      "Issue RBQ licences",
+      "Manage worker compensation claims"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "BSDQ provides a standardized bid-deposit mechanism for specific trades.",
+      "keywords": [
+        "BSDQ",
+        "Tendering",
+        "Trades"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the façade recladding.",
+      "rationales": [
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
+  },
+  {
+    "question": "You’re bidding a $1,071,000 project for City of Laval (interior fit-out). What is the primary purpose of a bid bond?",
+    "choices": [
+      "Guarantee perfect quality of the work",
+      "Pay subcontractors directly if the GC defaults",
+      "Guarantee the bidder will enter into the contract and provide required bonds if awarded",
+      "Replace the performance bond"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "A bid bond secures the owner's risk that the lowest compliant bidder refuses to sign or furnish final bonds.",
+      "keywords": [
+        "Bid bond",
+        "Tendering",
+        "Surety"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the interior fit-out.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
+  },
+  {
+    "question": "If drawings and specifications conflict and no order of precedence is stated, which typically prevails?",
+    "choices": [
       "Verbal instructions prevail",
-      "Specifications usually prevail",
+      "Invoices prevail",
+      "Specifications generally prevail over drawings",
       "Shop drawings prevail"
     ],
-    "answer": 2
+    "answer": 2,
+    "exp": {
+      "why": "Specifications usually govern unless a contract sets another priority.",
+      "keywords": [
+        "Specifications",
+        "Contract documents",
+        "Order of precedence"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the gymnasium modernization.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "Payment bond protects: [admin]",
+    "question": "A labour & material payment bond is mainly intended to protect which parties?",
     "choices": [
-      "Owners only",
-      "Subcontractors & suppliers for unpaid amounts",
-      "Banks only",
-      "Designers only"
+      "Only the owner",
+      "Only the professional",
+      "Subcontractors and suppliers against non-payment",
+      "Only the lender"
     ],
-    "answer": 1
+    "answer": 2,
+    "exp": {
+      "why": "Payment bonds assure that subs/suppliers are paid, reducing lien/claim exposure.",
+      "keywords": [
+        "Payment bond",
+        "Suppliers",
+        "Subcontractors"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the rooftop HVAC replacement.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "Performance bond protects: [admin]",
+    "question": "A labour & material payment bond is mainly intended to protect which parties?",
     "choices": [
-      "Architect copyright",
-      "Bank rates",
-      "Owner against contractor default",
-      "Contractor profit"
+      "Subcontractors and suppliers against non-payment",
+      "Only the professional",
+      "Only the lender",
+      "Only the owner"
     ],
-    "answer": 2
+    "answer": 0,
+    "exp": {
+      "why": "Payment bonds assure that subs/suppliers are paid, reducing lien/claim exposure.",
+      "keywords": [
+        "Payment bond",
+        "Suppliers",
+        "Subcontractors"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the interior fit-out.",
+      "rationales": [
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "RBQ licence guarantor's main role? [admin]",
+    "question": "A labour & material payment bond is mainly intended to protect which parties?",
     "choices": [
-      "Set bylaws",
-      "Manage highways",
-      "Ensure competence & compliance",
-      "Approve invoices"
+      "Subcontractors and suppliers against non-payment",
+      "Only the owner",
+      "Only the lender",
+      "Only the professional"
     ],
-    "answer": 2
+    "answer": 0,
+    "exp": {
+      "why": "Payment bonds assure that subs/suppliers are paid, reducing lien/claim exposure.",
+      "keywords": [
+        "Payment bond",
+        "Suppliers",
+        "Subcontractors"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the lab renovation.",
+      "rationales": [
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "RBQ licence guarantor's main role? [admin]",
+    "question": "A labour & material payment bond is mainly intended to protect which parties?",
     "choices": [
-      "Ensure competence & compliance",
-      "Manage highways",
-      "Set bylaws",
-      "Approve invoices"
+      "Only the owner",
+      "Subcontractors and suppliers against non-payment",
+      "Only the lender",
+      "Only the professional"
     ],
-    "answer": 0
+    "answer": 1,
+    "exp": {
+      "why": "Payment bonds assure that subs/suppliers are paid, reducing lien/claim exposure.",
+      "keywords": [
+        "Payment bond",
+        "Suppliers",
+        "Subcontractors"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the interior fit-out.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "If drawings vs specs conflict (no priority): [admin]",
+    "question": "You’re bidding a $2,129,000 project for Private Developer (façade recladding). What is the primary purpose of a bid bond?",
     "choices": [
-      "Specifications usually prevail",
+      "Replace the performance bond",
+      "Guarantee perfect quality of the work",
+      "Pay subcontractors directly if the GC defaults",
+      "Guarantee the bidder will enter into the contract and provide required bonds if awarded"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "A bid bond secures the owner's risk that the lowest compliant bidder refuses to sign or furnish final bonds.",
+      "keywords": [
+        "Bid bond",
+        "Tendering",
+        "Surety"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the façade recladding.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
+  },
+  {
+    "question": "If drawings and specifications conflict and no order of precedence is stated, which typically prevails?",
+    "choices": [
+      "Specifications generally prevail over drawings",
       "Verbal instructions prevail",
       "Invoices prevail",
       "Shop drawings prevail"
     ],
-    "answer": 0
+    "answer": 0,
+    "exp": {
+      "why": "Specifications usually govern unless a contract sets another priority.",
+      "keywords": [
+        "Specifications",
+        "Contract documents",
+        "Order of precedence"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the gymnasium modernization.",
+      "rationales": [
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "Bid bond: [admin]",
+    "question": "A labour & material payment bond is mainly intended to protect which parties?",
     "choices": [
-      "Replaces performance bond",
-      "Pays subs directly",
-      "Guarantees perfect quality",
-      "Guarantees bidder signs if awarded"
+      "Subcontractors and suppliers against non-payment",
+      "Only the professional",
+      "Only the lender",
+      "Only the owner"
     ],
-    "answer": 3
+    "answer": 0,
+    "exp": {
+      "why": "Payment bonds assure that subs/suppliers are paid, reducing lien/claim exposure.",
+      "keywords": [
+        "Payment bond",
+        "Suppliers",
+        "Subcontractors"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the rooftop HVAC replacement.",
+      "rationales": [
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "Performance bond protects: [admin]",
+    "question": "Municipality issues a contemplated change directive to add rated doors, price TBD. What is the compliant next step to proceed?",
     "choices": [
-      "Bank rates",
-      "Contractor profit",
-      "Owner against contractor default",
-      "Architect copyright"
+      "Formalize with a signed Change Order (or authorized directive with pricing method) before executing non-emergency work",
+      "Hide scope inside progress billing",
+      "Proceed immediately and bill later under force account without documentation",
+      "Ignore it and claim at project closeout"
     ],
-    "answer": 2
+    "answer": 0,
+    "exp": {
+      "why": "Change control requires formal authorization and a method of price/time adjustment before non-urgent work.",
+      "keywords": [
+        "Change order",
+        "Directive",
+        "Change management"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the lab renovation.",
+      "rationales": [
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "Payment bond protects: [admin]",
+    "question": "On a $926,000 project, the owner requires a 50% performance bond. What does the performance bond primarily protect against?",
     "choices": [
-      "Subcontractors & suppliers for unpaid amounts",
-      "Designers only",
-      "Owners only",
-      "Banks only"
+      "Late supplier invoices",
+      "Inflation on materials only",
+      "Contractor default during execution causing incomplete or defective work",
+      "Architect's design errors"
     ],
-    "answer": 0
+    "answer": 2,
+    "exp": {
+      "why": "Performance bonds protect the owner if the contractor fails to complete according to contract.",
+      "keywords": [
+        "Performance bond",
+        "Surety",
+        "Owner protection"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the parking deck repair.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "Performance bond protects: [admin]",
+    "question": "On a $1,287,000 project, the owner requires a 50% performance bond. What does the performance bond primarily protect against?",
     "choices": [
-      "Contractor profit",
-      "Architect copyright",
-      "Owner against contractor default",
-      "Bank rates"
+      "Contractor default during execution causing incomplete or defective work",
+      "Architect's design errors",
+      "Late supplier invoices",
+      "Inflation on materials only"
     ],
-    "answer": 2
+    "answer": 0,
+    "exp": {
+      "why": "Performance bonds protect the owner if the contractor fails to complete according to contract.",
+      "keywords": [
+        "Performance bond",
+        "Surety",
+        "Owner protection"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the façade recladding.",
+      "rationales": [
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "RBQ licence guarantor's main role? [admin]",
+    "question": "In Quebec, the BSDQ is used primarily to:",
     "choices": [
-      "Set bylaws",
-      "Ensure competence & compliance",
-      "Manage highways",
-      "Approve invoices"
+      "Issue RBQ licences",
+      "Collect GST/QST",
+      "Manage worker compensation claims",
+      "Standardize the deposit of certain trade bids to general contractors"
     ],
-    "answer": 1
+    "answer": 3,
+    "exp": {
+      "why": "BSDQ provides a standardized bid-deposit mechanism for specific trades.",
+      "keywords": [
+        "BSDQ",
+        "Tendering",
+        "Trades"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the parking deck repair.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "Performance bond protects: [admin]",
+    "question": "In Quebec, the BSDQ is used primarily to:",
     "choices": [
-      "Architect copyright",
-      "Contractor profit",
-      "Owner against contractor default",
-      "Bank rates"
+      "Issue RBQ licences",
+      "Standardize the deposit of certain trade bids to general contractors",
+      "Collect GST/QST",
+      "Manage worker compensation claims"
     ],
-    "answer": 2
+    "answer": 1,
+    "exp": {
+      "why": "BSDQ provides a standardized bid-deposit mechanism for specific trades.",
+      "keywords": [
+        "BSDQ",
+        "Tendering",
+        "Trades"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the parking deck repair.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "Performance bond protects: [admin]",
+    "question": "In Quebec construction, the statutory holdback is typically 10%. When is release appropriate?",
     "choices": [
-      "Bank rates",
-      "Architect copyright",
-      "Owner against contractor default",
-      "Contractor profit"
+      "Only at the very end regardless of lien periods",
+      "Whenever subs request it",
+      "At 50% progress",
+      "After the legal lien period expires and required certificates are in place"
     ],
-    "answer": 2
+    "answer": 3,
+    "exp": {
+      "why": "Holdback is generally released after lien periods expire to protect against legal hypothecs.",
+      "keywords": [
+        "Holdback",
+        "Lien period",
+        "Legal hypothec"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the rooftop HVAC replacement.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "RBQ licence guarantor's main role? [admin]",
+    "question": "A labour & material payment bond is mainly intended to protect which parties?",
     "choices": [
-      "Ensure competence & compliance",
-      "Set bylaws",
-      "Approve invoices",
-      "Manage highways"
+      "Only the lender",
+      "Only the owner",
+      "Only the professional",
+      "Subcontractors and suppliers against non-payment"
     ],
-    "answer": 0
+    "answer": 3,
+    "exp": {
+      "why": "Payment bonds assure that subs/suppliers are paid, reducing lien/claim exposure.",
+      "keywords": [
+        "Payment bond",
+        "Suppliers",
+        "Subcontractors"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the parking deck repair.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "RBQ licence guarantor's main role? [admin]",
+    "question": "On a $1,562,000 project, the owner requires a 50% performance bond. What does the performance bond primarily protect against?",
     "choices": [
-      "Set bylaws",
-      "Ensure competence & compliance",
-      "Approve invoices",
-      "Manage highways"
+      "Late supplier invoices",
+      "Inflation on materials only",
+      "Contractor default during execution causing incomplete or defective work",
+      "Architect's design errors"
     ],
-    "answer": 1
+    "answer": 2,
+    "exp": {
+      "why": "Performance bonds protect the owner if the contractor fails to complete according to contract.",
+      "keywords": [
+        "Performance bond",
+        "Surety",
+        "Owner protection"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the gymnasium modernization.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "Payment bond protects: [admin]",
+    "question": "In Quebec, the BSDQ is used primarily to:",
     "choices": [
-      "Subcontractors & suppliers for unpaid amounts",
-      "Owners only",
-      "Banks only",
-      "Designers only"
+      "Manage worker compensation claims",
+      "Issue RBQ licences",
+      "Standardize the deposit of certain trade bids to general contractors",
+      "Collect GST/QST"
     ],
-    "answer": 0
+    "answer": 2,
+    "exp": {
+      "why": "BSDQ provides a standardized bid-deposit mechanism for specific trades.",
+      "keywords": [
+        "BSDQ",
+        "Tendering",
+        "Trades"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the parking deck repair.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "Payment bond protects: [admin]",
+    "question": "Private Developer issues a contemplated change directive to add rated doors, price TBD. What is the compliant next step to proceed?",
     "choices": [
-      "Banks only",
-      "Owners only",
-      "Designers only",
-      "Subcontractors & suppliers for unpaid amounts"
+      "Formalize with a signed Change Order (or authorized directive with pricing method) before executing non-emergency work",
+      "Ignore it and claim at project closeout",
+      "Hide scope inside progress billing",
+      "Proceed immediately and bill later under force account without documentation"
     ],
-    "answer": 3
+    "answer": 0,
+    "exp": {
+      "why": "Change control requires formal authorization and a method of price/time adjustment before non-urgent work.",
+      "keywords": [
+        "Change order",
+        "Directive",
+        "Change management"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the parking deck repair.",
+      "rationales": [
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "If drawings vs specs conflict (no priority): [admin]",
+    "question": "You’re bidding a $615,000 project for University (interior fit-out). What is the primary purpose of a bid bond?",
+    "choices": [
+      "Guarantee perfect quality of the work",
+      "Replace the performance bond",
+      "Pay subcontractors directly if the GC defaults",
+      "Guarantee the bidder will enter into the contract and provide required bonds if awarded"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "A bid bond secures the owner's risk that the lowest compliant bidder refuses to sign or furnish final bonds.",
+      "keywords": [
+        "Bid bond",
+        "Tendering",
+        "Surety"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the interior fit-out.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
+  },
+  {
+    "question": "If drawings and specifications conflict and no order of precedence is stated, which typically prevails?",
     "choices": [
       "Verbal instructions prevail",
       "Invoices prevail",
       "Shop drawings prevail",
-      "Specifications usually prevail"
+      "Specifications generally prevail over drawings"
     ],
-    "answer": 3
+    "answer": 3,
+    "exp": {
+      "why": "Specifications usually govern unless a contract sets another priority.",
+      "keywords": [
+        "Specifications",
+        "Contract documents",
+        "Order of precedence"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the gymnasium modernization.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "Bid bond: [admin]",
+    "question": "In Quebec construction, the statutory holdback is typically 10%. When is release appropriate?",
     "choices": [
-      "Guarantees perfect quality",
-      "Guarantees bidder signs if awarded",
-      "Pays subs directly",
-      "Replaces performance bond"
+      "At 50% progress",
+      "Only at the very end regardless of lien periods",
+      "After the legal lien period expires and required certificates are in place",
+      "Whenever subs request it"
     ],
-    "answer": 1
+    "answer": 2,
+    "exp": {
+      "why": "Holdback is generally released after lien periods expire to protect against legal hypothecs.",
+      "keywords": [
+        "Holdback",
+        "Lien period",
+        "Legal hypothec"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the gymnasium modernization.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "If drawings vs specs conflict (no priority): [admin]",
+    "question": "On a $796,000 project, the owner requires a 50% performance bond. What does the performance bond primarily protect against?",
     "choices": [
+      "Inflation on materials only",
+      "Contractor default during execution causing incomplete or defective work",
+      "Architect's design errors",
+      "Late supplier invoices"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Performance bonds protect the owner if the contractor fails to complete according to contract.",
+      "keywords": [
+        "Performance bond",
+        "Surety",
+        "Owner protection"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the rooftop HVAC replacement.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
+  },
+  {
+    "question": "A labour & material payment bond is mainly intended to protect which parties?",
+    "choices": [
+      "Only the lender",
+      "Only the professional",
+      "Subcontractors and suppliers against non-payment",
+      "Only the owner"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Payment bonds assure that subs/suppliers are paid, reducing lien/claim exposure.",
+      "keywords": [
+        "Payment bond",
+        "Suppliers",
+        "Subcontractors"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the façade recladding.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
+  },
+  {
+    "question": "On a $1,499,000 project, the owner requires a 50% performance bond. What does the performance bond primarily protect against?",
+    "choices": [
+      "Late supplier invoices",
+      "Architect's design errors",
+      "Contractor default during execution causing incomplete or defective work",
+      "Inflation on materials only"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Performance bonds protect the owner if the contractor fails to complete according to contract.",
+      "keywords": [
+        "Performance bond",
+        "Surety",
+        "Owner protection"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the gymnasium modernization.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
+  },
+  {
+    "question": "In Quebec construction, the statutory holdback is typically 10%. When is release appropriate?",
+    "choices": [
+      "Only at the very end regardless of lien periods",
+      "At 50% progress",
+      "After the legal lien period expires and required certificates are in place",
+      "Whenever subs request it"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Holdback is generally released after lien periods expire to protect against legal hypothecs.",
+      "keywords": [
+        "Holdback",
+        "Lien period",
+        "Legal hypothec"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the gymnasium modernization.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
+  },
+  {
+    "question": "You’re bidding a $2,323,000 project for City of Laval (interior fit-out). What is the primary purpose of a bid bond?",
+    "choices": [
+      "Guarantee the bidder will enter into the contract and provide required bonds if awarded",
+      "Pay subcontractors directly if the GC defaults",
+      "Guarantee perfect quality of the work",
+      "Replace the performance bond"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "A bid bond secures the owner's risk that the lowest compliant bidder refuses to sign or furnish final bonds.",
+      "keywords": [
+        "Bid bond",
+        "Tendering",
+        "Surety"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the interior fit-out.",
+      "rationales": [
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
+  },
+  {
+    "question": "You’re bidding a $1,673,000 project for Private Developer (lab renovation). What is the primary purpose of a bid bond?",
+    "choices": [
+      "Guarantee perfect quality of the work",
+      "Guarantee the bidder will enter into the contract and provide required bonds if awarded",
+      "Replace the performance bond",
+      "Pay subcontractors directly if the GC defaults"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "A bid bond secures the owner's risk that the lowest compliant bidder refuses to sign or furnish final bonds.",
+      "keywords": [
+        "Bid bond",
+        "Tendering",
+        "Surety"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the lab renovation.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
+  },
+  {
+    "question": "In Quebec, the BSDQ is used primarily to:",
+    "choices": [
+      "Collect GST/QST",
+      "Standardize the deposit of certain trade bids to general contractors",
+      "Manage worker compensation claims",
+      "Issue RBQ licences"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "BSDQ provides a standardized bid-deposit mechanism for specific trades.",
+      "keywords": [
+        "BSDQ",
+        "Tendering",
+        "Trades"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the interior fit-out.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
+  },
+  {
+    "question": "In Quebec, the BSDQ is used primarily to:",
+    "choices": [
+      "Collect GST/QST",
+      "Issue RBQ licences",
+      "Manage worker compensation claims",
+      "Standardize the deposit of certain trade bids to general contractors"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "BSDQ provides a standardized bid-deposit mechanism for specific trades.",
+      "keywords": [
+        "BSDQ",
+        "Tendering",
+        "Trades"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the parking deck repair.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
+  },
+  {
+    "question": "You’re bidding a $2,348,000 project for Private Developer (lab renovation). What is the primary purpose of a bid bond?",
+    "choices": [
+      "Pay subcontractors directly if the GC defaults",
+      "Guarantee the bidder will enter into the contract and provide required bonds if awarded",
+      "Guarantee perfect quality of the work",
+      "Replace the performance bond"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "A bid bond secures the owner's risk that the lowest compliant bidder refuses to sign or furnish final bonds.",
+      "keywords": [
+        "Bid bond",
+        "Tendering",
+        "Surety"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the lab renovation.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
+  },
+  {
+    "question": "If drawings and specifications conflict and no order of precedence is stated, which typically prevails?",
+    "choices": [
+      "Verbal instructions prevail",
       "Invoices prevail",
-      "Verbal instructions prevail",
       "Shop drawings prevail",
-      "Specifications usually prevail"
+      "Specifications generally prevail over drawings"
     ],
-    "answer": 3
+    "answer": 3,
+    "exp": {
+      "why": "Specifications usually govern unless a contract sets another priority.",
+      "keywords": [
+        "Specifications",
+        "Contract documents",
+        "Order of precedence"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the rooftop HVAC replacement.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "Performance bond protects: [admin]",
+    "question": "School Service Centre issues a contemplated change directive to add rated doors, price TBD. What is the compliant next step to proceed?",
     "choices": [
-      "Owner against contractor default",
-      "Contractor profit",
-      "Bank rates",
-      "Architect copyright"
+      "Formalize with a signed Change Order (or authorized directive with pricing method) before executing non-emergency work",
+      "Hide scope inside progress billing",
+      "Ignore it and claim at project closeout",
+      "Proceed immediately and bill later under force account without documentation"
     ],
-    "answer": 0
+    "answer": 0,
+    "exp": {
+      "why": "Change control requires formal authorization and a method of price/time adjustment before non-urgent work.",
+      "keywords": [
+        "Change order",
+        "Directive",
+        "Change management"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the interior fit-out.",
+      "rationales": [
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "Performance bond protects: [admin]",
+    "question": "If drawings and specifications conflict and no order of precedence is stated, which typically prevails?",
     "choices": [
-      "Bank rates",
-      "Architect copyright",
-      "Contractor profit",
-      "Owner against contractor default"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Payment bond protects: [admin]",
-    "choices": [
-      "Subcontractors & suppliers for unpaid amounts",
-      "Owners only",
-      "Designers only",
-      "Banks only"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Payment bond protects: [admin]",
-    "choices": [
-      "Banks only",
-      "Designers only",
-      "Subcontractors & suppliers for unpaid amounts",
-      "Owners only"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Performance bond protects: [admin]",
-    "choices": [
-      "Contractor profit",
-      "Architect copyright",
-      "Bank rates",
-      "Owner against contractor default"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "RBQ licence guarantor's main role? [admin]",
-    "choices": [
-      "Set bylaws",
-      "Approve invoices",
-      "Ensure competence & compliance",
-      "Manage highways"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "If drawings vs specs conflict (no priority): [admin]",
-    "choices": [
-      "Invoices prevail",
-      "Specifications usually prevail",
-      "Verbal instructions prevail",
-      "Shop drawings prevail"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Payment bond protects: [admin]",
-    "choices": [
-      "Designers only",
-      "Subcontractors & suppliers for unpaid amounts",
-      "Owners only",
-      "Banks only"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "RBQ licence guarantor's main role? [admin]",
-    "choices": [
-      "Manage highways",
-      "Set bylaws",
-      "Ensure competence & compliance",
-      "Approve invoices"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Performance bond protects: [admin]",
-    "choices": [
-      "Owner against contractor default",
-      "Contractor profit",
-      "Architect copyright",
-      "Bank rates"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "If drawings vs specs conflict (no priority): [admin]",
-    "choices": [
-      "Verbal instructions prevail",
       "Shop drawings prevail",
-      "Invoices prevail",
-      "Specifications usually prevail"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "If drawings vs specs conflict (no priority): [admin]",
-    "choices": [
+      "Specifications generally prevail over drawings",
       "Verbal instructions prevail",
-      "Specifications usually prevail",
-      "Shop drawings prevail",
       "Invoices prevail"
     ],
-    "answer": 1
+    "answer": 1,
+    "exp": {
+      "why": "Specifications usually govern unless a contract sets another priority.",
+      "keywords": [
+        "Specifications",
+        "Contract documents",
+        "Order of precedence"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the gymnasium modernization.",
+      "rationales": [
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   },
   {
-    "question": "If drawings vs specs conflict (no priority): [admin]",
+    "question": "In Quebec, the BSDQ is used primarily to:",
     "choices": [
-      "Invoices prevail",
-      "Specifications usually prevail",
-      "Shop drawings prevail",
-      "Verbal instructions prevail"
+      "Standardize the deposit of certain trade bids to general contractors",
+      "Collect GST/QST",
+      "Manage worker compensation claims",
+      "Issue RBQ licences"
     ],
-    "answer": 1
-  },
-  {
-    "question": "Payment bond protects: [admin]",
-    "choices": [
-      "Designers only",
-      "Banks only",
-      "Owners only",
-      "Subcontractors & suppliers for unpaid amounts"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "If drawings vs specs conflict (no priority): [admin]",
-    "choices": [
-      "Shop drawings prevail",
-      "Invoices prevail",
-      "Specifications usually prevail",
-      "Verbal instructions prevail"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Bid bond: [admin]",
-    "choices": [
-      "Replaces performance bond",
-      "Guarantees perfect quality",
-      "Guarantees bidder signs if awarded",
-      "Pays subs directly"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "RBQ licence guarantor's main role? [admin]",
-    "choices": [
-      "Approve invoices",
-      "Manage highways",
-      "Set bylaws",
-      "Ensure competence & compliance"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Bid bond: [admin]",
-    "choices": [
-      "Guarantees bidder signs if awarded",
-      "Pays subs directly",
-      "Guarantees perfect quality",
-      "Replaces performance bond"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "RBQ licence guarantor's main role? [admin]",
-    "choices": [
-      "Ensure competence & compliance",
-      "Manage highways",
-      "Approve invoices",
-      "Set bylaws"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Bid bond: [admin]",
-    "choices": [
-      "Replaces performance bond",
-      "Pays subs directly",
-      "Guarantees perfect quality",
-      "Guarantees bidder signs if awarded"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "RBQ licence guarantor's main role? [admin]",
-    "choices": [
-      "Manage highways",
-      "Set bylaws",
-      "Ensure competence & compliance",
-      "Approve invoices"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Payment bond protects: [admin]",
-    "choices": [
-      "Banks only",
-      "Owners only",
-      "Designers only",
-      "Subcontractors & suppliers for unpaid amounts"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Bid bond: [admin]",
-    "choices": [
-      "Replaces performance bond",
-      "Guarantees bidder signs if awarded",
-      "Pays subs directly",
-      "Guarantees perfect quality"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Performance bond protects: [admin]",
-    "choices": [
-      "Owner against contractor default",
-      "Architect copyright",
-      "Contractor profit",
-      "Bank rates"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Bid bond: [admin]",
-    "choices": [
-      "Pays subs directly",
-      "Guarantees bidder signs if awarded",
-      "Replaces performance bond",
-      "Guarantees perfect quality"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "RBQ licence guarantor's main role? [admin]",
-    "choices": [
-      "Set bylaws",
-      "Ensure competence & compliance",
-      "Manage highways",
-      "Approve invoices"
-    ],
-    "answer": 1
+    "answer": 0,
+    "exp": {
+      "why": "BSDQ provides a standardized bid-deposit mechanism for specific trades.",
+      "keywords": [
+        "BSDQ",
+        "Tendering",
+        "Trades"
+      ],
+      "example": "Document in the change log; obtain signature before issuing to subs on the rooftop HVAC replacement.",
+      "rationales": [
+        "✅ Correct: reflects how administrative instruments manage risk.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose.",
+        "❌ Incorrect: does not reflect the instrument’s actual purpose."
+      ],
+      "refs": [
+        "General Quebec practice; surety basics; change-management control"
+      ]
+    }
   }
 ]

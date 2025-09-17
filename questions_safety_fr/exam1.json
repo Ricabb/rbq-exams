@@ -1,502 +1,1383 @@
 [
   {
-    "question": "Refus d’un travail dangereux : [safety]",
+    "question": "Le travail en hauteur exige généralement :",
     "choices": [
-      "Superviseurs seulement",
-      "Personne",
-      "Tout travailleur avec motifs raisonnables",
-      "Syndiqués seulement"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Cadenassage : [safety]",
-    "choices": [
-      "Empêche le démarrage pendant l’entretien",
-      "Accélère la production",
-      "Décore les machines",
-      "Remplace les EPI"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Cadenassage : [safety]",
-    "choices": [
-      "Accélère la production",
-      "Empêche le démarrage pendant l’entretien",
-      "Décore les machines",
-      "Remplace les EPI"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Cadenassage : [safety]",
-    "choices": [
-      "Remplace les EPI",
-      "Décore les machines",
-      "Accélère la production",
-      "Empêche le démarrage pendant l’entretien"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Contrôle de la silice : [safety]",
-    "choices": [
-      "Aucun contrôle",
-      "Bouchons d’oreilles",
-      "Coupe à l’eau/aspiration + respirateurs",
-      "Peindre la poussière"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Cadenassage : [safety]",
-    "choices": [
-      "Décore les machines",
-      "Accélère la production",
-      "Remplace les EPI",
-      "Empêche le démarrage pendant l’entretien"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Refus d’un travail dangereux : [safety]",
-    "choices": [
-      "Personne",
-      "Superviseurs seulement",
-      "Syndiqués seulement",
-      "Tout travailleur avec motifs raisonnables"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Refus d’un travail dangereux : [safety]",
-    "choices": [
-      "Personne",
-      "Superviseurs seulement",
-      "Tout travailleur avec motifs raisonnables",
-      "Syndiqués seulement"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Travail en hauteur : [safety]",
-    "choices": [
-      "Permis chariot seulement",
+      "Une formation contre les chutes et l’équipement approprié",
+      "Uniquement un permis espace clos",
       "Aucune formation",
-      "Permis espace clos seulement",
-      "Formation + protection contre les chutes"
+      "Uniquement un permis chariot"
     ],
-    "answer": 3
+    "answer": 0,
+    "exp": {
+      "why": "Les chutes requièrent formation/équipement spécifiques.",
+      "keywords": [
+        "Protection contre les chutes",
+        "Formation",
+        "EPI"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
   },
   {
-    "question": "Contrôle de la silice : [safety]",
+    "question": "Le cadenassage sert à :",
+    "choices": [
+      "Décorer les machines",
+      "Accélérer la production",
+      "Remplacer les EPI",
+      "Empêcher le démarrage des équipements pendant l’entretien par l’isolement des énergies"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "L’isolement des énergies prévient les blessures.",
+      "keywords": [
+        "Cadenassage",
+        "Isolement des énergies"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Pour des travaux à chaud (soudage), une bonne pratique est :",
+    "choices": [
+      "Utiliser un permis de travaux à chaud et maintenir une vigie incendie",
+      "Désactiver les extincteurs pour éviter les fausses alarmes",
+      "Se fier uniquement à l’expérience du soudeur",
+      "Ouvrir les fenêtres"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Permis et vigie gèrent la source d’ignition et la réponse.",
+      "keywords": [
+        "Travaux à chaud",
+        "Permis",
+        "Vigie"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Qui peut refuser un travail dangereux?",
+    "choices": [
+      "Tout travailleur ayant des motifs raisonnables",
+      "Uniquement les syndiqués",
+      "Personne",
+      "Uniquement les superviseurs"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Droit de refus prévu au Québec.",
+      "keywords": [
+        "Droit de refus",
+        "CNESST"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Pour la silice lors de la coupe du béton, on devrait :",
     "choices": [
       "Peindre la poussière",
+      "Couper à l’eau ou avec aspiration locale et porter des respirateurs adéquats",
       "Aucun contrôle",
-      "Bouchons d’oreilles",
-      "Coupe à l’eau/aspiration + respirateurs"
+      "Mettre seulement des bouchons d’oreilles"
     ],
-    "answer": 3
+    "answer": 1,
+    "exp": {
+      "why": "La silice est un danger respiratoire important.",
+      "keywords": [
+        "Silice",
+        "Respirateurs",
+        "Ventilation"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
   },
   {
-    "question": "SIMDUT : [safety]",
+    "question": "Le cadenassage sert à :",
     "choices": [
-      "Classes de danger, étiquettes, FDS",
-      "Gouvernance",
-      "Plans de circulation",
-      "Impôts"
+      "Empêcher le démarrage des équipements pendant l’entretien par l’isolement des énergies",
+      "Accélérer la production",
+      "Décorer les machines",
+      "Remplacer les EPI"
     ],
-    "answer": 0
+    "answer": 0,
+    "exp": {
+      "why": "L’isolement des énergies prévient les blessures.",
+      "keywords": [
+        "Cadenassage",
+        "Isolement des énergies"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
   },
   {
-    "question": "Refus d’un travail dangereux : [safety]",
+    "question": "Pour des travaux à chaud (soudage), une bonne pratique est :",
     "choices": [
-      "Superviseurs seulement",
-      "Tout travailleur avec motifs raisonnables",
-      "Personne",
-      "Syndiqués seulement"
+      "Ouvrir les fenêtres",
+      "Se fier uniquement à l’expérience du soudeur",
+      "Utiliser un permis de travaux à chaud et maintenir une vigie incendie",
+      "Désactiver les extincteurs pour éviter les fausses alarmes"
     ],
-    "answer": 1
+    "answer": 2,
+    "exp": {
+      "why": "Permis et vigie gèrent la source d’ignition et la réponse.",
+      "keywords": [
+        "Travaux à chaud",
+        "Permis",
+        "Vigie"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
   },
   {
-    "question": "Travail en hauteur : [safety]",
+    "question": "Le travail en hauteur exige généralement :",
     "choices": [
-      "Permis espace clos seulement",
       "Aucune formation",
-      "Permis chariot seulement",
-      "Formation + protection contre les chutes"
+      "Une formation contre les chutes et l’équipement approprié",
+      "Uniquement un permis chariot",
+      "Uniquement un permis espace clos"
     ],
-    "answer": 3
+    "answer": 1,
+    "exp": {
+      "why": "Les chutes requièrent formation/équipement spécifiques.",
+      "keywords": [
+        "Protection contre les chutes",
+        "Formation",
+        "EPI"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
   },
   {
-    "question": "Contrôle de la silice : [safety]",
+    "question": "Le cadenassage sert à :",
     "choices": [
-      "Coupe à l’eau/aspiration + respirateurs",
-      "Peindre la poussière",
+      "Décorer les machines",
+      "Accélérer la production",
+      "Empêcher le démarrage des équipements pendant l’entretien par l’isolement des énergies",
+      "Remplacer les EPI"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "L’isolement des énergies prévient les blessures.",
+      "keywords": [
+        "Cadenassage",
+        "Isolement des énergies"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Le cadenassage sert à :",
+    "choices": [
+      "Accélérer la production",
+      "Remplacer les EPI",
+      "Décorer les machines",
+      "Empêcher le démarrage des équipements pendant l’entretien par l’isolement des énergies"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "L’isolement des énergies prévient les blessures.",
+      "keywords": [
+        "Cadenassage",
+        "Isolement des énergies"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Pour la silice lors de la coupe du béton, on devrait :",
+    "choices": [
       "Aucun contrôle",
-      "Bouchons d’oreilles"
+      "Mettre seulement des bouchons d’oreilles",
+      "Peindre la poussière",
+      "Couper à l’eau ou avec aspiration locale et porter des respirateurs adéquats"
     ],
-    "answer": 0
+    "answer": 3,
+    "exp": {
+      "why": "La silice est un danger respiratoire important.",
+      "keywords": [
+        "Silice",
+        "Respirateurs",
+        "Ventilation"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
   },
   {
-    "question": "Cadenassage : [safety]",
+    "question": "Le SIMDUT couvre surtout :",
     "choices": [
-      "Remplace les EPI",
-      "Accélère la production",
-      "Empêche le démarrage pendant l’entretien",
-      "Décore les machines"
+      "La classification des dangers, l’étiquetage et les FDS",
+      "Les impôts",
+      "La gouvernance d’entreprise",
+      "Les plans de circulation"
     ],
-    "answer": 2
+    "answer": 0,
+    "exp": {
+      "why": "Système canadien d’information sur les produits dangereux.",
+      "keywords": [
+        "SIMDUT",
+        "FDS",
+        "Étiquettes"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
   },
   {
-    "question": "Cadenassage : [safety]",
+    "question": "Pour des travaux à chaud (soudage), une bonne pratique est :",
     "choices": [
-      "Empêche le démarrage pendant l’entretien",
-      "Accélère la production",
-      "Remplace les EPI",
-      "Décore les machines"
+      "Désactiver les extincteurs pour éviter les fausses alarmes",
+      "Utiliser un permis de travaux à chaud et maintenir une vigie incendie",
+      "Se fier uniquement à l’expérience du soudeur",
+      "Ouvrir les fenêtres"
     ],
-    "answer": 0
+    "answer": 1,
+    "exp": {
+      "why": "Permis et vigie gèrent la source d’ignition et la réponse.",
+      "keywords": [
+        "Travaux à chaud",
+        "Permis",
+        "Vigie"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
   },
   {
-    "question": "Travail en hauteur : [safety]",
+    "question": "Le SIMDUT couvre surtout :",
     "choices": [
-      "Permis espace clos seulement",
-      "Formation + protection contre les chutes",
-      "Permis chariot seulement",
+      "Les impôts",
+      "Les plans de circulation",
+      "La classification des dangers, l’étiquetage et les FDS",
+      "La gouvernance d’entreprise"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Système canadien d’information sur les produits dangereux.",
+      "keywords": [
+        "SIMDUT",
+        "FDS",
+        "Étiquettes"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Le travail en hauteur exige généralement :",
+    "choices": [
+      "Uniquement un permis espace clos",
+      "Aucune formation",
+      "Une formation contre les chutes et l’équipement approprié",
+      "Uniquement un permis chariot"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Les chutes requièrent formation/équipement spécifiques.",
+      "keywords": [
+        "Protection contre les chutes",
+        "Formation",
+        "EPI"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Le travail en hauteur exige généralement :",
+    "choices": [
+      "Uniquement un permis espace clos",
+      "Uniquement un permis chariot",
+      "Aucune formation",
+      "Une formation contre les chutes et l’équipement approprié"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Les chutes requièrent formation/équipement spécifiques.",
+      "keywords": [
+        "Protection contre les chutes",
+        "Formation",
+        "EPI"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Qui peut refuser un travail dangereux?",
+    "choices": [
+      "Tout travailleur ayant des motifs raisonnables",
+      "Uniquement les syndiqués",
+      "Personne",
+      "Uniquement les superviseurs"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Droit de refus prévu au Québec.",
+      "keywords": [
+        "Droit de refus",
+        "CNESST"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Pour la silice lors de la coupe du béton, on devrait :",
+    "choices": [
+      "Aucun contrôle",
+      "Couper à l’eau ou avec aspiration locale et porter des respirateurs adéquats",
+      "Peindre la poussière",
+      "Mettre seulement des bouchons d’oreilles"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "La silice est un danger respiratoire important.",
+      "keywords": [
+        "Silice",
+        "Respirateurs",
+        "Ventilation"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Le cadenassage sert à :",
+    "choices": [
+      "Empêcher le démarrage des équipements pendant l’entretien par l’isolement des énergies",
+      "Accélérer la production",
+      "Remplacer les EPI",
+      "Décorer les machines"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "L’isolement des énergies prévient les blessures.",
+      "keywords": [
+        "Cadenassage",
+        "Isolement des énergies"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Une tranchée de plus d’environ 1,2 m (4 pi) nécessite :",
+    "choices": [
+      "Un étaiement, un talutage ou un caisson, et un accès/évacuation sécuritaire",
+      "Aucune mesure",
+      "Uniquement une corde",
+      "Une pelle plus grosse"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Risque d’éboulement → protection et accès sûrs.",
+      "keywords": [
+        "Tranchée",
+        "Étaiement",
+        "Accès"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Qui peut refuser un travail dangereux?",
+    "choices": [
+      "Personne",
+      "Uniquement les syndiqués",
+      "Tout travailleur ayant des motifs raisonnables",
+      "Uniquement les superviseurs"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Droit de refus prévu au Québec.",
+      "keywords": [
+        "Droit de refus",
+        "CNESST"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Qui peut refuser un travail dangereux?",
+    "choices": [
+      "Uniquement les superviseurs",
+      "Tout travailleur ayant des motifs raisonnables",
+      "Personne",
+      "Uniquement les syndiqués"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Droit de refus prévu au Québec.",
+      "keywords": [
+        "Droit de refus",
+        "CNESST"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Le cadenassage sert à :",
+    "choices": [
+      "Décorer les machines",
+      "Accélérer la production",
+      "Empêcher le démarrage des équipements pendant l’entretien par l’isolement des énergies",
+      "Remplacer les EPI"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "L’isolement des énergies prévient les blessures.",
+      "keywords": [
+        "Cadenassage",
+        "Isolement des énergies"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "L’utilisation d’un échafaudage exige :",
+    "choices": [
+      "Des plinthes seulement",
+      "Aucune inspection sous 3 m",
+      "N’importe quelle échelle à proximité",
+      "Un montage/inspection adéquats, des garde-corps ou un harnais, et un accès sécuritaire"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Échafaudages = montage par personne compétente, protections contre les chutes, accès sûr.",
+      "keywords": [
+        "Échafaudage",
+        "Inspection",
+        "Garde-corps"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Le cadenassage sert à :",
+    "choices": [
+      "Accélérer la production",
+      "Décorer les machines",
+      "Remplacer les EPI",
+      "Empêcher le démarrage des équipements pendant l’entretien par l’isolement des énergies"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "L’isolement des énergies prévient les blessures.",
+      "keywords": [
+        "Cadenassage",
+        "Isolement des énergies"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Pour des travaux à chaud (soudage), une bonne pratique est :",
+    "choices": [
+      "Désactiver les extincteurs pour éviter les fausses alarmes",
+      "Se fier uniquement à l’expérience du soudeur",
+      "Ouvrir les fenêtres",
+      "Utiliser un permis de travaux à chaud et maintenir une vigie incendie"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Permis et vigie gèrent la source d’ignition et la réponse.",
+      "keywords": [
+        "Travaux à chaud",
+        "Permis",
+        "Vigie"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Pour la silice lors de la coupe du béton, on devrait :",
+    "choices": [
+      "Mettre seulement des bouchons d’oreilles",
+      "Aucun contrôle",
+      "Peindre la poussière",
+      "Couper à l’eau ou avec aspiration locale et porter des respirateurs adéquats"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "La silice est un danger respiratoire important.",
+      "keywords": [
+        "Silice",
+        "Respirateurs",
+        "Ventilation"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Le travail en hauteur exige généralement :",
+    "choices": [
+      "Une formation contre les chutes et l’équipement approprié",
+      "Uniquement un permis chariot",
+      "Aucune formation",
+      "Uniquement un permis espace clos"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Les chutes requièrent formation/équipement spécifiques.",
+      "keywords": [
+        "Protection contre les chutes",
+        "Formation",
+        "EPI"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Pour des travaux à chaud (soudage), une bonne pratique est :",
+    "choices": [
+      "Désactiver les extincteurs pour éviter les fausses alarmes",
+      "Ouvrir les fenêtres",
+      "Utiliser un permis de travaux à chaud et maintenir une vigie incendie",
+      "Se fier uniquement à l’expérience du soudeur"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Permis et vigie gèrent la source d’ignition et la réponse.",
+      "keywords": [
+        "Travaux à chaud",
+        "Permis",
+        "Vigie"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Le cadenassage sert à :",
+    "choices": [
+      "Décorer les machines",
+      "Remplacer les EPI",
+      "Accélérer la production",
+      "Empêcher le démarrage des équipements pendant l’entretien par l’isolement des énergies"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "L’isolement des énergies prévient les blessures.",
+      "keywords": [
+        "Cadenassage",
+        "Isolement des énergies"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Pour des travaux à chaud (soudage), une bonne pratique est :",
+    "choices": [
+      "Se fier uniquement à l’expérience du soudeur",
+      "Utiliser un permis de travaux à chaud et maintenir une vigie incendie",
+      "Ouvrir les fenêtres",
+      "Désactiver les extincteurs pour éviter les fausses alarmes"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Permis et vigie gèrent la source d’ignition et la réponse.",
+      "keywords": [
+        "Travaux à chaud",
+        "Permis",
+        "Vigie"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Qui peut refuser un travail dangereux?",
+    "choices": [
+      "Uniquement les syndiqués",
+      "Tout travailleur ayant des motifs raisonnables",
+      "Personne",
+      "Uniquement les superviseurs"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Droit de refus prévu au Québec.",
+      "keywords": [
+        "Droit de refus",
+        "CNESST"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Pour la silice lors de la coupe du béton, on devrait :",
+    "choices": [
+      "Peindre la poussière",
+      "Mettre seulement des bouchons d’oreilles",
+      "Aucun contrôle",
+      "Couper à l’eau ou avec aspiration locale et porter des respirateurs adéquats"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "La silice est un danger respiratoire important.",
+      "keywords": [
+        "Silice",
+        "Respirateurs",
+        "Ventilation"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Qui peut refuser un travail dangereux?",
+    "choices": [
+      "Uniquement les superviseurs",
+      "Uniquement les syndiqués",
+      "Personne",
+      "Tout travailleur ayant des motifs raisonnables"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Droit de refus prévu au Québec.",
+      "keywords": [
+        "Droit de refus",
+        "CNESST"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Le cadenassage sert à :",
+    "choices": [
+      "Empêcher le démarrage des équipements pendant l’entretien par l’isolement des énergies",
+      "Accélérer la production",
+      "Remplacer les EPI",
+      "Décorer les machines"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "L’isolement des énergies prévient les blessures.",
+      "keywords": [
+        "Cadenassage",
+        "Isolement des énergies"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Le travail en hauteur exige généralement :",
+    "choices": [
+      "Une formation contre les chutes et l’équipement approprié",
+      "Aucune formation",
+      "Uniquement un permis chariot",
+      "Uniquement un permis espace clos"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Les chutes requièrent formation/équipement spécifiques.",
+      "keywords": [
+        "Protection contre les chutes",
+        "Formation",
+        "EPI"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "L’utilisation d’un échafaudage exige :",
+    "choices": [
+      "Aucune inspection sous 3 m",
+      "Un montage/inspection adéquats, des garde-corps ou un harnais, et un accès sécuritaire",
+      "N’importe quelle échelle à proximité",
+      "Des plinthes seulement"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Échafaudages = montage par personne compétente, protections contre les chutes, accès sûr.",
+      "keywords": [
+        "Échafaudage",
+        "Inspection",
+        "Garde-corps"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Le cadenassage sert à :",
+    "choices": [
+      "Empêcher le démarrage des équipements pendant l’entretien par l’isolement des énergies",
+      "Remplacer les EPI",
+      "Accélérer la production",
+      "Décorer les machines"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "L’isolement des énergies prévient les blessures.",
+      "keywords": [
+        "Cadenassage",
+        "Isolement des énergies"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Pour des travaux à chaud (soudage), une bonne pratique est :",
+    "choices": [
+      "Ouvrir les fenêtres",
+      "Se fier uniquement à l’expérience du soudeur",
+      "Désactiver les extincteurs pour éviter les fausses alarmes",
+      "Utiliser un permis de travaux à chaud et maintenir une vigie incendie"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Permis et vigie gèrent la source d’ignition et la réponse.",
+      "keywords": [
+        "Travaux à chaud",
+        "Permis",
+        "Vigie"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Une tranchée de plus d’environ 1,2 m (4 pi) nécessite :",
+    "choices": [
+      "Aucune mesure",
+      "Uniquement une corde",
+      "Une pelle plus grosse",
+      "Un étaiement, un talutage ou un caisson, et un accès/évacuation sécuritaire"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Risque d’éboulement → protection et accès sûrs.",
+      "keywords": [
+        "Tranchée",
+        "Étaiement",
+        "Accès"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Une tranchée de plus d’environ 1,2 m (4 pi) nécessite :",
+    "choices": [
+      "Uniquement une corde",
+      "Un étaiement, un talutage ou un caisson, et un accès/évacuation sécuritaire",
+      "Une pelle plus grosse",
+      "Aucune mesure"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Risque d’éboulement → protection et accès sûrs.",
+      "keywords": [
+        "Tranchée",
+        "Étaiement",
+        "Accès"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "L’utilisation d’un échafaudage exige :",
+    "choices": [
+      "Aucune inspection sous 3 m",
+      "Des plinthes seulement",
+      "Un montage/inspection adéquats, des garde-corps ou un harnais, et un accès sécuritaire",
+      "N’importe quelle échelle à proximité"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Échafaudages = montage par personne compétente, protections contre les chutes, accès sûr.",
+      "keywords": [
+        "Échafaudage",
+        "Inspection",
+        "Garde-corps"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Le travail en hauteur exige généralement :",
+    "choices": [
+      "Aucune formation",
+      "Uniquement un permis chariot",
+      "Uniquement un permis espace clos",
+      "Une formation contre les chutes et l’équipement approprié"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Les chutes requièrent formation/équipement spécifiques.",
+      "keywords": [
+        "Protection contre les chutes",
+        "Formation",
+        "EPI"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Pour la silice lors de la coupe du béton, on devrait :",
+    "choices": [
+      "Peindre la poussière",
+      "Mettre seulement des bouchons d’oreilles",
+      "Couper à l’eau ou avec aspiration locale et porter des respirateurs adéquats",
+      "Aucun contrôle"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "La silice est un danger respiratoire important.",
+      "keywords": [
+        "Silice",
+        "Respirateurs",
+        "Ventilation"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Qui peut refuser un travail dangereux?",
+    "choices": [
+      "Uniquement les syndiqués",
+      "Tout travailleur ayant des motifs raisonnables",
+      "Uniquement les superviseurs",
+      "Personne"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Droit de refus prévu au Québec.",
+      "keywords": [
+        "Droit de refus",
+        "CNESST"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Qui peut refuser un travail dangereux?",
+    "choices": [
+      "Uniquement les syndiqués",
+      "Tout travailleur ayant des motifs raisonnables",
+      "Personne",
+      "Uniquement les superviseurs"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Droit de refus prévu au Québec.",
+      "keywords": [
+        "Droit de refus",
+        "CNESST"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
+  },
+  {
+    "question": "Le travail en hauteur exige généralement :",
+    "choices": [
+      "Uniquement un permis espace clos",
+      "Une formation contre les chutes et l’équipement approprié",
+      "Uniquement un permis chariot",
       "Aucune formation"
     ],
-    "answer": 1
+    "answer": 1,
+    "exp": {
+      "why": "Les chutes requièrent formation/équipement spécifiques.",
+      "keywords": [
+        "Protection contre les chutes",
+        "Formation",
+        "EPI"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
   },
   {
-    "question": "Contrôle de la silice : [safety]",
+    "question": "L’utilisation d’un échafaudage exige :",
     "choices": [
-      "Bouchons d’oreilles",
-      "Aucun contrôle",
-      "Peindre la poussière",
-      "Coupe à l’eau/aspiration + respirateurs"
+      "Un montage/inspection adéquats, des garde-corps ou un harnais, et un accès sécuritaire",
+      "N’importe quelle échelle à proximité",
+      "Des plinthes seulement",
+      "Aucune inspection sous 3 m"
     ],
-    "answer": 3
+    "answer": 0,
+    "exp": {
+      "why": "Échafaudages = montage par personne compétente, protections contre les chutes, accès sûr.",
+      "keywords": [
+        "Échafaudage",
+        "Inspection",
+        "Garde-corps"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
   },
   {
-    "question": "Refus d’un travail dangereux : [safety]",
+    "question": "Le cadenassage sert à :",
     "choices": [
-      "Personne",
-      "Syndiqués seulement",
-      "Tout travailleur avec motifs raisonnables",
-      "Superviseurs seulement"
+      "Décorer les machines",
+      "Accélérer la production",
+      "Empêcher le démarrage des équipements pendant l’entretien par l’isolement des énergies",
+      "Remplacer les EPI"
     ],
-    "answer": 2
+    "answer": 2,
+    "exp": {
+      "why": "L’isolement des énergies prévient les blessures.",
+      "keywords": [
+        "Cadenassage",
+        "Isolement des énergies"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures.",
+        "❌ Ne répond pas aux attentes de SST courantes."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
   },
   {
-    "question": "Cadenassage : [safety]",
+    "question": "Le SIMDUT couvre surtout :",
     "choices": [
-      "Empêche le démarrage pendant l’entretien",
-      "Accélère la production",
-      "Remplace les EPI",
-      "Décore les machines"
+      "Les plans de circulation",
+      "La gouvernance d’entreprise",
+      "Les impôts",
+      "La classification des dangers, l’étiquetage et les FDS"
     ],
-    "answer": 0
-  },
-  {
-    "question": "Refus d’un travail dangereux : [safety]",
-    "choices": [
-      "Personne",
-      "Syndiqués seulement",
-      "Superviseurs seulement",
-      "Tout travailleur avec motifs raisonnables"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Contrôle de la silice : [safety]",
-    "choices": [
-      "Peindre la poussière",
-      "Bouchons d’oreilles",
-      "Coupe à l’eau/aspiration + respirateurs",
-      "Aucun contrôle"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Contrôle de la silice : [safety]",
-    "choices": [
-      "Bouchons d’oreilles",
-      "Aucun contrôle",
-      "Peindre la poussière",
-      "Coupe à l’eau/aspiration + respirateurs"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Travail en hauteur : [safety]",
-    "choices": [
-      "Aucune formation",
-      "Permis espace clos seulement",
-      "Permis chariot seulement",
-      "Formation + protection contre les chutes"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Cadenassage : [safety]",
-    "choices": [
-      "Décore les machines",
-      "Remplace les EPI",
-      "Accélère la production",
-      "Empêche le démarrage pendant l’entretien"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Contrôle de la silice : [safety]",
-    "choices": [
-      "Coupe à l’eau/aspiration + respirateurs",
-      "Aucun contrôle",
-      "Bouchons d’oreilles",
-      "Peindre la poussière"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Refus d’un travail dangereux : [safety]",
-    "choices": [
-      "Syndiqués seulement",
-      "Superviseurs seulement",
-      "Personne",
-      "Tout travailleur avec motifs raisonnables"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Cadenassage : [safety]",
-    "choices": [
-      "Décore les machines",
-      "Remplace les EPI",
-      "Accélère la production",
-      "Empêche le démarrage pendant l’entretien"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Contrôle de la silice : [safety]",
-    "choices": [
-      "Aucun contrôle",
-      "Coupe à l’eau/aspiration + respirateurs",
-      "Peindre la poussière",
-      "Bouchons d’oreilles"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Travail en hauteur : [safety]",
-    "choices": [
-      "Permis espace clos seulement",
-      "Formation + protection contre les chutes",
-      "Aucune formation",
-      "Permis chariot seulement"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Travail en hauteur : [safety]",
-    "choices": [
-      "Formation + protection contre les chutes",
-      "Permis chariot seulement",
-      "Aucune formation",
-      "Permis espace clos seulement"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Contrôle de la silice : [safety]",
-    "choices": [
-      "Peindre la poussière",
-      "Aucun contrôle",
-      "Bouchons d’oreilles",
-      "Coupe à l’eau/aspiration + respirateurs"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Refus d’un travail dangereux : [safety]",
-    "choices": [
-      "Syndiqués seulement",
-      "Superviseurs seulement",
-      "Personne",
-      "Tout travailleur avec motifs raisonnables"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Cadenassage : [safety]",
-    "choices": [
-      "Remplace les EPI",
-      "Empêche le démarrage pendant l’entretien",
-      "Accélère la production",
-      "Décore les machines"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Refus d’un travail dangereux : [safety]",
-    "choices": [
-      "Superviseurs seulement",
-      "Syndiqués seulement",
-      "Tout travailleur avec motifs raisonnables",
-      "Personne"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "SIMDUT : [safety]",
-    "choices": [
-      "Classes de danger, étiquettes, FDS",
-      "Gouvernance",
-      "Impôts",
-      "Plans de circulation"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Travail en hauteur : [safety]",
-    "choices": [
-      "Permis espace clos seulement",
-      "Aucune formation",
-      "Formation + protection contre les chutes",
-      "Permis chariot seulement"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Refus d’un travail dangereux : [safety]",
-    "choices": [
-      "Superviseurs seulement",
-      "Tout travailleur avec motifs raisonnables",
-      "Personne",
-      "Syndiqués seulement"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Refus d’un travail dangereux : [safety]",
-    "choices": [
-      "Tout travailleur avec motifs raisonnables",
-      "Superviseurs seulement",
-      "Syndiqués seulement",
-      "Personne"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Contrôle de la silice : [safety]",
-    "choices": [
-      "Bouchons d’oreilles",
-      "Coupe à l’eau/aspiration + respirateurs",
-      "Aucun contrôle",
-      "Peindre la poussière"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Contrôle de la silice : [safety]",
-    "choices": [
-      "Aucun contrôle",
-      "Bouchons d’oreilles",
-      "Coupe à l’eau/aspiration + respirateurs",
-      "Peindre la poussière"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Cadenassage : [safety]",
-    "choices": [
-      "Remplace les EPI",
-      "Décore les machines",
-      "Empêche le démarrage pendant l’entretien",
-      "Accélère la production"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "SIMDUT : [safety]",
-    "choices": [
-      "Gouvernance",
-      "Classes de danger, étiquettes, FDS",
-      "Impôts",
-      "Plans de circulation"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Contrôle de la silice : [safety]",
-    "choices": [
-      "Bouchons d’oreilles",
-      "Coupe à l’eau/aspiration + respirateurs",
-      "Peindre la poussière",
-      "Aucun contrôle"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Refus d’un travail dangereux : [safety]",
-    "choices": [
-      "Tout travailleur avec motifs raisonnables",
-      "Syndiqués seulement",
-      "Personne",
-      "Superviseurs seulement"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Contrôle de la silice : [safety]",
-    "choices": [
-      "Coupe à l’eau/aspiration + respirateurs",
-      "Aucun contrôle",
-      "Peindre la poussière",
-      "Bouchons d’oreilles"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Travail en hauteur : [safety]",
-    "choices": [
-      "Permis chariot seulement",
-      "Aucune formation",
-      "Formation + protection contre les chutes",
-      "Permis espace clos seulement"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Refus d’un travail dangereux : [safety]",
-    "choices": [
-      "Superviseurs seulement",
-      "Syndiqués seulement",
-      "Personne",
-      "Tout travailleur avec motifs raisonnables"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Cadenassage : [safety]",
-    "choices": [
-      "Accélère la production",
-      "Décore les machines",
-      "Empêche le démarrage pendant l’entretien",
-      "Remplace les EPI"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "SIMDUT : [safety]",
-    "choices": [
-      "Impôts",
-      "Classes de danger, étiquettes, FDS",
-      "Gouvernance",
-      "Plans de circulation"
-    ],
-    "answer": 1
+    "answer": 3,
+    "exp": {
+      "why": "Système canadien d’information sur les produits dangereux.",
+      "keywords": [
+        "SIMDUT",
+        "FDS",
+        "Étiquettes"
+      ],
+      "example": "Documenter dans l’AIP; vérifier permis, EPI et supervision compétente.",
+      "rationales": [
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "❌ Ne répond pas aux attentes de SST courantes.",
+        "✅ Contrôle adéquat/hiérarchie des mesures."
+      ],
+      "refs": [
+        "CNESST; normes CSA/Z (générales)"
+      ]
+    }
   }
 ]
