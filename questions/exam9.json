@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Which option applies in Québec practice? Working at heights in Québec usually requires: (compliance)",
+    "choices": [
+      "Fall protection training and appropriate equipment",
+      "Forklift training only",
+      "No training",
+      "Confined space ticket only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If the guarantor leaves the company, the contractor must:",
+    "choices": [
+      "Do nothing",
+      "Replace the guarantor within RBQ’s prescribed delay to maintain the licence",
+      "Return the licence permanently",
+      "Notify the municipality only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the BEST description? Who can refuse dangerous work in Québec? (private contract)",
+    "choices": [
+      "Only supervisors",
+      "No one",
+      "Any worker with reasonable grounds to believe danger exists",
+      "Only union members"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? The critical path in a schedule is: (admin context)",
+    "choices": [
+      "The longest path of dependent tasks determining project duration",
+      "A path with no float because it is ignored",
+      "The shortest path",
+      "A budget contingency"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Select the TRUE statement: A change order (ordre de changement) is: (admin context)",
+    "choices": [
+      "A safety violation notice",
+      "An informal site instruction with no cost/time impact",
+      "A bid addendum",
+      "A formal modification to scope, price and/or time agreed by parties"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Select the TRUE statement: Submitting a bid after the stated deadline is generally: (compliance)",
+    "choices": [
+      "Non-compliant and rejected",
+      "Converted to a change directive",
+      "Compliant if emailed",
+      "Accepted with penalty"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Select the TRUE statement: Earned value compares: (compliance)",
+    "choices": [
+      "Design to RFIs",
+      "RFPs to shop drawings",
+      "Only invoices to payments",
+      "Planned value, earned value, and actual cost to assess performance"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Select the TRUE statement: A minute book primarily contains: (private contract)",
+    "choices": [
+      "Safety Data Sheets",
+      "Corporate resolutions, director/shareholder records, and by-laws",
+      "Daily site diaries",
+      "Invoices only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which option applies in Québec practice? To preserve lien rights, a subcontractor should generally: (public contract)",
+    "choices": [
+      "Ignore deadlines",
+      "Ask the RBQ to pay",
+      "Comply with prescribed notices and delays in the Civil Code of Québec",
+      "Send an invoice only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Select the TRUE statement: Professional liability (errors & omissions) insurance is most relevant to: (public contract)",
+    "choices": [
+      "Design services that could cause economic loss",
+      "Fuel surcharges",
+      "PPE purchases",
+      "Union dues"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Select the TRUE statement: Operating in a licence subclass the contractor does not hold may lead to: (public contract)",
+    "choices": [
+      "Awards and recognition",
+      "Nothing specific",
+      "Possible fines, stop-work orders, or licence suspension",
+      "Tax credits"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which statement is MOST accurate? O&M manuals are typically delivered: (public contract)",
+    "choices": [
+      "At tender closing",
+      "At substantial completion or project closeout",
+      "After warranty expiry",
+      "With the bid bond"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which statement is MOST accurate? The legal construction hypothec (lien) primarily protects: (public contract)",
+    "choices": [
+      "Designers’ copyright",
+      "Only owners",
+      "Only banks",
+      "Those who supplied work or materials and remain unpaid"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which option applies in Québec practice? In public procurement, an addendum: (admin context)",
+    "choices": [
+      "Modifies the tender documents and is binding if issued before closing",
+      "Is a change order after contract award",
+      "Is a contractor’s internal memo",
+      "Cancels the tender automatically"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who can refuse dangerous work in Québec?",
+    "choices": [
+      "Only supervisors",
+      "Any worker with reasonable grounds to believe danger exists",
+      "Only union members",
+      "No one"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Select the TRUE statement: Submitting a bid after the stated deadline is generally: (private contract)",
+    "choices": [
+      "Non-compliant and rejected",
+      "Converted to a change directive",
+      "Accepted with penalty",
+      "Compliant if emailed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which option applies in Québec practice? The critical path in a schedule is: (public contract)",
+    "choices": [
+      "A path with no float because it is ignored",
+      "The longest path of dependent tasks determining project duration",
+      "The shortest path",
+      "A budget contingency"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Select the TRUE statement: Small consumable tools are best coded to: (compliance)",
+    "choices": [
+      "Revenue",
+      "Overhead/indirect costs",
+      "Accounts receivable",
+      "Direct materials"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Select the TRUE statement: An environmental aspect (ISO 14001) is: (admin context)",
+    "choices": [
+      "An element of activities that can interact with the environment",
+      "A payroll record",
+      "A shop drawing",
+      "A lawsuit"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Select the TRUE statement: The critical path in a schedule is: (compliance)",
+    "choices": [
+      "A budget contingency",
+      "The shortest path",
+      "The longest path of dependent tasks determining project duration",
+      "A path with no float because it is ignored"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Shop drawings are primarily:",
+    "choices": [
+      "Contract documents",
+      "Contractor/submittal documents showing how work will be fabricated/installed",
+      "Owner’s financing documents",
+      "Legal filings with AMP"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the BEST description? Concrete compressive strength is verified by: (admin context)",
+    "choices": [
+      "Laboratory cylinder break tests at specified ages",
+      "Visual inspection",
+      "Torque wrench",
+      "Slump test only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? GST and QST on construction invoices in Québec are respectively: (compliance)",
+    "choices": [
+      "15% combined HST",
+      "5% and 9.975%",
+      "10% and 5%",
+      "No taxes apply"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Select the TRUE statement: A change directive (directive de changement) differs from a change order because: (compliance)",
+    "choices": [
+      "It cannot adjust schedule",
+      "It always reduces scope",
+      "It applies only to design-build contracts",
+      "It is unilateral to proceed before price agreement, subject to later valuation"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? Which document legally creates a corporation in Québec? (public contract)",
+    "choices": [
+      "Employment contract",
+      "Shareholder resolution",
+      "Bank mandate",
+      "Articles of incorporation"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the BEST description? The current ratio mainly measures: (admin context)",
+    "choices": [
+      "Long-term profitability",
+      "Worker productivity",
+      "Warranty claim frequency",
+      "Ability to meet short-term obligations"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which statement is MOST accurate? A performance bond mainly protects: (compliance)",
+    "choices": [
+      "The contractor’s profit",
+      "The bank against interest rate changes",
+      "The owner against contractor default during contract performance",
+      "The supplier’s inventory"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which document legally creates a corporation in Québec?",
+    "choices": [
+      "Articles of incorporation",
+      "Shareholder resolution",
+      "Employment contract",
+      "Bank mandate"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which option applies in Québec practice? The critical path in a schedule is: (compliance)",
+    "choices": [
+      "A budget contingency",
+      "A path with no float because it is ignored",
+      "The longest path of dependent tasks determining project duration",
+      "The shortest path"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the BEST description? A change order (ordre de changement) is: (private contract)",
+    "choices": [
+      "A formal modification to scope, price and/or time agreed by parties",
+      "A safety violation notice",
+      "A bid addendum",
+      "An informal site instruction with no cost/time impact"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? Corporate directors in Québec have a duty to: (private contract)",
+    "choices": [
+      "Act with diligence and oversee the corporation’s affairs",
+      "Report only to employees",
+      "Ignore financial statements",
+      "Set municipal bylaws"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Builder’s Risk (course of construction) insurance mainly covers:",
+    "choices": [
+      "Damage to the work under construction",
+      "Worker injuries",
+      "Professional liability",
+      "Vehicle collisions"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the BEST description? The legal construction hypothec (lien) primarily protects: (admin context)",
+    "choices": [
+      "Designers’ copyright",
+      "Only banks",
+      "Only owners",
+      "Those who supplied work or materials and remain unpaid"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which statement is MOST accurate? Earned value compares: (private contract)",
+    "choices": [
+      "Only invoices to payments",
+      "Planned value, earned value, and actual cost to assess performance",
+      "RFPs to shop drawings",
+      "Design to RFIs"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? The current ratio mainly measures: (admin context)",
+    "choices": [
+      "Long-term profitability",
+      "Worker productivity",
+      "Ability to meet short-term obligations",
+      "Warranty claim frequency"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? Baseline schedule updates should occur: (compliance)",
+    "choices": [
+      "Never",
+      "Daily without record",
+      "Only at project end",
+      "Only through formal change control"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which statement is MOST accurate? An RFI (request for information) serves to: (compliance)",
+    "choices": [
+      "Approve progress claims automatically",
+      "Replace shop drawings",
+      "Modify contract price directly",
+      "Clarify discrepancies or request missing information from the designer/owner"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which option applies in Québec practice? A method statement / work procedure helps by: (compliance)",
+    "choices": [
+      "Replacing fall protection",
+      "Collecting taxes",
+      "Defining step-by-step execution and controls for quality and safety",
+      "Setting bid prices"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? When drawings and specifications conflict (and no priority is stated), what is commonly consulted first? (public contract)",
+    "choices": [
+      "Shop drawings",
+      "Invoices",
+      "Specifications typically take precedence",
+      "Verbal instructions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? Professional liability (errors & omissions) insurance is most relevant to: (private contract)",
+    "choices": [
+      "Union dues",
+      "Design services that could cause economic loss",
+      "Fuel surcharges",
+      "PPE purchases"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Select the TRUE statement: Operating in a licence subclass the contractor does not hold may lead to: (admin context)",
+    "choices": [
+      "Possible fines, stop-work orders, or licence suspension",
+      "Awards and recognition",
+      "Nothing specific",
+      "Tax credits"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which option applies in Québec practice? A clear conflict of interest example is: (public contract)",
+    "choices": [
+      "Awarding a subcontract to a relative without disclosure",
+      "Disclosing ties and recusing from decisions",
+      "Holding public bid openings",
+      "Following written evaluation criteria"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the BEST description? O&M manuals are typically delivered: (private contract)",
+    "choices": [
+      "With the bid bond",
+      "At substantial completion or project closeout",
+      "At tender closing",
+      "After warranty expiry"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the BEST description? Closeout documents often include: (public contract)",
+    "choices": [
+      "Change orders only",
+      "Timesheets only",
+      "As-builts, O&M manuals, warranties, training records",
+      "Only RFIs"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which option applies in Québec practice? A change directive (directive de changement) differs from a change order because: (public contract)",
+    "choices": [
+      "It applies only to design-build contracts",
+      "It is unilateral to proceed before price agreement, subject to later valuation",
+      "It cannot adjust schedule",
+      "It always reduces scope"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In Québec construction, the statutory holdback (retenue) is typically:",
+    "choices": [
+      "10% of the value of the work until lien period expiry",
+      "1% until final payment",
+      "15% for materials only",
+      "No holdback exists"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which statement is MOST accurate? A clear conflict of interest example is: (compliance)",
+    "choices": [
+      "Disclosing ties and recusing from decisions",
+      "Holding public bid openings",
+      "Awarding a subcontract to a relative without disclosure",
+      "Following written evaluation criteria"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? Earned value compares: (compliance)",
+    "choices": [
+      "Design to RFIs",
+      "Planned value, earned value, and actual cost to assess performance",
+      "RFPs to shop drawings",
+      "Only invoices to payments"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Select the TRUE statement: What is the primary role of the RBQ (Régie du bâtiment du Québec)? (private contract)",
+    "choices": [
+      "Manage highway construction contracts",
+      "Regulate construction, building safety, and certain professional qualifications",
+      "Set provincial income tax rates",
+      "Issue municipal building permits"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? Commercial General Liability (CGL) insurance covers: (compliance)",
+    "choices": [
+      "Only tool theft",
+      "Only employee wages",
+      "Only design errors",
+      "Third-party bodily injury and property damage claims"
+    ],
+    "answer": 3
+  }
+]

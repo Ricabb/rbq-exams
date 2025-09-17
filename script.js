@@ -32,13 +32,13 @@ function loadProgress(){
     .then(r=>r.json())
     .then(data=>{
       questions = data.slice();
-      // Shuffle questions so memorization is harder
+      // Shuffle questions to reduce memorization
       for(let i=questions.length-1;i>0;i--){
         const j = Math.floor(Math.random()*(i+1));
         [questions[i],questions[j]]=[questions[j],questions[i]];
       }
-      // Default: 90 minutes for 50 Q (change here if needed)
-      if(timeLeft==null) timeLeft = 90*60;
+      // Default: 120 minutes for 50 questions (adjust as needed)
+      if(timeLeft==null) timeLeft = 120*60;
       loadProgress();
       render();
       startTimer();
@@ -64,7 +64,6 @@ function startTimer(){
       return;
     }
     timeLeft--;
-    // Auto-save every 5 seconds
     if(timeLeft % 5 === 0) saveProgress();
   }, 1000);
 }
@@ -97,9 +96,8 @@ function render(){
 function selectAnswer(i){
   answers[currentIndex] = i;
   saveProgress();
-  render(); // refresh selection styling
+  render();
 }
-
 function goPrev(){ if(currentIndex>0){ currentIndex--; render(); saveProgress(); } }
 function goNext(){ if(currentIndex<questions.length-1){ currentIndex++; render(); saveProgress(); } }
 
@@ -133,7 +131,7 @@ function submitExam(){
        <button id="clearBtn">Clear Answers</button></p>
   `;
   qs('#retryBtn').onclick = ()=>{
-    answers={}; currentIndex=0; timeLeft=90*60;
+    answers={}; currentIndex=0; timeLeft=120*60;
     saveProgress();
     res.style.display='none';
     startTimer();

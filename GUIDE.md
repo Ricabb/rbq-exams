@@ -1,53 +1,35 @@
-# RBQ Exams – Deployment & Editing Guide
+# RBQ Exams – GitHub Desktop Guide (Realistic Practice)
 
-**Last updated:** 2025-09-17
+**Updated:** 2025-09-17
 
-This site contains **10 exams × 50 questions** for the RBQ *Administration* module.
-Features: countdown **timer**, **keyboard navigation** (←/→), **auto‑save** with localStorage, and a **review mode** after submission.
+This package includes **10 exams × 50 questions** with Québec‑specific administration context (RBQ, CCQ, CNESST, AMP, BSDQ, taxes, bonds, holdbacks, etc.).
+It’s a static site (HTML/CSS/JS/JSON).
 
----
+## Deploy with GitHub Desktop
 
-## Deploy with GitHub Desktop (Windows/Mac)
-
-1. **Install GitHub Desktop**  
-   Download: https://desktop.github.com/ and sign in.
-
-2. **Create a repo on GitHub**  
-   https://github.com/new → Name: `rbq-exams` → Public → Create.
-
-3. **Clone it in GitHub Desktop**  
-   *File → Clone repository…* → choose `rbq-exams` → select a local folder.
-
-4. **Copy project files**  
-   Unzip this archive and copy **all files** into the local repo folder (ensure `index.html` is at the root and the `questions/` folder is intact).
-
-5. **Commit & Push**  
-   Add a summary like “Initial site” → **Commit to main** → **Push origin**.
-
-6. **Enable GitHub Pages**  
-   On github.com → repo **Settings → Pages** → *Deploy from a branch* → **Branch = main**, **Folder = /(root)** → Save.  
-   Open `https://YOUR-USERNAME.github.io/rbq-exams/`
-
----
+1. Install GitHub Desktop → https://desktop.github.com/
+2. Create a public repo `rbq-exams` on GitHub.
+3. Clone it in GitHub Desktop.
+4. Copy these files into the local repo (make sure `index.html` is at the root and `questions/` folder stays intact).
+5. Commit → Push.
+6. On GitHub: **Settings → Pages** → Deploy from a branch → Branch: `main`, Folder: `/ (root)` → Save.
+7. Open `https://YOUR-USERNAME.github.io/rbq-exams/`
 
 ## Edit Questions
 
-- Files: `questions/exam1.json` … `questions/exam10.json` (50 questions each).
-- Format per question:
+- Files: `questions/exam1.json` … `exam10.json`
+- Format:
 ```json
 {
   "question": "Text",
   "choices": ["A","B","C","D"],
-  "answer": 0   // index of the correct choice
+  "answer": 0
 }
 ```
-- Change exam duration by editing the default in `script.js` (`90*60` seconds).
+- Duration is set to **120 minutes** in `script.js`. Change it if needed.
 
----
+## Notes
 
-## Tips
-
-- **Keyboard:** ← previous, → next.
-- **Auto‑save:** progress is saved every 5 seconds and on page unload.
-- **Retry/Clear:** After submit, use the buttons to restart or clear saved answers.
-- **Disclaimer:** Practice content only; verify with current RBQ regulations.
+- These are **practice** items, not official RBQ questions.
+- Keyboard: ← previous, → next.
+- Auto‑save every 5s and on page unload. Review mode after submit.

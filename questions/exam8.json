@@ -1,0 +1,502 @@
+[
+  {
+    "question": "What is the BEST description? An input tax credit (ITC) allows a registrant to: (public contract)",
+    "choices": [
+      "Refund employees’ personal taxes",
+      "Avoid corporate taxes",
+      "Increase sales tax collected",
+      "Recover eligible GST/QST paid on business inputs"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which statement is MOST accurate? A site instruction (SI) typically: (admin context)",
+    "choices": [
+      "Is a safety ticket",
+      "Modifies contract price automatically",
+      "Replaces the contract",
+      "Gives minor direction; cost/time impacts require change order if applicable"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Select the TRUE statement: Concrete compressive strength is verified by: (compliance)",
+    "choices": [
+      "Slump test only",
+      "Torque wrench",
+      "Laboratory cylinder break tests at specified ages",
+      "Visual inspection"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Corporate directors in Québec have a duty to:",
+    "choices": [
+      "Ignore financial statements",
+      "Act with diligence and oversee the corporation’s affairs",
+      "Report only to employees",
+      "Set municipal bylaws"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the BEST description? To preserve lien rights, a subcontractor should generally: (private contract)",
+    "choices": [
+      "Ask the RBQ to pay",
+      "Send an invoice only",
+      "Ignore deadlines",
+      "Comply with prescribed notices and delays in the Civil Code of Québec"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? Who can refuse dangerous work in Québec? (compliance)",
+    "choices": [
+      "Only supervisors",
+      "Only union members",
+      "Any worker with reasonable grounds to believe danger exists",
+      "No one"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Select the TRUE statement: An environmental aspect (ISO 14001) is: (public contract)",
+    "choices": [
+      "A lawsuit",
+      "An element of activities that can interact with the environment",
+      "A shop drawing",
+      "A payroll record"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? A performance bond mainly protects: (admin context)",
+    "choices": [
+      "The owner against contractor default during contract performance",
+      "The bank against interest rate changes",
+      "The contractor’s profit",
+      "The supplier’s inventory"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the BEST description? An environmental aspect (ISO 14001) is: (private contract)",
+    "choices": [
+      "A lawsuit",
+      "A shop drawing",
+      "An element of activities that can interact with the environment",
+      "A payroll record"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which option applies in Québec practice? Shop drawings are primarily: (admin context)",
+    "choices": [
+      "Contract documents",
+      "Contractor/submittal documents showing how work will be fabricated/installed",
+      "Owner’s financing documents",
+      "Legal filings with AMP"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Select the TRUE statement: An input tax credit (ITC) allows a registrant to: (private contract)",
+    "choices": [
+      "Recover eligible GST/QST paid on business inputs",
+      "Refund employees’ personal taxes",
+      "Increase sales tax collected",
+      "Avoid corporate taxes"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which option applies in Québec practice? Submitting a bid after the stated deadline is generally: (private contract)",
+    "choices": [
+      "Non-compliant and rejected",
+      "Compliant if emailed",
+      "Converted to a change directive",
+      "Accepted with penalty"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which statement is MOST accurate? An environmental aspect (ISO 14001) is: (admin context)",
+    "choices": [
+      "A lawsuit",
+      "A shop drawing",
+      "An element of activities that can interact with the environment",
+      "A payroll record"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the BEST description? Commercial General Liability (CGL) insurance covers: (admin context)",
+    "choices": [
+      "Only employee wages",
+      "Third-party bodily injury and property damage claims",
+      "Only design errors",
+      "Only tool theft"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Select the TRUE statement: Who can refuse dangerous work in Québec? (public contract)",
+    "choices": [
+      "No one",
+      "Any worker with reasonable grounds to believe danger exists",
+      "Only union members",
+      "Only supervisors"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which statement is MOST accurate? A clear conflict of interest example is: (private contract)",
+    "choices": [
+      "Holding public bid openings",
+      "Following written evaluation criteria",
+      "Awarding a subcontract to a relative without disclosure",
+      "Disclosing ties and recusing from decisions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Select the TRUE statement: Who can refuse dangerous work in Québec? (public contract)",
+    "choices": [
+      "Only union members",
+      "Any worker with reasonable grounds to believe danger exists",
+      "Only supervisors",
+      "No one"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The CCQ (Commission de la construction du Québec) primarily:",
+    "choices": [
+      "Administers collective agreements and labour relations in the construction industry",
+      "Issues building permits",
+      "Collects municipal taxes",
+      "Manages health inspections in restaurants"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the BEST description? A change directive (directive de changement) differs from a change order because: (private contract)",
+    "choices": [
+      "It cannot adjust schedule",
+      "It is unilateral to proceed before price agreement, subject to later valuation",
+      "It applies only to design-build contracts",
+      "It always reduces scope"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Small consumable tools are best coded to:",
+    "choices": [
+      "Direct materials",
+      "Overhead/indirect costs",
+      "Revenue",
+      "Accounts receivable"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? Closeout documents often include: (compliance)",
+    "choices": [
+      "Only RFIs",
+      "Timesheets only",
+      "As-builts, O&M manuals, warranties, training records",
+      "Change orders only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the BEST description? A site instruction (SI) typically: (private contract)",
+    "choices": [
+      "Gives minor direction; cost/time impacts require change order if applicable",
+      "Modifies contract price automatically",
+      "Replaces the contract",
+      "Is a safety ticket"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the BEST description? A performance bond mainly protects: (public contract)",
+    "choices": [
+      "The owner against contractor default during contract performance",
+      "The bank against interest rate changes",
+      "The supplier’s inventory",
+      "The contractor’s profit"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the BEST description? The CNESST’s first expectation when a serious accident occurs is to: (compliance)",
+    "choices": [
+      "Continue work to meet schedule",
+      "Secure the site, assist the injured, and notify emergency services",
+      "Destroy documents",
+      "Post on social media"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Select the TRUE statement: GST and QST on construction invoices in Québec are respectively: (public contract)",
+    "choices": [
+      "No taxes apply",
+      "15% combined HST",
+      "5% and 9.975%",
+      "10% and 5%"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the BEST description? The BSDQ (Bureau des soumissions déposées du Québec) is used to: (admin context)",
+    "choices": [
+      "Issue RBQ licences",
+      "Standardize submission of certain trade bids to general contractors",
+      "Set municipal tax rates",
+      "Manage worker compensation claims"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the BEST description? If the guarantor leaves the company, the contractor must: (admin context)",
+    "choices": [
+      "Notify the municipality only",
+      "Replace the guarantor within RBQ’s prescribed delay to maintain the licence",
+      "Do nothing",
+      "Return the licence permanently"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which statement is MOST accurate? In public procurement, an addendum: (admin context)",
+    "choices": [
+      "Is a contractor’s internal memo",
+      "Cancels the tender automatically",
+      "Is a change order after contract award",
+      "Modifies the tender documents and is binding if issued before closing"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which option applies in Québec practice? Working at heights in Québec usually requires: (admin context)",
+    "choices": [
+      "Confined space ticket only",
+      "No training",
+      "Fall protection training and appropriate equipment",
+      "Forklift training only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? A quality assurance plan’s main purpose is to: (admin context)",
+    "choices": [
+      "Replace the contract",
+      "Cut documentation",
+      "Describe controls to ensure requirements are met",
+      "Increase taxes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which statement is MOST accurate? The BSDQ (Bureau des soumissions déposées du Québec) is used to: (compliance)",
+    "choices": [
+      "Manage worker compensation claims",
+      "Issue RBQ licences",
+      "Standardize submission of certain trade bids to general contractors",
+      "Set municipal tax rates"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? Which procurement method focuses more on qualifications than price? (admin context)",
+    "choices": [
+      "Qualifications‑Based Selection (QBS)",
+      "Coin toss",
+      "Reverse auction",
+      "Lowest compliant bid"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Select the TRUE statement: Shop drawings are primarily: (public contract)",
+    "choices": [
+      "Contractor/submittal documents showing how work will be fabricated/installed",
+      "Legal filings with AMP",
+      "Contract documents",
+      "Owner’s financing documents"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? Operating in a licence subclass the contractor does not hold may lead to: (admin context)",
+    "choices": [
+      "Nothing specific",
+      "Possible fines, stop-work orders, or licence suspension",
+      "Tax credits",
+      "Awards and recognition"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the BEST description? Builder’s Risk (course of construction) insurance mainly covers: (private contract)",
+    "choices": [
+      "Damage to the work under construction",
+      "Vehicle collisions",
+      "Worker injuries",
+      "Professional liability"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which option applies in Québec practice? A change directive (directive de changement) differs from a change order because: (admin context)",
+    "choices": [
+      "It cannot adjust schedule",
+      "It applies only to design-build contracts",
+      "It always reduces scope",
+      "It is unilateral to proceed before price agreement, subject to later valuation"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? Progress billing should be supported by: (private contract)",
+    "choices": [
+      "Signed progress certificates or measured quantities per contract",
+      "Packing slips",
+      "Internal emails only",
+      "Tax returns"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which statement is MOST accurate? The BSDQ (Bureau des soumissions déposées du Québec) is used to: (public contract)",
+    "choices": [
+      "Issue RBQ licences",
+      "Set municipal tax rates",
+      "Manage worker compensation claims",
+      "Standardize submission of certain trade bids to general contractors"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the BEST description? Baseline schedule updates should occur: (admin context)",
+    "choices": [
+      "Only at project end",
+      "Never",
+      "Only through formal change control",
+      "Daily without record"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? An environmental aspect (ISO 14001) is: (compliance)",
+    "choices": [
+      "A lawsuit",
+      "A payroll record",
+      "A shop drawing",
+      "An element of activities that can interact with the environment"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the BEST description? Which register tracks ownership of shares? (admin context)",
+    "choices": [
+      "Securities (share) register",
+      "Accident register",
+      "RFI log",
+      "Asset register"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? Submitting a bid after the stated deadline is generally: (public contract)",
+    "choices": [
+      "Accepted with penalty",
+      "Converted to a change directive",
+      "Compliant if emailed",
+      "Non-compliant and rejected"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which statement is MOST accurate? A contractor changes legal address. Who must notify the RBQ and within what typical delay? (private contract)",
+    "choices": [
+      "No need to notify",
+      "The RBQ within 90 days",
+      "The contractor must notify the RBQ promptly (typically within 30 days)",
+      "Only the municipality must notify"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Select the TRUE statement: In public contracts, the principle that must guide procurement is: (public contract)",
+    "choices": [
+      "Fairness and transparency",
+      "Favouritism to local friends",
+      "Secrecy",
+      "Bid shopping as needed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which statement is MOST accurate? The legal construction hypothec (lien) primarily protects: (public contract)",
+    "choices": [
+      "Only banks",
+      "Only owners",
+      "Those who supplied work or materials and remain unpaid",
+      "Designers’ copyright"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which option applies in Québec practice? If the guarantor leaves the company, the contractor must: (admin context)",
+    "choices": [
+      "Do nothing",
+      "Replace the guarantor within RBQ’s prescribed delay to maintain the licence",
+      "Notify the municipality only",
+      "Return the licence permanently"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the BEST description? A quality assurance plan’s main purpose is to: (private contract)",
+    "choices": [
+      "Increase taxes",
+      "Cut documentation",
+      "Describe controls to ensure requirements are met",
+      "Replace the contract"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which option applies in Québec practice? A labour and material payment bond protects: (compliance)",
+    "choices": [
+      "The contractor’s equipment",
+      "The government from tax loss",
+      "The owner from design errors",
+      "Subcontractors and suppliers for unpaid amounts"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which statement is MOST accurate? Working at heights in Québec usually requires: (admin context)",
+    "choices": [
+      "Confined space ticket only",
+      "Fall protection training and appropriate equipment",
+      "Forklift training only",
+      "No training"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which statement is MOST accurate? GST and QST on construction invoices in Québec are respectively: (compliance)",
+    "choices": [
+      "10% and 5%",
+      "5% and 9.975%",
+      "No taxes apply",
+      "15% combined HST"
+    ],
+    "answer": 1
+  }
+]

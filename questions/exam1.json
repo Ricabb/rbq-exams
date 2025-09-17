@@ -1,22 +1,502 @@
 [
   {
-    "question": "What is the role of the RBQ in Québec?",
+    "question": "Select the TRUE statement: Concrete compressive strength is verified by: (private contract)",
     "choices": [
-      "To manage construction permits",
-      "To regulate construction and safety standards",
-      "To fund construction companies",
-      "To deliver municipal services"
+      "Visual inspection",
+      "Laboratory cylinder break tests at specified ages",
+      "Slump test only",
+      "Torque wrench"
     ],
     "answer": 1
   },
   {
-    "question": "How many directors must a corporation have under Québec law?",
+    "question": "Which statement is MOST accurate? What is the primary role of the RBQ (Régie du bâtiment du Québec)? (admin context)",
     "choices": [
-      "At least 1",
-      "At least 2",
-      "At least 3",
-      "At least 4"
+      "Set provincial income tax rates",
+      "Manage highway construction contracts",
+      "Regulate construction, building safety, and certain professional qualifications",
+      "Issue municipal building permits"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which statement is MOST accurate? A quality assurance plan’s main purpose is to: (public contract)",
+    "choices": [
+      "Replace the contract",
+      "Describe controls to ensure requirements are met",
+      "Cut documentation",
+      "Increase taxes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Select the TRUE statement: A minute book primarily contains: (compliance)",
+    "choices": [
+      "Safety Data Sheets",
+      "Daily site diaries",
+      "Corporate resolutions, director/shareholder records, and by-laws",
+      "Invoices only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which statement is MOST accurate? A minute book primarily contains: (compliance)",
+    "choices": [
+      "Safety Data Sheets",
+      "Invoices only",
+      "Corporate resolutions, director/shareholder records, and by-laws",
+      "Daily site diaries"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? An RFI (request for information) serves to: (compliance)",
+    "choices": [
+      "Modify contract price directly",
+      "Approve progress claims automatically",
+      "Replace shop drawings",
+      "Clarify discrepancies or request missing information from the designer/owner"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? The 'guarantor' on an RBQ licence is responsible for: (compliance)",
+    "choices": [
+      "Demonstrating the company’s required competencies and ensuring compliance",
+      "Inspecting public buildings",
+      "Financial audits of the province",
+      "Issuing safety tickets to workers"
     ],
     "answer": 0
+  },
+  {
+    "question": "What is the BEST description? Progress billing should be supported by: (admin context)",
+    "choices": [
+      "Signed progress certificates or measured quantities per contract",
+      "Internal emails only",
+      "Packing slips",
+      "Tax returns"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the BEST description? The CNESST’s first expectation when a serious accident occurs is to: (private contract)",
+    "choices": [
+      "Continue work to meet schedule",
+      "Destroy documents",
+      "Secure the site, assist the injured, and notify emergency services",
+      "Post on social media"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Select the TRUE statement: The CNESST’s first expectation when a serious accident occurs is to: (public contract)",
+    "choices": [
+      "Continue work to meet schedule",
+      "Destroy documents",
+      "Secure the site, assist the injured, and notify emergency services",
+      "Post on social media"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Select the TRUE statement: A time contingency (float) in a schedule: (compliance)",
+    "choices": [
+      "Is illegal",
+      "Is always zero",
+      "Provides buffer for uncertainties",
+      "Replaces baseline"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which statement is MOST accurate? A performance bond mainly protects: (compliance)",
+    "choices": [
+      "The contractor’s profit",
+      "The supplier’s inventory",
+      "The owner against contractor default during contract performance",
+      "The bank against interest rate changes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Select the TRUE statement: A cost contingency in estimates is intended to: (admin context)",
+    "choices": [
+      "Increase profit arbitrarily",
+      "Buy tools for employees",
+      "Pay taxes",
+      "Cover identified risks/uncertainties within scope"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which option applies in Québec practice? In Québec construction, the statutory holdback (retenue) is typically: (private contract)",
+    "choices": [
+      "1% until final payment",
+      "15% for materials only",
+      "No holdback exists",
+      "10% of the value of the work until lien period expiry"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the BEST description? In public contracts, the principle that must guide procurement is: (public contract)",
+    "choices": [
+      "Bid shopping as needed",
+      "Fairness and transparency",
+      "Secrecy",
+      "Favouritism to local friends"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? Closeout documents often include: (public contract)",
+    "choices": [
+      "Change orders only",
+      "Timesheets only",
+      "As-builts, O&M manuals, warranties, training records",
+      "Only RFIs"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Select the TRUE statement: In Québec construction, the statutory holdback (retenue) is typically: (private contract)",
+    "choices": [
+      "15% for materials only",
+      "1% until final payment",
+      "10% of the value of the work until lien period expiry",
+      "No holdback exists"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? The CNESST’s first expectation when a serious accident occurs is to: (admin context)",
+    "choices": [
+      "Post on social media",
+      "Secure the site, assist the injured, and notify emergency services",
+      "Destroy documents",
+      "Continue work to meet schedule"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which option applies in Québec practice? The current ratio mainly measures: (admin context)",
+    "choices": [
+      "Long-term profitability",
+      "Worker productivity",
+      "Warranty claim frequency",
+      "Ability to meet short-term obligations"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The current ratio mainly measures:",
+    "choices": [
+      "Long-term profitability",
+      "Ability to meet short-term obligations",
+      "Worker productivity",
+      "Warranty claim frequency"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which statement is MOST accurate? GST and QST on construction invoices in Québec are respectively: (admin context)",
+    "choices": [
+      "15% combined HST",
+      "No taxes apply",
+      "10% and 5%",
+      "5% and 9.975%"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A labour and material payment bond protects:",
+    "choices": [
+      "The owner from design errors",
+      "Subcontractors and suppliers for unpaid amounts",
+      "The government from tax loss",
+      "The contractor’s equipment"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the BEST description? In Québec construction, the statutory holdback (retenue) is typically: (private contract)",
+    "choices": [
+      "15% for materials only",
+      "10% of the value of the work until lien period expiry",
+      "1% until final payment",
+      "No holdback exists"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the BEST description? Concrete compressive strength is verified by: (public contract)",
+    "choices": [
+      "Torque wrench",
+      "Visual inspection",
+      "Slump test only",
+      "Laboratory cylinder break tests at specified ages"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which statement is MOST accurate? The 'guarantor' on an RBQ licence is responsible for: (public contract)",
+    "choices": [
+      "Demonstrating the company’s required competencies and ensuring compliance",
+      "Inspecting public buildings",
+      "Financial audits of the province",
+      "Issuing safety tickets to workers"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which option applies in Québec practice? Working at heights in Québec usually requires: (private contract)",
+    "choices": [
+      "No training",
+      "Confined space ticket only",
+      "Forklift training only",
+      "Fall protection training and appropriate equipment"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Select the TRUE statement: A method statement / work procedure helps by: (private contract)",
+    "choices": [
+      "Defining step-by-step execution and controls for quality and safety",
+      "Collecting taxes",
+      "Replacing fall protection",
+      "Setting bid prices"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Select the TRUE statement: The 'guarantor' on an RBQ licence is responsible for: (compliance)",
+    "choices": [
+      "Inspecting public buildings",
+      "Demonstrating the company’s required competencies and ensuring compliance",
+      "Issuing safety tickets to workers",
+      "Financial audits of the province"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which option applies in Québec practice? Commercial General Liability (CGL) insurance covers: (compliance)",
+    "choices": [
+      "Only tool theft",
+      "Third-party bodily injury and property damage claims",
+      "Only design errors",
+      "Only employee wages"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Select the TRUE statement: A minute book primarily contains: (admin context)",
+    "choices": [
+      "Corporate resolutions, director/shareholder records, and by-laws",
+      "Invoices only",
+      "Safety Data Sheets",
+      "Daily site diaries"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A time contingency (float) in a schedule:",
+    "choices": [
+      "Provides buffer for uncertainties",
+      "Is illegal",
+      "Is always zero",
+      "Replaces baseline"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Select the TRUE statement: A change order (ordre de changement) is: (admin context)",
+    "choices": [
+      "A safety violation notice",
+      "An informal site instruction with no cost/time impact",
+      "A bid addendum",
+      "A formal modification to scope, price and/or time agreed by parties"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Select the TRUE statement: Small consumable tools are best coded to: (private contract)",
+    "choices": [
+      "Accounts receivable",
+      "Revenue",
+      "Overhead/indirect costs",
+      "Direct materials"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Select the TRUE statement: Corporate directors in Québec have a duty to: (admin context)",
+    "choices": [
+      "Set municipal bylaws",
+      "Act with diligence and oversee the corporation’s affairs",
+      "Ignore financial statements",
+      "Report only to employees"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Select the TRUE statement: Corporate directors in Québec have a duty to: (private contract)",
+    "choices": [
+      "Ignore financial statements",
+      "Set municipal bylaws",
+      "Report only to employees",
+      "Act with diligence and oversee the corporation’s affairs"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which statement is MOST accurate? The 'guarantor' on an RBQ licence is responsible for: (compliance)",
+    "choices": [
+      "Issuing safety tickets to workers",
+      "Inspecting public buildings",
+      "Financial audits of the province",
+      "Demonstrating the company’s required competencies and ensuring compliance"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the BEST description? The CCQ (Commission de la construction du Québec) primarily: (admin context)",
+    "choices": [
+      "Administers collective agreements and labour relations in the construction industry",
+      "Issues building permits",
+      "Manages health inspections in restaurants",
+      "Collects municipal taxes"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Submitting a bid after the stated deadline is generally:",
+    "choices": [
+      "Compliant if emailed",
+      "Non-compliant and rejected",
+      "Accepted with penalty",
+      "Converted to a change directive"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which option applies in Québec practice? Builder’s Risk (course of construction) insurance mainly covers: (compliance)",
+    "choices": [
+      "Vehicle collisions",
+      "Professional liability",
+      "Worker injuries",
+      "Damage to the work under construction"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Select the TRUE statement: The current ratio mainly measures: (admin context)",
+    "choices": [
+      "Warranty claim frequency",
+      "Long-term profitability",
+      "Worker productivity",
+      "Ability to meet short-term obligations"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Select the TRUE statement: Which procurement method focuses more on qualifications than price? (admin context)",
+    "choices": [
+      "Qualifications‑Based Selection (QBS)",
+      "Coin toss",
+      "Reverse auction",
+      "Lowest compliant bid"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which statement is MOST accurate? In Québec construction, the statutory holdback (retenue) is typically: (private contract)",
+    "choices": [
+      "1% until final payment",
+      "10% of the value of the work until lien period expiry",
+      "No holdback exists",
+      "15% for materials only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? Which document legally creates a corporation in Québec? (private contract)",
+    "choices": [
+      "Articles of incorporation",
+      "Employment contract",
+      "Shareholder resolution",
+      "Bank mandate"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Professional liability (errors & omissions) insurance is most relevant to:",
+    "choices": [
+      "Design services that could cause economic loss",
+      "Fuel surcharges",
+      "Union dues",
+      "PPE purchases"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Select the TRUE statement: A labour and material payment bond protects: (compliance)",
+    "choices": [
+      "The owner from design errors",
+      "Subcontractors and suppliers for unpaid amounts",
+      "The contractor’s equipment",
+      "The government from tax loss"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In typical Quebec construction administration, which is correct? A minute book primarily contains: (public contract)",
+    "choices": [
+      "Invoices only",
+      "Corporate resolutions, director/shareholder records, and by-laws",
+      "Safety Data Sheets",
+      "Daily site diaries"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which option applies in Québec practice? Baseline schedule updates should occur: (admin context)",
+    "choices": [
+      "Only at project end",
+      "Daily without record",
+      "Only through formal change control",
+      "Never"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which option applies in Québec practice? When drawings and specifications conflict (and no priority is stated), what is commonly consulted first? (compliance)",
+    "choices": [
+      "Shop drawings",
+      "Verbal instructions",
+      "Specifications typically take precedence",
+      "Invoices"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which option applies in Québec practice? The Autorité des marchés publics (AMP) in Québec: (public contract)",
+    "choices": [
+      "Oversees public procurement to ensure integrity and compliance",
+      "Sets mortgage rates",
+      "Issues RBQ trade cards",
+      "Runs private arbitration"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which statement is MOST accurate? What is the primary role of the RBQ (Régie du bâtiment du Québec)? (admin context)",
+    "choices": [
+      "Manage highway construction contracts",
+      "Set provincial income tax rates",
+      "Regulate construction, building safety, and certain professional qualifications",
+      "Issue municipal building permits"
+    ],
+    "answer": 2
   }
 ]
