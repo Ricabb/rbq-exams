@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the role of the RBQ in Québec?",
+    "choices": [
+      "To manage construction permits",
+      "To regulate construction and safety standards",
+      "To fund construction companies",
+      "To deliver municipal services"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How many directors must a corporation have under Québec law?",
+    "choices": [
+      "At least 1",
+      "At least 2",
+      "At least 3",
+      "At least 4"
+    ],
+    "answer": 0
+  }
+]
