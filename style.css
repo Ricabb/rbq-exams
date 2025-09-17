@@ -16,6 +16,10 @@ h1,h2{text-align:center;margin:10px 0}
 .choice-btn{display:block;padding:12px;margin:10px 0;background:#eef2ff;border:2px solid transparent;border-radius:10px;cursor:pointer;width:100%;text-align:left;transition:all .15s ease}
 .choice-btn:hover{transform:translateY(-1px)}
 .choice-btn.selected{background:#1f6feb;color:#fff}
+.learn{margin-top:12px;padding:12px;background:#f9fafb;border-left:4px solid #22c55e;border-radius:8px}
+.learn h4{margin:6px 0}
+.learn .klist{display:flex;flex-wrap:wrap;gap:6px}
+.learn .kitem{background:#eef2ff;border-radius:999px;padding:4px 8px}
 .nav-row{max-width:900px;margin:0 auto;display:flex;align-items:center;justify-content:space-between}
 .nav-buttons{display:flex;gap:8px}
 button{padding:10px 14px;border-radius:10px;border:1px solid #c9d1d9;background:#fff;cursor:pointer}

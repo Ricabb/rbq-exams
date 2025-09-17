@@ -1,21 +1,21 @@
-# RBQ Exams — EN/FR with Restart + Save + Saved Exams
+# RBQ Exams — Bilingue avec Mode *Apprendre*
 
-**Updated:** 2025-09-17
+**Mise à jour :** 2025-09-17
 
-## What’s new
-- **Restart** button (both EN/FR) resets answers, timer, and position.
-- **Save** button prompts for a name and stores a snapshot (questions, answers, index, time).
-- **Saved Exams** button opens a list to **Open** or **Delete** saved snapshots.
-- Works in both languages, and snapshots remember their language.
+Nouveautés :
+- **Mode Apprendre / Learn** (bouton): affiche sous chaque question un *Résumé*, des **mots‑clés** définis et un **exemple**.
+- Toujours **bilingue** (EN/FR), avec **Recommencer**, **Enregistrer**, et **Examens enregistrés**.
+- Enregistrement **instantané** (snapshot) : questions, réponses, position, temps restant, langue.
 
-## How it saves
-- Stored in `localStorage` under `rbq_saved_exams_v1`.
-- Each snapshot includes: `id`, `name`, `lang`, `examNumber`, `questions`, `answers`, `currentIndex`, `timeLeft`, `savedAt`.
+Utilisation :
+- Accueil EN : `index.html?lang=en` • Accueil FR : `index.html?lang=fr`
+- L’examen : `exam.html?exam=1&lang=fr` (le paramètre `lang` est conservé).
+- Activez/Désactivez **Apprendre** depuis le bouton ; l’état est mémorisé dans `localStorage`.
 
-## Loading from Home
-- Click **Saved Exams** on the home page to see all snapshots across languages.
-- Click **Open** to jump into the exam page and load the snapshot.
+Contenu :
+- EN : `questions/exam1.json` … `exam10.json` (10 × 50)
+- FR : `questions_fr/exam1.json` … `exam10.json` (10 × 50)
 
-## Notes
-- Snapshots are browser‑local; they won’t sync across devices.
-- LocalStorage size is ~5–10MB depending on the browser; delete old saves if you hit limits.
+Notes :
+- Les explications sont concises, axées pratique québécoise (RBQ, CCQ, CNESST, AMP, BSDQ, etc.).
+- Ce sont des banques d’exercice — pas des questions officielles.

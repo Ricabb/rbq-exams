@@ -49,9 +49,7 @@
     document.getElementById('langFR').classList.toggle('active',lang==='fr');
     document.getElementById('savedBtn').textContent=T.saved;
 
-    function getSaved(){
-      try{return JSON.parse(localStorage.getItem('rbq_saved_exams_v1')||'[]')}catch(e){return []}
-    }
+    function getSaved(){ try{return JSON.parse(localStorage.getItem('rbq_saved_exams_v1')||'[]')}catch(e){return []} }
     function fmt(d){ try{const dt=new Date(d);return dt.toLocaleString();}catch(e){return d} }
     function renderSaved(){
       const box=document.getElementById('savedList');
@@ -76,7 +74,6 @@
         renderSaved();
       }));
     }
-
     const savedBtn=document.getElementById('savedBtn');
     const modal=document.getElementById('savedModal');
     const closeSaved=document.getElementById('closeSaved');
