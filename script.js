@@ -1,4 +1,4 @@
-// Bilingual exam runner
+// Bilingual exam runner + Restart + Save + Saved Exams
 let questions = [];
 let currentIndex = 0;
 let answers = {};
@@ -22,7 +22,15 @@ const i18n = {
     correct: "Correct:",
     retry: "Retry Exam",
     clear: "Clear Answers",
-    failedLoad: "Failed to load exam file."
+    failedLoad: "Failed to load exam file.",
+    restart: "Restart",
+    save: "Save",
+    saved: "Saved Exams",
+    enterName: "Enter a name for this saved exam:",
+    savedTitle: "Saved Exams",
+    open: "Open",
+    del: "Delete",
+    none: "No saved exams yet."
   },
   fr: {
     title: "Examen RBQ",
@@ -38,7 +46,15 @@ const i18n = {
     correct: "Bonne réponse :",
     retry: "Recommencer",
     clear: "Effacer les réponses",
-    failedLoad: "Échec du chargement de l’examen."
+    failedLoad: "Échec du chargement de l’examen.",
+    restart: "Recommencer",
+    save: "Enregistrer",
+    saved: "Examens enregistrés",
+    enterName: "Entrez un nom pour cet examen enregistré :",
+    savedTitle: "Examens enregistrés",
+    open: "Ouvrir",
+    del: "Supprimer",
+    none: "Aucun examen enregistré."
   }
 };
 
@@ -47,6 +63,8 @@ function fmtTime(sec){
   const h=Math.floor(sec/3600), m=Math.floor((sec%3600)/60), s=sec%60;
   return [h,m,s].map(v=>String(v).padStart(2,'0')).join(':');
 }
+function defaultTime(){ return 120*60; }
+
 function saveProgress(){
   localStorage.setItem(`rbq_exam_${lang}_${examNumber}_answers`, JSON.stringify(answers));
   localStorage.setItem(`rbq_exam_${lang}_${examNumber}_index`, String(currentIndex));
@@ -60,10 +78,83 @@ function loadProgress(){
   if(t!==null) timeLeft=parseInt(t,10);
 }
 
-(function init(){
-  const params=new URLSearchParams(location.search);
-  examNumber = params.get("exam") || "1";
-  lang = (params.get("lang")||"en").toLowerCase()==="fr" ? "fr" : "en";
+// Saved snapshots
+function savedList(){
+  try{ return JSON.parse(localStorage.getItem('rbq_saved_exams_v1')||'[]'); }
+  catch(e){ return []; }
+}
+function setSavedList(arr){
+  localStorage.setItem('rbq_saved_exams_v1', JSON.stringify(arr));
+}
+function saveSnapshot(){
+  const T=i18n[lang];
+  let name = prompt(T.enterName, `${lang.toUpperCase()} Exam ${examNumber} – ${new Date().toLocaleString()}`);
+  if(name===null) return; // cancel
+  name = String(name).trim();
+  if(!name) name = `${lang.toUpperCase()} Exam ${examNumber} – ${new Date().toLocaleString()}`;
+  const id = String(Date.now()) + "_" + Math.random().toString(16).slice(2);
+  const snap = {
+    id, name, lang, examNumber,
+    questions, answers, currentIndex, timeLeft,
+    savedAt: new Date().toISOString(), version: 1
+  };
+  const list = savedList();
+  list.unshift(snap);
+  setSavedList(list);
+  // open saved modal to confirm
+  showSaved();
+}
+function showSaved(){
+  const T=i18n[lang];
+  const modal=qs('#savedModal');
+  const box=qs('#savedList');
+  const title=qs('#savedTitle');
+  title.textContent = T.savedTitle;
+  const data=savedList();
+  if(data.length===0){ box.innerHTML=`<p>${T.none}</p>`; }
+  else {
+    box.innerHTML = data.map(s=>`
+      <div class="saved-row">
+        <div>
+          <div class="saved-name">${s.name}</div>
+          <div class="saved-meta">${s.lang.toUpperCase()} · Exam ${s.examNumber} · ${new Date(s.savedAt).toLocaleString()}</div>
+        </div>
+        <div class="saved-actions">
+          <button class="btn small" data-load="${s.id}">${T.open}</button>
+          <button class="btn small danger" data-del="${s.id}">${T.del}</button>
+        </div>
+      </div>
+    `).join('');
+    box.querySelectorAll('[data-load]').forEach(b=>b.addEventListener('click',()=>{
+      const id=b.getAttribute('data-load'); loadSavedById(id);
+      modal.hidden=true;
+    }));
+    box.querySelectorAll('[data-del]').forEach(b=>b.addEventListener('click',()=>{
+      const id=b.getAttribute('data-del');
+      setSavedList(savedList().filter(x=>x.id!==id));
+      showSaved();
+    }));
+  }
+  modal.hidden=false;
+}
+function loadSavedById(id){
+  const item = savedList().find(s=>s.id===id);
+  if(!item) return;
+  // Switch language if needed
+  if(item.lang !== lang){
+    lang = item.lang;
+  }
+  examNumber = item.examNumber;
+  questions = item.questions;
+  answers = item.answers || {};
+  currentIndex = item.currentIndex || 0;
+  timeLeft = (typeof item.timeLeft==='number') ? item.timeLeft : defaultTime();
+  applyI18N();
+  render();
+  startTimer();
+}
+
+function applyI18N(){
   const T=i18n[lang];
   document.documentElement.lang=lang;
   qs("#examTitle").textContent=T.title;
@@ -72,18 +163,42 @@ function loadProgress(){
   qs("#prevBtn").textContent=T.prev;
   qs("#nextBtn").textContent=T.next;
   qs("#submitBtn").textContent=T.submit;
+  qs("#restartBtn").textContent=T.restart;
+  qs("#saveBtn").textContent=T.save;
+  qs("#savedBtn").textContent=T.saved;
+}
+
+(function init(){
+  const params=new URLSearchParams(location.search);
+  examNumber = params.get("exam") || "1";
+  lang = (params.get("lang")||"en").toLowerCase()==="fr" ? "fr" : "en";
+  applyI18N();
+  // Saved modal wiring
+  qs('#savedBtn').onclick = showSaved;
+  qs('#closeSaved').onclick = ()=>{ qs('#savedModal').hidden=true; };
+  qs('#savedModal').addEventListener('click', e=>{ if(e.target===qs('#savedModal')) qs('#savedModal').hidden=true; });
+  // Restart and Save
+  qs('#restartBtn').onclick = ()=>{ answers={}; currentIndex=0; timeLeft=defaultTime(); saveProgress(); qs('#result').style.display='none'; render(); startTimer(); };
+  qs('#saveBtn').onclick = saveSnapshot;
+
+  // Load by saved id?
+  const loadId = params.get('loadId');
+  if(loadId){
+    loadSavedById(loadId);
+    return;
+  }
 
   const file = lang==='fr' ? `questions_fr/exam${examNumber}.json` : `questions/exam${examNumber}.json`;
   fetch(file).then(r=>r.json()).then(data=>{
     questions = data.slice();
-    if(timeLeft==null) timeLeft = 120*60;
+    if(timeLeft==null) timeLeft = defaultTime();
     loadProgress();
     render();
     startTimer();
     window.addEventListener('beforeunload', saveProgress);
     document.addEventListener('keydown', handleKeys);
   }).catch(err=>{
-    qs('#exam-container').innerHTML = `<p style="color:#b00">${T.failedLoad} ${err}</p>`;
+    qs('#exam-container').innerHTML = `<p style="color:#b00">${i18n[lang].failedLoad} ${err}</p>`;
   });
 })();
 
@@ -144,7 +259,9 @@ function submitExam(){
     <p><button class="primary" id="retryBtn">${T.retry}</button>
        <button id="clearBtn">${T.clear}</button></p>
   `;
-  qs('#retryBtn').onclick = ()=>{ answers={}; currentIndex=0; timeLeft=120*60; saveProgress(); res.style.display='none'; startTimer(); render(); };
+  qs('#retryBtn').onclick = ()=>{
+    answers={}; currentIndex=0; timeLeft=defaultTime(); saveProgress(); res.style.display='none'; startTimer(); render();
+  };
   qs('#clearBtn').onclick = ()=>{
     localStorage.removeItem(`rbq_exam_${lang}_${examNumber}_answers`);
     localStorage.removeItem(`rbq_exam_${lang}_${examNumber}_index`);
@@ -152,3 +269,5 @@ function submitExam(){
     answers={}; res.style.display='none'; render();
   };
 }
+
+// Close saved modal via button (wired in init)

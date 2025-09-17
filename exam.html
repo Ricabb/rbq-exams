@@ -24,7 +24,26 @@
     </div>
   </div>
 
+  <div class="nav-row">
+    <div></div>
+    <div class="nav-buttons">
+      <button id="restartBtn">Restart</button>
+      <button id="saveBtn">Save</button>
+      <button id="savedBtn">Saved Exams</button>
+    </div>
+  </div>
+
   <div id="result"></div>
+
+  <div id="savedModal" class="modal" hidden>
+    <div class="modal-card">
+      <div class="modal-head">
+        <h3 id="savedTitle">Saved Exams</h3>
+        <button id="closeSaved" class="ghost">✕</button>
+      </div>
+      <div id="savedList" class="saved-list"></div>
+    </div>
+  </div>
 
   <script src="script.js"></script>
 </body>

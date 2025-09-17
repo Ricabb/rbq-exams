@@ -1,26 +1,21 @@
-# RBQ Exams — Bilingual (EN/FR) Guide
+# RBQ Exams — EN/FR with Restart + Save + Saved Exams
 
 **Updated:** 2025-09-17
 
-This bundle includes **English and French** interfaces and **10 exams × 50 questions** for each language.
+## What’s new
+- **Restart** button (both EN/FR) resets answers, timer, and position.
+- **Save** button prompts for a name and stores a snapshot (questions, answers, index, time).
+- **Saved Exams** button opens a list to **Open** or **Delete** saved snapshots.
+- Works in both languages, and snapshots remember their language.
 
-## Language Toggle
-- On the home page, click **EN** or **FR** (top right), or add `?lang=en` or `?lang=fr` to the URL.
-- Exam pages carry `lang` in the query string, e.g. `exam.html?exam=3&lang=fr`.
+## How it saves
+- Stored in `localStorage` under `rbq_saved_exams_v1`.
+- Each snapshot includes: `id`, `name`, `lang`, `examNumber`, `questions`, `answers`, `currentIndex`, `timeLeft`, `savedAt`.
 
-## Files
-- English exams: `questions/exam1.json` … `questions/exam10.json`
-- French exams: `questions_fr/exam1.json` … `questions_fr/exam10.json`
-- UI: `index.html`, `exam.html`, `style.css`, `script.js`
-
-## Deploy (GitHub Desktop)
-1. Create/clone your repo (e.g., `rbq-exams`).
-2. Copy ALL files/folders from this zip into the repo.
-3. Commit + Push.
-4. Enable **Pages** (Settings → Pages → Deploy from branch → `main` → `/(root)`).
-5. Home page: `https://YOUR-USERNAME.github.io/rbq-exams/?lang=en` or `?lang=fr`.
+## Loading from Home
+- Click **Saved Exams** on the home page to see all snapshots across languages.
+- Click **Open** to jump into the exam page and load the snapshot.
 
 ## Notes
-- Timer defaults to **120 minutes** per exam.
-- Autosave per language/exam (`localStorage` keys include the language).
-- These are **practice** items, not official RBQ content.
+- Snapshots are browser‑local; they won’t sync across devices.
+- LocalStorage size is ~5–10MB depending on the browser; delete old saves if you hit limits.

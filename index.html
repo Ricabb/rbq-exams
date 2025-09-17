@@ -11,30 +11,78 @@
     <div class="lang-toggle">
       <a href="?lang=en" id="langEN">EN</a>
       <a href="?lang=fr" id="langFR">FR</a>
+      <button id="savedBtn" class="ghost"></button>
     </div>
   </div>
   <h1 id="title">RBQ Administration Module</h1>
   <h2 id="subtitle">Select an Exam</h2>
   <div class="exam-list" id="examList"></div>
+
+  <div id="savedModal" class="modal" hidden>
+    <div class="modal-card">
+      <div class="modal-head">
+        <h3 id="savedTitle">Saved Exams</h3>
+        <button id="closeSaved" class="ghost">✕</button>
+      </div>
+      <div id="savedList" class="saved-list"></div>
+    </div>
+  </div>
+
   <script>
     const params=new URLSearchParams(location.search);
     const lang=params.get('lang')||'en';
     document.documentElement.lang=lang;
-    const t={
-      en:{title:'RBQ Administration Module',subtitle:'Select an Exam',label:'Exam',back:'← All Exams'},
-      fr:{title:'Module Administration RBQ',subtitle:'Choisissez un examen',label:'Examen',back:'← Tous les examens'}
+    const T={
+      en:{title:'RBQ Administration Module',subtitle:'Select an Exam',label:'Exam',back:'← All Exams',saved:'Saved Exams',open:'Open',del:'Delete',none:'No saved exams yet.'},
+      fr:{title:'Module Administration RBQ',subtitle:'Choisissez un examen',label:'Examen',back:'← Tous les examens',saved:'Examens enregistrés',open:'Ouvrir',del:'Supprimer',none:'Aucun examen enregistré.'}
     }[lang];
-    document.getElementById('title').textContent=t.title;
-    document.getElementById('subtitle').textContent=t.subtitle;
+    document.getElementById('title').textContent=T.title;
+    document.getElementById('subtitle').textContent=T.subtitle;
     const list=document.getElementById('examList');
     for(let i=1;i<=10;i++){
       const a=document.createElement('a');
       a.href=`exam.html?exam=${i}&lang=${lang}`;
-      a.textContent=`${t.label} ${i}`;
+      a.textContent=`${T.label} ${i}`;
       list.appendChild(a);
     }
     document.getElementById('langEN').classList.toggle('active',lang==='en');
     document.getElementById('langFR').classList.toggle('active',lang==='fr');
+    document.getElementById('savedBtn').textContent=T.saved;
+
+    function getSaved(){
+      try{return JSON.parse(localStorage.getItem('rbq_saved_exams_v1')||'[]')}catch(e){return []}
+    }
+    function fmt(d){ try{const dt=new Date(d);return dt.toLocaleString();}catch(e){return d} }
+    function renderSaved(){
+      const box=document.getElementById('savedList');
+      const data=getSaved();
+      if(data.length===0){ box.innerHTML=`<p>${T.none}</p>`; return; }
+      box.innerHTML = data.map(s=>`
+        <div class="saved-row">
+          <div>
+            <div class="saved-name">${s.name}</div>
+            <div class="saved-meta">${s.lang.toUpperCase()} · Exam ${s.examNumber} · ${fmt(s.savedAt)}</div>
+          </div>
+          <div class="saved-actions">
+            <a class="btn small" href="exam.html?loadId=${s.id}&lang=${lang}">${T.open}</a>
+            <button class="btn small danger" data-del="${s.id}">${T.del}</button>
+          </div>
+        </div>
+      `).join('');
+      box.querySelectorAll('[data-del]').forEach(b=>b.addEventListener('click',()=>{
+        const id=b.getAttribute('data-del');
+        const all=getSaved().filter(x=>x.id!==id);
+        localStorage.setItem('rbq_saved_exams_v1', JSON.stringify(all));
+        renderSaved();
+      }));
+    }
+
+    const savedBtn=document.getElementById('savedBtn');
+    const modal=document.getElementById('savedModal');
+    const closeSaved=document.getElementById('closeSaved');
+    savedBtn.onclick=()=>{ modal.hidden=false; renderSaved(); };
+    closeSaved.onclick=()=>{ modal.hidden=true; };
+    modal.addEventListener('click',e=>{ if(e.target===modal) modal.hidden=true; });
   </script>
 </body>
 </html>
