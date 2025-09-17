@@ -1,0 +1,2738 @@
+[
+  {
+    "question": "The architect issues a site instruction requiring re-routing ductwork. The likely planning impact is:",
+    "choices": [
+      "Proceed with no documentation",
+      "Issue an RFI/Change request; assess time impact; update schedule and budget if approved",
+      "Charge it in the next progress claim without notice",
+      "Ignore until closeout"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Changes require documentation and assessment; unapproved work risks non-payment.",
+      "keywords": [
+        "Change request",
+        "Schedule impact",
+        "Progress claim"
+      ],
+      "example": "Log and track RFIs/addenda for University’s rooftop HVAC replacement; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Approve payments",
+      "Clarify discrepancies or obtain missing information in contract documents",
+      "Replace specifications",
+      "Directly modify price/time"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for City of Laval’s façade recladding; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Replace specifications",
+      "Approve payments",
+      "Directly modify price/time",
+      "Clarify discrepancies or obtain missing information in contract documents"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for Private Developer’s gymnasium modernization; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "During tendering for a interior fit-out, an addendum revises door hardware. What is an addendum?",
+    "choices": [
+      "A change to tender documents issued before bid closing",
+      "A site memo with no contractual effect",
+      "A bid bond form",
+      "A post-award Change Order"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Addenda modify tender documents before closing and must be acknowledged by bidders.",
+      "keywords": [
+        "Addendum",
+        "Tender",
+        "Closing"
+      ],
+      "example": "Log and track RFIs/addenda for University’s interior fit-out; keep the register synced with schedule.",
+      "rationales": [
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The critical path in a schedule is:",
+    "choices": [
+      "The longest chain of dependent tasks that determines project duration",
+      "A budget contingency",
+      "The shortest chain",
+      "Non-critical tasks only"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Delays on the critical path delay project completion.",
+      "keywords": [
+        "Critical path",
+        "CPM"
+      ],
+      "example": "Log and track RFIs/addenda for Private Developer’s lab renovation; keep the register synced with schedule.",
+      "rationales": [
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "During tendering for a gymnasium modernization, an addendum revises door hardware. What is an addendum?",
+    "choices": [
+      "A change to tender documents issued before bid closing",
+      "A site memo with no contractual effect",
+      "A bid bond form",
+      "A post-award Change Order"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Addenda modify tender documents before closing and must be acknowledged by bidders.",
+      "keywords": [
+        "Addendum",
+        "Tender",
+        "Closing"
+      ],
+      "example": "Log and track RFIs/addenda for City of Laval’s gymnasium modernization; keep the register synced with schedule.",
+      "rationales": [
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "Shop drawings are best described as:",
+    "choices": [
+      "Submittals showing how the work will be fabricated/installed",
+      "Owner financing records",
+      "Contract documents themselves",
+      "Change orders"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Shop drawings detail the contractor’s means/methods and product data.",
+      "keywords": [
+        "Shop drawings",
+        "Submittals"
+      ],
+      "example": "Log and track RFIs/addenda for School Service Centre’s façade recladding; keep the register synced with schedule.",
+      "rationales": [
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "Shop drawings are best described as:",
+    "choices": [
+      "Submittals showing how the work will be fabricated/installed",
+      "Owner financing records",
+      "Contract documents themselves",
+      "Change orders"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Shop drawings detail the contractor’s means/methods and product data.",
+      "keywords": [
+        "Shop drawings",
+        "Submittals"
+      ],
+      "example": "Log and track RFIs/addenda for Municipality’s rooftop HVAC replacement; keep the register synced with schedule.",
+      "rationales": [
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The architect issues a site instruction requiring re-routing ductwork. The likely planning impact is:",
+    "choices": [
+      "Proceed with no documentation",
+      "Charge it in the next progress claim without notice",
+      "Ignore until closeout",
+      "Issue an RFI/Change request; assess time impact; update schedule and budget if approved"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Changes require documentation and assessment; unapproved work risks non-payment.",
+      "keywords": [
+        "Change request",
+        "Schedule impact",
+        "Progress claim"
+      ],
+      "example": "Log and track RFIs/addenda for Hospital Center’s interior fit-out; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "During tendering for a façade recladding, an addendum revises door hardware. What is an addendum?",
+    "choices": [
+      "A post-award Change Order",
+      "A bid bond form",
+      "A change to tender documents issued before bid closing",
+      "A site memo with no contractual effect"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Addenda modify tender documents before closing and must be acknowledged by bidders.",
+      "keywords": [
+        "Addendum",
+        "Tender",
+        "Closing"
+      ],
+      "example": "Log and track RFIs/addenda for City of Laval’s façade recladding; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The critical path in a schedule is:",
+    "choices": [
+      "The shortest chain",
+      "The longest chain of dependent tasks that determines project duration",
+      "A budget contingency",
+      "Non-critical tasks only"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Delays on the critical path delay project completion.",
+      "keywords": [
+        "Critical path",
+        "CPM"
+      ],
+      "example": "Log and track RFIs/addenda for University’s lab renovation; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The architect issues a site instruction requiring re-routing ductwork. The likely planning impact is:",
+    "choices": [
+      "Ignore until closeout",
+      "Charge it in the next progress claim without notice",
+      "Proceed with no documentation",
+      "Issue an RFI/Change request; assess time impact; update schedule and budget if approved"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Changes require documentation and assessment; unapproved work risks non-payment.",
+      "keywords": [
+        "Change request",
+        "Schedule impact",
+        "Progress claim"
+      ],
+      "example": "Log and track RFIs/addenda for Private Developer’s parking deck repair; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The critical path in a schedule is:",
+    "choices": [
+      "Non-critical tasks only",
+      "A budget contingency",
+      "The longest chain of dependent tasks that determines project duration",
+      "The shortest chain"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Delays on the critical path delay project completion.",
+      "keywords": [
+        "Critical path",
+        "CPM"
+      ],
+      "example": "Log and track RFIs/addenda for Hospital Center’s rooftop HVAC replacement; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "Shop drawings are best described as:",
+    "choices": [
+      "Change orders",
+      "Contract documents themselves",
+      "Submittals showing how the work will be fabricated/installed",
+      "Owner financing records"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Shop drawings detail the contractor’s means/methods and product data.",
+      "keywords": [
+        "Shop drawings",
+        "Submittals"
+      ],
+      "example": "Log and track RFIs/addenda for School Service Centre’s rooftop HVAC replacement; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Directly modify price/time",
+      "Approve payments",
+      "Replace specifications",
+      "Clarify discrepancies or obtain missing information in contract documents"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for University’s interior fit-out; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "Shop drawings are best described as:",
+    "choices": [
+      "Submittals showing how the work will be fabricated/installed",
+      "Change orders",
+      "Contract documents themselves",
+      "Owner financing records"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Shop drawings detail the contractor’s means/methods and product data.",
+      "keywords": [
+        "Shop drawings",
+        "Submittals"
+      ],
+      "example": "Log and track RFIs/addenda for City of Laval’s interior fit-out; keep the register synced with schedule.",
+      "rationales": [
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "A compliant bid must:",
+    "choices": [
+      "Be simply the lowest price",
+      "Be emailed to the PM after closing",
+      "Meet all mandatory requirements and be submitted on time",
+      "Include shop drawings"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Compliance hinges on mandatory requirements and timing, not price alone.",
+      "keywords": [
+        "Bid compliance",
+        "Mandatory requirements"
+      ],
+      "example": "Log and track RFIs/addenda for City of Laval’s interior fit-out; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "During tendering for a gymnasium modernization, an addendum revises door hardware. What is an addendum?",
+    "choices": [
+      "A post-award Change Order",
+      "A bid bond form",
+      "A site memo with no contractual effect",
+      "A change to tender documents issued before bid closing"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Addenda modify tender documents before closing and must be acknowledged by bidders.",
+      "keywords": [
+        "Addendum",
+        "Tender",
+        "Closing"
+      ],
+      "example": "Log and track RFIs/addenda for Municipality’s gymnasium modernization; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Directly modify price/time",
+      "Approve payments",
+      "Clarify discrepancies or obtain missing information in contract documents",
+      "Replace specifications"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for Private Developer’s façade recladding; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "Shop drawings are best described as:",
+    "choices": [
+      "Contract documents themselves",
+      "Owner financing records",
+      "Change orders",
+      "Submittals showing how the work will be fabricated/installed"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Shop drawings detail the contractor’s means/methods and product data.",
+      "keywords": [
+        "Shop drawings",
+        "Submittals"
+      ],
+      "example": "Log and track RFIs/addenda for Hospital Center’s gymnasium modernization; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "During tendering for a lab renovation, an addendum revises door hardware. What is an addendum?",
+    "choices": [
+      "A bid bond form",
+      "A site memo with no contractual effect",
+      "A post-award Change Order",
+      "A change to tender documents issued before bid closing"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Addenda modify tender documents before closing and must be acknowledged by bidders.",
+      "keywords": [
+        "Addendum",
+        "Tender",
+        "Closing"
+      ],
+      "example": "Log and track RFIs/addenda for School Service Centre’s lab renovation; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Clarify discrepancies or obtain missing information in contract documents",
+      "Replace specifications",
+      "Approve payments",
+      "Directly modify price/time"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for Municipality’s façade recladding; keep the register synced with schedule.",
+      "rationales": [
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "During tendering for a lab renovation, an addendum revises door hardware. What is an addendum?",
+    "choices": [
+      "A bid bond form",
+      "A change to tender documents issued before bid closing",
+      "A post-award Change Order",
+      "A site memo with no contractual effect"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Addenda modify tender documents before closing and must be acknowledged by bidders.",
+      "keywords": [
+        "Addendum",
+        "Tender",
+        "Closing"
+      ],
+      "example": "Log and track RFIs/addenda for School Service Centre’s lab renovation; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The architect issues a site instruction requiring re-routing ductwork. The likely planning impact is:",
+    "choices": [
+      "Proceed with no documentation",
+      "Ignore until closeout",
+      "Issue an RFI/Change request; assess time impact; update schedule and budget if approved",
+      "Charge it in the next progress claim without notice"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Changes require documentation and assessment; unapproved work risks non-payment.",
+      "keywords": [
+        "Change request",
+        "Schedule impact",
+        "Progress claim"
+      ],
+      "example": "Log and track RFIs/addenda for Hospital Center’s gymnasium modernization; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "During tendering for a lab renovation, an addendum revises door hardware. What is an addendum?",
+    "choices": [
+      "A site memo with no contractual effect",
+      "A post-award Change Order",
+      "A bid bond form",
+      "A change to tender documents issued before bid closing"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Addenda modify tender documents before closing and must be acknowledged by bidders.",
+      "keywords": [
+        "Addendum",
+        "Tender",
+        "Closing"
+      ],
+      "example": "Log and track RFIs/addenda for Private Developer’s lab renovation; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "Shop drawings are best described as:",
+    "choices": [
+      "Change orders",
+      "Submittals showing how the work will be fabricated/installed",
+      "Contract documents themselves",
+      "Owner financing records"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Shop drawings detail the contractor’s means/methods and product data.",
+      "keywords": [
+        "Shop drawings",
+        "Submittals"
+      ],
+      "example": "Log and track RFIs/addenda for School Service Centre’s interior fit-out; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The architect issues a site instruction requiring re-routing ductwork. The likely planning impact is:",
+    "choices": [
+      "Charge it in the next progress claim without notice",
+      "Ignore until closeout",
+      "Issue an RFI/Change request; assess time impact; update schedule and budget if approved",
+      "Proceed with no documentation"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Changes require documentation and assessment; unapproved work risks non-payment.",
+      "keywords": [
+        "Change request",
+        "Schedule impact",
+        "Progress claim"
+      ],
+      "example": "Log and track RFIs/addenda for City of Laval’s façade recladding; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "A compliant bid must:",
+    "choices": [
+      "Include shop drawings",
+      "Be simply the lowest price",
+      "Meet all mandatory requirements and be submitted on time",
+      "Be emailed to the PM after closing"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Compliance hinges on mandatory requirements and timing, not price alone.",
+      "keywords": [
+        "Bid compliance",
+        "Mandatory requirements"
+      ],
+      "example": "Log and track RFIs/addenda for University’s gymnasium modernization; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Replace specifications",
+      "Directly modify price/time",
+      "Approve payments",
+      "Clarify discrepancies or obtain missing information in contract documents"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for Municipality’s rooftop HVAC replacement; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Clarify discrepancies or obtain missing information in contract documents",
+      "Approve payments",
+      "Replace specifications",
+      "Directly modify price/time"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for Hospital Center’s lab renovation; keep the register synced with schedule.",
+      "rationales": [
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Replace specifications",
+      "Directly modify price/time",
+      "Approve payments",
+      "Clarify discrepancies or obtain missing information in contract documents"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for Hospital Center’s rooftop HVAC replacement; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The architect issues a site instruction requiring re-routing ductwork. The likely planning impact is:",
+    "choices": [
+      "Charge it in the next progress claim without notice",
+      "Ignore until closeout",
+      "Proceed with no documentation",
+      "Issue an RFI/Change request; assess time impact; update schedule and budget if approved"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Changes require documentation and assessment; unapproved work risks non-payment.",
+      "keywords": [
+        "Change request",
+        "Schedule impact",
+        "Progress claim"
+      ],
+      "example": "Log and track RFIs/addenda for University’s façade recladding; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The critical path in a schedule is:",
+    "choices": [
+      "The shortest chain",
+      "The longest chain of dependent tasks that determines project duration",
+      "Non-critical tasks only",
+      "A budget contingency"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Delays on the critical path delay project completion.",
+      "keywords": [
+        "Critical path",
+        "CPM"
+      ],
+      "example": "Log and track RFIs/addenda for School Service Centre’s façade recladding; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The architect issues a site instruction requiring re-routing ductwork. The likely planning impact is:",
+    "choices": [
+      "Charge it in the next progress claim without notice",
+      "Issue an RFI/Change request; assess time impact; update schedule and budget if approved",
+      "Ignore until closeout",
+      "Proceed with no documentation"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Changes require documentation and assessment; unapproved work risks non-payment.",
+      "keywords": [
+        "Change request",
+        "Schedule impact",
+        "Progress claim"
+      ],
+      "example": "Log and track RFIs/addenda for Private Developer’s parking deck repair; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The architect issues a site instruction requiring re-routing ductwork. The likely planning impact is:",
+    "choices": [
+      "Issue an RFI/Change request; assess time impact; update schedule and budget if approved",
+      "Charge it in the next progress claim without notice",
+      "Ignore until closeout",
+      "Proceed with no documentation"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Changes require documentation and assessment; unapproved work risks non-payment.",
+      "keywords": [
+        "Change request",
+        "Schedule impact",
+        "Progress claim"
+      ],
+      "example": "Log and track RFIs/addenda for City of Laval’s lab renovation; keep the register synced with schedule.",
+      "rationales": [
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "A compliant bid must:",
+    "choices": [
+      "Include shop drawings",
+      "Be emailed to the PM after closing",
+      "Meet all mandatory requirements and be submitted on time",
+      "Be simply the lowest price"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Compliance hinges on mandatory requirements and timing, not price alone.",
+      "keywords": [
+        "Bid compliance",
+        "Mandatory requirements"
+      ],
+      "example": "Log and track RFIs/addenda for Municipality’s gymnasium modernization; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "A compliant bid must:",
+    "choices": [
+      "Include shop drawings",
+      "Meet all mandatory requirements and be submitted on time",
+      "Be emailed to the PM after closing",
+      "Be simply the lowest price"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Compliance hinges on mandatory requirements and timing, not price alone.",
+      "keywords": [
+        "Bid compliance",
+        "Mandatory requirements"
+      ],
+      "example": "Log and track RFIs/addenda for Hospital Center’s interior fit-out; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Clarify discrepancies or obtain missing information in contract documents",
+      "Approve payments",
+      "Replace specifications",
+      "Directly modify price/time"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for School Service Centre’s gymnasium modernization; keep the register synced with schedule.",
+      "rationales": [
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The architect issues a site instruction requiring re-routing ductwork. The likely planning impact is:",
+    "choices": [
+      "Ignore until closeout",
+      "Proceed with no documentation",
+      "Issue an RFI/Change request; assess time impact; update schedule and budget if approved",
+      "Charge it in the next progress claim without notice"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Changes require documentation and assessment; unapproved work risks non-payment.",
+      "keywords": [
+        "Change request",
+        "Schedule impact",
+        "Progress claim"
+      ],
+      "example": "Log and track RFIs/addenda for Municipality’s lab renovation; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Directly modify price/time",
+      "Clarify discrepancies or obtain missing information in contract documents",
+      "Approve payments",
+      "Replace specifications"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for City of Laval’s façade recladding; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "During tendering for a lab renovation, an addendum revises door hardware. What is an addendum?",
+    "choices": [
+      "A change to tender documents issued before bid closing",
+      "A bid bond form",
+      "A post-award Change Order",
+      "A site memo with no contractual effect"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Addenda modify tender documents before closing and must be acknowledged by bidders.",
+      "keywords": [
+        "Addendum",
+        "Tender",
+        "Closing"
+      ],
+      "example": "Log and track RFIs/addenda for Hospital Center’s lab renovation; keep the register synced with schedule.",
+      "rationales": [
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "Shop drawings are best described as:",
+    "choices": [
+      "Contract documents themselves",
+      "Change orders",
+      "Submittals showing how the work will be fabricated/installed",
+      "Owner financing records"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Shop drawings detail the contractor’s means/methods and product data.",
+      "keywords": [
+        "Shop drawings",
+        "Submittals"
+      ],
+      "example": "Log and track RFIs/addenda for City of Laval’s rooftop HVAC replacement; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The critical path in a schedule is:",
+    "choices": [
+      "Non-critical tasks only",
+      "The longest chain of dependent tasks that determines project duration",
+      "The shortest chain",
+      "A budget contingency"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Delays on the critical path delay project completion.",
+      "keywords": [
+        "Critical path",
+        "CPM"
+      ],
+      "example": "Log and track RFIs/addenda for University’s lab renovation; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The architect issues a site instruction requiring re-routing ductwork. The likely planning impact is:",
+    "choices": [
+      "Issue an RFI/Change request; assess time impact; update schedule and budget if approved",
+      "Proceed with no documentation",
+      "Ignore until closeout",
+      "Charge it in the next progress claim without notice"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Changes require documentation and assessment; unapproved work risks non-payment.",
+      "keywords": [
+        "Change request",
+        "Schedule impact",
+        "Progress claim"
+      ],
+      "example": "Log and track RFIs/addenda for Private Developer’s lab renovation; keep the register synced with schedule.",
+      "rationales": [
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "During tendering for a interior fit-out, an addendum revises door hardware. What is an addendum?",
+    "choices": [
+      "A site memo with no contractual effect",
+      "A post-award Change Order",
+      "A change to tender documents issued before bid closing",
+      "A bid bond form"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Addenda modify tender documents before closing and must be acknowledged by bidders.",
+      "keywords": [
+        "Addendum",
+        "Tender",
+        "Closing"
+      ],
+      "example": "Log and track RFIs/addenda for University’s interior fit-out; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The critical path in a schedule is:",
+    "choices": [
+      "A budget contingency",
+      "Non-critical tasks only",
+      "The longest chain of dependent tasks that determines project duration",
+      "The shortest chain"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Delays on the critical path delay project completion.",
+      "keywords": [
+        "Critical path",
+        "CPM"
+      ],
+      "example": "Log and track RFIs/addenda for Municipality’s rooftop HVAC replacement; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Clarify discrepancies or obtain missing information in contract documents",
+      "Replace specifications",
+      "Directly modify price/time",
+      "Approve payments"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for Municipality’s façade recladding; keep the register synced with schedule.",
+      "rationales": [
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Approve payments",
+      "Clarify discrepancies or obtain missing information in contract documents",
+      "Directly modify price/time",
+      "Replace specifications"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for Hospital Center’s façade recladding; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "Shop drawings are best described as:",
+    "choices": [
+      "Owner financing records",
+      "Change orders",
+      "Contract documents themselves",
+      "Submittals showing how the work will be fabricated/installed"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Shop drawings detail the contractor’s means/methods and product data.",
+      "keywords": [
+        "Shop drawings",
+        "Submittals"
+      ],
+      "example": "Log and track RFIs/addenda for Municipality’s gymnasium modernization; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Directly modify price/time",
+      "Clarify discrepancies or obtain missing information in contract documents",
+      "Approve payments",
+      "Replace specifications"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for University’s gymnasium modernization; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The critical path in a schedule is:",
+    "choices": [
+      "The longest chain of dependent tasks that determines project duration",
+      "Non-critical tasks only",
+      "A budget contingency",
+      "The shortest chain"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Delays on the critical path delay project completion.",
+      "keywords": [
+        "Critical path",
+        "CPM"
+      ],
+      "example": "Log and track RFIs/addenda for Hospital Center’s rooftop HVAC replacement; keep the register synced with schedule.",
+      "rationales": [
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The architect issues a site instruction requiring re-routing ductwork. The likely planning impact is:",
+    "choices": [
+      "Ignore until closeout",
+      "Issue an RFI/Change request; assess time impact; update schedule and budget if approved",
+      "Charge it in the next progress claim without notice",
+      "Proceed with no documentation"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Changes require documentation and assessment; unapproved work risks non-payment.",
+      "keywords": [
+        "Change request",
+        "Schedule impact",
+        "Progress claim"
+      ],
+      "example": "Log and track RFIs/addenda for Municipality’s gymnasium modernization; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Approve payments",
+      "Directly modify price/time",
+      "Clarify discrepancies or obtain missing information in contract documents",
+      "Replace specifications"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for Hospital Center’s lab renovation; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Directly modify price/time",
+      "Approve payments",
+      "Clarify discrepancies or obtain missing information in contract documents",
+      "Replace specifications"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for Municipality’s gymnasium modernization; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "A compliant bid must:",
+    "choices": [
+      "Include shop drawings",
+      "Meet all mandatory requirements and be submitted on time",
+      "Be simply the lowest price",
+      "Be emailed to the PM after closing"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Compliance hinges on mandatory requirements and timing, not price alone.",
+      "keywords": [
+        "Bid compliance",
+        "Mandatory requirements"
+      ],
+      "example": "Log and track RFIs/addenda for Hospital Center’s interior fit-out; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "A compliant bid must:",
+    "choices": [
+      "Be emailed to the PM after closing",
+      "Include shop drawings",
+      "Be simply the lowest price",
+      "Meet all mandatory requirements and be submitted on time"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Compliance hinges on mandatory requirements and timing, not price alone.",
+      "keywords": [
+        "Bid compliance",
+        "Mandatory requirements"
+      ],
+      "example": "Log and track RFIs/addenda for School Service Centre’s interior fit-out; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The architect issues a site instruction requiring re-routing ductwork. The likely planning impact is:",
+    "choices": [
+      "Proceed with no documentation",
+      "Issue an RFI/Change request; assess time impact; update schedule and budget if approved",
+      "Ignore until closeout",
+      "Charge it in the next progress claim without notice"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Changes require documentation and assessment; unapproved work risks non-payment.",
+      "keywords": [
+        "Change request",
+        "Schedule impact",
+        "Progress claim"
+      ],
+      "example": "Log and track RFIs/addenda for University’s lab renovation; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "A compliant bid must:",
+    "choices": [
+      "Include shop drawings",
+      "Be emailed to the PM after closing",
+      "Meet all mandatory requirements and be submitted on time",
+      "Be simply the lowest price"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Compliance hinges on mandatory requirements and timing, not price alone.",
+      "keywords": [
+        "Bid compliance",
+        "Mandatory requirements"
+      ],
+      "example": "Log and track RFIs/addenda for University’s façade recladding; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "During tendering for a façade recladding, an addendum revises door hardware. What is an addendum?",
+    "choices": [
+      "A site memo with no contractual effect",
+      "A change to tender documents issued before bid closing",
+      "A post-award Change Order",
+      "A bid bond form"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Addenda modify tender documents before closing and must be acknowledged by bidders.",
+      "keywords": [
+        "Addendum",
+        "Tender",
+        "Closing"
+      ],
+      "example": "Log and track RFIs/addenda for Municipality’s façade recladding; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "Shop drawings are best described as:",
+    "choices": [
+      "Contract documents themselves",
+      "Owner financing records",
+      "Submittals showing how the work will be fabricated/installed",
+      "Change orders"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Shop drawings detail the contractor’s means/methods and product data.",
+      "keywords": [
+        "Shop drawings",
+        "Submittals"
+      ],
+      "example": "Log and track RFIs/addenda for Private Developer’s lab renovation; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "A compliant bid must:",
+    "choices": [
+      "Meet all mandatory requirements and be submitted on time",
+      "Be simply the lowest price",
+      "Include shop drawings",
+      "Be emailed to the PM after closing"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Compliance hinges on mandatory requirements and timing, not price alone.",
+      "keywords": [
+        "Bid compliance",
+        "Mandatory requirements"
+      ],
+      "example": "Log and track RFIs/addenda for Hospital Center’s façade recladding; keep the register synced with schedule.",
+      "rationales": [
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Approve payments",
+      "Replace specifications",
+      "Clarify discrepancies or obtain missing information in contract documents",
+      "Directly modify price/time"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for Private Developer’s parking deck repair; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "Shop drawings are best described as:",
+    "choices": [
+      "Change orders",
+      "Contract documents themselves",
+      "Owner financing records",
+      "Submittals showing how the work will be fabricated/installed"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Shop drawings detail the contractor’s means/methods and product data.",
+      "keywords": [
+        "Shop drawings",
+        "Submittals"
+      ],
+      "example": "Log and track RFIs/addenda for University’s interior fit-out; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "During tendering for a lab renovation, an addendum revises door hardware. What is an addendum?",
+    "choices": [
+      "A site memo with no contractual effect",
+      "A bid bond form",
+      "A post-award Change Order",
+      "A change to tender documents issued before bid closing"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Addenda modify tender documents before closing and must be acknowledged by bidders.",
+      "keywords": [
+        "Addendum",
+        "Tender",
+        "Closing"
+      ],
+      "example": "Log and track RFIs/addenda for Hospital Center’s lab renovation; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Replace specifications",
+      "Clarify discrepancies or obtain missing information in contract documents",
+      "Directly modify price/time",
+      "Approve payments"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for School Service Centre’s parking deck repair; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "Shop drawings are best described as:",
+    "choices": [
+      "Owner financing records",
+      "Change orders",
+      "Contract documents themselves",
+      "Submittals showing how the work will be fabricated/installed"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Shop drawings detail the contractor’s means/methods and product data.",
+      "keywords": [
+        "Shop drawings",
+        "Submittals"
+      ],
+      "example": "Log and track RFIs/addenda for School Service Centre’s façade recladding; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "Shop drawings are best described as:",
+    "choices": [
+      "Owner financing records",
+      "Submittals showing how the work will be fabricated/installed",
+      "Change orders",
+      "Contract documents themselves"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Shop drawings detail the contractor’s means/methods and product data.",
+      "keywords": [
+        "Shop drawings",
+        "Submittals"
+      ],
+      "example": "Log and track RFIs/addenda for Private Developer’s lab renovation; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "During tendering for a interior fit-out, an addendum revises door hardware. What is an addendum?",
+    "choices": [
+      "A bid bond form",
+      "A post-award Change Order",
+      "A change to tender documents issued before bid closing",
+      "A site memo with no contractual effect"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Addenda modify tender documents before closing and must be acknowledged by bidders.",
+      "keywords": [
+        "Addendum",
+        "Tender",
+        "Closing"
+      ],
+      "example": "Log and track RFIs/addenda for Hospital Center’s interior fit-out; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "During tendering for a interior fit-out, an addendum revises door hardware. What is an addendum?",
+    "choices": [
+      "A bid bond form",
+      "A change to tender documents issued before bid closing",
+      "A post-award Change Order",
+      "A site memo with no contractual effect"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Addenda modify tender documents before closing and must be acknowledged by bidders.",
+      "keywords": [
+        "Addendum",
+        "Tender",
+        "Closing"
+      ],
+      "example": "Log and track RFIs/addenda for School Service Centre’s interior fit-out; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Approve payments",
+      "Replace specifications",
+      "Directly modify price/time",
+      "Clarify discrepancies or obtain missing information in contract documents"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for Municipality’s façade recladding; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "A compliant bid must:",
+    "choices": [
+      "Be emailed to the PM after closing",
+      "Be simply the lowest price",
+      "Meet all mandatory requirements and be submitted on time",
+      "Include shop drawings"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Compliance hinges on mandatory requirements and timing, not price alone.",
+      "keywords": [
+        "Bid compliance",
+        "Mandatory requirements"
+      ],
+      "example": "Log and track RFIs/addenda for Hospital Center’s interior fit-out; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "During tendering for a parking deck repair, an addendum revises door hardware. What is an addendum?",
+    "choices": [
+      "A site memo with no contractual effect",
+      "A post-award Change Order",
+      "A bid bond form",
+      "A change to tender documents issued before bid closing"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Addenda modify tender documents before closing and must be acknowledged by bidders.",
+      "keywords": [
+        "Addendum",
+        "Tender",
+        "Closing"
+      ],
+      "example": "Log and track RFIs/addenda for School Service Centre’s parking deck repair; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Replace specifications",
+      "Approve payments",
+      "Directly modify price/time",
+      "Clarify discrepancies or obtain missing information in contract documents"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for Municipality’s lab renovation; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "During tendering for a lab renovation, an addendum revises door hardware. What is an addendum?",
+    "choices": [
+      "A bid bond form",
+      "A change to tender documents issued before bid closing",
+      "A site memo with no contractual effect",
+      "A post-award Change Order"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Addenda modify tender documents before closing and must be acknowledged by bidders.",
+      "keywords": [
+        "Addendum",
+        "Tender",
+        "Closing"
+      ],
+      "example": "Log and track RFIs/addenda for University’s lab renovation; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "During tendering for a façade recladding, an addendum revises door hardware. What is an addendum?",
+    "choices": [
+      "A bid bond form",
+      "A post-award Change Order",
+      "A change to tender documents issued before bid closing",
+      "A site memo with no contractual effect"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Addenda modify tender documents before closing and must be acknowledged by bidders.",
+      "keywords": [
+        "Addendum",
+        "Tender",
+        "Closing"
+      ],
+      "example": "Log and track RFIs/addenda for Hospital Center’s façade recladding; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The architect issues a site instruction requiring re-routing ductwork. The likely planning impact is:",
+    "choices": [
+      "Proceed with no documentation",
+      "Ignore until closeout",
+      "Issue an RFI/Change request; assess time impact; update schedule and budget if approved",
+      "Charge it in the next progress claim without notice"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Changes require documentation and assessment; unapproved work risks non-payment.",
+      "keywords": [
+        "Change request",
+        "Schedule impact",
+        "Progress claim"
+      ],
+      "example": "Log and track RFIs/addenda for School Service Centre’s gymnasium modernization; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "During tendering for a façade recladding, an addendum revises door hardware. What is an addendum?",
+    "choices": [
+      "A change to tender documents issued before bid closing",
+      "A site memo with no contractual effect",
+      "A post-award Change Order",
+      "A bid bond form"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Addenda modify tender documents before closing and must be acknowledged by bidders.",
+      "keywords": [
+        "Addendum",
+        "Tender",
+        "Closing"
+      ],
+      "example": "Log and track RFIs/addenda for Private Developer’s façade recladding; keep the register synced with schedule.",
+      "rationales": [
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "Shop drawings are best described as:",
+    "choices": [
+      "Owner financing records",
+      "Change orders",
+      "Contract documents themselves",
+      "Submittals showing how the work will be fabricated/installed"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Shop drawings detail the contractor’s means/methods and product data.",
+      "keywords": [
+        "Shop drawings",
+        "Submittals"
+      ],
+      "example": "Log and track RFIs/addenda for Municipality’s rooftop HVAC replacement; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The architect issues a site instruction requiring re-routing ductwork. The likely planning impact is:",
+    "choices": [
+      "Proceed with no documentation",
+      "Ignore until closeout",
+      "Issue an RFI/Change request; assess time impact; update schedule and budget if approved",
+      "Charge it in the next progress claim without notice"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Changes require documentation and assessment; unapproved work risks non-payment.",
+      "keywords": [
+        "Change request",
+        "Schedule impact",
+        "Progress claim"
+      ],
+      "example": "Log and track RFIs/addenda for Municipality’s gymnasium modernization; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "Shop drawings are best described as:",
+    "choices": [
+      "Submittals showing how the work will be fabricated/installed",
+      "Change orders",
+      "Owner financing records",
+      "Contract documents themselves"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Shop drawings detail the contractor’s means/methods and product data.",
+      "keywords": [
+        "Shop drawings",
+        "Submittals"
+      ],
+      "example": "Log and track RFIs/addenda for Hospital Center’s lab renovation; keep the register synced with schedule.",
+      "rationales": [
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The architect issues a site instruction requiring re-routing ductwork. The likely planning impact is:",
+    "choices": [
+      "Charge it in the next progress claim without notice",
+      "Ignore until closeout",
+      "Issue an RFI/Change request; assess time impact; update schedule and budget if approved",
+      "Proceed with no documentation"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Changes require documentation and assessment; unapproved work risks non-payment.",
+      "keywords": [
+        "Change request",
+        "Schedule impact",
+        "Progress claim"
+      ],
+      "example": "Log and track RFIs/addenda for Municipality’s façade recladding; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "A compliant bid must:",
+    "choices": [
+      "Be simply the lowest price",
+      "Be emailed to the PM after closing",
+      "Include shop drawings",
+      "Meet all mandatory requirements and be submitted on time"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Compliance hinges on mandatory requirements and timing, not price alone.",
+      "keywords": [
+        "Bid compliance",
+        "Mandatory requirements"
+      ],
+      "example": "Log and track RFIs/addenda for City of Laval’s parking deck repair; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The critical path in a schedule is:",
+    "choices": [
+      "The longest chain of dependent tasks that determines project duration",
+      "The shortest chain",
+      "Non-critical tasks only",
+      "A budget contingency"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Delays on the critical path delay project completion.",
+      "keywords": [
+        "Critical path",
+        "CPM"
+      ],
+      "example": "Log and track RFIs/addenda for Hospital Center’s parking deck repair; keep the register synced with schedule.",
+      "rationales": [
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The architect issues a site instruction requiring re-routing ductwork. The likely planning impact is:",
+    "choices": [
+      "Ignore until closeout",
+      "Issue an RFI/Change request; assess time impact; update schedule and budget if approved",
+      "Proceed with no documentation",
+      "Charge it in the next progress claim without notice"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Changes require documentation and assessment; unapproved work risks non-payment.",
+      "keywords": [
+        "Change request",
+        "Schedule impact",
+        "Progress claim"
+      ],
+      "example": "Log and track RFIs/addenda for Hospital Center’s rooftop HVAC replacement; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "Shop drawings are best described as:",
+    "choices": [
+      "Change orders",
+      "Owner financing records",
+      "Contract documents themselves",
+      "Submittals showing how the work will be fabricated/installed"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Shop drawings detail the contractor’s means/methods and product data.",
+      "keywords": [
+        "Shop drawings",
+        "Submittals"
+      ],
+      "example": "Log and track RFIs/addenda for Municipality’s parking deck repair; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Replace specifications",
+      "Clarify discrepancies or obtain missing information in contract documents",
+      "Approve payments",
+      "Directly modify price/time"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for Private Developer’s gymnasium modernization; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Clarify discrepancies or obtain missing information in contract documents",
+      "Approve payments",
+      "Directly modify price/time",
+      "Replace specifications"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for Private Developer’s gymnasium modernization; keep the register synced with schedule.",
+      "rationales": [
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Replace specifications",
+      "Directly modify price/time",
+      "Approve payments",
+      "Clarify discrepancies or obtain missing information in contract documents"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for City of Laval’s gymnasium modernization; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "Shop drawings are best described as:",
+    "choices": [
+      "Owner financing records",
+      "Contract documents themselves",
+      "Change orders",
+      "Submittals showing how the work will be fabricated/installed"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Shop drawings detail the contractor’s means/methods and product data.",
+      "keywords": [
+        "Shop drawings",
+        "Submittals"
+      ],
+      "example": "Log and track RFIs/addenda for University’s parking deck repair; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "Shop drawings are best described as:",
+    "choices": [
+      "Submittals showing how the work will be fabricated/installed",
+      "Contract documents themselves",
+      "Owner financing records",
+      "Change orders"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Shop drawings detail the contractor’s means/methods and product data.",
+      "keywords": [
+        "Shop drawings",
+        "Submittals"
+      ],
+      "example": "Log and track RFIs/addenda for Municipality’s parking deck repair; keep the register synced with schedule.",
+      "rationales": [
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Directly modify price/time",
+      "Clarify discrepancies or obtain missing information in contract documents",
+      "Approve payments",
+      "Replace specifications"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for School Service Centre’s gymnasium modernization; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The critical path in a schedule is:",
+    "choices": [
+      "Non-critical tasks only",
+      "The longest chain of dependent tasks that determines project duration",
+      "The shortest chain",
+      "A budget contingency"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Delays on the critical path delay project completion.",
+      "keywords": [
+        "Critical path",
+        "CPM"
+      ],
+      "example": "Log and track RFIs/addenda for Municipality’s parking deck repair; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The architect issues a site instruction requiring re-routing ductwork. The likely planning impact is:",
+    "choices": [
+      "Proceed with no documentation",
+      "Issue an RFI/Change request; assess time impact; update schedule and budget if approved",
+      "Ignore until closeout",
+      "Charge it in the next progress claim without notice"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Changes require documentation and assessment; unapproved work risks non-payment.",
+      "keywords": [
+        "Change request",
+        "Schedule impact",
+        "Progress claim"
+      ],
+      "example": "Log and track RFIs/addenda for City of Laval’s gymnasium modernization; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The critical path in a schedule is:",
+    "choices": [
+      "The shortest chain",
+      "Non-critical tasks only",
+      "The longest chain of dependent tasks that determines project duration",
+      "A budget contingency"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Delays on the critical path delay project completion.",
+      "keywords": [
+        "Critical path",
+        "CPM"
+      ],
+      "example": "Log and track RFIs/addenda for City of Laval’s interior fit-out; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The architect issues a site instruction requiring re-routing ductwork. The likely planning impact is:",
+    "choices": [
+      "Ignore until closeout",
+      "Issue an RFI/Change request; assess time impact; update schedule and budget if approved",
+      "Proceed with no documentation",
+      "Charge it in the next progress claim without notice"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Changes require documentation and assessment; unapproved work risks non-payment.",
+      "keywords": [
+        "Change request",
+        "Schedule impact",
+        "Progress claim"
+      ],
+      "example": "Log and track RFIs/addenda for City of Laval’s interior fit-out; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "The architect issues a site instruction requiring re-routing ductwork. The likely planning impact is:",
+    "choices": [
+      "Issue an RFI/Change request; assess time impact; update schedule and budget if approved",
+      "Ignore until closeout",
+      "Proceed with no documentation",
+      "Charge it in the next progress claim without notice"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Changes require documentation and assessment; unapproved work risks non-payment.",
+      "keywords": [
+        "Change request",
+        "Schedule impact",
+        "Progress claim"
+      ],
+      "example": "Log and track RFIs/addenda for University’s interior fit-out; keep the register synced with schedule.",
+      "rationales": [
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "A compliant bid must:",
+    "choices": [
+      "Meet all mandatory requirements and be submitted on time",
+      "Include shop drawings",
+      "Be simply the lowest price",
+      "Be emailed to the PM after closing"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Compliance hinges on mandatory requirements and timing, not price alone.",
+      "keywords": [
+        "Bid compliance",
+        "Mandatory requirements"
+      ],
+      "example": "Log and track RFIs/addenda for City of Laval’s lab renovation; keep the register synced with schedule.",
+      "rationales": [
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "A compliant bid must:",
+    "choices": [
+      "Be simply the lowest price",
+      "Be emailed to the PM after closing",
+      "Include shop drawings",
+      "Meet all mandatory requirements and be submitted on time"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Compliance hinges on mandatory requirements and timing, not price alone.",
+      "keywords": [
+        "Bid compliance",
+        "Mandatory requirements"
+      ],
+      "example": "Log and track RFIs/addenda for Municipality’s parking deck repair; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "An RFI (Request for Information) is used to:",
+    "choices": [
+      "Directly modify price/time",
+      "Replace specifications",
+      "Approve payments",
+      "Clarify discrepancies or obtain missing information in contract documents"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "RFIs request clarification; they do not change the contract by themselves.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Log and track RFIs/addenda for Private Developer’s lab renovation; keep the register synced with schedule.",
+      "rationales": [
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "✅ Correct planning/contract control."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  },
+  {
+    "question": "A compliant bid must:",
+    "choices": [
+      "Meet all mandatory requirements and be submitted on time",
+      "Be simply the lowest price",
+      "Include shop drawings",
+      "Be emailed to the PM after closing"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Compliance hinges on mandatory requirements and timing, not price alone.",
+      "keywords": [
+        "Bid compliance",
+        "Mandatory requirements"
+      ],
+      "example": "Log and track RFIs/addenda for Municipality’s façade recladding; keep the register synced with schedule.",
+      "rationales": [
+        "✅ Correct planning/contract control.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions.",
+        "❌ Breaks change control or misstates definitions."
+      ],
+      "refs": [
+        "Project controls; CPM basics; submittal workflows"
+      ]
+    }
+  }
+]

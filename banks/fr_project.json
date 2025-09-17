@@ -1,0 +1,2733 @@
+[
+  {
+    "question": "Une soumission conforme doit :",
+    "choices": [
+      "Être transmise après l’heure de fermeture",
+      "Inclure des dessins d’atelier",
+      "Être uniquement la plus basse",
+      "Respecter les exigences obligatoires et être déposée à l’heure"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "La conformité repose sur les exigences obligatoires et l’échéance.",
+      "keywords": [
+        "Conformité",
+        "Exigences obligatoires"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "L’architecte émet une instruction de chantier exigeant de détourner une gaine. L’impact d’ordonnancement raisonnable est :",
+    "choices": [
+      "Procéder sans documentation",
+      "Le facturer dans l’avancement sans avis",
+      "Émettre une RFI/demande de changement; évaluer l’impact temps; mettre à jour l’échéancier et le budget si approuvé",
+      "Ignorer jusqu’à la clôture"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Les changements doivent être documentés/évalués; exécuter sans autorisation = risque de non-paiement.",
+      "keywords": [
+        "Demande de changement",
+        "Impact d’échéancier",
+        "Avancement"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Le chemin critique est :",
+    "choices": [
+      "Une contingence budgétaire",
+      "La plus longue chaîne de tâches dépendantes qui fixe la durée du projet",
+      "La chaîne la plus courte",
+      "Uniquement les tâches non critiques"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Tout retard sur le chemin critique retarde la fin des travaux.",
+      "keywords": [
+        "Chemin critique",
+        "CPM"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Pendant l’appel d’offres, un addenda modifie la quincaillerie des portes. Qu’est-ce qu’un addenda?",
+    "choices": [
+      "Une modification aux documents d’appel d’offres émise avant la fermeture",
+      "Un ordre de changement après l’adjudication",
+      "Une note de chantier sans effet contractuel",
+      "Un formulaire de cautionnement"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Les addendas modifient les documents avant la fermeture et doivent être reconnus.",
+      "keywords": [
+        "Addenda",
+        "Appel d’offres",
+        "Fermeture"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Le chemin critique est :",
+    "choices": [
+      "La plus longue chaîne de tâches dépendantes qui fixe la durée du projet",
+      "Une contingence budgétaire",
+      "La chaîne la plus courte",
+      "Uniquement les tâches non critiques"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Tout retard sur le chemin critique retarde la fin des travaux.",
+      "keywords": [
+        "Chemin critique",
+        "CPM"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Pendant l’appel d’offres, un addenda modifie la quincaillerie des portes. Qu’est-ce qu’un addenda?",
+    "choices": [
+      "Une note de chantier sans effet contractuel",
+      "Un ordre de changement après l’adjudication",
+      "Une modification aux documents d’appel d’offres émise avant la fermeture",
+      "Un formulaire de cautionnement"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Les addendas modifient les documents avant la fermeture et doivent être reconnus.",
+      "keywords": [
+        "Addenda",
+        "Appel d’offres",
+        "Fermeture"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une soumission conforme doit :",
+    "choices": [
+      "Inclure des dessins d’atelier",
+      "Respecter les exigences obligatoires et être déposée à l’heure",
+      "Être transmise après l’heure de fermeture",
+      "Être uniquement la plus basse"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "La conformité repose sur les exigences obligatoires et l’échéance.",
+      "keywords": [
+        "Conformité",
+        "Exigences obligatoires"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Pendant l’appel d’offres, un addenda modifie la quincaillerie des portes. Qu’est-ce qu’un addenda?",
+    "choices": [
+      "Un formulaire de cautionnement",
+      "Une note de chantier sans effet contractuel",
+      "Un ordre de changement après l’adjudication",
+      "Une modification aux documents d’appel d’offres émise avant la fermeture"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Les addendas modifient les documents avant la fermeture et doivent être reconnus.",
+      "keywords": [
+        "Addenda",
+        "Appel d’offres",
+        "Fermeture"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une RFI (demande d’information) sert à :",
+    "choices": [
+      "Éclaircir des écarts ou obtenir une information manquante",
+      "Modifier directement prix/délais",
+      "Approuver des paiements",
+      "Remplacer les devis"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "La RFI clarifie; elle ne modifie pas le contrat par elle-même.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Le chemin critique est :",
+    "choices": [
+      "La chaîne la plus courte",
+      "Uniquement les tâches non critiques",
+      "La plus longue chaîne de tâches dépendantes qui fixe la durée du projet",
+      "Une contingence budgétaire"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Tout retard sur le chemin critique retarde la fin des travaux.",
+      "keywords": [
+        "Chemin critique",
+        "CPM"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Les dessins d’atelier sont :",
+    "choices": [
+      "Des dossiers de financement",
+      "Des documents contractuels en eux-mêmes",
+      "Des soumissions montrant la fabrication/l’installation prévues",
+      "Des ordres de changement"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Ils détaillent moyens/méthodes et données produits.",
+      "keywords": [
+        "Dessins d’atelier",
+        "Soumissions techniques"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Pendant l’appel d’offres, un addenda modifie la quincaillerie des portes. Qu’est-ce qu’un addenda?",
+    "choices": [
+      "Une note de chantier sans effet contractuel",
+      "Une modification aux documents d’appel d’offres émise avant la fermeture",
+      "Un ordre de changement après l’adjudication",
+      "Un formulaire de cautionnement"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Les addendas modifient les documents avant la fermeture et doivent être reconnus.",
+      "keywords": [
+        "Addenda",
+        "Appel d’offres",
+        "Fermeture"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Pendant l’appel d’offres, un addenda modifie la quincaillerie des portes. Qu’est-ce qu’un addenda?",
+    "choices": [
+      "Une modification aux documents d’appel d’offres émise avant la fermeture",
+      "Une note de chantier sans effet contractuel",
+      "Un ordre de changement après l’adjudication",
+      "Un formulaire de cautionnement"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Les addendas modifient les documents avant la fermeture et doivent être reconnus.",
+      "keywords": [
+        "Addenda",
+        "Appel d’offres",
+        "Fermeture"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Pendant l’appel d’offres, un addenda modifie la quincaillerie des portes. Qu’est-ce qu’un addenda?",
+    "choices": [
+      "Une modification aux documents d’appel d’offres émise avant la fermeture",
+      "Un formulaire de cautionnement",
+      "Un ordre de changement après l’adjudication",
+      "Une note de chantier sans effet contractuel"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Les addendas modifient les documents avant la fermeture et doivent être reconnus.",
+      "keywords": [
+        "Addenda",
+        "Appel d’offres",
+        "Fermeture"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Les dessins d’atelier sont :",
+    "choices": [
+      "Des documents contractuels en eux-mêmes",
+      "Des soumissions montrant la fabrication/l’installation prévues",
+      "Des dossiers de financement",
+      "Des ordres de changement"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Ils détaillent moyens/méthodes et données produits.",
+      "keywords": [
+        "Dessins d’atelier",
+        "Soumissions techniques"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une soumission conforme doit :",
+    "choices": [
+      "Respecter les exigences obligatoires et être déposée à l’heure",
+      "Être transmise après l’heure de fermeture",
+      "Inclure des dessins d’atelier",
+      "Être uniquement la plus basse"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "La conformité repose sur les exigences obligatoires et l’échéance.",
+      "keywords": [
+        "Conformité",
+        "Exigences obligatoires"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Les dessins d’atelier sont :",
+    "choices": [
+      "Des soumissions montrant la fabrication/l’installation prévues",
+      "Des documents contractuels en eux-mêmes",
+      "Des ordres de changement",
+      "Des dossiers de financement"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Ils détaillent moyens/méthodes et données produits.",
+      "keywords": [
+        "Dessins d’atelier",
+        "Soumissions techniques"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Le chemin critique est :",
+    "choices": [
+      "Uniquement les tâches non critiques",
+      "La chaîne la plus courte",
+      "Une contingence budgétaire",
+      "La plus longue chaîne de tâches dépendantes qui fixe la durée du projet"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Tout retard sur le chemin critique retarde la fin des travaux.",
+      "keywords": [
+        "Chemin critique",
+        "CPM"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une soumission conforme doit :",
+    "choices": [
+      "Respecter les exigences obligatoires et être déposée à l’heure",
+      "Être uniquement la plus basse",
+      "Être transmise après l’heure de fermeture",
+      "Inclure des dessins d’atelier"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "La conformité repose sur les exigences obligatoires et l’échéance.",
+      "keywords": [
+        "Conformité",
+        "Exigences obligatoires"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Le chemin critique est :",
+    "choices": [
+      "La chaîne la plus courte",
+      "Une contingence budgétaire",
+      "La plus longue chaîne de tâches dépendantes qui fixe la durée du projet",
+      "Uniquement les tâches non critiques"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Tout retard sur le chemin critique retarde la fin des travaux.",
+      "keywords": [
+        "Chemin critique",
+        "CPM"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Pendant l’appel d’offres, un addenda modifie la quincaillerie des portes. Qu’est-ce qu’un addenda?",
+    "choices": [
+      "Une modification aux documents d’appel d’offres émise avant la fermeture",
+      "Un ordre de changement après l’adjudication",
+      "Un formulaire de cautionnement",
+      "Une note de chantier sans effet contractuel"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Les addendas modifient les documents avant la fermeture et doivent être reconnus.",
+      "keywords": [
+        "Addenda",
+        "Appel d’offres",
+        "Fermeture"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une soumission conforme doit :",
+    "choices": [
+      "Être uniquement la plus basse",
+      "Être transmise après l’heure de fermeture",
+      "Inclure des dessins d’atelier",
+      "Respecter les exigences obligatoires et être déposée à l’heure"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "La conformité repose sur les exigences obligatoires et l’échéance.",
+      "keywords": [
+        "Conformité",
+        "Exigences obligatoires"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une soumission conforme doit :",
+    "choices": [
+      "Être uniquement la plus basse",
+      "Être transmise après l’heure de fermeture",
+      "Inclure des dessins d’atelier",
+      "Respecter les exigences obligatoires et être déposée à l’heure"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "La conformité repose sur les exigences obligatoires et l’échéance.",
+      "keywords": [
+        "Conformité",
+        "Exigences obligatoires"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une RFI (demande d’information) sert à :",
+    "choices": [
+      "Remplacer les devis",
+      "Modifier directement prix/délais",
+      "Approuver des paiements",
+      "Éclaircir des écarts ou obtenir une information manquante"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "La RFI clarifie; elle ne modifie pas le contrat par elle-même.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Les dessins d’atelier sont :",
+    "choices": [
+      "Des soumissions montrant la fabrication/l’installation prévues",
+      "Des ordres de changement",
+      "Des documents contractuels en eux-mêmes",
+      "Des dossiers de financement"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Ils détaillent moyens/méthodes et données produits.",
+      "keywords": [
+        "Dessins d’atelier",
+        "Soumissions techniques"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "L’architecte émet une instruction de chantier exigeant de détourner une gaine. L’impact d’ordonnancement raisonnable est :",
+    "choices": [
+      "Procéder sans documentation",
+      "Ignorer jusqu’à la clôture",
+      "Le facturer dans l’avancement sans avis",
+      "Émettre une RFI/demande de changement; évaluer l’impact temps; mettre à jour l’échéancier et le budget si approuvé"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Les changements doivent être documentés/évalués; exécuter sans autorisation = risque de non-paiement.",
+      "keywords": [
+        "Demande de changement",
+        "Impact d’échéancier",
+        "Avancement"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une soumission conforme doit :",
+    "choices": [
+      "Respecter les exigences obligatoires et être déposée à l’heure",
+      "Inclure des dessins d’atelier",
+      "Être uniquement la plus basse",
+      "Être transmise après l’heure de fermeture"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "La conformité repose sur les exigences obligatoires et l’échéance.",
+      "keywords": [
+        "Conformité",
+        "Exigences obligatoires"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une soumission conforme doit :",
+    "choices": [
+      "Respecter les exigences obligatoires et être déposée à l’heure",
+      "Être uniquement la plus basse",
+      "Être transmise après l’heure de fermeture",
+      "Inclure des dessins d’atelier"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "La conformité repose sur les exigences obligatoires et l’échéance.",
+      "keywords": [
+        "Conformité",
+        "Exigences obligatoires"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Les dessins d’atelier sont :",
+    "choices": [
+      "Des dossiers de financement",
+      "Des soumissions montrant la fabrication/l’installation prévues",
+      "Des ordres de changement",
+      "Des documents contractuels en eux-mêmes"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Ils détaillent moyens/méthodes et données produits.",
+      "keywords": [
+        "Dessins d’atelier",
+        "Soumissions techniques"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Les dessins d’atelier sont :",
+    "choices": [
+      "Des dossiers de financement",
+      "Des ordres de changement",
+      "Des documents contractuels en eux-mêmes",
+      "Des soumissions montrant la fabrication/l’installation prévues"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Ils détaillent moyens/méthodes et données produits.",
+      "keywords": [
+        "Dessins d’atelier",
+        "Soumissions techniques"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une soumission conforme doit :",
+    "choices": [
+      "Inclure des dessins d’atelier",
+      "Être transmise après l’heure de fermeture",
+      "Respecter les exigences obligatoires et être déposée à l’heure",
+      "Être uniquement la plus basse"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "La conformité repose sur les exigences obligatoires et l’échéance.",
+      "keywords": [
+        "Conformité",
+        "Exigences obligatoires"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "L’architecte émet une instruction de chantier exigeant de détourner une gaine. L’impact d’ordonnancement raisonnable est :",
+    "choices": [
+      "Émettre une RFI/demande de changement; évaluer l’impact temps; mettre à jour l’échéancier et le budget si approuvé",
+      "Le facturer dans l’avancement sans avis",
+      "Ignorer jusqu’à la clôture",
+      "Procéder sans documentation"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Les changements doivent être documentés/évalués; exécuter sans autorisation = risque de non-paiement.",
+      "keywords": [
+        "Demande de changement",
+        "Impact d’échéancier",
+        "Avancement"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Le chemin critique est :",
+    "choices": [
+      "La chaîne la plus courte",
+      "Une contingence budgétaire",
+      "Uniquement les tâches non critiques",
+      "La plus longue chaîne de tâches dépendantes qui fixe la durée du projet"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Tout retard sur le chemin critique retarde la fin des travaux.",
+      "keywords": [
+        "Chemin critique",
+        "CPM"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une RFI (demande d’information) sert à :",
+    "choices": [
+      "Modifier directement prix/délais",
+      "Éclaircir des écarts ou obtenir une information manquante",
+      "Remplacer les devis",
+      "Approuver des paiements"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "La RFI clarifie; elle ne modifie pas le contrat par elle-même.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Le chemin critique est :",
+    "choices": [
+      "Uniquement les tâches non critiques",
+      "La chaîne la plus courte",
+      "Une contingence budgétaire",
+      "La plus longue chaîne de tâches dépendantes qui fixe la durée du projet"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Tout retard sur le chemin critique retarde la fin des travaux.",
+      "keywords": [
+        "Chemin critique",
+        "CPM"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Le chemin critique est :",
+    "choices": [
+      "La plus longue chaîne de tâches dépendantes qui fixe la durée du projet",
+      "La chaîne la plus courte",
+      "Une contingence budgétaire",
+      "Uniquement les tâches non critiques"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Tout retard sur le chemin critique retarde la fin des travaux.",
+      "keywords": [
+        "Chemin critique",
+        "CPM"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une RFI (demande d’information) sert à :",
+    "choices": [
+      "Éclaircir des écarts ou obtenir une information manquante",
+      "Remplacer les devis",
+      "Approuver des paiements",
+      "Modifier directement prix/délais"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "La RFI clarifie; elle ne modifie pas le contrat par elle-même.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Les dessins d’atelier sont :",
+    "choices": [
+      "Des soumissions montrant la fabrication/l’installation prévues",
+      "Des dossiers de financement",
+      "Des ordres de changement",
+      "Des documents contractuels en eux-mêmes"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Ils détaillent moyens/méthodes et données produits.",
+      "keywords": [
+        "Dessins d’atelier",
+        "Soumissions techniques"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "L’architecte émet une instruction de chantier exigeant de détourner une gaine. L’impact d’ordonnancement raisonnable est :",
+    "choices": [
+      "Procéder sans documentation",
+      "Émettre une RFI/demande de changement; évaluer l’impact temps; mettre à jour l’échéancier et le budget si approuvé",
+      "Le facturer dans l’avancement sans avis",
+      "Ignorer jusqu’à la clôture"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Les changements doivent être documentés/évalués; exécuter sans autorisation = risque de non-paiement.",
+      "keywords": [
+        "Demande de changement",
+        "Impact d’échéancier",
+        "Avancement"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Pendant l’appel d’offres, un addenda modifie la quincaillerie des portes. Qu’est-ce qu’un addenda?",
+    "choices": [
+      "Une modification aux documents d’appel d’offres émise avant la fermeture",
+      "Un ordre de changement après l’adjudication",
+      "Un formulaire de cautionnement",
+      "Une note de chantier sans effet contractuel"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Les addendas modifient les documents avant la fermeture et doivent être reconnus.",
+      "keywords": [
+        "Addenda",
+        "Appel d’offres",
+        "Fermeture"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Les dessins d’atelier sont :",
+    "choices": [
+      "Des dossiers de financement",
+      "Des ordres de changement",
+      "Des documents contractuels en eux-mêmes",
+      "Des soumissions montrant la fabrication/l’installation prévues"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Ils détaillent moyens/méthodes et données produits.",
+      "keywords": [
+        "Dessins d’atelier",
+        "Soumissions techniques"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Les dessins d’atelier sont :",
+    "choices": [
+      "Des soumissions montrant la fabrication/l’installation prévues",
+      "Des documents contractuels en eux-mêmes",
+      "Des ordres de changement",
+      "Des dossiers de financement"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Ils détaillent moyens/méthodes et données produits.",
+      "keywords": [
+        "Dessins d’atelier",
+        "Soumissions techniques"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Les dessins d’atelier sont :",
+    "choices": [
+      "Des soumissions montrant la fabrication/l’installation prévues",
+      "Des documents contractuels en eux-mêmes",
+      "Des ordres de changement",
+      "Des dossiers de financement"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Ils détaillent moyens/méthodes et données produits.",
+      "keywords": [
+        "Dessins d’atelier",
+        "Soumissions techniques"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une soumission conforme doit :",
+    "choices": [
+      "Inclure des dessins d’atelier",
+      "Respecter les exigences obligatoires et être déposée à l’heure",
+      "Être transmise après l’heure de fermeture",
+      "Être uniquement la plus basse"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "La conformité repose sur les exigences obligatoires et l’échéance.",
+      "keywords": [
+        "Conformité",
+        "Exigences obligatoires"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Pendant l’appel d’offres, un addenda modifie la quincaillerie des portes. Qu’est-ce qu’un addenda?",
+    "choices": [
+      "Une modification aux documents d’appel d’offres émise avant la fermeture",
+      "Un ordre de changement après l’adjudication",
+      "Une note de chantier sans effet contractuel",
+      "Un formulaire de cautionnement"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Les addendas modifient les documents avant la fermeture et doivent être reconnus.",
+      "keywords": [
+        "Addenda",
+        "Appel d’offres",
+        "Fermeture"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "L’architecte émet une instruction de chantier exigeant de détourner une gaine. L’impact d’ordonnancement raisonnable est :",
+    "choices": [
+      "Ignorer jusqu’à la clôture",
+      "Émettre une RFI/demande de changement; évaluer l’impact temps; mettre à jour l’échéancier et le budget si approuvé",
+      "Le facturer dans l’avancement sans avis",
+      "Procéder sans documentation"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Les changements doivent être documentés/évalués; exécuter sans autorisation = risque de non-paiement.",
+      "keywords": [
+        "Demande de changement",
+        "Impact d’échéancier",
+        "Avancement"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "L’architecte émet une instruction de chantier exigeant de détourner une gaine. L’impact d’ordonnancement raisonnable est :",
+    "choices": [
+      "Émettre une RFI/demande de changement; évaluer l’impact temps; mettre à jour l’échéancier et le budget si approuvé",
+      "Le facturer dans l’avancement sans avis",
+      "Procéder sans documentation",
+      "Ignorer jusqu’à la clôture"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Les changements doivent être documentés/évalués; exécuter sans autorisation = risque de non-paiement.",
+      "keywords": [
+        "Demande de changement",
+        "Impact d’échéancier",
+        "Avancement"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une RFI (demande d’information) sert à :",
+    "choices": [
+      "Remplacer les devis",
+      "Éclaircir des écarts ou obtenir une information manquante",
+      "Approuver des paiements",
+      "Modifier directement prix/délais"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "La RFI clarifie; elle ne modifie pas le contrat par elle-même.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Le chemin critique est :",
+    "choices": [
+      "Uniquement les tâches non critiques",
+      "La plus longue chaîne de tâches dépendantes qui fixe la durée du projet",
+      "Une contingence budgétaire",
+      "La chaîne la plus courte"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Tout retard sur le chemin critique retarde la fin des travaux.",
+      "keywords": [
+        "Chemin critique",
+        "CPM"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "L’architecte émet une instruction de chantier exigeant de détourner une gaine. L’impact d’ordonnancement raisonnable est :",
+    "choices": [
+      "Émettre une RFI/demande de changement; évaluer l’impact temps; mettre à jour l’échéancier et le budget si approuvé",
+      "Procéder sans documentation",
+      "Le facturer dans l’avancement sans avis",
+      "Ignorer jusqu’à la clôture"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Les changements doivent être documentés/évalués; exécuter sans autorisation = risque de non-paiement.",
+      "keywords": [
+        "Demande de changement",
+        "Impact d’échéancier",
+        "Avancement"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Le chemin critique est :",
+    "choices": [
+      "La chaîne la plus courte",
+      "Une contingence budgétaire",
+      "La plus longue chaîne de tâches dépendantes qui fixe la durée du projet",
+      "Uniquement les tâches non critiques"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Tout retard sur le chemin critique retarde la fin des travaux.",
+      "keywords": [
+        "Chemin critique",
+        "CPM"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Les dessins d’atelier sont :",
+    "choices": [
+      "Des dossiers de financement",
+      "Des ordres de changement",
+      "Des documents contractuels en eux-mêmes",
+      "Des soumissions montrant la fabrication/l’installation prévues"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Ils détaillent moyens/méthodes et données produits.",
+      "keywords": [
+        "Dessins d’atelier",
+        "Soumissions techniques"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "L’architecte émet une instruction de chantier exigeant de détourner une gaine. L’impact d’ordonnancement raisonnable est :",
+    "choices": [
+      "Procéder sans documentation",
+      "Émettre une RFI/demande de changement; évaluer l’impact temps; mettre à jour l’échéancier et le budget si approuvé",
+      "Ignorer jusqu’à la clôture",
+      "Le facturer dans l’avancement sans avis"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Les changements doivent être documentés/évalués; exécuter sans autorisation = risque de non-paiement.",
+      "keywords": [
+        "Demande de changement",
+        "Impact d’échéancier",
+        "Avancement"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "L’architecte émet une instruction de chantier exigeant de détourner une gaine. L’impact d’ordonnancement raisonnable est :",
+    "choices": [
+      "Procéder sans documentation",
+      "Émettre une RFI/demande de changement; évaluer l’impact temps; mettre à jour l’échéancier et le budget si approuvé",
+      "Ignorer jusqu’à la clôture",
+      "Le facturer dans l’avancement sans avis"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Les changements doivent être documentés/évalués; exécuter sans autorisation = risque de non-paiement.",
+      "keywords": [
+        "Demande de changement",
+        "Impact d’échéancier",
+        "Avancement"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une soumission conforme doit :",
+    "choices": [
+      "Inclure des dessins d’atelier",
+      "Être uniquement la plus basse",
+      "Respecter les exigences obligatoires et être déposée à l’heure",
+      "Être transmise après l’heure de fermeture"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "La conformité repose sur les exigences obligatoires et l’échéance.",
+      "keywords": [
+        "Conformité",
+        "Exigences obligatoires"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une RFI (demande d’information) sert à :",
+    "choices": [
+      "Éclaircir des écarts ou obtenir une information manquante",
+      "Modifier directement prix/délais",
+      "Approuver des paiements",
+      "Remplacer les devis"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "La RFI clarifie; elle ne modifie pas le contrat par elle-même.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Le chemin critique est :",
+    "choices": [
+      "Une contingence budgétaire",
+      "La plus longue chaîne de tâches dépendantes qui fixe la durée du projet",
+      "La chaîne la plus courte",
+      "Uniquement les tâches non critiques"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Tout retard sur le chemin critique retarde la fin des travaux.",
+      "keywords": [
+        "Chemin critique",
+        "CPM"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une RFI (demande d’information) sert à :",
+    "choices": [
+      "Approuver des paiements",
+      "Modifier directement prix/délais",
+      "Remplacer les devis",
+      "Éclaircir des écarts ou obtenir une information manquante"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "La RFI clarifie; elle ne modifie pas le contrat par elle-même.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une RFI (demande d’information) sert à :",
+    "choices": [
+      "Modifier directement prix/délais",
+      "Éclaircir des écarts ou obtenir une information manquante",
+      "Remplacer les devis",
+      "Approuver des paiements"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "La RFI clarifie; elle ne modifie pas le contrat par elle-même.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "L’architecte émet une instruction de chantier exigeant de détourner une gaine. L’impact d’ordonnancement raisonnable est :",
+    "choices": [
+      "Émettre une RFI/demande de changement; évaluer l’impact temps; mettre à jour l’échéancier et le budget si approuvé",
+      "Procéder sans documentation",
+      "Le facturer dans l’avancement sans avis",
+      "Ignorer jusqu’à la clôture"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Les changements doivent être documentés/évalués; exécuter sans autorisation = risque de non-paiement.",
+      "keywords": [
+        "Demande de changement",
+        "Impact d’échéancier",
+        "Avancement"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une RFI (demande d’information) sert à :",
+    "choices": [
+      "Approuver des paiements",
+      "Remplacer les devis",
+      "Modifier directement prix/délais",
+      "Éclaircir des écarts ou obtenir une information manquante"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "La RFI clarifie; elle ne modifie pas le contrat par elle-même.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une soumission conforme doit :",
+    "choices": [
+      "Respecter les exigences obligatoires et être déposée à l’heure",
+      "Inclure des dessins d’atelier",
+      "Être uniquement la plus basse",
+      "Être transmise après l’heure de fermeture"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "La conformité repose sur les exigences obligatoires et l’échéance.",
+      "keywords": [
+        "Conformité",
+        "Exigences obligatoires"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une soumission conforme doit :",
+    "choices": [
+      "Être uniquement la plus basse",
+      "Respecter les exigences obligatoires et être déposée à l’heure",
+      "Inclure des dessins d’atelier",
+      "Être transmise après l’heure de fermeture"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "La conformité repose sur les exigences obligatoires et l’échéance.",
+      "keywords": [
+        "Conformité",
+        "Exigences obligatoires"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Pendant l’appel d’offres, un addenda modifie la quincaillerie des portes. Qu’est-ce qu’un addenda?",
+    "choices": [
+      "Une note de chantier sans effet contractuel",
+      "Une modification aux documents d’appel d’offres émise avant la fermeture",
+      "Un ordre de changement après l’adjudication",
+      "Un formulaire de cautionnement"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Les addendas modifient les documents avant la fermeture et doivent être reconnus.",
+      "keywords": [
+        "Addenda",
+        "Appel d’offres",
+        "Fermeture"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Les dessins d’atelier sont :",
+    "choices": [
+      "Des dossiers de financement",
+      "Des documents contractuels en eux-mêmes",
+      "Des ordres de changement",
+      "Des soumissions montrant la fabrication/l’installation prévues"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Ils détaillent moyens/méthodes et données produits.",
+      "keywords": [
+        "Dessins d’atelier",
+        "Soumissions techniques"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Les dessins d’atelier sont :",
+    "choices": [
+      "Des ordres de changement",
+      "Des dossiers de financement",
+      "Des soumissions montrant la fabrication/l’installation prévues",
+      "Des documents contractuels en eux-mêmes"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Ils détaillent moyens/méthodes et données produits.",
+      "keywords": [
+        "Dessins d’atelier",
+        "Soumissions techniques"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une RFI (demande d’information) sert à :",
+    "choices": [
+      "Remplacer les devis",
+      "Approuver des paiements",
+      "Modifier directement prix/délais",
+      "Éclaircir des écarts ou obtenir une information manquante"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "La RFI clarifie; elle ne modifie pas le contrat par elle-même.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "L’architecte émet une instruction de chantier exigeant de détourner une gaine. L’impact d’ordonnancement raisonnable est :",
+    "choices": [
+      "Émettre une RFI/demande de changement; évaluer l’impact temps; mettre à jour l’échéancier et le budget si approuvé",
+      "Le facturer dans l’avancement sans avis",
+      "Procéder sans documentation",
+      "Ignorer jusqu’à la clôture"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Les changements doivent être documentés/évalués; exécuter sans autorisation = risque de non-paiement.",
+      "keywords": [
+        "Demande de changement",
+        "Impact d’échéancier",
+        "Avancement"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une RFI (demande d’information) sert à :",
+    "choices": [
+      "Approuver des paiements",
+      "Remplacer les devis",
+      "Éclaircir des écarts ou obtenir une information manquante",
+      "Modifier directement prix/délais"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "La RFI clarifie; elle ne modifie pas le contrat par elle-même.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Le chemin critique est :",
+    "choices": [
+      "La plus longue chaîne de tâches dépendantes qui fixe la durée du projet",
+      "Une contingence budgétaire",
+      "Uniquement les tâches non critiques",
+      "La chaîne la plus courte"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Tout retard sur le chemin critique retarde la fin des travaux.",
+      "keywords": [
+        "Chemin critique",
+        "CPM"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Pendant l’appel d’offres, un addenda modifie la quincaillerie des portes. Qu’est-ce qu’un addenda?",
+    "choices": [
+      "Un ordre de changement après l’adjudication",
+      "Une modification aux documents d’appel d’offres émise avant la fermeture",
+      "Un formulaire de cautionnement",
+      "Une note de chantier sans effet contractuel"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Les addendas modifient les documents avant la fermeture et doivent être reconnus.",
+      "keywords": [
+        "Addenda",
+        "Appel d’offres",
+        "Fermeture"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Pendant l’appel d’offres, un addenda modifie la quincaillerie des portes. Qu’est-ce qu’un addenda?",
+    "choices": [
+      "Un ordre de changement après l’adjudication",
+      "Un formulaire de cautionnement",
+      "Une note de chantier sans effet contractuel",
+      "Une modification aux documents d’appel d’offres émise avant la fermeture"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Les addendas modifient les documents avant la fermeture et doivent être reconnus.",
+      "keywords": [
+        "Addenda",
+        "Appel d’offres",
+        "Fermeture"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une soumission conforme doit :",
+    "choices": [
+      "Inclure des dessins d’atelier",
+      "Respecter les exigences obligatoires et être déposée à l’heure",
+      "Être uniquement la plus basse",
+      "Être transmise après l’heure de fermeture"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "La conformité repose sur les exigences obligatoires et l’échéance.",
+      "keywords": [
+        "Conformité",
+        "Exigences obligatoires"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Pendant l’appel d’offres, un addenda modifie la quincaillerie des portes. Qu’est-ce qu’un addenda?",
+    "choices": [
+      "Une modification aux documents d’appel d’offres émise avant la fermeture",
+      "Un ordre de changement après l’adjudication",
+      "Une note de chantier sans effet contractuel",
+      "Un formulaire de cautionnement"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Les addendas modifient les documents avant la fermeture et doivent être reconnus.",
+      "keywords": [
+        "Addenda",
+        "Appel d’offres",
+        "Fermeture"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une soumission conforme doit :",
+    "choices": [
+      "Être transmise après l’heure de fermeture",
+      "Être uniquement la plus basse",
+      "Inclure des dessins d’atelier",
+      "Respecter les exigences obligatoires et être déposée à l’heure"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "La conformité repose sur les exigences obligatoires et l’échéance.",
+      "keywords": [
+        "Conformité",
+        "Exigences obligatoires"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Les dessins d’atelier sont :",
+    "choices": [
+      "Des soumissions montrant la fabrication/l’installation prévues",
+      "Des documents contractuels en eux-mêmes",
+      "Des dossiers de financement",
+      "Des ordres de changement"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Ils détaillent moyens/méthodes et données produits.",
+      "keywords": [
+        "Dessins d’atelier",
+        "Soumissions techniques"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une RFI (demande d’information) sert à :",
+    "choices": [
+      "Éclaircir des écarts ou obtenir une information manquante",
+      "Remplacer les devis",
+      "Modifier directement prix/délais",
+      "Approuver des paiements"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "La RFI clarifie; elle ne modifie pas le contrat par elle-même.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Les dessins d’atelier sont :",
+    "choices": [
+      "Des dossiers de financement",
+      "Des ordres de changement",
+      "Des soumissions montrant la fabrication/l’installation prévues",
+      "Des documents contractuels en eux-mêmes"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Ils détaillent moyens/méthodes et données produits.",
+      "keywords": [
+        "Dessins d’atelier",
+        "Soumissions techniques"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Pendant l’appel d’offres, un addenda modifie la quincaillerie des portes. Qu’est-ce qu’un addenda?",
+    "choices": [
+      "Un formulaire de cautionnement",
+      "Une note de chantier sans effet contractuel",
+      "Une modification aux documents d’appel d’offres émise avant la fermeture",
+      "Un ordre de changement après l’adjudication"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Les addendas modifient les documents avant la fermeture et doivent être reconnus.",
+      "keywords": [
+        "Addenda",
+        "Appel d’offres",
+        "Fermeture"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une soumission conforme doit :",
+    "choices": [
+      "Être uniquement la plus basse",
+      "Inclure des dessins d’atelier",
+      "Être transmise après l’heure de fermeture",
+      "Respecter les exigences obligatoires et être déposée à l’heure"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "La conformité repose sur les exigences obligatoires et l’échéance.",
+      "keywords": [
+        "Conformité",
+        "Exigences obligatoires"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Pendant l’appel d’offres, un addenda modifie la quincaillerie des portes. Qu’est-ce qu’un addenda?",
+    "choices": [
+      "Un ordre de changement après l’adjudication",
+      "Une modification aux documents d’appel d’offres émise avant la fermeture",
+      "Un formulaire de cautionnement",
+      "Une note de chantier sans effet contractuel"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Les addendas modifient les documents avant la fermeture et doivent être reconnus.",
+      "keywords": [
+        "Addenda",
+        "Appel d’offres",
+        "Fermeture"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une RFI (demande d’information) sert à :",
+    "choices": [
+      "Approuver des paiements",
+      "Éclaircir des écarts ou obtenir une information manquante",
+      "Modifier directement prix/délais",
+      "Remplacer les devis"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "La RFI clarifie; elle ne modifie pas le contrat par elle-même.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Le chemin critique est :",
+    "choices": [
+      "La chaîne la plus courte",
+      "Une contingence budgétaire",
+      "Uniquement les tâches non critiques",
+      "La plus longue chaîne de tâches dépendantes qui fixe la durée du projet"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Tout retard sur le chemin critique retarde la fin des travaux.",
+      "keywords": [
+        "Chemin critique",
+        "CPM"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "L’architecte émet une instruction de chantier exigeant de détourner une gaine. L’impact d’ordonnancement raisonnable est :",
+    "choices": [
+      "Procéder sans documentation",
+      "Le facturer dans l’avancement sans avis",
+      "Ignorer jusqu’à la clôture",
+      "Émettre une RFI/demande de changement; évaluer l’impact temps; mettre à jour l’échéancier et le budget si approuvé"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Les changements doivent être documentés/évalués; exécuter sans autorisation = risque de non-paiement.",
+      "keywords": [
+        "Demande de changement",
+        "Impact d’échéancier",
+        "Avancement"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une RFI (demande d’information) sert à :",
+    "choices": [
+      "Remplacer les devis",
+      "Éclaircir des écarts ou obtenir une information manquante",
+      "Approuver des paiements",
+      "Modifier directement prix/délais"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "La RFI clarifie; elle ne modifie pas le contrat par elle-même.",
+      "keywords": [
+        "RFI",
+        "Clarification"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Le chemin critique est :",
+    "choices": [
+      "Une contingence budgétaire",
+      "La plus longue chaîne de tâches dépendantes qui fixe la durée du projet",
+      "La chaîne la plus courte",
+      "Uniquement les tâches non critiques"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Tout retard sur le chemin critique retarde la fin des travaux.",
+      "keywords": [
+        "Chemin critique",
+        "CPM"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une soumission conforme doit :",
+    "choices": [
+      "Inclure des dessins d’atelier",
+      "Être transmise après l’heure de fermeture",
+      "Être uniquement la plus basse",
+      "Respecter les exigences obligatoires et être déposée à l’heure"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "La conformité repose sur les exigences obligatoires et l’échéance.",
+      "keywords": [
+        "Conformité",
+        "Exigences obligatoires"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "L’architecte émet une instruction de chantier exigeant de détourner une gaine. L’impact d’ordonnancement raisonnable est :",
+    "choices": [
+      "Ignorer jusqu’à la clôture",
+      "Procéder sans documentation",
+      "Le facturer dans l’avancement sans avis",
+      "Émettre une RFI/demande de changement; évaluer l’impact temps; mettre à jour l’échéancier et le budget si approuvé"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Les changements doivent être documentés/évalués; exécuter sans autorisation = risque de non-paiement.",
+      "keywords": [
+        "Demande de changement",
+        "Impact d’échéancier",
+        "Avancement"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Le chemin critique est :",
+    "choices": [
+      "Uniquement les tâches non critiques",
+      "La plus longue chaîne de tâches dépendantes qui fixe la durée du projet",
+      "Une contingence budgétaire",
+      "La chaîne la plus courte"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Tout retard sur le chemin critique retarde la fin des travaux.",
+      "keywords": [
+        "Chemin critique",
+        "CPM"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Le chemin critique est :",
+    "choices": [
+      "Uniquement les tâches non critiques",
+      "Une contingence budgétaire",
+      "La chaîne la plus courte",
+      "La plus longue chaîne de tâches dépendantes qui fixe la durée du projet"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Tout retard sur le chemin critique retarde la fin des travaux.",
+      "keywords": [
+        "Chemin critique",
+        "CPM"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Pendant l’appel d’offres, un addenda modifie la quincaillerie des portes. Qu’est-ce qu’un addenda?",
+    "choices": [
+      "Un ordre de changement après l’adjudication",
+      "Une note de chantier sans effet contractuel",
+      "Une modification aux documents d’appel d’offres émise avant la fermeture",
+      "Un formulaire de cautionnement"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Les addendas modifient les documents avant la fermeture et doivent être reconnus.",
+      "keywords": [
+        "Addenda",
+        "Appel d’offres",
+        "Fermeture"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Les dessins d’atelier sont :",
+    "choices": [
+      "Des soumissions montrant la fabrication/l’installation prévues",
+      "Des dossiers de financement",
+      "Des ordres de changement",
+      "Des documents contractuels en eux-mêmes"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Ils détaillent moyens/méthodes et données produits.",
+      "keywords": [
+        "Dessins d’atelier",
+        "Soumissions techniques"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Les dessins d’atelier sont :",
+    "choices": [
+      "Des dossiers de financement",
+      "Des ordres de changement",
+      "Des soumissions montrant la fabrication/l’installation prévues",
+      "Des documents contractuels en eux-mêmes"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Ils détaillent moyens/méthodes et données produits.",
+      "keywords": [
+        "Dessins d’atelier",
+        "Soumissions techniques"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une soumission conforme doit :",
+    "choices": [
+      "Être transmise après l’heure de fermeture",
+      "Respecter les exigences obligatoires et être déposée à l’heure",
+      "Être uniquement la plus basse",
+      "Inclure des dessins d’atelier"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "La conformité repose sur les exigences obligatoires et l’échéance.",
+      "keywords": [
+        "Conformité",
+        "Exigences obligatoires"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Pendant l’appel d’offres, un addenda modifie la quincaillerie des portes. Qu’est-ce qu’un addenda?",
+    "choices": [
+      "Un ordre de changement après l’adjudication",
+      "Un formulaire de cautionnement",
+      "Une note de chantier sans effet contractuel",
+      "Une modification aux documents d’appel d’offres émise avant la fermeture"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Les addendas modifient les documents avant la fermeture et doivent être reconnus.",
+      "keywords": [
+        "Addenda",
+        "Appel d’offres",
+        "Fermeture"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Pendant l’appel d’offres, un addenda modifie la quincaillerie des portes. Qu’est-ce qu’un addenda?",
+    "choices": [
+      "Un ordre de changement après l’adjudication",
+      "Une note de chantier sans effet contractuel",
+      "Une modification aux documents d’appel d’offres émise avant la fermeture",
+      "Un formulaire de cautionnement"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Les addendas modifient les documents avant la fermeture et doivent être reconnus.",
+      "keywords": [
+        "Addenda",
+        "Appel d’offres",
+        "Fermeture"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Le chemin critique est :",
+    "choices": [
+      "La chaîne la plus courte",
+      "Une contingence budgétaire",
+      "Uniquement les tâches non critiques",
+      "La plus longue chaîne de tâches dépendantes qui fixe la durée du projet"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Tout retard sur le chemin critique retarde la fin des travaux.",
+      "keywords": [
+        "Chemin critique",
+        "CPM"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Les dessins d’atelier sont :",
+    "choices": [
+      "Des soumissions montrant la fabrication/l’installation prévues",
+      "Des dossiers de financement",
+      "Des ordres de changement",
+      "Des documents contractuels en eux-mêmes"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Ils détaillent moyens/méthodes et données produits.",
+      "keywords": [
+        "Dessins d’atelier",
+        "Soumissions techniques"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Les dessins d’atelier sont :",
+    "choices": [
+      "Des documents contractuels en eux-mêmes",
+      "Des dossiers de financement",
+      "Des soumissions montrant la fabrication/l’installation prévues",
+      "Des ordres de changement"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Ils détaillent moyens/méthodes et données produits.",
+      "keywords": [
+        "Dessins d’atelier",
+        "Soumissions techniques"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  },
+  {
+    "question": "Une soumission conforme doit :",
+    "choices": [
+      "Inclure des dessins d’atelier",
+      "Être transmise après l’heure de fermeture",
+      "Être uniquement la plus basse",
+      "Respecter les exigences obligatoires et être déposée à l’heure"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "La conformité repose sur les exigences obligatoires et l’échéance.",
+      "keywords": [
+        "Conformité",
+        "Exigences obligatoires"
+      ],
+      "example": "Tenir à jour le registre addendas/RFI et synchroniser avec l’échéancier.",
+      "rationales": [
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "❌ Brise le contrôle des changements ou redéfinit mal les notions.",
+        "✅ Contrôle de projet conforme."
+      ],
+      "refs": [
+        "Contrôles de projet; CPM; flux de soumissions"
+      ]
+    }
+  }
+]

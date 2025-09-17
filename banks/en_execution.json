@@ -1,0 +1,2788 @@
+[
+  {
+    "question": "Backfilling in compacted lifts allows:",
+    "choices": [
+      "Proper compaction to achieve required density",
+      "Cheaper labour with no downside",
+      "Less testing forever",
+      "Faster trucking only"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Lift compaction achieves uniform density and bearing.",
+      "keywords": [
+        "Backfill",
+        "Compaction"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Concrete compressive strength is typically verified by:",
+    "choices": [
+      "Laboratory cylinder break tests at specified ages",
+      "Slump test only",
+      "Visual inspection only",
+      "Torque-wrench readings"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Strength is measured by standard lab tests.",
+      "keywords": [
+        "Concrete",
+        "Compression tests",
+        "QC"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Backfilling in compacted lifts allows:",
+    "choices": [
+      "Less testing forever",
+      "Faster trucking only",
+      "Proper compaction to achieve required density",
+      "Cheaper labour with no downside"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Lift compaction achieves uniform density and bearing.",
+      "keywords": [
+        "Backfill",
+        "Compaction"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Backfilling in compacted lifts allows:",
+    "choices": [
+      "Faster trucking only",
+      "Less testing forever",
+      "Proper compaction to achieve required density",
+      "Cheaper labour with no downside"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Lift compaction achieves uniform density and bearing.",
+      "keywords": [
+        "Backfill",
+        "Compaction"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Firestopping ensures that:",
+    "choices": [
+      "Penetrations maintain the required fire-resistance rating",
+      "Perfect sound isolation",
+      "Paint adheres better",
+      "Always increases R-value"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Rated systems maintain compartmentation.",
+      "keywords": [
+        "Firestopping",
+        "Rating",
+        "Penetrations"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Exterior insulation systems (e.g., mineral wool/EIFS) must ensure:",
+    "choices": [
+      "Fasteners only through air barrier",
+      "Continuous thermal layer without major thermal bridges",
+      "Paint solves all thermal issues",
+      "Gaps to ventilate heat out"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Continuity minimizes thermal bridging and condensation risk.",
+      "keywords": [
+        "Insulation",
+        "Thermal bridges",
+        "Envelope"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Electrical conductor sizing should consider:",
+    "choices": [
+      "Ampacity, temperature rating, derating, and code tables",
+      "Conduit colour",
+      "Label design",
+      "Sticker price"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Code calculations and conditions determine conductor size.",
+      "keywords": [
+        "Electrical",
+        "Ampacity",
+        "Code"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Roofing tie-ins and penetrations require:",
+    "choices": [
+      "Duct tape under ballast",
+      "Compatible membranes, proper flashing, and inspection",
+      "No inspection in dry weather",
+      "Any sealant available"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Waterproofing relies on compatible systems and detailing.",
+      "keywords": [
+        "Roofing",
+        "Flashing",
+        "Waterproofing"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Electrical conductor sizing should consider:",
+    "choices": [
+      "Sticker price",
+      "Ampacity, temperature rating, derating, and code tables",
+      "Label design",
+      "Conduit colour"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Code calculations and conditions determine conductor size.",
+      "keywords": [
+        "Electrical",
+        "Ampacity",
+        "Code"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Backfilling in compacted lifts allows:",
+    "choices": [
+      "Faster trucking only",
+      "Less testing forever",
+      "Proper compaction to achieve required density",
+      "Cheaper labour with no downside"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Lift compaction achieves uniform density and bearing.",
+      "keywords": [
+        "Backfill",
+        "Compaction"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Minimum concrete cover serves mainly to:",
+    "choices": [
+      "Keep formwork from swelling",
+      "Stop tiles cracking",
+      "Prevent paint peeling",
+      "Protect reinforcement from corrosion and provide fire resistance"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Cover shields rebar from corrosive agents and heat.",
+      "keywords": [
+        "Rebar cover",
+        "Durability",
+        "Fire"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Roofing tie-ins and penetrations require:",
+    "choices": [
+      "Duct tape under ballast",
+      "No inspection in dry weather",
+      "Compatible membranes, proper flashing, and inspection",
+      "Any sealant available"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Waterproofing relies on compatible systems and detailing.",
+      "keywords": [
+        "Roofing",
+        "Flashing",
+        "Waterproofing"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Electrical conductor sizing should consider:",
+    "choices": [
+      "Sticker price",
+      "Label design",
+      "Ampacity, temperature rating, derating, and code tables",
+      "Conduit colour"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Code calculations and conditions determine conductor size.",
+      "keywords": [
+        "Electrical",
+        "Ampacity",
+        "Code"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Exterior insulation systems (e.g., mineral wool/EIFS) must ensure:",
+    "choices": [
+      "Continuous thermal layer without major thermal bridges",
+      "Fasteners only through air barrier",
+      "Gaps to ventilate heat out",
+      "Paint solves all thermal issues"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Continuity minimizes thermal bridging and condensation risk.",
+      "keywords": [
+        "Insulation",
+        "Thermal bridges",
+        "Envelope"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Concrete compressive strength is typically verified by:",
+    "choices": [
+      "Torque-wrench readings",
+      "Visual inspection only",
+      "Slump test only",
+      "Laboratory cylinder break tests at specified ages"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Strength is measured by standard lab tests.",
+      "keywords": [
+        "Concrete",
+        "Compression tests",
+        "QC"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "HVAC commissioning typically includes:",
+    "choices": [
+      "Air/water balancing and controls verification",
+      "Tax audits",
+      "Painting ducts",
+      "Counting registers"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Commissioning verifies performance and control sequences.",
+      "keywords": [
+        "Commissioning",
+        "TAB",
+        "Controls"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Concrete compressive strength is typically verified by:",
+    "choices": [
+      "Torque-wrench readings",
+      "Visual inspection only",
+      "Slump test only",
+      "Laboratory cylinder break tests at specified ages"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Strength is measured by standard lab tests.",
+      "keywords": [
+        "Concrete",
+        "Compression tests",
+        "QC"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Exterior insulation systems (e.g., mineral wool/EIFS) must ensure:",
+    "choices": [
+      "Gaps to ventilate heat out",
+      "Continuous thermal layer without major thermal bridges",
+      "Paint solves all thermal issues",
+      "Fasteners only through air barrier"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Continuity minimizes thermal bridging and condensation risk.",
+      "keywords": [
+        "Insulation",
+        "Thermal bridges",
+        "Envelope"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Minimum concrete cover serves mainly to:",
+    "choices": [
+      "Stop tiles cracking",
+      "Prevent paint peeling",
+      "Protect reinforcement from corrosion and provide fire resistance",
+      "Keep formwork from swelling"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Cover shields rebar from corrosive agents and heat.",
+      "keywords": [
+        "Rebar cover",
+        "Durability",
+        "Fire"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Electrical conductor sizing should consider:",
+    "choices": [
+      "Sticker price",
+      "Ampacity, temperature rating, derating, and code tables",
+      "Conduit colour",
+      "Label design"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Code calculations and conditions determine conductor size.",
+      "keywords": [
+        "Electrical",
+        "Ampacity",
+        "Code"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Roofing tie-ins and penetrations require:",
+    "choices": [
+      "Any sealant available",
+      "No inspection in dry weather",
+      "Duct tape under ballast",
+      "Compatible membranes, proper flashing, and inspection"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Waterproofing relies on compatible systems and detailing.",
+      "keywords": [
+        "Roofing",
+        "Flashing",
+        "Waterproofing"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Electrical conductor sizing should consider:",
+    "choices": [
+      "Label design",
+      "Conduit colour",
+      "Ampacity, temperature rating, derating, and code tables",
+      "Sticker price"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Code calculations and conditions determine conductor size.",
+      "keywords": [
+        "Electrical",
+        "Ampacity",
+        "Code"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Exterior insulation systems (e.g., mineral wool/EIFS) must ensure:",
+    "choices": [
+      "Gaps to ventilate heat out",
+      "Continuous thermal layer without major thermal bridges",
+      "Paint solves all thermal issues",
+      "Fasteners only through air barrier"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Continuity minimizes thermal bridging and condensation risk.",
+      "keywords": [
+        "Insulation",
+        "Thermal bridges",
+        "Envelope"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Firestopping ensures that:",
+    "choices": [
+      "Always increases R-value",
+      "Perfect sound isolation",
+      "Paint adheres better",
+      "Penetrations maintain the required fire-resistance rating"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Rated systems maintain compartmentation.",
+      "keywords": [
+        "Firestopping",
+        "Rating",
+        "Penetrations"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Electrical conductor sizing should consider:",
+    "choices": [
+      "Conduit colour",
+      "Label design",
+      "Ampacity, temperature rating, derating, and code tables",
+      "Sticker price"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Code calculations and conditions determine conductor size.",
+      "keywords": [
+        "Electrical",
+        "Ampacity",
+        "Code"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Roofing tie-ins and penetrations require:",
+    "choices": [
+      "Any sealant available",
+      "Duct tape under ballast",
+      "No inspection in dry weather",
+      "Compatible membranes, proper flashing, and inspection"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Waterproofing relies on compatible systems and detailing.",
+      "keywords": [
+        "Roofing",
+        "Flashing",
+        "Waterproofing"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Firestopping ensures that:",
+    "choices": [
+      "Penetrations maintain the required fire-resistance rating",
+      "Always increases R-value",
+      "Paint adheres better",
+      "Perfect sound isolation"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Rated systems maintain compartmentation.",
+      "keywords": [
+        "Firestopping",
+        "Rating",
+        "Penetrations"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Firestopping ensures that:",
+    "choices": [
+      "Penetrations maintain the required fire-resistance rating",
+      "Perfect sound isolation",
+      "Always increases R-value",
+      "Paint adheres better"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Rated systems maintain compartmentation.",
+      "keywords": [
+        "Firestopping",
+        "Rating",
+        "Penetrations"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Firestopping ensures that:",
+    "choices": [
+      "Penetrations maintain the required fire-resistance rating",
+      "Paint adheres better",
+      "Perfect sound isolation",
+      "Always increases R-value"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Rated systems maintain compartmentation.",
+      "keywords": [
+        "Firestopping",
+        "Rating",
+        "Penetrations"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Electrical conductor sizing should consider:",
+    "choices": [
+      "Ampacity, temperature rating, derating, and code tables",
+      "Conduit colour",
+      "Sticker price",
+      "Label design"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Code calculations and conditions determine conductor size.",
+      "keywords": [
+        "Electrical",
+        "Ampacity",
+        "Code"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Exterior insulation systems (e.g., mineral wool/EIFS) must ensure:",
+    "choices": [
+      "Paint solves all thermal issues",
+      "Fasteners only through air barrier",
+      "Gaps to ventilate heat out",
+      "Continuous thermal layer without major thermal bridges"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Continuity minimizes thermal bridging and condensation risk.",
+      "keywords": [
+        "Insulation",
+        "Thermal bridges",
+        "Envelope"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Minimum concrete cover serves mainly to:",
+    "choices": [
+      "Protect reinforcement from corrosion and provide fire resistance",
+      "Prevent paint peeling",
+      "Stop tiles cracking",
+      "Keep formwork from swelling"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Cover shields rebar from corrosive agents and heat.",
+      "keywords": [
+        "Rebar cover",
+        "Durability",
+        "Fire"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Concrete compressive strength is typically verified by:",
+    "choices": [
+      "Visual inspection only",
+      "Laboratory cylinder break tests at specified ages",
+      "Slump test only",
+      "Torque-wrench readings"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Strength is measured by standard lab tests.",
+      "keywords": [
+        "Concrete",
+        "Compression tests",
+        "QC"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Concrete compressive strength is typically verified by:",
+    "choices": [
+      "Visual inspection only",
+      "Slump test only",
+      "Laboratory cylinder break tests at specified ages",
+      "Torque-wrench readings"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Strength is measured by standard lab tests.",
+      "keywords": [
+        "Concrete",
+        "Compression tests",
+        "QC"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Firestopping ensures that:",
+    "choices": [
+      "Always increases R-value",
+      "Perfect sound isolation",
+      "Penetrations maintain the required fire-resistance rating",
+      "Paint adheres better"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Rated systems maintain compartmentation.",
+      "keywords": [
+        "Firestopping",
+        "Rating",
+        "Penetrations"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "HVAC commissioning typically includes:",
+    "choices": [
+      "Tax audits",
+      "Painting ducts",
+      "Counting registers",
+      "Air/water balancing and controls verification"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Commissioning verifies performance and control sequences.",
+      "keywords": [
+        "Commissioning",
+        "TAB",
+        "Controls"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Roofing tie-ins and penetrations require:",
+    "choices": [
+      "Duct tape under ballast",
+      "Compatible membranes, proper flashing, and inspection",
+      "No inspection in dry weather",
+      "Any sealant available"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Waterproofing relies on compatible systems and detailing.",
+      "keywords": [
+        "Roofing",
+        "Flashing",
+        "Waterproofing"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Roofing tie-ins and penetrations require:",
+    "choices": [
+      "Any sealant available",
+      "Compatible membranes, proper flashing, and inspection",
+      "Duct tape under ballast",
+      "No inspection in dry weather"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Waterproofing relies on compatible systems and detailing.",
+      "keywords": [
+        "Roofing",
+        "Flashing",
+        "Waterproofing"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Firestopping ensures that:",
+    "choices": [
+      "Penetrations maintain the required fire-resistance rating",
+      "Always increases R-value",
+      "Perfect sound isolation",
+      "Paint adheres better"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Rated systems maintain compartmentation.",
+      "keywords": [
+        "Firestopping",
+        "Rating",
+        "Penetrations"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Exterior insulation systems (e.g., mineral wool/EIFS) must ensure:",
+    "choices": [
+      "Fasteners only through air barrier",
+      "Continuous thermal layer without major thermal bridges",
+      "Gaps to ventilate heat out",
+      "Paint solves all thermal issues"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Continuity minimizes thermal bridging and condensation risk.",
+      "keywords": [
+        "Insulation",
+        "Thermal bridges",
+        "Envelope"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Exterior insulation systems (e.g., mineral wool/EIFS) must ensure:",
+    "choices": [
+      "Continuous thermal layer without major thermal bridges",
+      "Gaps to ventilate heat out",
+      "Paint solves all thermal issues",
+      "Fasteners only through air barrier"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Continuity minimizes thermal bridging and condensation risk.",
+      "keywords": [
+        "Insulation",
+        "Thermal bridges",
+        "Envelope"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Backfilling in compacted lifts allows:",
+    "choices": [
+      "Faster trucking only",
+      "Less testing forever",
+      "Proper compaction to achieve required density",
+      "Cheaper labour with no downside"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Lift compaction achieves uniform density and bearing.",
+      "keywords": [
+        "Backfill",
+        "Compaction"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Backfilling in compacted lifts allows:",
+    "choices": [
+      "Cheaper labour with no downside",
+      "Faster trucking only",
+      "Proper compaction to achieve required density",
+      "Less testing forever"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Lift compaction achieves uniform density and bearing.",
+      "keywords": [
+        "Backfill",
+        "Compaction"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Backfilling in compacted lifts allows:",
+    "choices": [
+      "Proper compaction to achieve required density",
+      "Cheaper labour with no downside",
+      "Less testing forever",
+      "Faster trucking only"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Lift compaction achieves uniform density and bearing.",
+      "keywords": [
+        "Backfill",
+        "Compaction"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Electrical conductor sizing should consider:",
+    "choices": [
+      "Ampacity, temperature rating, derating, and code tables",
+      "Sticker price",
+      "Conduit colour",
+      "Label design"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Code calculations and conditions determine conductor size.",
+      "keywords": [
+        "Electrical",
+        "Ampacity",
+        "Code"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Backfilling in compacted lifts allows:",
+    "choices": [
+      "Cheaper labour with no downside",
+      "Faster trucking only",
+      "Less testing forever",
+      "Proper compaction to achieve required density"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Lift compaction achieves uniform density and bearing.",
+      "keywords": [
+        "Backfill",
+        "Compaction"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Roofing tie-ins and penetrations require:",
+    "choices": [
+      "No inspection in dry weather",
+      "Any sealant available",
+      "Compatible membranes, proper flashing, and inspection",
+      "Duct tape under ballast"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Waterproofing relies on compatible systems and detailing.",
+      "keywords": [
+        "Roofing",
+        "Flashing",
+        "Waterproofing"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Concrete compressive strength is typically verified by:",
+    "choices": [
+      "Slump test only",
+      "Laboratory cylinder break tests at specified ages",
+      "Torque-wrench readings",
+      "Visual inspection only"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Strength is measured by standard lab tests.",
+      "keywords": [
+        "Concrete",
+        "Compression tests",
+        "QC"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Electrical conductor sizing should consider:",
+    "choices": [
+      "Ampacity, temperature rating, derating, and code tables",
+      "Conduit colour",
+      "Sticker price",
+      "Label design"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Code calculations and conditions determine conductor size.",
+      "keywords": [
+        "Electrical",
+        "Ampacity",
+        "Code"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Exterior insulation systems (e.g., mineral wool/EIFS) must ensure:",
+    "choices": [
+      "Fasteners only through air barrier",
+      "Paint solves all thermal issues",
+      "Continuous thermal layer without major thermal bridges",
+      "Gaps to ventilate heat out"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Continuity minimizes thermal bridging and condensation risk.",
+      "keywords": [
+        "Insulation",
+        "Thermal bridges",
+        "Envelope"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Backfilling in compacted lifts allows:",
+    "choices": [
+      "Cheaper labour with no downside",
+      "Less testing forever",
+      "Proper compaction to achieve required density",
+      "Faster trucking only"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Lift compaction achieves uniform density and bearing.",
+      "keywords": [
+        "Backfill",
+        "Compaction"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "HVAC commissioning typically includes:",
+    "choices": [
+      "Counting registers",
+      "Tax audits",
+      "Painting ducts",
+      "Air/water balancing and controls verification"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Commissioning verifies performance and control sequences.",
+      "keywords": [
+        "Commissioning",
+        "TAB",
+        "Controls"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "HVAC commissioning typically includes:",
+    "choices": [
+      "Painting ducts",
+      "Counting registers",
+      "Tax audits",
+      "Air/water balancing and controls verification"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Commissioning verifies performance and control sequences.",
+      "keywords": [
+        "Commissioning",
+        "TAB",
+        "Controls"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Electrical conductor sizing should consider:",
+    "choices": [
+      "Conduit colour",
+      "Sticker price",
+      "Ampacity, temperature rating, derating, and code tables",
+      "Label design"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Code calculations and conditions determine conductor size.",
+      "keywords": [
+        "Electrical",
+        "Ampacity",
+        "Code"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Concrete compressive strength is typically verified by:",
+    "choices": [
+      "Laboratory cylinder break tests at specified ages",
+      "Visual inspection only",
+      "Torque-wrench readings",
+      "Slump test only"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Strength is measured by standard lab tests.",
+      "keywords": [
+        "Concrete",
+        "Compression tests",
+        "QC"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Exterior insulation systems (e.g., mineral wool/EIFS) must ensure:",
+    "choices": [
+      "Continuous thermal layer without major thermal bridges",
+      "Fasteners only through air barrier",
+      "Paint solves all thermal issues",
+      "Gaps to ventilate heat out"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Continuity minimizes thermal bridging and condensation risk.",
+      "keywords": [
+        "Insulation",
+        "Thermal bridges",
+        "Envelope"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Backfilling in compacted lifts allows:",
+    "choices": [
+      "Faster trucking only",
+      "Less testing forever",
+      "Cheaper labour with no downside",
+      "Proper compaction to achieve required density"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Lift compaction achieves uniform density and bearing.",
+      "keywords": [
+        "Backfill",
+        "Compaction"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Concrete compressive strength is typically verified by:",
+    "choices": [
+      "Visual inspection only",
+      "Laboratory cylinder break tests at specified ages",
+      "Torque-wrench readings",
+      "Slump test only"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Strength is measured by standard lab tests.",
+      "keywords": [
+        "Concrete",
+        "Compression tests",
+        "QC"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Concrete compressive strength is typically verified by:",
+    "choices": [
+      "Visual inspection only",
+      "Laboratory cylinder break tests at specified ages",
+      "Slump test only",
+      "Torque-wrench readings"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Strength is measured by standard lab tests.",
+      "keywords": [
+        "Concrete",
+        "Compression tests",
+        "QC"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Backfilling in compacted lifts allows:",
+    "choices": [
+      "Less testing forever",
+      "Faster trucking only",
+      "Cheaper labour with no downside",
+      "Proper compaction to achieve required density"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Lift compaction achieves uniform density and bearing.",
+      "keywords": [
+        "Backfill",
+        "Compaction"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Minimum concrete cover serves mainly to:",
+    "choices": [
+      "Protect reinforcement from corrosion and provide fire resistance",
+      "Keep formwork from swelling",
+      "Prevent paint peeling",
+      "Stop tiles cracking"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Cover shields rebar from corrosive agents and heat.",
+      "keywords": [
+        "Rebar cover",
+        "Durability",
+        "Fire"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Exterior insulation systems (e.g., mineral wool/EIFS) must ensure:",
+    "choices": [
+      "Continuous thermal layer without major thermal bridges",
+      "Paint solves all thermal issues",
+      "Fasteners only through air barrier",
+      "Gaps to ventilate heat out"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Continuity minimizes thermal bridging and condensation risk.",
+      "keywords": [
+        "Insulation",
+        "Thermal bridges",
+        "Envelope"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Backfilling in compacted lifts allows:",
+    "choices": [
+      "Less testing forever",
+      "Cheaper labour with no downside",
+      "Proper compaction to achieve required density",
+      "Faster trucking only"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Lift compaction achieves uniform density and bearing.",
+      "keywords": [
+        "Backfill",
+        "Compaction"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Firestopping ensures that:",
+    "choices": [
+      "Penetrations maintain the required fire-resistance rating",
+      "Paint adheres better",
+      "Perfect sound isolation",
+      "Always increases R-value"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Rated systems maintain compartmentation.",
+      "keywords": [
+        "Firestopping",
+        "Rating",
+        "Penetrations"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Firestopping ensures that:",
+    "choices": [
+      "Always increases R-value",
+      "Paint adheres better",
+      "Perfect sound isolation",
+      "Penetrations maintain the required fire-resistance rating"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Rated systems maintain compartmentation.",
+      "keywords": [
+        "Firestopping",
+        "Rating",
+        "Penetrations"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Backfilling in compacted lifts allows:",
+    "choices": [
+      "Less testing forever",
+      "Cheaper labour with no downside",
+      "Proper compaction to achieve required density",
+      "Faster trucking only"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Lift compaction achieves uniform density and bearing.",
+      "keywords": [
+        "Backfill",
+        "Compaction"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Roofing tie-ins and penetrations require:",
+    "choices": [
+      "No inspection in dry weather",
+      "Any sealant available",
+      "Compatible membranes, proper flashing, and inspection",
+      "Duct tape under ballast"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Waterproofing relies on compatible systems and detailing.",
+      "keywords": [
+        "Roofing",
+        "Flashing",
+        "Waterproofing"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Minimum concrete cover serves mainly to:",
+    "choices": [
+      "Stop tiles cracking",
+      "Keep formwork from swelling",
+      "Protect reinforcement from corrosion and provide fire resistance",
+      "Prevent paint peeling"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Cover shields rebar from corrosive agents and heat.",
+      "keywords": [
+        "Rebar cover",
+        "Durability",
+        "Fire"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Electrical conductor sizing should consider:",
+    "choices": [
+      "Sticker price",
+      "Label design",
+      "Ampacity, temperature rating, derating, and code tables",
+      "Conduit colour"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Code calculations and conditions determine conductor size.",
+      "keywords": [
+        "Electrical",
+        "Ampacity",
+        "Code"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Roofing tie-ins and penetrations require:",
+    "choices": [
+      "Compatible membranes, proper flashing, and inspection",
+      "Duct tape under ballast",
+      "No inspection in dry weather",
+      "Any sealant available"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Waterproofing relies on compatible systems and detailing.",
+      "keywords": [
+        "Roofing",
+        "Flashing",
+        "Waterproofing"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Electrical conductor sizing should consider:",
+    "choices": [
+      "Conduit colour",
+      "Ampacity, temperature rating, derating, and code tables",
+      "Label design",
+      "Sticker price"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Code calculations and conditions determine conductor size.",
+      "keywords": [
+        "Electrical",
+        "Ampacity",
+        "Code"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Backfilling in compacted lifts allows:",
+    "choices": [
+      "Faster trucking only",
+      "Proper compaction to achieve required density",
+      "Cheaper labour with no downside",
+      "Less testing forever"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Lift compaction achieves uniform density and bearing.",
+      "keywords": [
+        "Backfill",
+        "Compaction"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Concrete compressive strength is typically verified by:",
+    "choices": [
+      "Torque-wrench readings",
+      "Visual inspection only",
+      "Slump test only",
+      "Laboratory cylinder break tests at specified ages"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Strength is measured by standard lab tests.",
+      "keywords": [
+        "Concrete",
+        "Compression tests",
+        "QC"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Firestopping ensures that:",
+    "choices": [
+      "Penetrations maintain the required fire-resistance rating",
+      "Paint adheres better",
+      "Perfect sound isolation",
+      "Always increases R-value"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Rated systems maintain compartmentation.",
+      "keywords": [
+        "Firestopping",
+        "Rating",
+        "Penetrations"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Minimum concrete cover serves mainly to:",
+    "choices": [
+      "Keep formwork from swelling",
+      "Protect reinforcement from corrosion and provide fire resistance",
+      "Prevent paint peeling",
+      "Stop tiles cracking"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Cover shields rebar from corrosive agents and heat.",
+      "keywords": [
+        "Rebar cover",
+        "Durability",
+        "Fire"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "HVAC commissioning typically includes:",
+    "choices": [
+      "Painting ducts",
+      "Air/water balancing and controls verification",
+      "Tax audits",
+      "Counting registers"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Commissioning verifies performance and control sequences.",
+      "keywords": [
+        "Commissioning",
+        "TAB",
+        "Controls"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Exterior insulation systems (e.g., mineral wool/EIFS) must ensure:",
+    "choices": [
+      "Continuous thermal layer without major thermal bridges",
+      "Paint solves all thermal issues",
+      "Gaps to ventilate heat out",
+      "Fasteners only through air barrier"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Continuity minimizes thermal bridging and condensation risk.",
+      "keywords": [
+        "Insulation",
+        "Thermal bridges",
+        "Envelope"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "HVAC commissioning typically includes:",
+    "choices": [
+      "Tax audits",
+      "Air/water balancing and controls verification",
+      "Painting ducts",
+      "Counting registers"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Commissioning verifies performance and control sequences.",
+      "keywords": [
+        "Commissioning",
+        "TAB",
+        "Controls"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Exterior insulation systems (e.g., mineral wool/EIFS) must ensure:",
+    "choices": [
+      "Gaps to ventilate heat out",
+      "Paint solves all thermal issues",
+      "Continuous thermal layer without major thermal bridges",
+      "Fasteners only through air barrier"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Continuity minimizes thermal bridging and condensation risk.",
+      "keywords": [
+        "Insulation",
+        "Thermal bridges",
+        "Envelope"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Concrete compressive strength is typically verified by:",
+    "choices": [
+      "Torque-wrench readings",
+      "Laboratory cylinder break tests at specified ages",
+      "Visual inspection only",
+      "Slump test only"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Strength is measured by standard lab tests.",
+      "keywords": [
+        "Concrete",
+        "Compression tests",
+        "QC"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Firestopping ensures that:",
+    "choices": [
+      "Penetrations maintain the required fire-resistance rating",
+      "Paint adheres better",
+      "Always increases R-value",
+      "Perfect sound isolation"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Rated systems maintain compartmentation.",
+      "keywords": [
+        "Firestopping",
+        "Rating",
+        "Penetrations"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Minimum concrete cover serves mainly to:",
+    "choices": [
+      "Protect reinforcement from corrosion and provide fire resistance",
+      "Keep formwork from swelling",
+      "Stop tiles cracking",
+      "Prevent paint peeling"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Cover shields rebar from corrosive agents and heat.",
+      "keywords": [
+        "Rebar cover",
+        "Durability",
+        "Fire"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Minimum concrete cover serves mainly to:",
+    "choices": [
+      "Stop tiles cracking",
+      "Prevent paint peeling",
+      "Protect reinforcement from corrosion and provide fire resistance",
+      "Keep formwork from swelling"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Cover shields rebar from corrosive agents and heat.",
+      "keywords": [
+        "Rebar cover",
+        "Durability",
+        "Fire"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Firestopping ensures that:",
+    "choices": [
+      "Perfect sound isolation",
+      "Penetrations maintain the required fire-resistance rating",
+      "Paint adheres better",
+      "Always increases R-value"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Rated systems maintain compartmentation.",
+      "keywords": [
+        "Firestopping",
+        "Rating",
+        "Penetrations"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Exterior insulation systems (e.g., mineral wool/EIFS) must ensure:",
+    "choices": [
+      "Gaps to ventilate heat out",
+      "Continuous thermal layer without major thermal bridges",
+      "Paint solves all thermal issues",
+      "Fasteners only through air barrier"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Continuity minimizes thermal bridging and condensation risk.",
+      "keywords": [
+        "Insulation",
+        "Thermal bridges",
+        "Envelope"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Roofing tie-ins and penetrations require:",
+    "choices": [
+      "Any sealant available",
+      "No inspection in dry weather",
+      "Compatible membranes, proper flashing, and inspection",
+      "Duct tape under ballast"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Waterproofing relies on compatible systems and detailing.",
+      "keywords": [
+        "Roofing",
+        "Flashing",
+        "Waterproofing"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Minimum concrete cover serves mainly to:",
+    "choices": [
+      "Keep formwork from swelling",
+      "Stop tiles cracking",
+      "Prevent paint peeling",
+      "Protect reinforcement from corrosion and provide fire resistance"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Cover shields rebar from corrosive agents and heat.",
+      "keywords": [
+        "Rebar cover",
+        "Durability",
+        "Fire"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Minimum concrete cover serves mainly to:",
+    "choices": [
+      "Stop tiles cracking",
+      "Prevent paint peeling",
+      "Keep formwork from swelling",
+      "Protect reinforcement from corrosion and provide fire resistance"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Cover shields rebar from corrosive agents and heat.",
+      "keywords": [
+        "Rebar cover",
+        "Durability",
+        "Fire"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Concrete compressive strength is typically verified by:",
+    "choices": [
+      "Torque-wrench readings",
+      "Laboratory cylinder break tests at specified ages",
+      "Slump test only",
+      "Visual inspection only"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Strength is measured by standard lab tests.",
+      "keywords": [
+        "Concrete",
+        "Compression tests",
+        "QC"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Firestopping ensures that:",
+    "choices": [
+      "Penetrations maintain the required fire-resistance rating",
+      "Perfect sound isolation",
+      "Paint adheres better",
+      "Always increases R-value"
+    ],
+    "answer": 0,
+    "exp": {
+      "why": "Rated systems maintain compartmentation.",
+      "keywords": [
+        "Firestopping",
+        "Rating",
+        "Penetrations"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Exterior insulation systems (e.g., mineral wool/EIFS) must ensure:",
+    "choices": [
+      "Fasteners only through air barrier",
+      "Continuous thermal layer without major thermal bridges",
+      "Gaps to ventilate heat out",
+      "Paint solves all thermal issues"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Continuity minimizes thermal bridging and condensation risk.",
+      "keywords": [
+        "Insulation",
+        "Thermal bridges",
+        "Envelope"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Firestopping ensures that:",
+    "choices": [
+      "Paint adheres better",
+      "Always increases R-value",
+      "Penetrations maintain the required fire-resistance rating",
+      "Perfect sound isolation"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Rated systems maintain compartmentation.",
+      "keywords": [
+        "Firestopping",
+        "Rating",
+        "Penetrations"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Roofing tie-ins and penetrations require:",
+    "choices": [
+      "No inspection in dry weather",
+      "Compatible membranes, proper flashing, and inspection",
+      "Duct tape under ballast",
+      "Any sealant available"
+    ],
+    "answer": 1,
+    "exp": {
+      "why": "Waterproofing relies on compatible systems and detailing.",
+      "keywords": [
+        "Roofing",
+        "Flashing",
+        "Waterproofing"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Concrete compressive strength is typically verified by:",
+    "choices": [
+      "Torque-wrench readings",
+      "Visual inspection only",
+      "Slump test only",
+      "Laboratory cylinder break tests at specified ages"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Strength is measured by standard lab tests.",
+      "keywords": [
+        "Concrete",
+        "Compression tests",
+        "QC"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Roofing tie-ins and penetrations require:",
+    "choices": [
+      "Any sealant available",
+      "Duct tape under ballast",
+      "Compatible membranes, proper flashing, and inspection",
+      "No inspection in dry weather"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Waterproofing relies on compatible systems and detailing.",
+      "keywords": [
+        "Roofing",
+        "Flashing",
+        "Waterproofing"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Exterior insulation systems (e.g., mineral wool/EIFS) must ensure:",
+    "choices": [
+      "Paint solves all thermal issues",
+      "Gaps to ventilate heat out",
+      "Continuous thermal layer without major thermal bridges",
+      "Fasteners only through air barrier"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Continuity minimizes thermal bridging and condensation risk.",
+      "keywords": [
+        "Insulation",
+        "Thermal bridges",
+        "Envelope"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "HVAC commissioning typically includes:",
+    "choices": [
+      "Painting ducts",
+      "Counting registers",
+      "Tax audits",
+      "Air/water balancing and controls verification"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Commissioning verifies performance and control sequences.",
+      "keywords": [
+        "Commissioning",
+        "TAB",
+        "Controls"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Concrete compressive strength is typically verified by:",
+    "choices": [
+      "Torque-wrench readings",
+      "Visual inspection only",
+      "Laboratory cylinder break tests at specified ages",
+      "Slump test only"
+    ],
+    "answer": 2,
+    "exp": {
+      "why": "Strength is measured by standard lab tests.",
+      "keywords": [
+        "Concrete",
+        "Compression tests",
+        "QC"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control.",
+        "❌ Misstates the function/requirement."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "Minimum concrete cover serves mainly to:",
+    "choices": [
+      "Stop tiles cracking",
+      "Keep formwork from swelling",
+      "Prevent paint peeling",
+      "Protect reinforcement from corrosion and provide fire resistance"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Cover shields rebar from corrosive agents and heat.",
+      "keywords": [
+        "Rebar cover",
+        "Durability",
+        "Fire"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  },
+  {
+    "question": "HVAC commissioning typically includes:",
+    "choices": [
+      "Tax audits",
+      "Painting ducts",
+      "Counting registers",
+      "Air/water balancing and controls verification"
+    ],
+    "answer": 3,
+    "exp": {
+      "why": "Commissioning verifies performance and control sequences.",
+      "keywords": [
+        "Commissioning",
+        "TAB",
+        "Controls"
+      ],
+      "example": "Record inspection points; verify submittals and manufacturer details.",
+      "rationales": [
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "❌ Misstates the function/requirement.",
+        "✅ Correct technical control."
+      ],
+      "refs": [
+        "Manufacturer details; NBC general principles"
+      ]
+    }
+  }
+]
